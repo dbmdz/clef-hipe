@@ -1,0 +1,841 @@
+# language = de
+# newspaper = NZZ
+# date = 1908-11-21
+# document_id = NZZ-1908-11-21-c-p0002
+# segment_iiif_link = _
+Lokales	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+—	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+M	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Korr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Konzertkommission	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Pestalozzigesellschaft	B-org	O	B-org.ent	O	O	B-pers.ind	NIL	_	_
+hat	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+diesjährige	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Wintertätigkeit	O	O	O	O	O	O	_	_	_
+begonnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+An	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Spitze	O	O	O	O	O	O	_	_	_
+steht	O	O	O	O	O	O	_	_	_
+Herr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Adolf	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Briner	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+seit	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Reihe	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Jahren	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Institution	O	O	O	O	O	O	_	_	_
+große	O	O	O	O	O	O	_	_	_
+Verdienste	O	O	O	O	O	O	_	_	_
+erworben	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+mindesten	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+regen	O	O	O	O	O	O	_	_	_
+Tätigkeit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zuzuschreiben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Kommission	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Sonntag	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+22	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+November	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+reichhaltigen	O	O	O	O	O	O	_	_	_
+Programm	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Serie	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+fünf	O	O	O	O	O	O	_	_	_
+diesjährigen	O	O	O	O	O	O	_	_	_
+Volkskonzert	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+im	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	_
+Tonhallesaal	O	O	O	O	O	O	_	_	_
+eröffnen	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wie	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+früheren	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+diesmal	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Orchester	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Muth	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+und	O	O	O	O	O	O	_	_	_
+Leonhardt	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+mit	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+beiden	O	O	O	O	O	O	_	_	_
+beliebten	O	O	O	O	O	O	_	_	_
+Direktoren	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#toren	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+flotten	O	O	O	O	O	O	_	_	_
+Stab	O	O	O	O	O	O	_	_	_
+gutgeschulter	O	O	O	O	O	O	_	_	_
+Musiker	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Reigen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Konzertgenüsse	O	O	O	O	O	O	_	_	_
+eröffnen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+zwar	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Rossinis	B-pers	O	B-pers.ind	O	O	O	Q9726	_	_
+glänzender	O	O	O	O	O	O	_	_	_
+Ouvertüre	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Wilhelm	B-pers	O	B-pers.ind	O	O	O	Q30908	_	_
+Tell	I-pers	O	I-pers.ind	O	O	O	Q30908	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Als	O	O	O	O	O	O	_	_	_
+Instrumentalsolist	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Konzertmeister	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Carl	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Güther	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Violine	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Zegeunerweisen	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sarasate	B-pers	O	B-pers.ind	O	O	O	Q204503	_	_
+hören	O	O	O	O	O	O	_	_	_
+lassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	_
+Vokalsolistin	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+Frau	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Elisabeth	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Meyer	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+-	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+von	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+Orelli	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Mezzo	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Sopran	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gewonnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Konzertsängerin	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+weiten	O	O	O	O	O	O	_	_	_
+Kreisen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bekannt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+geschätzt	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Liederkranz	B-org	O	B-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Außersihl	I-org	O	I-org.ent	O	O	B-loc.adm.town	NIL	_	NoSpaceAfter
+-	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+Zürich	I-org	O	I-org.ent	O	O	B-loc.adm.town	NIL	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+Hrn	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+J	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+Wydlers	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Direktion	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+anziehendes	O	O	O	O	O	O	_	_	_
+Programm	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+seinem	O	O	O	O	O	O	_	_	_
+Repertoire	O	O	O	O	O	O	_	_	_
+zusammengestellt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+verspricht	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+seinem	O	O	O	O	O	O	_	_	_
+achtzigköpfigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sangestüchtigen	O	O	O	O	O	O	_	_	_
+Chor	O	O	O	O	O	O	_	_	_
+hohen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Genuß	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Begleitung	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Klavier	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+Chor	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Soli	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Musikdirektor	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	_
+Rud	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+Mäder	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+seine	O	O	O	O	O	O	_	_	_
+Mitwirkung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wirkung	O	O	O	O	O	O	_	_	_|Commented
+zugesaat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Mögen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+trotz	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Hochflut	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+übrigen	O	O	O	O	O	O	_	_	_
+musikalischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Veranstaltungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+dies	O	O	O	O	O	O	_	_	_
+Jahr	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Volkskonzerte	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zahlreichen	O	O	O	O	O	O	_	_	_
+Besuch	O	O	O	O	O	O	_	_	_
+aufweisen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dessen	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+dahin	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erfreuen	O	O	O	O	O	O	_	_	_
+hatten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+damit	O	O	O	O	O	O	_	_	_
+diejenigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+uneigennütziger	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nütziger	O	O	O	O	O	O	_	_	_|Commented
+Weise	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Institution	O	O	O	O	O	O	_	_	_
+widmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Mühe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+Aufopferung	O	O	O	O	O	O	_	_	_
+wenigstens	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Genugtuung	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schönen	O	O	O	O	O	O	_	_	_
+Erfolges	O	O	O	O	O	O	_	_	_
+genießen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+—	O	O	O	O	O	O	_	_	_
+Spielplan	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Stadttheaters	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+22	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+29	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sonntag	O	O	O	O	O	O	_	_	_
+nachmittag	O	O	O	O	O	O	_	_	_
+3	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+weißen	O	O	O	O	O	O	_	_	_
+Rößl	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Lustspiel	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Blumenthal	B-pers	O	B-pers.ind	O	O	O	Q71567	_	_
+und	O	O	O	O	O	O	_	_	_
+Kadelburg	B-pers	O	B-pers.ind	O	O	O	Q381117	_	NoSpaceAfter|Normalized-4
+#¬	I-pers	O	I-pers.ind	O	O	O	Q381117	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#burg	I-pers	O	I-pers.ind	O	O	O	Q381117	_	NoSpaceAfter|Commented
+;	O	O	O	O	O	O	_	_	_|EOS
+
+abends	O	O	O	O	O	O	_	_	_
+73	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Die	O	O	O	O	O	O	_	_	_
+Zauberflöte	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+Oper	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Mozart	B-pers	O	B-pers.ind	O	O	O	Q254	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Montag	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Aida	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Oper	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Verdi	B-pers	O	B-pers.ind	O	O	O	Q7317	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Abon	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Anf	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+7½	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Mittwoch	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Die	O	O	O	O	O	O	_	_	_
+Liebe	O	O	O	O	O	O	_	_	_
+wacht	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Lustspiel	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+Caillavet	B-pers	O	B-pers.ind	O	O	O	Q1495559	_	_
+und	O	O	O	O	O	O	_	_	_
+Flers	B-pers	O	B-pers.ind	O	O	O	Q1393443	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Abon	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Auf	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+8	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Donnerstag	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nerstag	O	O	O	O	O	O	_	_	_|Commented
+einmaliges	O	O	O	O	O	O	_	_	_
+Gastspiel	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Kammersängers	B-pers	O	B-pers.ind	O	B-comp.function	O	Q23062279	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Rudolf	I-pers	O	I-pers.ind	O	B-comp.name	O	Q23062279	_	_
+Gmür	I-pers	O	I-pers.ind	O	I-comp.name	O	Q23062279	_	_
+vom	O	O	O	O	O	O	_	_	_
+Hoftheater	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Weimar	B-loc	O	B-loc.adm.town	O	O	O	Q3955	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Barbier	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Bagdad	B-loc	O	B-loc.adm.town	O	O	O	Q1530	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+Oper	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Peter	B-pers	O	B-pers.ind	O	O	O	Q57257	_	_
+Cornelius	I-pers	O	I-pers.ind	O	O	O	Q57257	_	NoSpaceAfter|Normalized-6
+#¬	I-pers	O	I-pers.ind	O	O	O	Q57257	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nelius	I-pers	O	I-pers.ind	O	O	O	Q57257	_	NoSpaceAfter|Commented
+;	O	O	O	O	O	O	_	_	_|EOS
+
+hierauf	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Die	O	O	O	O	O	O	_	_	_
+Puppenfee	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Ballett	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Anf	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+8	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Freitag	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Der	O	O	O	O	O	O	_	_	_
+fliegende	O	O	O	O	O	O	_	_	_
+Holländer	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Oper	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Wagner	B-pers	O	B-pers.ind	O	O	O	Q1511	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Abon	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Anf	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+8	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Samstag	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Martha	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+Oper	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Flotow	B-pers	O	B-pers.ind	O	O	O	Q155425	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Anf	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+8	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Sonntag	O	O	O	O	O	O	_	_	_
+nachmittag	O	O	O	O	O	O	_	_	_
+3	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Freischütz	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Oper	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Weber	B-pers	O	B-pers.ind	O	O	O	Q154812	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+abends	O	O	O	O	O	O	_	_	_
+8	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Cavalleria	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ria	O	O	O	O	O	O	_	_	_|Commented
+Rusticana	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+hierauf	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Der	O	O	O	O	O	O	_	_	_
+Bajazzo	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Pfauentheater	B-org	O	B-org.ent	O	O	O	Q675022	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sonntag	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Die	O	O	O	O	O	O	_	_	_
+Wolke	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Künstlerkomödie	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lerkomödie	O	O	O	O	O	O	_	_	_|Commented
+von	O	O	O	O	O	O	_	_	_
+Huber	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Montag	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Was	O	O	O	O	O	O	_	_	_
+ihr	O	O	O	O	O	O	_	_	_
+wollt	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Fastnachtspiel	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Shakespeare	B-pers	O	B-pers.ind	O	O	O	Q692	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Freitag	O	O	O	O	O	O	_	_	_
+Roderich	B-pers	O	B-pers.ind	O	O	O	Q87176	_	_
+Benedix	I-pers	O	I-pers.ind	O	O	O	Q87176	_	NoSpaceAfter|Normalized-5
+#¬	I-pers	O	I-pers.ind	O	O	O	Q87176	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nedix	I-pers	O	I-pers.ind	O	O	O	Q87176	_	NoSpaceAfter|Commented
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Abend	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Die	O	O	O	O	O	O	_	_	_
+Dienstbotboten	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Lustspiel	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hierauf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Der	O	O	O	O	O	O	_	_	_
+Störenfried	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Lustspiel	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sonntag	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Die	O	O	O	O	O	O	_	_	_
+Liebe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wacht	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Lustspiel	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Caillavet	B-pers	O	B-pers.ind	O	O	O	Q1495559	_	_
+und	O	O	O	O	O	O	_	_	_
+Flers	B-pers	O	B-pers.ind	O	O	O	Q1393443	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Anfang	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+jeweilen	O	O	O	O	O	O	_	_	_
+abends	O	O	O	O	O	O	_	_	_
+8	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+—	O	O	O	O	O	O	_	_	_
+Die	O	O	O	O	O	O	_	_	_
+Kunstgewerbeschule	B-org	O	B-org.ent	O	O	O	Q18330716	_	_
+der	I-org	O	I-org.ent	O	O	O	Q18330716	_	_
+Stadt	I-org	O	I-org.ent	O	O	O	Q18330716	_	_
+Zürich	I-org	O	I-org.ent	O	O	B-loc.adm.town	Q18330716	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+veranstaltet	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+26	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+29	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+November	O	O	O	O	O	O	_	_	_
+Meisterkurse	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Typographie	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Buchdruck	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wobei	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Buch	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Akzidenz	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#denz	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zeitung	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+ausführlicher	O	O	O	O	O	O	_	_	_
+Weise	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Demonstrationen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-13
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#monstrationen	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Ausstellung	O	O	O	O	O	O	_	_	_
+behandelt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+—	O	O	O	O	O	O	_	_	_
+Am	O	O	O	O	O	O	_	_	_
+Donnerstag	O	O	O	O	O	O	_	_	_
+abend	O	O	O	O	O	O	_	_	_
+führten	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+Leitung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+Oberleutnants	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kantonspolizei	O	O	O	O	O	O	_	_	_
+kantonale	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+städtische	O	O	O	O	O	O	_	_	_
+Detektive	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Razzia	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Niederdorfquartier	B-loc	O	B-loc.adm.town	O	B-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+Ergebnis	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+dreißig	O	O	O	O	O	O	_	_	_
+Männer	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dirnen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Haft	O	O	O	O	O	O	_	_	_
+genommen	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sämtliche	O	O	O	O	O	O	_	_	_
+Verhaftete	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#haftete	O	O	O	O	O	O	_	_	_|Commented
+stehen	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Alter	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+18	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+25	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+sie	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+wenigen	O	O	O	O	O	O	_	_	_
+Ausnahmen	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+mehrfach	O	O	O	O	O	O	_	_	_
+vorbestraft	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Kaum	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+imstande	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Verdienst	O	O	O	O	O	O	_	_	_
+auszuweisen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zuweisen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ein	O	O	O	O	O	O	_	_	_
+Teil	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Arrestanten	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Ueberschreitung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schreitung	O	O	O	O	O	O	_	_	_|Commented
+des	O	O	O	O	O	O	_	_	_
+Verbotes	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Landes	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Stadtverweisung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schuldig	O	O	O	O	O	O	_	_	_
+gemacht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+—	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+In	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Schaufenstern	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Firma	B-org	O	B-org.ent	O	O	O	NIL	_	_
+Forster	I-org	O	I-org.ent	O	B-comp.name	B-pers.ind	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+u	I-org	O	I-org.ent	O	I-comp.name	O	NIL	_	NoSpaceAfter
+.	I-org	O	I-org.ent	O	I-comp.name	O	NIL	_	_
+Altorfer	I-org	O	I-org.ent	O	I-comp.name	B-pers.ind	NIL	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Theaterstraße	B-loc	O	B-loc.oro	O	O	O	Q27324079	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Rütschihaus	B-loc	O	B-loc.fac	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+finden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+gegenwärtig	O	O	O	O	O	O	_	_	_
+65	O	O	O	O	O	O	_	_	_
+prächtige	O	O	O	O	O	O	_	_	_
+silberne	O	O	O	O	O	O	_	_	_
+Pokale	O	O	O	O	O	O	_	_	_
+ausgestellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Preise	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schweizerische	B-org	O	B-org.ent	O	O	O	Q684973	_	_
+Radfahrerbund	I-org	O	I-org.ent	O	O	O	Q684973	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+an	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+Sektionen	O	O	O	O	O	O	_	_	_
+abgibt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Tourenwettfahren	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bestimmte	O	O	O	O	O	O	_	_	_
+Zahl	O	O	O	O	O	O	_	_	_
+Punkte	O	O	O	O	O	O	_	_	_
+erreicht	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

@@ -1,0 +1,565 @@
+# language = de
+# newspaper = NZZ
+# date = 1858-04-28
+# document_id = NZZ-1858-04-28-a-p0005
+# segment_iiif_link = _
+Nordostbahn	B-org	O	B-org.ent	O	O	O	Q450071	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+gestern	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Zürich	B-loc	O	B-loc.adm.town	O	O	O	Q72	_	_
+zusammengetretene	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tretene	O	O	O	O	O	O	_	_	_|Commented
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+ordentliche	O	O	O	O	O	O	_	_	_
+Generalversammlung	O	O	O	O	O	O	_	_	NoSpaceAfter
+""""	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+ihrem	O	O	O	O	O	O	_	_	_
+Präsidenten	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Hrn	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Escher	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Anzeige	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eröffnet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+31,338	O	O	O	O	O	O	_	_	_
+Aktien	O	O	O	O	O	O	_	_	_
+Stimmkarten	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+2409	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Stimmen	O	O	O	O	O	O	_	_	_
+ausgegeben	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+seien	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	_
+erstes	O	O	O	O	O	O	_	_	_
+Geschäft	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erscheint	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Traktanden-Verzeichniß	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Geschäftsbericht	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#richt	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Direktion	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Jahresrechnung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Im	O	O	O	O	O	O	_	_	_
+Namen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+Verwaltungsrathes	O	O	O	O	O	O	_	_	_
+referirte	O	O	O	O	O	O	_	_	_
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Ott-Imhof	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+über	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+beiden	O	O	O	O	O	O	_	_	_
+Gegenstände	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+schloß	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+Bericht	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Antrage	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#trage	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+sowohl	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Geschäftsbericht	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Rechnung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gut	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+heißen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+genehmigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+Aussprechung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vollsten	O	O	O	O	O	O	_	_	_
+Dankes	O	O	O	O	O	O	_	_	_
+gegenüber	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Direktion	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+angestrengte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#strengte	O	O	O	O	O	O	_	_	_|Commented
+Thätigkeit	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+unerschütterliche	O	O	O	O	O	O	_	_	_
+Ausdauer	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+""""	O	O	O	O	O	O	_	_	_
+Diesen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Antrag	O	O	O	O	O	O	_	_	_
+erhob	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Versammlung	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Einmuth	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Beschlusse	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schlusse	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Hierauf	O	O	O	O	O	O	_	_	_
+schritt	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Wahlen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Mitgliedern	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gliedern	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Direktion	O	O	O	O	O	O	_	_	_
+fielen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Austritt	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Escher	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q18747012	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q18747012	_	_
+Nationalrath	I-pers	O	I-pers.ind	O	B-comp.function	O	Q18747012	_	_
+Hüni-Stettler	I-pers	O	I-pers.ind	O	B-comp.name	O	Q18747012	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welch	O	O	O	O	O	O	_	_	_
+letzterer	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+allfällige	O	O	O	O	O	O	_	_	_
+Wiederwahl	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+verbat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ferner	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Stellen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+Hrn	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Kern	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+und	O	O	O	O	O	O	_	_	_
+Oberst	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+Pestalozzi	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+sel	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+vakant	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+An	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+diese	O	O	O	O	O	O	_	_	_
+vier	O	O	O	O	O	O	_	_	_
+Stellen	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+ersten	O	O	O	O	O	O	_	_	_
+Skrutinium	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Zahl	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+1939	O	O	O	O	O	O	_	_	_
+Votanten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+gewählt	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+1	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+A	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+Escher	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+1934	O	O	O	O	O	O	_	_	_
+Stimmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+2	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Kreis-Postdirektor	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	_
+Stoll	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+1852	O	O	O	O	O	O	_	_	_
+Stimmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+3	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Betriebsdirektor	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	_
+Schweizer	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+1790	O	O	O	O	O	O	_	_	_
+Stimmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+4	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Ständerath	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	_
+Häberlin	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	_
+Weinfelden	B-loc	O	B-loc.adm.town	O	O	O	Q68258	_	NoSpaceAfter|Normalized-6
+#¬	I-loc	O	I-loc.adm.town	O	O	O	Q68258	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#felden	I-loc	O	I-loc.adm.town	O	O	O	Q68258	_	_|Commented
+mit	O	O	O	O	O	O	_	_	_
+1629	O	O	O	O	O	O	_	_	_
+Stimmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Zum	O	O	O	O	O	O	_	_	_
+Präsidenten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Direktion	O	O	O	O	O	O	_	_	_
+wählte	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Generalversammlung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-16
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#neralversammlung	O	O	O	O	O	O	_	_	_|Commented
+mit	O	O	O	O	O	O	_	_	_
+1727	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+1735	O	O	O	O	O	O	_	_	_
+Stimmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Hrn	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Alfred	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Escher	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Unter	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+ausscheidenden	O	O	O	O	O	O	_	_	_
+ersten	O	O	O	O	O	O	_	_	_
+Hälfte	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Mitglieder	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Verwaltungsrathes	O	O	O	O	O	O	_	_	_
+befindet	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+M	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Escher-Heß	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Präsident	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	_
+dieser	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+Behörde	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welcher	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Rücksicht	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+vorgerücktes	O	O	O	O	O	O	_	_	_
+Alter	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Gesundheitsrücksichten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rücksichten	O	O	O	O	O	O	_	_	_|Commented
+eine	O	O	O	O	O	O	_	_	_
+Wiederwaht	O	O	O	O	O	O	_	_	_
+verbittet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auf	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Antrag	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Verwaltungsrathes	O	O	O	O	O	O	_	_	_
+erhebt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Versammlung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+austretenden	B-pers	O	B-pers.ind	O	B-comp.qualifier	O	NIL	_	_
+Hrn	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Escher-Heß	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+den	O	O	O	O	O	O	_	_	_
+wärmsten	O	O	O	O	O	O	_	_	_
+Dank	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vielfächen	O	O	O	O	O	O	_	_	_
+Verdienste	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Anhandnahme	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Fortgestaltung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gestaltung	O	O	O	O	O	O	_	_	_|Commented
+des	O	O	O	O	O	O	_	_	_
+schweizerischen	O	O	O	O	O	O	_	_	_
+Eisenbahnwesens	O	O	O	O	O	O	_	_	_
+auszusprechen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Es	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	_
+sodann	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Mitgliedern	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Verwaltungsrathes	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rathes	O	O	O	O	O	O	_	_	_|Commented
+gewählt	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+die	O	O	O	O	O	O	_	_	_
+Herren	O	O	O	O	O	O	_	_	_
+Stadtpräsident	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Steiner	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Winterthur	B-loc	O	B-loc.adm.town	O	O	O	Q9125	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Nationalrath	B-pers	O	B-pers.ind	O	B-comp.function	O	Q18683317	_	_
+Wäffler-Egli	I-pers	O	I-pers.ind	O	B-comp.name	O	Q18683317	_	_
+in	O	O	O	O	O	O	_	_	_
+Winterthur	B-loc	O	B-loc.adm.town	O	O	O	Q9125	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Präsident	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Kappeler	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	_
+Zürich	B-loc	O	B-loc.adm.town	O	O	O	Q72	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Nationalrath	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Fierz	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Zürich	B-loc	O	B-loc.adm.town	O	O	O	Q72	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Oberstl	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+v	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+Muralt	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	_
+Zürich	B-loc	O	B-loc.adm.town	O	O	O	Q72	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+alt	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Regierungsrath	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Müller	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	_
+Winterthur	B-loc	O	B-loc.adm.town	O	O	O	Q9125	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Bezirksgerichtspräsident	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+v	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+Zieglerl	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter|Normalized-4
+#¬	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lerl	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_|Commented
+in	O	O	O	O	O	O	_	_	_
+Schaffhausen	B-loc	O	B-loc.adm.town	O	O	O	Q9009	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Blank-Arbenz	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	_
+Schaffhausen	B-loc	O	B-loc.adm.town	O	O	O	Q9009	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+alt	B-pers	O	B-pers.ind	O	B-comp.function	O	Q18747012	_	_
+Regierungsrath	I-pers	O	I-pers.ind	O	I-comp.function	O	Q18747012	_	_
+Hüni-Stettler	I-pers	O	I-pers.ind	O	B-comp.name	O	Q18747012	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Landesstatthalter	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Hanauer	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	_
+Baden	B-loc	O	B-loc.adm.town	O	O	O	Q63939	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+alt	B-pers	O	B-pers.ind	O	B-comp.function	O	Q15637891	_	_
+Regierungsrath	I-pers	O	I-pers.ind	O	I-comp.function	O	Q15637891	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	Q15637891	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q15637891	_	_
+Rüttimann	I-pers	O	I-pers.ind	O	B-comp.name	O	Q15637891	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+Regierungsrath	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Keller	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	_
+Frauenfeld	B-loc	O	B-loc.adm.town	O	O	O	Q68120	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Damit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+waren	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Geschäfte	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+diesjährigen	O	O	O	O	O	O	_	_	_
+ordentlichen	O	O	O	O	O	O	_	_	_
+GeneralVersammlung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#Versammlung	O	O	O	O	O	O	_	_	_|Commented
+erledigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Geschäftsbericht	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+verlesen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+seit	O	O	O	O	O	O	_	_	_
+einigen	O	O	O	O	O	O	_	_	_
+Tagen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Händen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Aktionäre	O	O	O	O	O	O	_	_	_
+befindet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+ausgezeichnete	O	O	O	O	O	O	_	_	_
+Arbeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+deren	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nachlesen	O	O	O	O	O	O	_	_	_
+Jedem	O	O	O	O	O	O	_	_	_
+empfohlen	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Entwicklung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wicklung	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Nordostbahn	B-org	O	B-org.ent	O	O	O	Q450071	_	_
+und	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+ostschweizerischen	O	O	O	O	O	O	_	_	_
+Eisenbahnwesens	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bahnwesens	O	O	O	O	O	O	_	_	_|Commented
+überhaupt	O	O	O	O	O	O	_	_	_
+Interesse	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

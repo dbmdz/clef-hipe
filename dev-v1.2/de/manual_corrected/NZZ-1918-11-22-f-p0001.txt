@@ -1,0 +1,1890 @@
+# language = de
+# newspaper = NZZ
+# date = 1918-11-22
+# document_id = NZZ-1918-11-22-f-p0001
+# segment_iiif_link = _
+Waffenstillsland	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Berlin	B-loc	O	B-loc.adm.town	O	O	O	Q64	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+22	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Wolff	B-org	O	B-org.ent.pressagency	O	O	O	Q552226	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Wie	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+zuständiger	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#diger	O	O	O	O	O	O	_	_	_|Commented
+Seite	O	O	O	O	O	O	_	_	_
+erfahren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+lief	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Mittwoch	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dritte	O	O	O	O	O	O	_	_	_
+Unterseebootstaffel	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+besiehend	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+21	O	O	O	O	O	O	_	_	_
+Unterseebooten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Helgoland	B-loc	O	B-loc.phys.geo	O	O	O	Q3038	_	_
+zur	O	O	O	O	O	O	_	_	_
+Uebergabe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+vierte	O	O	O	O	O	O	_	_	_
+Staffel	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+22	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+November	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Begleitschiff	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Alexandra	O	O	O	O	O	O	_	_	_
+Woermann	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+folgen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+22	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Havas	B-org	O	B-org.ent.pressagency	O	O	O	Q516033	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Amtliche	O	O	O	O	O	O	_	_	_
+französische	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sische	O	O	O	O	O	O	_	_	_|Commented
+Mitteilung	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+21	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Noven	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+11	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+abends	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+Belgien	B-loc	O	B-loc.adm.nat	O	O	O	Q31	_	_
+haben	O	O	O	O	O	O	_	_	_
+unsere	O	O	O	O	O	O	_	_	_
+Kavallerieabteilungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#abteilungen	O	O	O	O	O	O	_	_	_|Commented
+Bastogne	B-loc	O	B-loc.adm.town	O	O	O	Q34021	_	_
+erreicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+mehr	O	O	O	O	O	O	_	_	_
+südlich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sind	O	O	O	O	O	O	_	_	_
+unsere	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Habay	B-loc	O	B-loc.adm.town	O	O	O	Q1828688	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.town	O	O	O	Q1828688	_	NoSpaceAfter
+La	I-loc	O	I-loc.adm.town	O	O	O	Q1828688	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.town	O	O	O	Q1828688	_	NoSpaceAfter
+Neuve	I-loc	O	I-loc.adm.town	O	O	O	Q1828688	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eingerückt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+diesem	O	O	O	O	O	O	_	_	_
+Orte	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+feindlichen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lichen	O	O	O	O	O	O	_	_	_|Commented
+Flugzeugpark	O	O	O	O	O	O	_	_	_
+erobert	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ckwva	O	O	O	O	O	O	_	_	_
+tausend	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+deutsche	O	O	O	O	O	O	_	_	_
+Soldaten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Grosbonne	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+befanden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+ihrem	O	O	O	O	O	O	_	_	_
+Obersten	O	O	O	O	O	O	_	_	_
+gesangen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+genommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+Lothringen	B-loc	O	B-loc.adm.reg	O	O	O	Q1137	_	_
+haben	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Linie	O	O	O	O	O	O	_	_	_
+Kitterheim	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Neuvilliers	B-loc	O	B-loc.adm.town	O	O	O	Q1139455	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Cottesbein	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Hochfelden	B-loc	O	B-loc.adm.town	O	O	O	Q21503	_	NoSpaceAfter|Normalized-6
+#¬	I-loc	O	I-loc.adm.town	O	O	O	Q21503	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#felden	I-loc	O	I-loc.adm.town	O	O	O	Q21503	_	NoSpaceAfter|Commented
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Stuthien	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Chalscourt	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	_
+erreicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Bière	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Marmonthières	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	_
+wurden	O	O	O	O	O	O	_	_	_
+ebenfalls	O	O	O	O	O	O	_	_	_
+besetzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Diese	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Städte	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	_
+beflaggt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+unseren	O	O	O	O	O	O	_	_	_
+Soldaten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wurde	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+begeisterter	O	O	O	O	O	O	_	_	_
+Empfang	O	O	O	O	O	O	_	_	_
+bereitet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+weitere	O	O	O	O	O	O	_	_	_
+Vormarsch	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Elsaß	B-loc	O	B-loc.adm.reg	O	O	O	Q1142	_	_
+inmitten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Sympathiekundgebungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-18
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#pathiekundgebungen	O	O	O	O	O	O	_	_	_|Commented
+dauerte	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Vortagen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Unsere	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+ihren	O	O	O	O	O	O	_	_	_
+feierlichen	O	O	O	O	O	O	_	_	_
+Einzug	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zug	O	O	O	O	O	O	_	_	_|Commented
+in	O	O	O	O	O	O	_	_	_
+Neu	B-loc	O	B-loc.adm.town	O	O	O	Q150039	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.town	O	O	O	Q150039	_	NoSpaceAfter
+Breisach	I-loc	O	I-loc.adm.town	O	O	O	Q150039	_	_
+und	O	O	O	O	O	O	_	_	_
+Hüningen	B-loc	O	B-loc.adm.town	O	O	O	Q83415	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Markelsheim	B-loc	O	B-loc.adm.town	O	O	O	Q1900581	_	_
+wurde	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+bedeutendes	O	O	O	O	O	O	_	_	_
+Material	O	O	O	O	O	O	_	_	_
+genommen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nommen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+London	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+22	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Havas	B-org	O	B-org.ent.pressagency	O	O	O	Q516033	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Amtliche	O	O	O	O	O	O	_	_	_
+britische	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tische	O	O	O	O	O	O	_	_	_|Commented
+Mitteilung	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+21	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+November	O	O	O	O	O	O	_	_	_
+abends	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Heute	O	O	O	O	O	O	_	_	_
+morgen	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+zweite	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+vierte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Armee	O	O	O	O	O	O	_	_	_
+ihren	O	O	O	O	O	O	_	_	_
+Vormarsch	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+deutsche	O	O	O	O	O	O	_	_	_
+Grenze	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+fortgesetzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Bewegung	O	O	O	O	O	O	_	_	_
+unserer	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	_
+vollzieht	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zieht	O	O	O	O	O	O	_	_	_|Commented
+sich	O	O	O	O	O	O	_	_	_
+programmgemäß	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ohne	O	O	O	O	O	O	_	_	_
+Zwischenfälle	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fälle	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auf	O	O	O	O	O	O	_	_	_
+unserer	O	O	O	O	O	O	_	_	_
+Rechten	O	O	O	O	O	O	_	_	_
+rückten	O	O	O	O	O	O	_	_	_
+unsere	O	O	O	O	O	O	_	_	_
+Vorhuten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gegen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Maas	B-loc	O	B-loc.phys.hydro	O	O	O	Q41986	_	_
+südlich	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Namur	B-loc	O	B-loc.adm.reg	O	O	O	Q1125	_	_
+vor	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+linken	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Linie	O	O	O	O	O	O	_	_	_
+GemblouxWavre	B-loc	O	B-loc.adm.town	O	O	O	Q223927	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#Wavre	B-loc	O	B-loc.adm.town	O	O	O	Q181314	_	_|Commented
+erreicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+22	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Havas	B-org	O	B-org.ent.pressagency	O	O	O	Q516033	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Amtlicher	O	O	O	O	O	O	_	_	_
+amerikanischer	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kanischer	O	O	O	O	O	O	_	_	_|Commented
+Bericht	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+21	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Noven	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dritte	O	O	O	O	O	O	_	_	_
+Armee	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+Fortsetzung	O	O	O	O	O	O	_	_	_
+ihres	O	O	O	O	O	O	_	_	_
+Vormarsches	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#marsches	O	O	O	O	O	O	_	_	_|Commented
+am	O	O	O	O	O	O	_	_	_
+Abend	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Linie	O	O	O	O	O	O	_	_	_
+Vichten	B-loc	O	B-loc.adm.town	O	O	O	Q985473	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Norgen	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	NoSpaceAfter|Normalized-3
+#¬	I-loc	O	I-loc.adm.town	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gen	I-loc	O	I-loc.adm.town	O	O	O	NIL	_	NoSpaceAfter|Commented
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Sartrange	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Rentgen	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Ruttekoven	B-loc	O	B-loc.adm.town	O	O	O	Q2115365	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erreicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Heute	O	O	O	O	O	O	_	_	_
+nachmittag	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+unsere	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#pen	O	O	O	O	O	O	_	_	_|Commented
+die	O	O	O	O	O	O	_	_	_
+Stadt	B-loc	O	B-loc.adm.town	O	O	O	Q1842	_	_
+Luxemburg	I-loc	O	I-loc.adm.town	O	B-comp.name	O	Q1842	_	_
+passiert	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Zivilbevölkerung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bevölkerung	O	O	O	O	O	O	_	_	_|Commented
+empfing	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Befreier	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+überschüttete	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sie	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Blumen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+begleitete	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+beflaggten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ten	O	O	O	O	O	O	_	_	_|Commented
+Straßen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+22	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Havas	B-org	O	B-org.ent.pressagency	O	O	O	Q516033	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Amtlich	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Siebzig	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+deutsche	O	O	O	O	O	O	_	_	_
+Schiffe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+umfassend	O	O	O	O	O	O	_	_	_
+Schlachtschiffe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kreuzer	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Zerstörer	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+alliierten	O	O	O	O	O	O	_	_	_
+Flotte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+übergeben	O	O	O	O	O	O	_	_	_
+gemäß	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Klauseln	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Waffenstillstandsvertrages	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-15
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#standsvertrages	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Donnerstag	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Eskorte	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Rosyth	B-loc	O	B-loc.adm.town	O	O	O	Q376329	_	_
+eingetroffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+London	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+22	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+ag	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Reuter	B-org	O	B-org.ent.pressagency	O	B-comp.name	O	Q658945	_	NoSpaceAfter
+-	I-org	O	I-org.ent.pressagency	O	O	O	Q658945	_	NoSpaceAfter
+Agentur	I-org	O	I-org.ent.pressagency	O	O	O	Q658945	_	_
+vernimmt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nimmt	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+britische	O	O	O	O	O	O	_	_	_
+Kavallerie	O	O	O	O	O	O	_	_	_
+gestern	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+Schlachtfeld	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Waterloo	B-loc	O	B-loc.adm.town	O	O	O	Q179034	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Vormarsch	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#marsch	O	O	O	O	O	O	_	_	_|Commented
+nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+deutschen	O	O	O	O	O	O	_	_	_
+Grenze	O	O	O	O	O	O	_	_	_
+passierte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+englischen	O	O	O	O	O	O	_	_	_
+Offizieren	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	_
+gestern	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+große	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Zahl	O	O	O	O	O	O	_	_	_
+Kanonen	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+verschiedenen	O	O	O	O	O	O	_	_	_
+Punkten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+britischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tischen	O	O	O	O	O	O	_	_	_|Commented
+Front	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+genommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+London	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+22	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Reuter	B-org	O	B-org.ent.pressagency	O	O	O	Q658945	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Heute	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Harwich	B-loc	O	B-loc.adm.town	O	O	O	Q990616	_	_
+19	O	O	O	O	O	O	_	_	_
+deutsche	O	O	O	O	O	O	_	_	_
+Unterseeboote	O	O	O	O	O	O	_	_	_
+ausgeliefert	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#geliefert	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+sollten	O	O	O	O	O	O	_	_	_
+20	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+doch	O	O	O	O	O	O	_	_	_
+erlitt	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ihnen	O	O	O	O	O	O	_	_	_
+unterwegs	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Unfall	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Budapest	B-loc	O	B-loc.adm.town	O	O	O	Q1781	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+22	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+U	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+K	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+B	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Nach	O	O	O	O	O	O	_	_	_
+amtlichen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nachrichten	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Kriegsministeriums	O	O	O	O	O	O	_	_	_
+vollzieht	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Durchzug	O	O	O	O	O	O	_	_	_
+deutscher	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+größter	O	O	O	O	O	O	_	_	_
+Ordnung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Infolge	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Kohlenmangels	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wird	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+längere	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+andauern	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Einzig	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Tschechen	O	O	O	O	O	O	_	_	_
+legen	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Durchmarsch	O	O	O	O	O	O	_	_	_
+Hindernisse	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Weg	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Da	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+zwischen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Agujhely	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Poestven	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	_
+die	O	O	O	O	O	O	_	_	_
+Eisenbahnschienen	O	O	O	O	O	O	_	_	_
+aufgerissen	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sind	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Wagtale	O	O	O	O	O	O	_	_	_
+eingetroffenen	O	O	O	O	O	O	_	_	_
+deutschen	O	O	O	O	O	O	_	_	_
+Soldatentransporte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-15
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#datentransporte	O	O	O	O	O	O	_	_	_|Commented
+gezwungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+offener	O	O	O	O	O	O	_	_	_
+Strecke	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+lagern	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Hauptteil	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+deutschen	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+befindet	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Südungarn	B-loc	O	B-loc.adm.reg	O	O	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Linie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sgeget	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Mako	B-loc	O	B-loc.adm.town	O	O	O	Q240504	_	_
+und	O	O	O	O	O	O	_	_	_
+Arad	B-loc	O	B-loc.adm.town	O	O	O	Q173591	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Nagi	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Szeben	B-loc	O	B-loc.adm.town	O	O	O	Q920876	_	_
+Brasso	B-loc	O	B-loc.adm.town	O	O	O	Q82174	_	_
+befinden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#finden	O	O	O	O	O	O	_	_	_|Commented
+sich	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+mehrere	O	O	O	O	O	O	_	_	_
+deutsche	O	O	O	O	O	O	_	_	_
+Divisionen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+setzten	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Durchmarsch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+nördlicher	O	O	O	O	O	O	_	_	_
+Richtung	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Fuß	O	O	O	O	O	O	_	_	_
+fort	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Prag	B-loc	O	B-loc.adm.town	O	O	O	Q1085	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+20	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+F.S	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+Prag	B-loc	O	B-loc.adm.town	O	O	O	Q1085	_	_
+sind	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Aeroplan	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#plan	O	O	O	O	O	O	_	_	_|Commented
+Delegierte	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Marschalls	B-pers	O	B-pers.ind	O	B-comp.title	O	Q192615	_	_
+Foch	I-pers	O	I-pers.ind	O	B-comp.name	O	Q192615	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+englische	B-pers	O	B-pers.ind	O	B-comp.qualifier	O	NIL	_	_
+Major	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	_
+Großfield	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+tschechoslowakische	B-pers	O	B-pers.ind	O	B-comp.qualifier	O	NIL	_	NoSpaceAfter|Normalized-8
+#¬	I-pers	O	I-pers.ind	O	I-comp.qualifier	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wakische	I-pers	O	I-pers.ind	O	I-comp.qualifier	O	NIL	_	_|Commented
+Major	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	_
+Reslinger	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+sowie	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+englischer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+französischer	O	O	O	O	O	O	_	_	_
+Leutnant	O	O	O	O	O	O	_	_	_
+gelandet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+überbrachten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#brachten	O	O	O	O	O	O	_	_	_|Commented
+dem	O	O	O	O	O	O	_	_	_
+Ministerpräsidenten	B-pers	O	B-pers.ind	O	B-comp.function	O	Q159227	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	Q159227	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q159227	_	_
+Kramarz	I-pers	O	I-pers.ind	O	B-comp.name	O	Q159227	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+a	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Schreiben	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Marschall	B-pers	O	B-pers.ind	O	B-comp.title	O	Q192615	_	_
+Foch	I-pers	O	I-pers.ind	O	B-comp.name	O	Q192615	_	_
+sowie	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schreiben	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Minister	B-pers	O	B-pers.ind	O	B-comp.function	O	Q152274	_	_
+des	I-pers	O	I-pers.ind	O	I-comp.function	O	Q152274	_	_
+Auswärtigen	I-pers	O	I-pers.ind	O	I-comp.function	O	Q152274	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Benès	I-pers	O	I-pers.ind	O	B-comp.name	O	Q152274	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Mitteilung	O	O	O	O	O	O	_	_	_
+enthielten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+kürzester	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Prag	B-loc	O	B-loc.adm.town	O	O	O	Q1085	_	_
+zwei	O	O	O	O	O	O	_	_	_
+tschechoslowakische	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Divisionen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+italienischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Front	O	O	O	O	O	O	_	_	_
+gekämpft	O	O	O	O	O	O	_	_	_
+hatten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sowie	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+teschechoslowakischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schen	O	O	O	O	O	O	_	_	_|Commented
+Truppen	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Frankreich	B-loc	O	B-loc.adm.nat	O	O	O	Q142	_	_
+und	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+französische	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Division	O	O	O	O	O	O	_	_	_
+eintreffen	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+tschechoslowakischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kischen	O	O	O	O	O	O	_	_	_|Commented
+Regierung	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Aufrechterhaltung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Waffenstillstandsbedingungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-25
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fenstillstandsbedingungen	O	O	O	O	O	O	_	_	_|Commented
+mit	O	O	O	O	O	O	_	_	_
+Deutschland	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q183	Q183	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Oesterreich	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q28513	Q28513	NoSpaceAfter
+-	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q28513	Q28513	NoSpaceAfter
+Ungarn	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q28513	Q28513	_
+zur	O	O	O	O	O	O	_	_	_
+Verfügung	O	O	O	O	O	O	_	_	_
+gestellt	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#den	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Aus	O	O	O	O	O	O	_	_	_
+Konstantinopel	B-loc	O	B-loc.adm.town	O	O	O	Q16869	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+§	O	O	O	O	O	O	_	_	_
+Der	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+wenigen	O	O	O	O	O	O	_	_	_
+Tagen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+Konstantinopel	B-loc	O	B-loc.adm.town	O	O	O	Q16869	_	_
+eingetroffene	O	O	O	O	O	O	_	_	_
+Sonderkorrespondent	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#dent	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Times	B-prod	O	B-prod.media	O	O	O	Q50008	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+telegraphiert	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+14	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+November	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Einzug	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+alliierten	O	O	O	O	O	O	_	_	_
+Behörden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#den	O	O	O	O	O	O	_	_	_|Commented
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+türkische	O	O	O	O	O	O	_	_	_
+Hauptstadt	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+anderm	O	O	O	O	O	O	_	_	_
+solgendes	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gendes	O	O	O	O	O	O	_	_	_|Commented
+Der	O	O	O	O	O	O	_	_	_
+erste	O	O	O	O	O	O	_	_	_
+Vertreter	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Entente	B-org	O	B-org.adm	O	O	O	Q215669	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Konanninopel	B-loc	O	B-loc.adm.town	O	O	O	Q16869	_	NoSpaceAfter|Normalized-9
+#¬	I-loc	O	I-loc.adm.town	O	O	O	Q16869	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#anninopel	I-loc	O	I-loc.adm.town	O	O	O	Q16869	_	_|Commented
+betrat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Vizeadmiral	B-pers	O	B-pers.ind	O	B-comp.title	O	Q741874	_	_
+Sir	I-pers	O	I-pers.ind	O	B-comp.title	O	Q741874	_	_
+Arthur	I-pers	O	I-pers.ind	O	B-comp.name	O	Q741874	_	NoSpaceAfter|Normalized-4
+#¬	I-pers	O	I-pers.ind	O	I-comp.name	O	Q741874	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#thur	I-pers	O	I-pers.ind	O	I-comp.name	O	Q741874	_	_|Commented
+Calthorpe	I-pers	O	I-pers.ind	O	I-comp.name	O	Q741874	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Waffenstillstandsverhandlungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-13
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#verhandlungen	O	O	O	O	O	O	_	_	_|Commented
+geleitet	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+ließ	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Flotte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bucht	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Ismid	B-loc	O	B-loc.adm.town	O	O	O	Q129649	_	_
+Anker	O	O	O	O	O	O	_	_	_
+werfen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+begab	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Stadt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+frühern	O	O	O	O	O	O	_	_	_
+englischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Botschaft	O	O	O	O	O	O	_	_	_
+Wohnung	O	O	O	O	O	O	_	_	_
+nahm	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	_
+zweiter	O	O	O	O	O	O	_	_	_
+hoher	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Funktionär	O	O	O	O	O	O	_	_	_
+kam	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+Generel	B-pers	O	B-pers.ind	O	B-comp.title	O	Q373940	_	_
+Henry	I-pers	O	I-pers.ind	O	B-comp.name	O	Q373940	_	_
+Wilson	I-pers	O	I-pers.ind	O	I-comp.name	O	Q373940	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dessen	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Forts	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Bosporus	B-loc	O	B-loc.phys.hydro	O	O	O	Q35958	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Garnison	O	O	O	O	O	O	_	_	_
+liegen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+allgemeine	O	O	O	O	O	O	_	_	_
+Lage	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Konstantinopel	B-loc	O	B-loc.adm.town	O	O	O	Q16869	_	NoSpaceAfter|Normalized-11
+#¬	I-loc	O	I-loc.adm.town	O	O	O	Q16869	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stantinopel	I-loc	O	I-loc.adm.town	O	O	O	Q16869	_	_|Commented
+ist	O	O	O	O	O	O	_	_	_
+äußerst	O	O	O	O	O	O	_	_	_
+ruhig	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+politische	O	O	O	O	O	O	_	_	_
+Leben	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+scheint	O	O	O	O	O	O	_	_	_
+stille	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+stehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Führer	B-pers	O	B-pers.ind	O	B-comp.function	O	Q153899	_	_
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	Q153899	_	_
+Kriegspartei	I-pers	O	I-pers.ind	O	I-comp.function	O	Q153899	_	NoSpaceAfter|Normalized-6
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	Q153899	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#partei	I-pers	O	I-pers.ind	O	I-comp.function	O	Q153899	_	NoSpaceAfter|Commented
+,	I-pers	O	I-pers.ind	O	O	O	Q153899	_	_
+Enver	I-pers	O	I-pers.ind	O	B-comp.name	O	Q153899	_	_
+und	O	O	O	O	O	O	_	_	_
+Talaat	B-pers	O	B-pers.ind	O	O	O	Q315888	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Flucht	O	O	O	O	O	O	_	_	_
+gerettet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Komitee	B-org	O	B-org.ent	O	O	O	Q1559352	_	_
+„	I-org	O	I-org.ent	O	B-comp.name	O	Q1559352	_	NoSpaceAfter
+Einheit	I-org	O	I-org.ent	O	I-comp.name	O	Q1559352	_	_
+und	I-org	O	I-org.ent	O	I-comp.name	O	Q1559352	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Fortschritt	I-org	O	I-org.ent	O	I-comp.name	O	Q1559352	_	NoSpaceAfter
+"	I-org	O	I-org.ent	O	I-comp.name	O	Q1559352	_	_
+löste	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wirtschaftlich	O	O	O	O	O	O	_	_	_
+zeigt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Konstantinopel	B-loc	B-org	B-loc.adm.town	B-org.adm	O	O	Q16869	Q16869	_
+ein	O	O	O	O	O	O	_	_	_
+jammervolles	O	O	O	O	O	O	_	_	_
+Bild	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+ausgehungerte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gehungerte	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+notwendigen	O	O	O	O	O	O	_	_	_
+Gegenstände	O	O	O	O	O	O	_	_	_
+entbehrende	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#behrende	O	O	O	O	O	O	_	_	_|Commented
+Bevölkerung	O	O	O	O	O	O	_	_	_
+lebt	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+bedrückenden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Not	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Preise	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+Bedarfsartikel	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+geradezu	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#radezu	O	O	O	O	O	O	_	_	_|Commented
+phantastisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Eine	O	O	O	O	O	O	_	_	_
+Stundenfahrt	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Wagen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gen	O	O	O	O	O	O	_	_	_|Commented
+koster	O	O	O	O	O	O	_	_	_
+66	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ebensoviel	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Mittagstisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Wenn	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+türkischen	O	O	O	O	O	O	_	_	_
+Schneider	O	O	O	O	O	O	_	_	_
+kommt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+geringste	O	O	O	O	O	O	_	_	_
+Kleidungsstück	O	O	O	O	O	O	_	_	_
+begehrt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+unerläßliche	O	O	O	O	O	O	_	_	_
+Bedingung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+gleich	O	O	O	O	O	O	_	_	_
+mindestens	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stens	O	O	O	O	O	O	_	_	_|Commented
+50	O	O	O	O	O	O	_	_	_
+Pfund	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Tisch	O	O	O	O	O	O	_	_	_
+legt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Lebensmittel	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mittel	O	O	O	O	O	O	_	_	_|Commented
+mangelten	O	O	O	O	O	O	_	_	_
+beim	O	O	O	O	O	O	_	_	_
+Einzug	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Alliierten	B-org	O	B-org.adm	O	O	O	Q215669	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erschreckender	O	O	O	O	O	O	_	_	_
+Weise	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Heute	O	O	O	O	O	O	_	_	_
+beginnt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Bevölkerung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#völkerung	O	O	O	O	O	O	_	_	_|Commented
+allmählich	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+erholen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+Nahrungsmittel	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mittel	O	O	O	O	O	O	_	_	_|Commented
+zugeführt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Stimmung	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bessern	O	O	O	O	O	O	_	_	_
+Klassen	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+düster	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Volksmasse	O	O	O	O	O	O	_	_	_
+empfindet	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#det	O	O	O	O	O	O	_	_	_|Commented
+die	O	O	O	O	O	O	_	_	_
+Okkupation	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Erlösung	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+unerträglichen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#träglichen	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+unverständlichen	O	O	O	O	O	O	_	_	_
+Krieg	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+bleibt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+im	O	O	O	O	O	O	_	_	_
+allgemeinen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+ihrem	O	O	O	O	O	O	_	_	_
+fatalistisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+apathischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Gleichmut	O	O	O	O	O	O	_	_	_
+unerschüttert	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Austösung	O	O	O	O	O	O	_	_	_
+Oesterreich	B-org	O	B-org.ent	O	O	O	Q28513	_	NoSpaceAfter
+-	I-org	O	I-org.ent	O	O	O	Q28513	_	NoSpaceAfter
+Angarns	I-org	O	I-org.ent	O	O	O	Q28513	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Wien	B-loc	O	B-loc.adm.town	O	O	O	Q1741	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+22	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+W	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+K	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+B	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Staatsrat	O	O	O	O	O	O	_	_	_
+ernannte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nannte	O	O	O	O	O	O	_	_	_|Commented
+den	O	O	O	O	O	O	_	_	_
+bisherigen	B-pers	O	B-pers.ind	O	B-comp.function	O	Q11730	_	_
+Unterstaatssekretär	I-pers	O	I-pers.ind	O	I-comp.function	O	Q11730	_	_
+Otto	I-pers	O	I-pers.ind	O	B-comp.name	O	Q11730	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bauer	I-pers	O	I-pers.ind	O	I-comp.name	O	Q11730	_	_
+zum	O	O	O	O	O	O	_	_	_
+Staatssekretär	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Aeußern	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Wien	B-loc	O	B-loc.adm.town	O	O	O	Q1741	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+22	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+W	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+K	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+B	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+gestrigen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vollversammlung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Verbandes	B-org	O	B-org.ent	O	O	O	NIL	_	_
+der	I-org	O	I-org.ent	O	O	O	NIL	_	_
+deutschnationalen	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|Normalized-10
+#¬	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nationalen	I-org	O	I-org.ent	O	O	O	NIL	_	_|Commented
+Parteien	I-org	O	I-org.ent	O	O	O	NIL	_	_
+wurde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+parteiamtlich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lich	O	O	O	O	O	O	_	_	_|Commented
+mitgeteilt	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+einstimmigem	O	O	O	O	O	O	_	_	_
+Beschluß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Zusammenschluß	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+deutsch	B-org	O	B-org.ent	O	O	O	Q1203605	_	NoSpaceAfter
+-	I-org	O	I-org.ent	O	O	O	Q1203605	_	NoSpaceAfter
+nationalen	I-org	O	I-org.ent	O	O	O	Q1203605	_	_
+Partei	I-org	O	I-org.ent	O	O	O	Q1203605	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+deutschen	B-org	O	B-org.ent	O	O	O	Q23577010	_	_
+Agrarpartei	I-org	O	I-org.ent	O	O	O	Q23577010	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+deutschradikalen	B-org	O	B-org.ent	O	O	O	Q19971177	_	NoSpaceAfter|Normalized-9
+#¬	I-org	O	I-org.ent	O	O	O	Q19971177	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#radikalen	I-org	O	I-org.ent	O	O	O	Q19971177	_	_|Commented
+Vereinigung	I-org	O	I-org.ent	O	O	O	Q19971177	_	_
+vollzogen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+drei	O	O	O	O	O	O	_	_	_
+Obmänner	O	O	O	O	O	O	_	_	_
+beauftragt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+nächsten	O	O	O	O	O	O	_	_	_
+Vollversammlung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sammlung	O	O	O	O	O	O	_	_	_|Commented
+die	O	O	O	O	O	O	_	_	_
+näheren	O	O	O	O	O	O	_	_	_
+Organisationsbestimmungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gen	O	O	O	O	O	O	_	_	_|Commented
+vorzulegen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+neue	O	O	O	O	O	O	_	_	_
+Partei	O	O	O	O	O	O	_	_	_
+zählt	O	O	O	O	O	O	_	_	_
+85	O	O	O	O	O	O	_	_	_
+Mitglieder	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#glieder	O	O	O	O	O	O	_	_	_|Commented
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+im	O	O	O	O	O	O	_	_	_
+Nationalrat	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Budapest	B-loc	O	B-loc.adm.town	O	O	O	Q1781	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+22	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+U	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+K	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+B	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Josephvon	B-pers	O	B-pers.ind	O	O	O	Q78535	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Habsburg	I-pers	O	I-pers.ind	O	O	O	Q78535	_	NoSpaceAfter
+-	I-pers	O	I-pers.ind	O	O	O	Q78535	_	NoSpaceAfter
+Lothringen	I-pers	O	I-pers.ind	O	O	O	Q78535	_	_
+erschien	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	_
+vormittag	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mittag	O	O	O	O	O	O	_	_	_|Commented
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Ackerbauministerium	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ackerbauminister	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Huza	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+und	O	O	O	O	O	O	_	_	_
+Staatssekretär	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Laehle	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+empfangen	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+bot	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+gesamten	O	O	O	O	O	O	_	_	_
+Ackerfelder	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#felder	O	O	O	O	O	O	_	_	_|Commented
+zur	O	O	O	O	O	O	_	_	_
+Verteilung	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Volk	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+an	O	O	O	O	O	O	_	_	_
+Der	O	O	O	O	O	O	_	_	_
+Ackerbauminister	O	O	O	O	O	O	_	_	_
+nahm	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Angebot	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dankend	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Kenntnis	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Aus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Nationalversammlung	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Prag	B-loc	O	B-loc.adm.town	O	O	O	Q1085	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+F.S	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Unter	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+ersten	O	O	O	O	O	O	_	_	_
+Gesetzesvorlagen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+diesen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sen	O	O	O	O	O	O	_	_	_|Commented
+Tagen	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Nationalversammlung	O	O	O	O	O	O	_	_	_
+erledigt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+befindet	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+a	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Vorlage	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Abschaffung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Adels	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aller	O	O	O	O	O	O	_	_	_
+Orden	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Titel	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Berufe	O	O	O	O	O	O	_	_	_
+hervorgehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sowie	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wie	O	O	O	O	O	O	_	_	_|Commented
+die	O	O	O	O	O	O	_	_	_
+Einführung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+achtstündigen	O	O	O	O	O	O	_	_	_
+Arbeitstages	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tages	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+ersten	O	O	O	O	O	O	_	_	_
+Gesetz	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+welches	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+letzten	O	O	O	O	O	O	_	_	_
+undemokratischen	O	O	O	O	O	O	_	_	_
+Ueberreste	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+alten	O	O	O	O	O	O	_	_	_
+Regimes	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gimes	O	O	O	O	O	O	_	_	_|Commented
+beseitigt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Bürgern	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+tschechoslowakischen	O	O	O	O	O	O	_	_	_
+Republik	O	O	O	O	O	O	_	_	_
+verboten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+derartige	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Auszeichnungen	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Auslande	O	O	O	O	O	O	_	_	_
+anzunehmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Ein	O	O	O	O	O	O	_	_	_
+Ausländer	O	O	O	O	O	O	_	_	_
+verliert	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+Erwerbung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+tschechoslowakischen	O	O	O	O	O	O	_	_	_
+Staatsbürgerschaft	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+solche	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Auszeichnungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Bürger	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+tschechoslowakischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Staates	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+Adelige	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dürfen	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Familiennamen	O	O	O	O	O	O	_	_	_
+ohne	O	O	O	O	O	O	_	_	_
+irgendwelchen	O	O	O	O	O	O	_	_	_
+Zusatz	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Fürst	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Graf	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Baron	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Ritter	O	O	O	O	O	O	_	_	_
+usw	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Adel	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bezeichnet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+gebrauchen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Orden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Zeichen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Medaiilen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#daiilen	O	O	O	O	O	O	_	_	_|Commented
+usw	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+bisher	O	O	O	O	O	O	_	_	_
+geltenden	O	O	O	O	O	O	_	_	_
+Bestimmungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mungen	O	O	O	O	O	O	_	_	_|Commented
+nach	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Tode	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Ausgezeichncten	O	O	O	O	O	O	_	_	_
+zurückgestellt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rückgestellt	O	O	O	O	O	O	_	_	_|Commented
+werden	O	O	O	O	O	O	_	_	_
+sollten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+müssen	O	O	O	O	O	O	_	_	_
+langstens	O	O	O	O	O	O	_	_	_
+innerhalb	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#halb	O	O	O	O	O	O	_	_	_|Commented
+6	O	O	O	O	O	O	_	_	_
+Monaten	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+obersten	O	O	O	O	O	O	_	_	_
+Amte	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+innere	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Verwaltung	O	O	O	O	O	O	_	_	_
+übergeben	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+In	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Gesetz	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+achtstündigen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Arbeitstag	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+bestimmt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+maximale	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Arbeitsdauer	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+8	O	O	O	O	O	O	_	_	_
+Stunden	O	O	O	O	O	O	_	_	_
+täglich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+allen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+staatlichen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Gemeinde	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Unternehmungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Gewerbe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Geschäften	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Bergwerken	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+womöglich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lich	O	O	O	O	O	O	_	_	_|Commented
+auch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Landwirtschaft	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eingeführt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+soll	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Hiebei	O	O	O	O	O	O	_	_	_
+muß	O	O	O	O	O	O	_	_	_
+jedoch	O	O	O	O	O	O	_	_	_
+einmal	O	O	O	O	O	O	_	_	_
+wöchentlich	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ununterbrochene	O	O	O	O	O	O	_	_	_
+Pause	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+36	O	O	O	O	O	O	_	_	_
+Stunden	O	O	O	O	O	O	_	_	_
+garantiert	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tiert	O	O	O	O	O	O	_	_	_|Commented
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+Unternehmungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+denen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Frauen	O	O	O	O	O	O	_	_	_
+beschäftigt	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+beginnt	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Sonntagsruhe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schon	O	O	O	O	O	O	_	_	_
+Samstag	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+12	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	_
+mittags	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nachtarbeit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wird	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+dort	O	O	O	O	O	O	_	_	_
+gestattet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Arbeit	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+unterbrochen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#brochen	O	O	O	O	O	O	_	_	_|Commented
+werden	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Von	O	O	O	O	O	O	_	_	_
+8	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	_
+abends	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+6	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	_
+morgens	O	O	O	O	O	O	_	_	_
+dürfen	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+männliche	O	O	O	O	O	O	_	_	_
+Arbeitskräfte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kräfte	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+18	O	O	O	O	O	O	_	_	_
+Jahre	O	O	O	O	O	O	_	_	_
+alt	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+herangezogen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+Gesetz	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	_
+am	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+1	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+Dezember	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1918	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kraft	O	O	O	O	O	O	_	_	_
+treten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

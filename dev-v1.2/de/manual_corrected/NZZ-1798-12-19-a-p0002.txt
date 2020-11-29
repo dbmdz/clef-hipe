@@ -1,0 +1,588 @@
+# language = de
+# newspaper = NZZ
+# date = 1798-12-19
+# document_id = NZZ-1798-12-19-a-p0002
+# segment_iiif_link = _
+[	O	O	O	O	O	O	_	_	NoSpaceAfter
+Belgische	O	O	O	O	O	O	_	_	_
+Unruhen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+vereinigten	O	O	O	O	O	O	_	_	_
+Departements	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#partements	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+]	O	O	O	O	O	O	_	_	_
+Wesel	B-loc	O	B-loc.adm.town	O	O	O	Q4011	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+28	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+ehemaligen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#maligen	O	O	O	O	O	O	_	_	_|Commented
+Oesterreichisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Geldern	O	O	O	O	O	O	_	_	_
+macht	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Insurrektion	O	O	O	O	O	O	_	_	_
+tägliche	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#liche	O	O	O	O	O	O	_	_	_|Commented
+Fortschritte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Schon	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Rebellen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Weerdt	B-loc	O	B-loc.adm.town	O	O	O	Q9774	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Aachen	B-loc	O	B-loc.adm.town	O	O	O	Q1017	_	_
+haben	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+samtliche	O	O	O	O	O	O	_	_	_
+Einwohner	O	O	O	O	O	O	_	_	_
+entwaffnet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Rüremont	B-loc	O	B-loc.adm.town	O	O	O	Q9783	_	NoSpaceAfter|Normalized-4
+#¬	I-loc	O	I-loc.adm.town	O	O	O	Q9783	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mont	I-loc	O	I-loc.adm.town	O	O	O	Q9783	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+Venloo	B-loc	O	B-loc.adm.town	O	O	O	Q9777	_	_
+sind	O	O	O	O	O	O	_	_	_
+bedroht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Alle	O	O	O	O	O	O	_	_	_
+Schiffe	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Mosel	B-loc	O	B-loc.phys.hydro	O	O	O	Q1667	_	NoSpaceAfter|Normalized-3
+#¬	I-loc	O	I-loc.phys.hydro	O	O	O	Q1667	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sel	I-loc	O	I-loc.phys.hydro	O	O	O	Q1667	_	_|Commented
+werden	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Franken	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Grund	O	O	O	O	O	O	_	_	_
+gebort	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Leyden	B-loc	O	B-loc.adm.town	O	O	O	Q43631	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+30	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Kantons	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Administration	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+Sittard	B-loc	O	B-loc.adm.town	O	O	O	Q73022	_	_
+beschwert	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Stelle	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+56	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Stk	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Leydner	B-prod	O	B-prod.media	O	O	O	NIL	_	NoSpaceAfter
+-	I-prod	O	I-prod.media	O	O	O	NIL	_	NoSpaceAfter
+Zeitung	I-prod	O	I-prod.media	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Gegend	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+überhaupt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#haupt	O	O	O	O	O	O	_	_	_|Commented
+das	O	O	O	O	O	O	_	_	_
+ehemalige	B-loc	O	B-loc.adm.reg	O	O	O	Q158835	_	_
+Herzogthum	I-loc	O	I-loc.adm.reg	O	O	O	Q158835	_	_
+Lüttich	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q158835	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+neuen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Aufruhr	O	O	O	O	O	O	_	_	_
+verwickelt	O	O	O	O	O	O	_	_	_
+vorstellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+bezeuget	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+gänzlichen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ungrund	O	O	O	O	O	O	_	_	_
+hievon	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Haag	B-loc	O	B-loc.adm.town	O	O	O	Q36600	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+2	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Dec	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Daß	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+belgischen	O	O	O	O	O	O	_	_	_
+Insurgenten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ten	O	O	O	O	O	O	_	_	_|Commented
+ihre	O	O	O	O	O	O	_	_	_
+Kriegsbedürfnisse	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Holland	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q55	Q55	_
+zukommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gewiß	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+nur	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	_|EOS
+
+und	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+wem	O	O	O	O	O	O	_	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	_|EOS
+
+bleibt	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Räthsel	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Brüssel	B-loc	O	B-loc.adm.town	O	O	O	Q239	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+5	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Dec	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Rebellen	O	O	O	O	O	O	_	_	_
+sollen	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Waldungen	O	O	O	O	O	O	_	_	_
+hiesiger	O	O	O	O	O	O	_	_	_
+Gegend	O	O	O	O	O	O	_	_	_
+verbreiten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Man	O	O	O	O	O	O	_	_	_
+erwarter	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+jeden	O	O	O	O	O	O	_	_	_
+Augenblick	O	O	O	O	O	O	_	_	_
+entscheidende	O	O	O	O	O	O	_	_	_
+Vorfälle	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Einem	O	O	O	O	O	O	_	_	_
+Arreté	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+Erecutiv	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Direktoriums	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+vom	O	O	O	O	O	O	_	_	_
+25	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+zufolge	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+unsre	O	O	O	O	O	O	_	_	_
+Stadt	O	O	O	O	O	O	_	_	_
+aufs	O	O	O	O	O	O	_	_	_
+neue	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Betagerungsstand	O	O	O	O	O	O	_	_	_
+gesezt	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Verhaftungen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Geinlichen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+dienstfähigen	O	O	O	O	O	O	_	_	_
+Jugend	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gehen	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+immer	O	O	O	O	O	O	_	_	_
+fort	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Unter	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+erstern	O	O	O	O	O	O	_	_	_
+besin	O	O	O	O	O	O	_	_	_
+en	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+14	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Professoren	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Universität	B-org	O	B-org.ent	O	O	O	Q693380	_	_
+Löwen	I-org	O	I-org.ent	O	O	B-loc.adm.town	Q693380	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Laut	O	O	O	O	O	O	_	_	_
+offiziellen	O	O	O	O	O	O	_	_	_
+Berichten	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+General	B-pers	O	B-pers.ind	O	B-comp.title	O	Q2976837	_	_
+Colaud	I-pers	O	I-pers.ind	O	B-comp.name	O	Q2976837	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ebenfalls	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aus	O	O	O	O	O	O	_	_	_
+Brüssel	B-loc	O	B-loc.adm.town	O	O	O	Q239	_	_
+vom	O	O	O	O	O	O	_	_	_
+6	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+sollen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+4	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Löwen	B-loc	O	B-loc.adm.town	O	O	O	Q118958	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+unter	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+General	B-pers	O	B-pers.ind	O	B-comp.title	O	Q3130561	_	_
+Jardon	I-pers	O	I-pers.ind	O	B-comp.name	O	Q3130561	_	_
+abgegangenen	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Hauptkorps	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Insurgenten	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+Asselt	B-loc	O	B-loc.adm.town	O	O	O	Q58780	_	_
+erreicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einem	O	O	O	O	O	O	_	_	_
+heftigen	O	O	O	O	O	O	_	_	_
+Widerstand	O	O	O	O	O	O	_	_	_
+dasselde	O	O	O	O	O	O	_	_	_
+gänzlich	O	O	O	O	O	O	_	_	_
+geschlagen	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ben	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+vornehmsten	O	O	O	O	O	O	_	_	_
+Häupter	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Munizipal	B-pers	O	B-pers.ind	O	B-comp.function	O	Q2767348	_	NoSpaceAfter|Normalized-7
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	Q2767348	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nizipal	I-pers	O	I-pers.ind	O	I-comp.function	O	Q2767348	_	NoSpaceAfter|Commented
+-	I-pers	O	I-pers.ind	O	I-comp.function	O	Q2767348	_	NoSpaceAfter
+Agent	I-pers	O	I-pers.ind	O	I-comp.function	O	Q2767348	_	_
+von	I-pers	O	I-pers.ind	O	I-comp.function	O	Q2767348	_	_
+Roumiroir	I-pers	O	I-pers.ind	O	I-comp.function	B-loc.adm.town	Q2767348	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q2767348	_	_
+Constant	I-pers	O	I-pers.ind	O	B-comp.name	O	Q2767348	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q2767348	_	_
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Hände	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+Siegers	O	O	O	O	O	O	_	_	_
+gerathen	O	O	O	O	O	O	_	_	_
+seyn	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Kurz	O	O	O	O	O	O	_	_	_
+vorher	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+sagt	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Pariser	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Blatt	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+hätten	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Insurgenten	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Kühnheit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gehabt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Löwen	B-loc	B-org	B-loc.adm.town	B-org.adm	O	O	Q118958	Q118958	_
+durch	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Trompeter	O	O	O	O	O	O	_	_	_
+förmlich	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Uebergabe	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gabe	O	O	O	O	O	O	_	_	_|Commented
+auffodern	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+lassen	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+andern	O	O	O	O	O	O	_	_	_
+Nachrichten	O	O	O	O	O	O	_	_	_
+zufolge	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aber	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Auswechslung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kriegsgefangenen	O	O	O	O	O	O	_	_	_
+vorzuschlagen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schlagen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+andre	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+fränkischen	O	O	O	O	O	O	_	_	_
+Commandanten	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Entrüstung	O	O	O	O	O	O	_	_	_
+verworfen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+alsdann	O	O	O	O	O	O	_	_	_
+eben	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Angriff	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+Asselt	B-loc	O	B-loc.adm.town	O	O	O	Q58780	_	_
+erfolgt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Batavische	B-loc	O	B-loc.adm.nat	O	O	O	Q188553	_	_
+Reyublik	I-loc	O	I-loc.adm.nat	O	O	O	Q188553	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Haag	B-loc	O	B-loc.adm.town	O	O	O	Q36600	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+29	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Heute	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+zweyte	O	O	O	O	O	O	_	_	_
+Kammer	O	O	O	O	O	O	_	_	_
+unsrer	O	O	O	O	O	O	_	_	_
+Gesezgebung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gebung	O	O	O	O	O	O	_	_	_|Commented
+dgs	O	O	O	O	O	O	_	_	_
+neue	O	O	O	O	O	O	_	_	_
+Auflagen	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+System	O	O	O	O	O	O	_	_	_
+genehmigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welches	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vier	O	O	O	O	O	O	_	_	_
+Prozenten	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Besitzungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+fünf	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+zehn	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Prozenten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+je	O	O	O	O	O	O	_	_	_
+nachdem	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+dreyhundert	O	O	O	O	O	O	_	_	_
+Gulden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+an	O	O	O	O	O	O	_	_	_
+gerechnet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+600	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Gulden	O	O	O	O	O	O	_	_	_
+Einkommens	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+das	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+J	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1798	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+endlich	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+drey	O	O	O	O	O	O	_	_	_
+Prozenten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ten	O	O	O	O	O	O	_	_	_|Commented
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Einkünfte	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+folgenden	O	O	O	O	O	O	_	_	_
+Jahre	O	O	O	O	O	O	_	_	_
+bis	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+1824	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+besteht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+ersten	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+nämlich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+vier	O	O	O	O	O	O	_	_	_
+Prozente	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+welche	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+vier	O	O	O	O	O	O	_	_	_
+Terminen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+entrichten	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+giebt	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Staat	O	O	O	O	O	O	_	_	_
+Schuldenscheine	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+vier	O	O	O	O	O	O	_	_	_
+Prozente	O	O	O	O	O	O	_	_	_
+verzinset	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+25	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+zahlbar	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+daherdenn	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+
+

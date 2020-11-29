@@ -1,0 +1,641 @@
+# language = de
+# newspaper = NZZ
+# date = 1808-10-18
+# document_id = NZZ-1808-10-18-a-p0011
+# segment_iiif_link = _
+Spanien	B-loc	O	B-loc.adm.nat	O	O	O	Q29	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+In	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Wiener	B-prod	O	B-prod.media	O	O	O	Q697173	_	NoSpaceAfter
+-	I-prod	O	I-prod.media	O	O	O	Q697173	_	NoSpaceAfter
+Hofzeitung	I-prod	O	I-prod.media	O	O	O	Q697173	_	_
+vom	O	O	O	O	O	O	_	_	_
+8	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Oct	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+liest	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Zeitungen	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Sevilla	B-loc	O	B-loc.adm.town	O	O	O	Q8717	_	_
+und	O	O	O	O	O	O	_	_	_
+viele	O	O	O	O	O	O	_	_	_
+andere	O	O	O	O	O	O	_	_	_
+Spanische	O	O	O	O	O	O	_	_	_
+Blätter	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ter	O	O	O	O	O	O	_	_	_|Commented
+enthalten	O	O	O	O	O	O	_	_	_
+außer	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	_
+Zahl	O	O	O	O	O	O	_	_	_
+bloß	O	O	O	O	O	O	_	_	_
+kriegerischer	O	O	O	O	O	O	_	_	_
+Aufund	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#und	O	O	O	O	O	O	_	_	_|Commented
+größtentheils	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+politischer	O	O	O	O	O	O	_	_	_
+Proklamationen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hier	O	O	O	O	O	O	_	_	_
+weggelassen	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+annoch	O	O	O	O	O	O	_	_	_
+folgende	O	O	O	O	O	O	_	_	_
+militärische	O	O	O	O	O	O	_	_	_
+Details	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Kriegsereignisse	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Spanien	B-loc	O	B-loc.adm.nat	O	O	O	Q29	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Am	O	O	O	O	O	O	_	_	_
+16	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Jul	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+General	B-pers	O	B-pers.ind	O	B-comp.title	O	Q124311	_	_
+Reding	I-pers	O	I-pers.ind	O	B-comp.name	O	Q124311	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Spitze	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+9000	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Mann	O	O	O	O	O	O	_	_	_
+starken	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Division	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Franzosen	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+bedeutendem	O	O	O	O	O	O	_	_	_
+Verlust	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+allen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ihren	O	O	O	O	O	O	_	_	_
+Verschanzungen	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Mengibar	B-loc	O	B-loc.adm.town	O	O	O	Q1645553	_	_
+vertrieben	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+vorzüglich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#züglich	O	O	O	O	O	O	_	_	_|Commented
+haben	O	O	O	O	O	O	_	_	_
+dabey	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+feindlichen	O	O	O	O	O	O	_	_	_
+Kürassiers	O	O	O	O	O	O	_	_	_
+gelitten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Marquis	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+Coupigny	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+5000	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Mann	O	O	O	O	O	O	_	_	_
+starken	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ken	O	O	O	O	O	O	_	_	_|Commented
+Division	O	O	O	O	O	O	_	_	_
+gemeinschaftlich	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Reding	B-pers	O	B-pers.ind	O	O	O	Q124311	_	_
+angriff	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+delogirte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Feind	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Villanueva	B-loc	O	B-loc.adm.town	O	O	O	Q24012251	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+200	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Franzosen	O	O	O	O	O	O	_	_	_
+blieben	O	O	O	O	O	O	_	_	_
+todt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+viele	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	_
+verwundet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+viele	O	O	O	O	O	O	_	_	_
+gefangen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Inzwischen	O	O	O	O	O	O	_	_	_
+rückte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aber	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Obergeneral	B-pers	O	B-pers.ind	O	B-comp.title	O	Q420319	_	_
+Castanhjos	I-pers	O	I-pers.ind	O	B-comp.name	O	Q420319	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Hauptarmeecorps	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#corps	O	O	O	O	O	O	_	_	_|Commented
+gegen	O	O	O	O	O	O	_	_	_
+Andujar	B-loc	O	B-loc.adm.town	O	O	O	Q528530	_	_
+vor	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+stellte	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Flanken	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Reding	B-pers	O	B-pers.ind	O	O	O	Q124311	_	_
+und	O	O	O	O	O	O	_	_	_
+Coupigny	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+beschäftigte	O	O	O	O	O	O	_	_	_
+feindliche	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Hauptmacht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Am	O	O	O	O	O	O	_	_	_
+19	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Jul	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+4	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Mitternacht	O	O	O	O	O	O	_	_	_
+erhielt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#hielt	O	O	O	O	O	O	_	_	_|Commented
+General	B-pers	O	B-pers.ind	O	B-comp.title	O	Q420319	_	_
+Castanhjos	I-pers	O	I-pers.ind	O	B-comp.name	O	Q420319	_	_
+die	O	O	O	O	O	O	_	_	_
+Nachricht	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Düpont	B-pers	O	B-pers.ind	O	O	O	Q969823	_	_
+habe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Andujar	B-loc	O	B-loc.adm.town	O	O	O	Q528530	_	_
+geräumt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ziehe	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+eiligst	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Hauptstraße	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nach	O	O	O	O	O	O	_	_	_
+Madrid	B-loc	O	B-loc.adm.town	O	O	O	Q2807	_	_
+zurück	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Hierauf	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	_
+augenblicklich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nöthigen	O	O	O	O	O	O	_	_	_
+Vorkehrungen	O	O	O	O	O	O	_	_	_
+getroffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ihn	O	O	O	O	O	O	_	_	_
+alsogleich	O	O	O	O	O	O	_	_	_
+ohne	O	O	O	O	O	O	_	_	_
+Unterlaß	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#laß	O	O	O	O	O	O	_	_	_|Commented
+im	O	O	O	O	O	O	_	_	_
+Rücken	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Flanke	O	O	O	O	O	O	_	_	_
+anzufallen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wodurch	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auch	O	O	O	O	O	O	_	_	_
+genöthiget	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Diskretion	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+ergeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Den	O	O	O	O	O	O	_	_	_
+29	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Jul	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Angriff	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Gerona	B-loc	O	B-loc.adm.town	O	O	O	Q7038	_	_
+hat	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Franzosen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sen	O	O	O	O	O	O	_	_	_|Commented
+über	O	O	O	O	O	O	_	_	_
+2000	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Mann	O	O	O	O	O	O	_	_	_
+gekostet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nach	O	O	O	O	O	O	_	_	_
+einigen	O	O	O	O	O	O	_	_	_
+Tagen	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+abermal	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+Gerona	B-loc	O	B-loc.adm.town	O	O	O	Q7038	_	_
+aufgebrochen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+bald	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+diesem	O	O	O	O	O	O	_	_	_
+Unternehmen	O	O	O	O	O	O	_	_	_
+abgestanden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Schon	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+1	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Jul	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+feindliche	O	O	O	O	O	O	_	_	_
+Angriff	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Arragonische	B-loc	O	B-loc.adm.town	O	O	O	Q10305	_	_
+Hauptstadt	I-loc	O	I-loc.adm.town	O	O	O	Q10305	_	_
+Saragossa	I-loc	O	I-loc.adm.town	O	B-comp.name	O	Q10305	_	NoSpaceAfter|Normalized-7
+#¬	I-loc	O	I-loc.adm.town	O	I-comp.name	O	Q10305	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ragossa	I-loc	O	I-loc.adm.town	O	I-comp.name	O	Q10305	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+General	B-pers	O	B-pers.ind	O	B-comp.title	O	Q83808	_	_
+Lefebvre	I-pers	O	I-pers.ind	O	B-comp.name	O	Q83808	_	_
+begonnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bombardement	O	O	O	O	O	O	_	_	_
+währte	O	O	O	O	O	O	_	_	_
+unaufhörlich	O	O	O	O	O	O	_	_	_
+drey	O	O	O	O	O	O	_	_	_
+Tage	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+binnen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nen	O	O	O	O	O	O	_	_	_|Commented
+welchen	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+2000	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Bomben	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Granaten	O	O	O	O	O	O	_	_	_
+fruchtlos	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Stadt	O	O	O	O	O	O	_	_	_
+fielen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+muthvollen	O	O	O	O	O	O	_	_	_
+Widerstand	O	O	O	O	O	O	_	_	_
+leistete	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stete	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Franzosen	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+ihren	O	O	O	O	O	O	_	_	_
+stürmenden	O	O	O	O	O	O	_	_	_
+Angriffen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+über	O	O	O	O	O	O	_	_	_
+300	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Mann	O	O	O	O	O	O	_	_	_
+verloren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Unmöglichkeit	O	O	O	O	O	O	_	_	_
+überzeugt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Saragossa	B-loc	O	B-loc.adm.town	O	O	O	Q10305	_	_
+zu	O	O	O	O	O	O	_	_	_
+bezwingen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+retirirten	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Villa	B-loc	O	B-loc.adm.town	O	O	O	Q836806	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.town	O	O	O	Q836806	_	NoSpaceAfter
+Feliche	I-loc	O	I-loc.adm.town	O	O	O	Q836806	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vermuthlich	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+dortigen	O	O	O	O	O	O	_	_	_
+Fabriken	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+neuen	O	O	O	O	O	O	_	_	_
+Pulvervorrath	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+versehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+aber	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+entschlossenen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Arragonier	O	O	O	O	O	O	_	_	_
+hatten	O	O	O	O	O	O	_	_	_
+bereits	O	O	O	O	O	O	_	_	_
+allen	O	O	O	O	O	O	_	_	_
+Kriegsvorrath	O	O	O	O	O	O	_	_	_
+weggeführt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Wir	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+viele	O	O	O	O	O	O	_	_	_
+Gefangene	O	O	O	O	O	O	_	_	_
+gemacht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Feinde	O	O	O	O	O	O	_	_	_
+beträchtliche	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#trächtliche	O	O	O	O	O	O	_	_	_|Commented
+Waffenvorräthe	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+kostbare	O	O	O	O	O	O	_	_	_
+Effekten	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+großer	O	O	O	O	O	O	_	_	_
+Zahl	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wieder	O	O	O	O	O	O	_	_	_
+abgenommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Den	O	O	O	O	O	O	_	_	_
+30	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Jul	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Am	O	O	O	O	O	O	_	_	_
+23	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+defilirte	O	O	O	O	O	O	_	_	_
+8000	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Mann	O	O	O	O	O	O	_	_	_
+stark	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Division	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Generals	B-pers	O	B-pers.ind	O	B-comp.title	O	Q969823	_	_
+Düpont	I-pers	O	I-pers.ind	O	B-comp.name	O	Q969823	_	_
+durch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+spanischen	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Gegenwart	O	O	O	O	O	O	_	_	_
+ihres	O	O	O	O	O	O	_	_	_
+Obergenerals	B-pers	O	B-pers.ind	O	B-comp.title	O	Q420319	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q420319	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Castanhjos	I-pers	O	I-pers.ind	O	B-comp.name	O	Q420319	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+streckte	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Gewehr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Artillerie	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Adler	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Munition	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Bagage	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Spaniern	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+übergeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+spanischen	O	O	O	O	O	O	_	_	_
+Städten	O	O	O	O	O	O	_	_	_
+gemachte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+reiche	O	O	O	O	O	O	_	_	_
+Beute	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Offizieren	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Degen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+sämtliche	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bagage	O	O	O	O	O	O	_	_	_
+gelassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Am	O	O	O	O	O	O	_	_	_
+24	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Jul	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Divisionen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Generale	B-pers	O	B-pers.ind	O	B-comp.title	O	Q3035222	_	_
+Vedel	I-pers	O	I-pers.ind	O	B-comp.name	O	Q3035222	_	_
+und	O	O	O	O	O	O	_	_	_
+Goubot	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+gleichfalls	O	O	O	O	O	O	_	_	_
+kapitulirt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Waffen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Artillerie	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Spaniern	O	O	O	O	O	O	_	_	_
+übergeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ueber	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+600	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Franzosen	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+krank	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Andujar	B-loc	O	B-loc.adm.town	O	O	O	Q528530	_	_
+und	O	O	O	O	O	O	_	_	_
+Baylen	B-loc	O	B-loc.adm.town	O	O	O	Q24013288	_	_
+zurückgeblieben	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-13
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rückgeblieben	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+Düponts	B-pers	O	B-pers.ind	O	O	O	Q969823	_	_
+ganzer	O	O	O	O	O	O	_	_	_
+Verlust	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+Todten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Verwundeten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Deserteurs	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nebst	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+17,000	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Mann	O	O	O	O	O	O	_	_	_
+Gefangenen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fangenen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+seit	O	O	O	O	O	O	_	_	_
+Anfangs	O	O	O	O	O	O	_	_	_
+Juli	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+20,000	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+M	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+rechnen	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

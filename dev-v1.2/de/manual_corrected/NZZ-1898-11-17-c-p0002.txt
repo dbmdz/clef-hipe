@@ -1,0 +1,324 @@
+# language = de
+# newspaper = NZZ
+# date = 1898-11-17
+# document_id = NZZ-1898-11-17-c-p0002
+# segment_iiif_link = _
+Kantone	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Zürich	B-loc	O	B-loc.adm.reg	O	O	O	Q72	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Auf	O	O	O	O	O	O	_	_	_
+Ersuchen	O	O	O	O	O	O	_	_	_
+machen	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+nochmals	O	O	O	O	O	O	_	_	_
+darauf	O	O	O	O	O	O	_	_	_
+aufmerksam	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sam	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Versammlung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Offiziersgesellschaft	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter|Normalized-6
+#¬	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schaft	I-org	O	I-org.ent	O	O	O	NIL	_	_|Commented
+des	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Kantons	I-org	O	I-org.ent	O	O	B-loc.adm.reg	NIL	_	_
+Zürich	I-org	O	I-org.ent	O	O	I-loc.adm.reg	NIL	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Jahr	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Winterthur	B-loc	O	B-loc.adm.town	O	O	O	Q9125	_	_
+nächsten	O	O	O	O	O	O	_	_	_
+Sonntag	O	O	O	O	O	O	_	_	_
+stattfindet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Herr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+Oberst	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+J	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+Isler	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+Kreisinstruktor	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	_
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+VI	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+Division	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+verdankenswertester	O	O	O	O	O	O	_	_	_
+Weise	O	O	O	O	O	O	_	_	_
+bereitwilligst	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Vortrag	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+übernommen	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Thema	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Die	O	O	O	O	O	O	_	_	_
+Wiederholungskurse	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kurse	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Infanterie	O	O	O	O	O	O	_	_	_
+seit	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+1877	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+und	O	O	O	O	O	O	_	_	_
+deren	O	O	O	O	O	O	_	_	_
+Ausgestaltung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+Detachementsübungen	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+Mitwirkung	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Kavallerie	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lerie	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+Artillerie	O	O	O	O	O	O	_	_	NoSpaceAfter
+""""	O	O	O	O	O	O	_	_	_
+Für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+beiden	O	O	O	O	O	O	_	_	_
+letztern	O	O	O	O	O	O	_	_	_
+Waffengattungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gattungen	O	O	O	O	O	O	_	_	_|Commented
+haben	O	O	O	O	O	O	_	_	_
+je	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+besondere	O	O	O	O	O	O	_	_	_
+Berichterstatter	O	O	O	O	O	O	_	_	_
+freundlichst	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lichst	O	O	O	O	O	O	_	_	_|Commented
+zugesagt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Gegenstand	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+allgemeinen	O	O	O	O	O	O	_	_	_
+Beachtung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#achtung	O	O	O	O	O	O	_	_	_|Commented
+wert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Vortragenden	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+seitens	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Offiziere	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+zahlreichen	O	O	O	O	O	O	_	_	_
+Besuch	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Versammlung	O	O	O	O	O	O	_	_	_
+gewiß	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wiß	O	O	O	O	O	O	_	_	_|Commented
+gerne	O	O	O	O	O	O	_	_	_
+kameradschaftliche	O	O	O	O	O	O	_	_	_
+Anerkennung	O	O	O	O	O	O	_	_	_
+gezollt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Deifin	B-loc	O	B-loc.adm.reg	O	O	O	Q31008	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+Tessiner	O	O	O	O	O	O	_	_	_
+Staatsrat	O	O	O	O	O	O	_	_	_
+sah	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+veranlaßt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eine	O	O	O	O	O	O	_	_	_
+Reihe	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Gemeinden	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Bußen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+belegen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Abstimmungsakten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vom	O	O	O	O	O	O	_	_	_
+13	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+November	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+binnen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+vorgeschriebenen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#benen	O	O	O	O	O	O	_	_	_|Commented
+Zeit	O	O	O	O	O	O	_	_	_
+ablieferten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Genannt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+Caneggio	B-loc	O	B-loc.adm.town	O	O	O	Q58937	_	NoSpaceAfter|Normalized-3
+#¬	I-loc	O	I-loc.adm.town	O	O	O	Q58937	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gio	I-loc	O	I-loc.adm.town	O	O	O	Q58937	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+Bogno	B-loc	O	B-loc.adm.town	O	O	O	Q68827	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Crana	B-loc	O	B-loc.adm.town	O	O	O	Q3696491	_	_
+und	O	O	O	O	O	O	_	_	_
+Ponte	B-loc	O	B-loc.adm.town	O	O	O	Q1651161	_	_
+Valentino	I-loc	O	I-loc.adm.town	O	O	O	Q1651161	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+rebrigens	O	O	O	O	O	O	_	_	_
+beträgt	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Buße	O	O	O	O	O	O	_	_	_
+jeweilen	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+fünf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Franken	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Wallis	B-loc	O	B-loc.adm.reg	O	O	O	Q834	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+Regierungsrat	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Modus	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Verteilung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lung	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Liebesgaben	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Abgebranntendes	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bergdörfchens	B-loc	O	B-loc.adm.town	O	O	O	Q70355	_	_
+Randogne	I-loc	O	I-loc.adm.town	O	B-comp.name	O	Q70355	_	_
+endgültig	O	O	O	O	O	O	_	_	_
+dahin	O	O	O	O	O	O	_	_	_
+festgestellt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gestellt	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Katastrophe	O	O	O	O	O	O	_	_	_
+heimgesuchten	O	O	O	O	O	O	_	_	_
+Leute	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+je	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+ihren	O	O	O	O	O	O	_	_	_
+Vermögensverhältnissen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+10	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+20	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+80	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+40	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+50	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+70	O	O	O	O	O	O	_	_	_
+Prozent	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+erlittenen	O	O	O	O	O	O	_	_	_
+Schadens	O	O	O	O	O	O	_	_	_
+vergütet	O	O	O	O	O	O	_	_	_
+erhalten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#halten	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Der	O	O	O	O	O	O	_	_	_
+Gesamtschaden	O	O	O	O	O	O	_	_	_
+betrug	O	O	O	O	O	O	_	_	_
+117,322	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+;	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Liebesgabensammlung	O	O	O	O	O	O	_	_	_
+ergab	O	O	O	O	O	O	_	_	_
+52,479	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wovon	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+10,718	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Form	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Naturalien	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Rest	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+bar	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

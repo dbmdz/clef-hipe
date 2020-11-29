@@ -1,0 +1,211 @@
+# language = de
+# newspaper = luxwort
+# date = 1938-08-10
+# document_id = luxwort-1938-08-10-a-i0029
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f2/2981,4987,635,41/full/0/default.jpg
+Moskau	B-loc	B-org	B-loc.adm.town	B-org.adm	O	O	Q649	Q649	_
+lehnt	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+japanischen	O	O	O	O	O	O	_	_	_
+Protest	O	O	O	O	O	O	_	_	_
+ab	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f2/2995,5029,636,47/full/0/default.jpg
+Moskau	B-loc	O	B-loc.adm.town	O	O	O	Q649	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+9	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+August	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+DNS	B-org	O	B-org.ent.pressagency	O	O	O	Q1205856	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Heute	O	O	O	O	O	O	_	_	_
+nachmit	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/79,139,685,50/full/0/default.jpg
+tag	O	O	O	O	O	O	_	_	_
+sprach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+erste	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Sekretär	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+japanischen	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/79,174,672,49/full/0/default.jpg
+Botschaft	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+in	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+Moskau	I-pers	O	I-pers.ind	O	I-comp.function	B-loc.adm.town	NIL	_	_
+Mijakawa	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/79,209,685,51/full/0/default.jpg
+fernöstlichen	O	O	O	O	O	O	_	_	_
+Abteilung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Moskauer	O	O	O	O	O	O	_	_	_
+Außeukom	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/81,245,683,49/full/0/default.jpg
+miffariats	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+energischen	O	O	O	O	O	O	_	_	_
+Protest	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/79,281,685,44/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+japanisdien	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+auszusprechen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/80,315,665,50/full/0/default.jpg
+Zusammenhang	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/79,353,684,49/full/0/default.jpg
+Zusammenstoß	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+sowjetisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+mandschurischen	O	O	O	O	O	O	_	_	_
+Grenze	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/77,393,687,38/full/0/default.jpg
+vom	O	O	O	O	O	O	_	_	_
+7	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+8	O	O	O	O	O	O	_	_	NoSpaceAfter
+/	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Rayon	O	O	O	O	O	O	_	_	_
+Grodekowo	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+ungefähr	O	O	O	O	O	O	_	_	_
+200	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/80,422,681,44/full/0/default.jpg
+Kilometer	O	O	O	O	O	O	_	_	_
+nördlich	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Schangfeng	B-loc	O	B-loc.adm.reg	O	B-comp.name	O	Q5071961	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.reg	O	O	O	Q5071961	_	NoSpaceAfter
+Gebietes	I-loc	O	I-loc.adm.reg	O	O	O	Q5071961	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/79,457,683,45/full/0/default.jpg
+unweit	O	O	O	O	O	O	_	_	_
+de	O	O	O	O	O	O	_	_	NoSpaceAfter
+«	O	O	O	O	O	O	_	_	_
+Hanka	B-loc	O	B-loc.oro	O	B-comp.name	O	NIL	_	NoSpaceAfter
+-	I-loc	O	I-loc.oro	O	O	O	NIL	_	NoSpaceAfter
+Weges	I-loc	O	I-loc.oro	O	O	O	NIL	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Dort	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/77,492,669,51/full/0/default.jpg
+japanischer	O	O	O	O	O	O	_	_	_
+Darstellung	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+sowjetische	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/80,529,663,49/full/0/default.jpg
+Abteilung	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+japanische	O	O	O	O	O	O	_	_	_
+Grenzmache	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/80,562,682,51/full/0/default.jpg
+Masd	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+inengewehrfeuer	O	O	O	O	O	O	_	_	_
+angeschossen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/77,600,668,43/full/0/default.jpg
+dann	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+Verlusten	O	O	O	O	O	O	_	_	_
+zurückgeschlagen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/77,634,685,44/full/0/default.jpg
+moiden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auf	O	O	O	O	O	O	_	_	_
+beiden	O	O	O	O	O	O	_	_	_
+Seiten	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	_
+mehrere	O	O	O	O	O	O	_	_	_
+Tote	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/77,668,685,45/full/0/default.jpg
+und	O	O	O	O	O	O	_	_	_
+Vermundete	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+verzeichnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Diesen	O	O	O	O	O	O	_	_	_
+Fall	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/77,705,669,50/full/0/default.jpg
+hatte	O	O	O	O	O	O	_	_	_
+bereits	O	O	O	O	O	O	_	_	_
+Litwinow	B-pers	O	B-pers.ind	O	O	O	Q310100	_	_
+in	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/77,739,685,50/full/0/default.jpg
+Gesprach	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+japanischen	O	O	O	O	O	O	_	_	_
+Botschafter	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/77,776,685,43/full/0/default.jpg
+7	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+8	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+berührt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+diesen	O	O	O	O	O	O	_	_	_
+jedoch	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+dargestellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/77,810,670,44/full/0/default.jpg
+als	O	O	O	O	O	O	_	_	_
+ob	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+japanischen	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/76,846,668,49/full/0/default.jpg
+sowjetrusfischen	O	O	O	O	O	O	_	_	_
+Grenzwächter	O	O	O	O	O	O	_	_	_
+angegriffen	O	O	O	O	O	O	_	_	_
+hätten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/79,882,668,50/full/0/default.jpg
+Dementsprechend	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+heutige	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f9hdghc%2fpages%2f3/77,917,683,50/full/0/default.jpg
+japanische	O	O	O	O	O	O	_	_	_
+Protest	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+sowjetischer	O	O	O	O	O	O	_	_	_
+Seite	O	O	O	O	O	O	_	_	_
+abgelehnt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

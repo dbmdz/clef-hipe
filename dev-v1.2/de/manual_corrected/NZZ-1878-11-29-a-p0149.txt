@@ -1,0 +1,1041 @@
+# language = de
+# newspaper = NZZ
+# date = 1878-11-29
+# document_id = NZZ-1878-11-29-a-p0149
+# segment_iiif_link = _
+Deutschland	B-loc	O	B-loc.adm.nat	O	O	O	Q183	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Berlin	B-loc	O	B-loc.adm.town	O	O	O	Q64	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+16	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Dezbr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Orig	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Korr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+letzte	O	O	O	O	O	O	_	_	_
+parlamentarische	O	O	O	O	O	O	_	_	_
+Woche	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+Niemanden	O	O	O	O	O	O	_	_	_
+recht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erfreut	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Von	O	O	O	O	O	O	_	_	_
+Seiten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+liberalen	O	O	O	O	O	O	_	_	_
+Parteien	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Wahlbeeinflussungen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+sonstigen	O	O	O	O	O	O	_	_	_
+Mittel	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+öffentliche	O	O	O	O	O	O	_	_	_
+Meinung	O	O	O	O	O	O	_	_	_
+einzuwirken	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wirken	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+schweren	O	O	O	O	O	O	_	_	_
+Kritik	O	O	O	O	O	O	_	_	_
+unterworfen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+manches	O	O	O	O	O	O	_	_	_
+Wahre	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+allgemeinen	O	O	O	O	O	O	_	_	_
+Gründen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nie	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Ziele	O	O	O	O	O	O	_	_	_
+führt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+So	O	O	O	O	O	O	_	_	_
+lange	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Parteien	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nicht	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Regiment	O	O	O	O	O	O	_	_	_
+ablösen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+England	B-loc	O	B-loc.adm.nat	O	O	O	Q21	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Frankreich	B-loc	O	B-loc.adm.nat	O	O	O	Q142	_	NoSpaceAfter|Normalized-5
+#¬	I-loc	O	I-loc.adm.nat	O	O	O	Q142	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#reich	I-loc	O	I-loc.adm.nat	O	O	O	Q142	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+Amerika	B-loc	O	B-loc.adm.nat	O	O	O	Q30	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	_
+und	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Ministerium	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+außerhalb	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Parlamentes	O	O	O	O	O	O	_	_	_
+steht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+unmöglich	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Mittel	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+berauben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Stellung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Presse	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+vertreten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Diese	O	O	O	O	O	O	_	_	_
+außerparlamentarische	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Regierung	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+allen	O	O	O	O	O	O	_	_	_
+Parteien	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+augenblickliche	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#blickliche	O	O	O	O	O	O	_	_	_|Commented
+Nothwendigkeit	O	O	O	O	O	O	_	_	_
+anerkannt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+lange	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gegenwärtige	O	O	O	O	O	O	_	_	_
+Zersplitterung	O	O	O	O	O	O	_	_	_
+fortdauert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+hauptsächlich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sächlich	O	O	O	O	O	O	_	_	_|Commented
+durch	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Kulturkampf	O	O	O	O	O	O	_	_	_
+bedingt	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welcher	O	O	O	O	O	O	_	_	_
+statt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einer	O	O	O	O	O	O	_	_	_
+naturgemäßen	O	O	O	O	O	O	_	_	_
+Zweitheilung	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Dreitheilung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+veranlaßt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+erst	O	O	O	O	O	O	_	_	_
+vollständig	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+beseitigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+Parteien	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Grundlagen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lagen	O	O	O	O	O	O	_	_	_|Commented
+des	O	O	O	O	O	O	_	_	_
+Staatslebens	O	O	O	O	O	O	_	_	_
+verständigt	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+immer	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Fall	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Namentlich	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wegen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Militärverwaltung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Hier	O	O	O	O	O	O	_	_	_
+wünschen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Liberalen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+nachdrücklicher	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+je	O	O	O	O	O	O	_	_	_
+weiter	O	O	O	O	O	O	_	_	_
+links	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+jeder	O	O	O	O	O	O	_	_	_
+steht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Beschränkung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Ausgaben	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Sicherung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+parlamentarischen	O	O	O	O	O	O	_	_	_
+Einflusses	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+während	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Krone	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Sicherung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+gegenwärtigen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wärtigen	O	O	O	O	O	O	_	_	_|Commented
+Bestandes	O	O	O	O	O	O	_	_	_
+ängstlich	O	O	O	O	O	O	_	_	_
+besteht	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+jeden	O	O	O	O	O	O	_	_	_
+Eingriff	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#griff	O	O	O	O	O	O	_	_	_|Commented
+in	O	O	O	O	O	O	_	_	_
+denselben	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Gefahr	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Staat	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ansieht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+dies	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Folge	O	O	O	O	O	O	_	_	_
+jener	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+glücklichen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Politik	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Reorganisation	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Armee	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+ersten	O	O	O	O	O	O	_	_	_
+beiden	O	O	O	O	O	O	_	_	_
+Kriegen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+Dänemark	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q35	Q35	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+Oesterreich	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q40	Q40	_
+—	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+dritte	O	O	O	O	O	O	_	_	_
+fand	O	O	O	O	O	O	_	_	_
+ja	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+allgemeiner	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#meiner	O	O	O	O	O	O	_	_	_|Commented
+Zustimmung	O	O	O	O	O	O	_	_	_
+statt	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Mittel	O	O	O	O	O	O	_	_	_
+verweigerte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+welche	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+nothwendig	O	O	O	O	O	O	_	_	_
+herausgestellt	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Wenn	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Volksvertretung	O	O	O	O	O	O	_	_	_
+damals	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Bedenken	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hätte	O	O	O	O	O	O	_	_	_
+überwinden	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+wären	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+größten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schwierigkeiten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+konstitutionelle	O	O	O	O	O	O	_	_	_
+Weiterentwicklung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wicklung	O	O	O	O	O	O	_	_	_|Commented
+beseitigt	O	O	O	O	O	O	_	_	_
+gewesen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Stimmung	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Lande	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	_
+unzweifelhaft	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sehr	O	O	O	O	O	O	_	_	_
+konservativ	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+sagen	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+reaktionär	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Sie	O	O	O	O	O	O	_	_	_
+geht	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Richtung	O	O	O	O	O	O	_	_	_
+vielfach	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Haltung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tung	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+jetzigen	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+hinaus	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	_
+Wahl	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+bedeutende	O	O	O	O	O	O	_	_	_
+Anzahl	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Abgeordneter	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Reichstag	B-org	O	B-org.adm	O	O	O	Q160208	_	_
+gewählt	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+welche	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+pro	O	O	O	O	O	O	_	_	_
+tempore	O	O	O	O	O	O	_	_	_
+unterstützen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Modifikation	O	O	O	O	O	O	_	_	_
+derselben	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+rechts	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Freuden	O	O	O	O	O	O	_	_	_
+begrüßen	O	O	O	O	O	O	_	_	_
+würde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Ende	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Prozesses	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+keineswegs	O	O	O	O	O	O	_	_	_
+abzusehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+richtige	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Politik	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Opposition	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+allervorsichtigste	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tigste	O	O	O	O	O	O	_	_	_|Commented
+zu	O	O	O	O	O	O	_	_	_
+laviren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+jetzigen	O	O	O	O	O	O	_	_	_
+Bestand	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+retten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+ersten	O	O	O	O	O	O	_	_	_
+Anzeichen	O	O	O	O	O	O	_	_	_
+veränderter	O	O	O	O	O	O	_	_	_
+Stimmung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+neuer	O	O	O	O	O	O	_	_	_
+Kraft	O	O	O	O	O	O	_	_	_
+vorzugehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+während	O	O	O	O	O	O	_	_	_
+ihr	O	O	O	O	O	O	_	_	_
+jetziges	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Verhalten	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Menge	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+schwächeren	O	O	O	O	O	O	_	_	_
+Freunde	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+abschreckt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Endlosigkeit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Debatten	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+so	O	O	O	O	O	O	_	_	_
+schlechten	O	O	O	O	O	O	_	_	_
+Eindruck	O	O	O	O	O	O	_	_	_
+macht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+besten	O	O	O	O	O	O	_	_	_
+Freunde	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+parlamentarischen	O	O	O	O	O	O	_	_	_
+Entwicklung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+mögen	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+so	O	O	O	O	O	O	_	_	_
+konservativ	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+darüber	O	O	O	O	O	O	_	_	_
+erschreckt	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Selbst	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+fortschrittlichen	O	O	O	O	O	O	_	_	_
+Kreisen	O	O	O	O	O	O	_	_	_
+sieht	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+dies	O	O	O	O	O	O	_	_	_
+einigermaßen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#germaßen	O	O	O	O	O	O	_	_	_|Commented
+ein	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+dort	O	O	O	O	O	O	_	_	_
+davon	O	O	O	O	O	O	_	_	_
+entwöhnt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wöhnt	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+realen	O	O	O	O	O	O	_	_	_
+Verhältnissen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+rechnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+tröstet	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+damit	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Wahrung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Prinzips	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+sicherste	O	O	O	O	O	O	_	_	_
+Weg	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Verlorene	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erobern	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Zukunft	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+entscheiden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ob	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Berechnung	O	O	O	O	O	O	_	_	_
+richtig	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+In	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+auswärtigen	O	O	O	O	O	O	_	_	_
+Politik	O	O	O	O	O	O	_	_	_
+scheint	O	O	O	O	O	O	_	_	_
+Deutschland	B-loc	O	B-loc.adm.nat	O	O	B-org.adm	Q183	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+seit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Weggange	O	O	O	O	O	O	_	_	_
+Bismarck'	B-pers	O	B-pers.ind	O	O	O	Q8442	_	NoSpaceAfter
+s	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Berlin	B-loc	O	B-loc.adm.town	O	O	O	Q64	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Szene	O	O	O	O	O	O	_	_	_
+verschwunden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Diese	O	O	O	O	O	O	_	_	_
+Taktik	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bismarck	B-pers	O	B-pers.ind	O	O	O	Q8442	_	_
+stets	O	O	O	O	O	O	_	_	_
+geübt	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+Verhältnisse	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vor	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+sah	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+beherrschen	O	O	O	O	O	O	_	_	_
+konnte	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+welche	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+deshalb	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	_
+entwickeln	O	O	O	O	O	O	_	_	_
+lassen	O	O	O	O	O	O	_	_	_
+wollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Nichts	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	_
+undankbarer	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+heut	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Streit	O	O	O	O	O	O	_	_	_
+Englands	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q21	Q21	_
+und	O	O	O	O	O	O	_	_	_
+Rußlands	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q159	Q159	_
+einzumischen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nach	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Prinzipien	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bismarck'	B-pers	O	B-pers.ind	O	O	O	Q8442	_	NoSpaceAfter
+schen	O	O	O	O	O	O	_	_	_
+Politik	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nun	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+gar	O	O	O	O	O	O	_	_	_
+undenkbar	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+etwa	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+innere	O	O	O	O	O	O	_	_	_
+Entwicklung	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Rußland	B-loc	O	B-loc.adm.nat	O	O	O	Q159	_	_
+oder	O	O	O	O	O	O	_	_	_
+Oesterreich	B-loc	O	B-loc.adm.nat	O	O	O	Q40	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+irgend	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Druck	O	O	O	O	O	O	_	_	_
+ausüben	O	O	O	O	O	O	_	_	_
+wollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Was	O	O	O	O	O	O	_	_	_
+Oesterreich	B-loc	O	B-loc.adm.nat	O	O	O	Q40	_	NoSpaceAfter|Normalized-5
+#¬	I-loc	O	I-loc.adm.nat	O	O	O	Q40	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#reich	I-loc	O	I-loc.adm.nat	O	O	O	Q40	_	_|Commented
+betrifft	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+enge	O	O	O	O	O	O	_	_	_
+Verbindung	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Andrassy	B-pers	O	B-pers.ind	O	O	O	Q313557	_	_
+aufs	O	O	O	O	O	O	_	_	_
+deutlichste	O	O	O	O	O	O	_	_	_
+ausgesprochen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Andrafsy	B-pers	O	B-pers.ind	O	O	O	Q313557	_	NoSpaceAfter|Normalized-6
+#¬	I-pers	O	I-pers.ind	O	O	O	Q313557	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#drafsy	I-pers	O	I-pers.ind	O	O	O	Q313557	_	_|Commented
+hat	O	O	O	O	O	O	_	_	_
+seinerseits	O	O	O	O	O	O	_	_	_
+gethan	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+thun	O	O	O	O	O	O	_	_	_
+konnte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+um	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+geschenkte	O	O	O	O	O	O	_	_	_
+Vertrauen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+rechtfertigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Hält	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+Andrassy	B-pers	O	B-pers.ind	O	O	O	Q313557	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+bleibt	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Verhältniß	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+alte	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+stürzt	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+tritt	O	O	O	O	O	O	_	_	_
+zwar	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+nothwendiger	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Weise	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+feindselige	O	O	O	O	O	O	_	_	_
+Stimmung	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+doch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eine	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+bedeutende	O	O	O	O	O	O	_	_	_
+Umwandlung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Man	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Alles	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Oesterreich	B-loc	O	B-loc.adm.nat	O	O	O	Q40	_	_
+geschieht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Mißtrauen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+beobachten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Sehr	O	O	O	O	O	O	_	_	_
+dunkel	O	O	O	O	O	O	_	_	_
+liegen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+russischen	O	O	O	O	O	O	_	_	_
+Angelegenheiten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#heiten	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+Reich	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	_
+Schwächezustand	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zustand	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+Haltung	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Asien	B-loc	O	B-loc.adm.sup	O	O	O	Q48	_	_
+beweist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Engländer	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Sprunge	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+mühsame	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vierzigjährige	O	O	O	O	O	O	_	_	_
+Arbeit	O	O	O	O	O	O	_	_	_
+Rußlands	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q159	Q159	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+Einfluß	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Centralasien	B-loc	O	B-loc.adm.sup	O	O	O	Q27275	_	_
+zu	O	O	O	O	O	O	_	_	_
+begründen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+kühnen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schlage	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+vernichten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Gelingt	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+ihnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Afghanistan	B-loc	O	B-loc.adm.nat	O	O	O	Q889	_	_
+festen	O	O	O	O	O	O	_	_	_
+Fuß	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+fassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Indien	B-loc	O	B-loc.adm.nat	O	O	O	Q668	_	_
+von	O	O	O	O	O	O	_	_	_
+Rußland	B-loc	O	B-loc.adm.nat	O	O	O	Q159	_	_
+bedroht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+russische	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sische	O	O	O	O	O	O	_	_	_|Commented
+Stellung	O	O	O	O	O	O	_	_	_
+östlich	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Kaspischen	B-loc	O	B-loc.phys.hydro	O	O	O	Q5484	_	_
+Meere	I-loc	O	I-loc.phys.hydro	O	O	O	Q5484	_	_
+gefährdet	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fährdet	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Noch	O	O	O	O	O	O	_	_	_
+schlimmer	O	O	O	O	O	O	_	_	_
+sieht	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Innern	O	O	O	O	O	O	_	_	_
+Rußlands	B-loc	O	B-loc.adm.nat	O	O	O	Q3708651	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aus	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Manche	O	O	O	O	O	O	_	_	_
+glauben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Katastrophe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+unvermeidlich	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+schöpferische	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rische	O	O	O	O	O	O	_	_	_|Commented
+Kraft	O	O	O	O	O	O	_	_	_
+verloren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+strengt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ausbrüche	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Unzufriedenheit	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+unterdrücken	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aber	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+gebildeten	O	O	O	O	O	O	_	_	_
+Klassen	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+ihr	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+höchsten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Grade	O	O	O	O	O	O	_	_	_
+feindlich	O	O	O	O	O	O	_	_	_
+gesinnt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+da	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+entbehren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+numerisch	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+wenig	O	O	O	O	O	O	_	_	_
+stark	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sind	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+Intelligenz	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+wenig	O	O	O	O	O	O	_	_	_
+hoch	O	O	O	O	O	O	_	_	_
+stehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+Rußland	B-loc	O	B-loc.adm.nat	O	O	O	Q159	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Welt	O	O	O	O	O	O	_	_	_
+eben	O	O	O	O	O	O	_	_	_
+Alles	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+relativ	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

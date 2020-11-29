@@ -1,0 +1,316 @@
+# language = de
+# newspaper = luxwort
+# date = 1948-09-29
+# document_id = luxwort-1948-09-29-a-i0041
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3016,905,1411,80/full/0/default.jpg
+Ende	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Pariser	O	O	O	O	O	O	_	_	_
+Verteidigungskonferenz	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3079,991,1276,58/full/0/default.jpg
+Schaffung	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+ständigen	O	O	O	O	O	O	_	_	_
+internationalen	O	O	O	O	O	O	_	_	_
+Kommandos	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3051,1055,643,50/full/0/default.jpg
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+29	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Sept	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+AP	B-org	O	B-org.ent.pressagency	O	O	O	Q40469	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3018,1096,693,50/full/0/default.jpg
+Verteidigungsminister	O	O	O	O	O	O	_	_	_
+Großbritanniens	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q145	Q145	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Frankreichs	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q142	Q142	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3017,1137,693,48/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Beneluxstaaten	B-loc	B-org	B-loc.adm.sup	B-org.adm	O	O	Q13116	Q13116	_
+beendeten	O	O	O	O	O	O	_	_	_
+gestern	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3021,1178,691,54/full/0/default.jpg
+Besprechungen	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+ihren	O	O	O	O	O	O	_	_	_
+Stabschef	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3018,1217,681,48/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+beschleunigte	O	O	O	O	O	O	_	_	_
+Durchführung	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3018,1257,693,53/full/0/default.jpg
+militärisdhen	O	O	O	O	O	O	_	_	_
+Programme	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Gestern	O	O	O	O	O	O	_	_	_
+abend	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3018,1298,679,48/full/0/default.jpg
+wurde	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+kurzes	O	O	O	O	O	O	_	_	_
+Communiqué	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3022,1338,677,57/full/0/default.jpg
+veröffentlicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+welchem	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+heißt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3020,1380,675,54/full/0/default.jpg
+Verteidigungsminister	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+fünf	O	O	O	O	O	O	_	_	_
+Staaten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3020,1419,693,57/full/0/default.jpg
+Westunion	B-org	O	B-org.adm	O	O	O	Q7988404	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+seien	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Errichtung	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+ständigen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3020,1461,677,47/full/0/default.jpg
+internationalen	O	O	O	O	O	O	_	_	_
+Kommandos	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3020,1503,677,51/full/0/default.jpg
+Vorbereitung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Verteidigung	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Gebiete	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3666,1508,31,44/full/0/default.jpg
+geschritte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3055,1579,660,48/full/0/default.jpg
+n	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Als	O	O	O	O	O	O	_	_	_
+Ergebnis	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+zweitägigen	O	O	O	O	O	O	_	_	_
+Konferenz	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3022,1620,694,48/full/0/default.jpg
+im	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	_
+Kriegsministerium	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3024,1660,675,48/full/0/default.jpg
+amerikanische	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+kanadische	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3022,1705,692,43/full/0/default.jpg
+Beobachter	O	O	O	O	O	O	_	_	_
+zugegen	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+verpflichteten	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3022,1742,678,47/full/0/default.jpg
+Minister	O	O	O	O	O	O	_	_	_
+Großbritanniens	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q145	Q145	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Frankreichs	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q142	Q142	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3023,1781,679,58/full/0/default.jpg
+Hollands	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q55	Q55	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Belgiens	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q31	Q31	_
+und	O	O	O	O	O	O	_	_	_
+Luxemburgs	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q32	Q32	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3023,1822,677,48/full/0/default.jpg
+untereinander	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Politik	O	O	O	O	O	O	_	_	_
+gemeinsamer	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3023,1862,676,56/full/0/default.jpg
+Verteidigung	O	O	O	O	O	O	_	_	_
+gemäß	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Brüsseler	B-org	O	B-org.adm	O	B-comp.demonym	O	Q7988404	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3559,1859,140,49/full/0/default.jpg
+Fünfmäc	I-org	O	I-org.adm	O	O	O	Q7988404	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3061,1945,643,47/full/0/default.jpg
+htepakt	I-org	O	I-org.adm	O	O	O	Q7988404	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+ständige	O	O	O	O	O	O	_	_	_
+Kommando	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3024,1985,679,45/full/0/default.jpg
+Politik	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Tat	O	O	O	O	O	O	_	_	_
+umsetzen	O	O	O	O	O	O	_	_	_
+sowie	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3028,2024,690,54/full/0/default.jpg
+Zusammenfassung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Produktion	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3025,2064,693,54/full/0/default.jpg
+Materialbeschaffung	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+einander	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3025,2105,693,55/full/0/default.jpg
+ergänzenden	O	O	O	O	O	O	_	_	_
+militärischen	O	O	O	O	O	O	_	_	_
+Einrichtungen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3027,2155,691,48/full/0/default.jpg
+sorgen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+weiter	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Communiqué	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3028,2187,177,53/full/0/default.jpg
+hervorgeht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3061,2228,657,47/full/0/default.jpg
+Das	O	O	O	O	O	O	_	_	_
+ständige	O	O	O	O	O	O	_	_	_
+internationale	O	O	O	O	O	O	_	_	_
+Kommando	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3025,2268,680,47/full/0/default.jpg
+wird	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Beschluß	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Minister	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3027,2312,691,44/full/0/default.jpg
+Elemente	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+Land	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+See	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3033,2349,685,48/full/0/default.jpg
+Luftkommandos	O	O	O	O	O	O	_	_	_
+einbegreifen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3746,1057,476,55/full/0/default.jpg
+ständigen	O	O	O	O	O	O	_	_	_
+militärischen	O	O	O	O	O	O	_	_	_
+Leiter	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3748,1099,687,48/full/0/default.jpg
+Es	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+taktischen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+technischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3751,1139,685,48/full/0/default.jpg
+Probleme	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Verteidigung	O	O	O	O	O	O	_	_	_
+Westeuropas	B-loc	O	B-loc.adm.sup	O	O	O	Q27496	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3748,1180,148,45/full/0/default.jpg
+studieren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3784,1221,654,48/full/0/default.jpg
+Das	O	O	O	O	O	O	_	_	_
+Communiqué	O	O	O	O	O	O	_	_	_
+verwendet	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3747,1260,692,49/full/0/default.jpg
+Ausdruck	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Vereinigtes	O	O	O	O	O	O	_	_	_
+Kommando	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wi	O	O	O	O	O	O	_	_	NoSpaceAfter
+«	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3747,1302,678,54/full/0/default.jpg
+vorgeschlagen	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+deutete	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3751,1342,671,48/full/0/default.jpg
+indessen	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+sowohl	O	O	O	O	O	O	_	_	_
+Waffen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3751,1385,674,53/full/0/default.jpg
+Ausrüstung	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Uebungspläne	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3752,1424,634,48/full/0/default.jpg
+standardisiert	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+sollen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+interna	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3752,1475,689,37/full/0/default.jpg
+na	O	O	O	O	O	O	_	_	_
+le	O	O	O	O	O	O	_	_	_
+Kommando	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Reifung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3751,1505,691,48/full/0/default.jpg
+fünf	O	O	O	O	O	O	_	_	_
+Verteidigungsminister	O	O	O	O	O	O	_	_	_
+arbeiten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+di	O	O	O	O	O	O	_	_	NoSpaceAfter
+«	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3751,1547,690,54/full/0/default.jpg
+gemeinsam	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Verteidigungsausschuß	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f38d9n8%2fpages%2f1/3751,1588,377,47/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Westunion	B-org	O	B-org.adm	O	O	O	Q7988404	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+bilden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

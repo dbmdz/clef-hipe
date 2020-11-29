@@ -1,0 +1,570 @@
+# language = de
+# newspaper = NZZ
+# date = 1898-10-15
+# document_id = NZZ-1898-10-15-b-p0006
+# segment_iiif_link = _
+Aus	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Gerichtssaal	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+1	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Die	O	O	O	O	O	O	_	_	_
+Appellationskammer	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Obergerichtes	O	O	O	O	O	O	_	_	_
+verurteilte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#urteilte	O	O	O	O	O	O	_	_	_|Commented
+den	O	O	O	O	O	O	_	_	_
+Fuhrknecht	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Joseph	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Alterer	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+von	I-pers	O	I-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Biltenhausen	I-pers	O	I-pers.ind	O	O	B-loc.adm.town	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Bayern	I-pers	O	I-pers.ind	O	O	B-loc.adm.reg	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+geb	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+1869	I-pers	O	I-pers.ind	O	O	B-time.date.abs	NIL	_	_
+wegen	O	O	O	O	O	O	_	_	_
+fahrlässiger	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Tötung	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+zwei	O	O	O	O	O	O	_	_	_
+Monaten	O	O	O	O	O	O	_	_	_
+Gefängnis	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+1000	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Entschädigung	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Vater	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+getöteten	O	O	O	O	O	O	_	_	_
+Kindes	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Alterer	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Abend	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+1	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+August	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Jahres	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Einspänner	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+scharfen	O	O	O	O	O	O	_	_	_
+Trabe	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Zurlindenstraße	B-loc	O	B-loc.oro	O	O	O	Q27329001	_	_
+gefahren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Straßenbiegung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#biegung	O	O	O	O	O	O	_	_	_|Commented
+kam	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+gewahrte	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+daselbst	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+befindliche	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+zweijährige	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	NoSpaceAfter|Normalized-7
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#jährige	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_|Commented
+Mädchen	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+Ida	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Wolfensperger	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+nicht	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kleine	O	O	O	O	O	O	_	_	_
+konnte	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+retten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+geriet	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+Fuhrwerk	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+erlitt	O	O	O	O	O	O	_	_	_
+hiebei	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+starke	O	O	O	O	O	O	_	_	_
+Verletzungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+daß	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+gleichen	O	O	O	O	O	O	_	_	_
+Tage	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+innerer	O	O	O	O	O	O	_	_	_
+Verblutung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+starb	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+frühere	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Buchhalter	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+einer	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+Bank	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+in	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+Zürich	I-pers	O	I-pers.ind	O	I-comp.function	B-loc.adm.town	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Eugen	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Frey	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+von	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Zürich	I-pers	O	I-pers.ind	O	O	B-loc.adm.town	NIL	_	_
+geb	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+1872	I-pers	O	I-pers.ind	O	O	B-time.date.abs	NIL	_	_
+gab	O	O	O	O	O	O	_	_	_
+am	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+27	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	I-time	O	I-time.date.abs	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+August	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1897	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+einem	O	O	O	O	O	O	_	_	_
+Bankhause	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+London	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	_
+angeblich	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Namen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Eidgen	B-org	O	B-org.ent	O	O	O	Q19278946	_	NoSpaceAfter
+.	I-org	O	I-org.ent	O	O	O	Q19278946	_	_
+Bank	I-org	O	I-org.ent	O	O	O	Q19278946	_	_
+in	O	O	O	O	O	O	_	_	_
+Zürich	B-loc	O	B-loc.adm.town	O	O	O	Q72	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+indem	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Unterschriften	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Direktors	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+Prokuristen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+fälschte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Anweisung	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Guthaben	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+letztgenannten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#genannten	O	O	O	O	O	O	_	_	_|Commented
+Bank	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Summe	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+40	O	O	O	O	O	O	_	_	_
+Lstr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+10	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Credit	B-org	O	B-org.ent	O	O	O	Q779722	_	_
+Lyonais	I-org	O	I-org.ent	O	O	O	Q779722	_	_
+für	O	O	O	O	O	O	_	_	_
+Rechnung	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+Kaufmanns	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Zürich	B-loc	O	B-loc.adm.town	O	O	O	Q72	_	_
+auszuzahlen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Von	O	O	O	O	O	O	_	_	_
+diesem	O	O	O	O	O	O	_	_	_
+Kaufmann	O	O	O	O	O	O	_	_	_
+bezog	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dann	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Check	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Betrag	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+1021	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+20	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Im	O	O	O	O	O	O	_	_	_
+weitern	O	O	O	O	O	O	_	_	_
+betrog	O	O	O	O	O	O	_	_	_
+Frey	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+einen	O	O	O	O	O	O	_	_	_
+Briefträger	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+500	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+indem	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+angab	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+brauche	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Geld	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Kaution	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+damit	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Vertrauensposten	O	O	O	O	O	O	_	_	_
+erhalte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Einen	O	O	O	O	O	O	_	_	_
+Kaufmann	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mann	O	O	O	O	O	O	_	_	_|Commented
+in	O	O	O	O	O	O	_	_	_
+Männedorf	B-loc	O	B-loc.adm.town	O	O	O	Q64627	_	_
+erwischte	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+400	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+log	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ihm	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+wolle	O	O	O	O	O	O	_	_	_
+diesen	O	O	O	O	O	O	_	_	_
+Betrag	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Kommanditär	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ein	O	O	O	O	O	O	_	_	_
+Landesproduktengeschäft	O	O	O	O	O	O	_	_	_
+einlegen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Endlich	O	O	O	O	O	O	_	_	_
+entwendete	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Frey	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+noch	O	O	O	O	O	O	_	_	_
+englische	O	O	O	O	O	O	_	_	_
+Briefmarken	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Werte	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+4	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Er	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+zwei	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	_
+Arbeitshaus	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+100	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Buße	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+drei	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	_
+Einstellung	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Aktivbürgerrecht	O	O	O	O	O	O	_	_	_
+verurteilt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#urteilt	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Trotz	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+vielfachen	O	O	O	O	O	O	_	_	_
+Warnung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+beim	O	O	O	O	O	O	_	_	_
+Baden	O	O	O	O	O	O	_	_	_
+allfällige	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fällige	O	O	O	O	O	O	_	_	_|Commented
+Wertsachen	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Badmeister	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Verwahrung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+übergeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Rechtsanwalt	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Thalweil	B-loc	O	B-loc.adm.town	O	O	O	Q68959	_	_
+sein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Portemonnaie	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+welchem	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+406	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+80	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+seine	O	O	O	O	O	O	_	_	_
+Badezelle	O	O	O	O	O	O	_	_	_
+mitgenommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+erst	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+vierzehnjährige	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Knabe	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+Georg	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Pfister	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+von	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Tuggen	I-pers	O	I-pers.ind	O	O	B-loc.adm.town	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Kanton	I-pers	O	I-pers.ind	O	O	B-loc.adm.reg	NIL	_	_
+Schwyz	I-pers	O	I-pers.ind	O	O	I-loc.adm.reg	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schlich	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+nun	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zelle	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+entwendete	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Portemonnaie	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Zum	O	O	O	O	O	O	_	_	_
+Glück	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+einige	O	O	O	O	O	O	_	_	_
+Tage	O	O	O	O	O	O	_	_	_
+nachher	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#her	O	O	O	O	O	O	_	_	_|Commented
+erwischt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bestohlene	O	O	O	O	O	O	_	_	_
+erhielt	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+Geld	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+größten	O	O	O	O	O	O	_	_	_
+Teil	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+zurück	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Knabe	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Gerichte	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Dauer	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+drei	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Besserungsanstalt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rungsanstalt	O	O	O	O	O	O	_	_	_|Commented
+gewiesen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+Handlanger	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Rudolf	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Hermann	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+geb	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+1866	I-pers	O	I-pers.ind	O	O	B-time.date.abs	NIL	_	_
+von	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Neu	I-pers	O	I-pers.ind	O	O	B-loc.adm.town	NIL	_	NoSpaceAfter
+-	I-pers	O	I-pers.ind	O	O	I-loc.adm.town	NIL	_	NoSpaceAfter
+Läßig	I-pers	O	I-pers.ind	O	O	I-loc.adm.town	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Preußen	I-pers	O	I-pers.ind	O	O	B-loc.adm.nat	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wohnhaft	O	O	O	O	O	O	_	_	_
+gewesen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Höngg	B-loc	O	B-loc.adm.town	O	O	O	Q455496	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+9	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+August	O	O	O	O	O	O	_	_	_
+d	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+J	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+nachmittags	O	O	O	O	O	O	_	_	_
+zwischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+1	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+2	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Gemeindegutsverwalter	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Meier	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Rümlang	B-loc	O	B-loc.adm.town	O	O	O	Q67894	_	_
+aus	O	O	O	O	O	O	_	_	_
+dessen	O	O	O	O	O	O	_	_	_
+Schreibpult	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Nebenstube	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+825	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+bar	O	O	O	O	O	O	_	_	_
+entwendet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+Geld	O	O	O	O	O	O	_	_	_
+gehörte	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Gemeinde	B-loc	O	B-loc.adm.town	O	O	O	Q67894	_	NoSpaceAfter|Normalized-6
+#¬	I-loc	O	I-loc.adm.town	O	O	O	Q67894	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#meinde	I-loc	O	I-loc.adm.town	O	O	O	Q67894	_	_|Commented
+Rümlang	I-loc	O	I-loc.adm.town	O	B-comp.name	O	Q67894	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Rudolf	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+konnte	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+bald	O	O	O	O	O	O	_	_	_
+nachher	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erwischt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Jahr	O	O	O	O	O	O	_	_	_
+Arbeitshaus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+fünfzehn	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	_
+Landesverweisung	O	O	O	O	O	O	_	_	_
+verurteilt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

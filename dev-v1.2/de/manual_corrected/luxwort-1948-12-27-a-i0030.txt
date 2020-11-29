@@ -1,0 +1,468 @@
+# language = de
+# newspaper = luxwort
+# date = 1948-12-27
+# document_id = luxwort-1948-12-27-a-i0030
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2444,1485,1142,99/full/0/default.jpg
+Solarium	O	O	O	O	O	O	_	_	_
+General	B-pers	O	B-pers.ind	O	B-comp.title	O	Q186492	_	_
+Patton	I-pers	O	I-pers.ind	O	B-comp.name	O	Q186492	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2335,1593,658,45/full/0/default.jpg
+Am	O	O	O	O	O	O	_	_	_
+vergangenen	O	O	O	O	O	O	_	_	_
+Dienstag	O	O	O	O	O	O	_	_	_
+fand	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2298,1627,678,53/full/0/default.jpg
+Bartringen	B-loc	O	B-loc.adm.town	O	O	O	Q809603	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Fondation	B-org	O	B-org.ent	O	O	O	NIL	_	_
+de	I-org	O	I-org.ent	O	O	B-pers.ind	NIL	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2300,1664,693,47/full/0/default.jpg
+Colnetd	I-org	O	I-org.ent	O	B-comp.name	I-pers.ind	NIL	_	NoSpaceAfter
+'	I-org	O	I-org.ent	O	I-comp.name	I-pers.ind	NIL	_	NoSpaceAfter
+Huart	I-org	O	I-org.ent	O	I-comp.name	I-pers.ind	NIL	_	_
+unter	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Vorsitz	O	O	O	O	O	O	_	_	_
+S	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+K	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+H	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2299,1699,695,50/full/0/default.jpg
+Prinzen	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Luxemburg	B-loc	O	B-loc.adm.nat	O	O	O	Q32	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Präsident	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2299,1733,694,47/full/0/default.jpg
+des	O	O	O	O	O	O	_	_	_
+Luxemburger	B-org	O	B-org.ent	O	B-comp.demonym	O	Q13102234	_	_
+Roten	I-org	O	I-org.ent	O	O	O	Q13102234	_	_
+Kreuz	I-org	O	I-org.ent	O	O	O	Q13102234	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2299,1771,695,50/full/0/default.jpg
+schlichte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+bedeutungsvolle	O	O	O	O	O	O	_	_	_
+Feier	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2299,1808,694,49/full/0/default.jpg
+statt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+welcher	O	O	O	O	O	O	_	_	_
+außer	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Reihe	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2299,1841,694,54/full/0/default.jpg
+Vorstandsmitgliedern	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Luxemburger	B-org	O	B-org.ent	O	B-comp.demonym	O	Q13102234	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2299,1876,678,47/full/0/default.jpg
+Roten	I-org	O	I-org.ent	O	O	O	Q13102234	_	_
+Kreuz	I-org	O	I-org.ent	O	O	O	Q13102234	_	_
+der	O	O	O	O	O	O	_	_	_
+Gesandte	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2299,1912,694,50/full/0/default.jpg
+Vereinigten	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q30	Q30	_
+Staaten	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q30	Q30	_
+und	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+Gemahlin	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2299,1951,694,44/full/0/default.jpg
+sowie	O	O	O	O	O	O	_	_	_
+Herr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q15254884	_	_
+Alphonse	I-pers	O	I-pers.ind	O	B-comp.name	O	Q15254884	_	_
+Osch	I-pers	O	I-pers.ind	O	I-comp.name	O	Q15254884	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q15254884	_	_
+Minister	I-pers	O	I-pers.ind	O	B-comp.function	O	Q15254884	_	_
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	Q15254884	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2299,1984,694,49/full/0/default.jpg
+Oeffentlichen	I-pers	O	I-pers.ind	O	I-comp.function	O	Q15254884	_	_
+Gesundheit	I-pers	O	I-pers.ind	O	I-comp.function	O	Q15254884	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+teilnahmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2299,2020,676,45/full/0/default.jpg
+Anlaß	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Uebergabe	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2299,2056,694,48/full/0/default.jpg
+Geschenkes	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Witwe	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Generals	B-pers	O	B-pers.ind	O	B-comp.title	O	Q186492	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2300,2091,693,45/full/0/default.jpg
+Patton	I-pers	O	I-pers.ind	O	B-comp.name	O	Q186492	_	_
+an	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Luxemburger	B-org	O	B-org.ent	O	B-comp.demonym	O	Q13102234	_	_
+Rote	I-org	O	I-org.ent	O	O	O	Q13102234	_	_
+Kreuz	I-org	O	I-org.ent	O	O	O	Q13102234	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2336,2128,641,45/full/0/default.jpg
+Der	O	O	O	O	O	O	_	_	_
+amerikanische	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Gesandte	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2299,2162,695,45/full/0/default.jpg
+Exzellenz	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	_
+George	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Lybrook	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+West	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+jr	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hielt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2299,2206,679,38/full/0/default.jpg
+eine	O	O	O	O	O	O	_	_	_
+Ansprache	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+darauf	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2299,2234,676,50/full/0/default.jpg
+hinwies	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+zwei	O	O	O	O	O	O	_	_	_
+Weltkriegen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2299,2271,674,45/full/0/default.jpg
+amerikanische	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Befreier	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2298,2305,677,50/full/0/default.jpg
+Luxemburg	B-loc	O	B-loc.adm.nat	O	O	O	Q32	_	_
+kamen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2298,2343,695,47/full/0/default.jpg
+außerordentlichen	O	O	O	O	O	O	_	_	_
+Tatkraft	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Generals	B-pers	O	B-pers.ind	O	B-comp.title	O	Q186492	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2299,2377,694,47/full/0/default.jpg
+Patton	I-pers	O	I-pers.ind	O	B-comp.name	O	Q186492	_	_
+zu	O	O	O	O	O	O	_	_	_
+verdanken	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2299,2414,694,51/full/0/default.jpg
+Rundstedt	B-pers	O	B-pers.ind	O	O	O	Q70527	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Offensive	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+ganze	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2298,2448,695,45/full/0/default.jpg
+Land	O	O	O	O	O	O	_	_	_
+überrannt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+verwüstet	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2298,2485,695,45/full/0/default.jpg
+Wenn	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Beziehungen	O	O	O	O	O	O	_	_	_
+zwischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2298,2519,695,45/full/0/default.jpg
+den	O	O	O	O	O	O	_	_	_
+Vereinigten	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q30	Q30	_
+Staaten	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q30	Q30	_
+und	O	O	O	O	O	O	_	_	_
+Luxemburg	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q32	Q32	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2299,2557,694,47/full/0/default.jpg
+anderer	O	O	O	O	O	O	_	_	_
+Art	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+gewöhnlich	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2298,2596,681,43/full/0/default.jpg
+zwischen	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2297,2635,696,38/full/0/default.jpg
+kleinen	O	O	O	O	O	O	_	_	_
+Land	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+Grund	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2297,2663,679,51/full/0/default.jpg
+darin	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Luxemburg	B-loc	O	B-loc.adm.nat	O	O	O	Q32	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2297,2702,682,44/full/0/default.jpg
+amerikanischen	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2297,2736,687,47/full/0/default.jpg
+beispiellos	O	O	O	O	O	O	_	_	_
+herzlichen	O	O	O	O	O	O	_	_	_
+Empfang	O	O	O	O	O	O	_	_	_
+fanden	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2297,2772,678,47/full/0/default.jpg
+sondern	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+später	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2297,2807,696,50/full/0/default.jpg
+Beziehungen	O	O	O	O	O	O	_	_	_
+zwischen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bevölkerung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2297,2844,682,44/full/0/default.jpg
+und	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Besatzungstruppen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2297,2878,696,45/full/0/default.jpg
+gleichen	O	O	O	O	O	O	_	_	_
+Herzlichkeit	O	O	O	O	O	O	_	_	_
+fortsetzten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2297,2915,697,53/full/0/default.jpg
+keineswegs	O	O	O	O	O	O	_	_	_
+immer	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+selbstverständlich	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2297,2952,696,42/full/0/default.jpg
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Gabe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+U	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q30	Q30	NoSpaceAfter
+.	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q30	Q30	_
+S	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q30	Q30	NoSpaceAfter
+.	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q30	Q30	_
+A	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q30	Q30	NoSpaceAfter
+.	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q30	Q30	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2296,2988,696,44/full/0/default.jpg
+nach	O	O	O	O	O	O	_	_	_
+Luxemburg	B-loc	O	B-loc.adm.nat	O	O	O	Q32	_	_
+kommt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bedeutet	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2296,3021,676,47/full/0/default.jpg
+Dank	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Verständnis	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2296,3057,696,50/full/0/default.jpg
+Luxemburger	O	O	O	O	O	O	_	_	_
+Volkes	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wer	O	O	O	O	O	O	_	_	_
+General	B-pers	O	B-pers.ind	O	B-comp.title	O	Q186492	_	_
+Patton	I-pers	O	I-pers.ind	O	B-comp.name	O	Q186492	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2296,3094,687,50/full/0/default.jpg
+kannte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weiß	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+besondere	O	O	O	O	O	O	_	_	_
+Liebe	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2296,3129,679,47/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+immer	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Kindern	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/2296,3166,696,48/full/0/default.jpg
+entgegenbrachte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Grund	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weshalb	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/3033,1605,683,45/full/0/default.jpg
+Gabe	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Kindern	O	O	O	O	O	O	_	_	_
+zugute	O	O	O	O	O	O	_	_	_
+kommen	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/3069,1640,657,44/full/0/default.jpg
+Herr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q13105262	_	_
+Tony	I-pers	O	I-pers.ind	O	B-comp.name	O	Q13105262	_	_
+Neuman	I-pers	O	I-pers.ind	O	I-comp.name	O	Q13105262	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q13105262	_	_
+Vizepräsident	I-pers	O	I-pers.ind	O	B-comp.function	O	Q13105262	_	_
+des	I-pers	O	I-pers.ind	O	I-comp.function	O	Q13105262	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/3033,1676,694,49/full/0/default.jpg
+Luxemburger	I-pers	O	I-pers.ind	O	I-comp.function	B-org.ent	Q13105262	_	_
+Roten	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q13105262	_	_
+Kreuz	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q13105262	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+drückte	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/3031,1711,695,44/full/0/default.jpg
+seiner	O	O	O	O	O	O	_	_	_
+Antwort	O	O	O	O	O	O	_	_	_
+unsere	O	O	O	O	O	O	_	_	_
+Dankbarkeit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/3033,1748,694,44/full/0/default.jpg
+General	B-pers	O	B-pers.ind	O	B-comp.title	O	Q186492	_	_
+Patton	I-pers	O	I-pers.ind	O	B-comp.name	O	Q186492	_	_
+gegenüber	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Frau	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/3033,1789,694,38/full/0/default.jpg
+es	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Errichtung	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Liegehalle	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/3033,1818,677,44/full/0/default.jpg
+dem	O	O	O	O	O	O	_	_	_
+Bering	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Fondation	B-org	O	B-org.ent	O	O	O	NIL	_	_
+de	I-org	O	I-org.ent	O	O	B-pers.ind	NIL	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/3033,1854,693,45/full/0/default.jpg
+Colnetd	I-org	O	I-org.ent	O	B-comp.name	I-pers.ind	NIL	_	NoSpaceAfter
+'	I-org	O	I-org.ent	O	I-comp.name	I-pers.ind	NIL	_	NoSpaceAfter
+Huart	I-org	O	I-org.ent	O	I-comp.name	I-pers.ind	NIL	_	_
+gebrauchen	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/3033,1891,694,45/full/0/default.jpg
+technische	O	O	O	O	O	O	_	_	_
+Einrichtung	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Solariums	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/3033,1925,694,45/full/0/default.jpg
+wird	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Roten	B-org	O	B-org.ent	O	O	O	Q13102234	_	_
+Kreuz	I-org	O	I-org.ent	O	O	O	Q13102234	_	_
+von	O	O	O	O	O	O	_	_	_
+Frau	B-pers	O	B-pers.ind	O	B-comp.title	O	Q66623933	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/3033,1961,678,44/full/0/default.jpg
+Patton	I-pers	O	I-pers.ind	O	B-comp.name	O	Q66623933	_	_
+aus	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Vereinigten	B-loc	O	B-loc.adm.nat	O	O	O	Q30	_	_
+Staaten	I-loc	O	I-loc.adm.nat	O	O	O	Q30	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/3033,1997,693,45/full/0/default.jpg
+geschickt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Da	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Schloß	B-loc	O	B-loc.fac	O	O	O	Q7431017	_	_
+de	I-loc	O	I-loc.fac	O	B-comp.name	O	Q7431017	_	_
+Colnet	I-loc	O	I-loc.fac	O	I-comp.name	O	Q7431017	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/3031,2031,696,45/full/0/default.jpg
+das	O	O	O	O	O	O	_	_	_
+bisher	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Ferienkolonie	O	O	O	O	O	O	_	_	_
+gedacht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/3033,2074,693,43/full/0/default.jpg
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Kinderheim	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+ganze	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/3031,2103,696,44/full/0/default.jpg
+Jahr	O	O	O	O	O	O	_	_	_
+eingerichtet	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Solarium	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/3033,2140,603,44/full/0/default.jpg
+eine	O	O	O	O	O	O	_	_	_
+äußerst	O	O	O	O	O	O	_	_	_
+wertvolle	O	O	O	O	O	O	_	_	_
+Ergänzung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/3067,2192,659,45/full/0/default.jpg
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q13105262	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q13105262	_	_
+Neuman	I-pers	O	I-pers.ind	O	B-comp.name	O	Q13105262	_	_
+sprach	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+herzlichen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/3033,2227,694,44/full/0/default.jpg
+Dank	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Luxemburger	B-org	O	B-org.ent	O	B-comp.demonym	O	Q13102234	_	_
+Roten	I-org	O	I-org.ent	O	O	O	Q13102234	_	_
+Kreuz	I-org	O	I-org.ent	O	O	O	Q13102234	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f8fq2c2%2fpages%2f5/3033,2263,508,45/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+großherzige	O	O	O	O	O	O	_	_	_
+Stiftung	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+

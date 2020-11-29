@@ -1,0 +1,250 @@
+# language = de
+# newspaper = NZZ
+# date = 1798-01-17
+# document_id = NZZ-1798-01-17-a-p0002
+# segment_iiif_link = _
+Rußland	B-loc	O	B-loc.adm.nat	O	O	O	Q159	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Condeer	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+]	O	O	O	O	O	O	_	_	_
+Petersburg	B-loc	O	B-loc.adm.town	O	O	O	Q656	_	_
+den	O	O	O	O	O	O	_	_	_
+18	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Dec	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Se	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+russisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+kaiserl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Majestät	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Prinzen	B-pers	O	B-pers.ind	O	B-comp.function	O	Q430775	_	_
+von	I-pers	O	I-pers.ind	O	B-comp.name	O	Q430775	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Condé	I-pers	O	I-pers.ind	O	I-comp.name	O	Q430775	_	_
+bey	O	O	O	O	O	O	_	_	_
+dessen	O	O	O	O	O	O	_	_	_
+Ankunft	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Petersburg	B-loc	O	B-loc.adm.town	O	O	O	Q656	_	_
+den	O	O	O	O	O	O	_	_	_
+St	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Andreas-Orden	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Maltheser	O	O	O	O	O	O	_	_	_
+Ritterorden	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Polen	B-loc	O	B-loc.adm.nat	O	O	O	Q36	_	NoSpaceAfter|Normalized-3
+#¬	I-loc	O	I-loc.adm.nat	O	O	O	Q36	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#len	I-loc	O	I-loc.adm.nat	O	O	O	Q36	_	_|Commented
+zu	O	O	O	O	O	O	_	_	_
+ertheilen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ihn	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+prächtigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+völlig	O	O	O	O	O	O	_	_	_
+meublirten	O	O	O	O	O	O	_	_	_
+Palais	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Petersburg	B-loc	O	B-loc.adm.town	O	O	O	Q656	_	_
+zu	O	O	O	O	O	O	_	_	_
+beschenken	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ken	O	O	O	O	O	O	_	_	_|Commented
+geruhet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+3	O	O	O	O	O	O	_	_	_
+Infanterie	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+2	O	O	O	O	O	O	_	_	_
+Kavallerie-Regimentern	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-15
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rie-Regimentern	O	O	O	O	O	O	_	_	_|Commented
+bestehende	O	O	O	O	O	O	_	_	_
+Corps	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Prinzen	B-pers	O	B-pers.ind	O	B-comp.function	O	Q430775	_	_
+von	I-pers	O	I-pers.ind	O	B-comp.name	O	Q430775	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Condé	I-pers	O	I-pers.ind	O	I-comp.name	O	Q430775	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welches	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+kaiserliche	O	O	O	O	O	O	_	_	_
+Dienste	O	O	O	O	O	O	_	_	_
+genommen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+nun	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Wladimir	B-loc	O	B-loc.adm.town	O	O	B-loc.adm.town	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Luzk	B-loc	O	B-loc.adm.town	O	O	O	Q7550	_	_
+und	O	O	O	O	O	O	_	_	_
+Kowel	B-loc	O	B-loc.adm.town	O	O	O	Q156704	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+Quartier	O	O	O	O	O	O	_	_	_
+verlegt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+ganze	O	O	O	O	O	O	_	_	_
+Corps	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bestandiger	O	O	O	O	O	O	_	_	_
+Inspection	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Prinzen	B-pers	O	B-pers.ind	O	B-comp.function	O	Q430775	_	_
+von	I-pers	O	I-pers.ind	O	B-comp.name	O	Q430775	_	_
+Condéstehen	I-pers	O	I-pers.ind	O	I-comp.name	O	Q430775	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#hen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Se	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+kaiserl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Majestät	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+ihn	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Chef	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+adelichen	O	O	O	O	O	O	_	_	_
+Infanterie-Regiments	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Duc	B-pers	O	B-pers.ind	O	B-comp.function	O	Q464657	_	_
+de	I-pers	O	I-pers.ind	O	B-comp.name	O	Q464657	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Berry	I-pers	O	I-pers.ind	O	I-comp.name	O	Q464657	_	_
+zum	O	O	O	O	O	O	_	_	_
+Chef	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+adelichen	O	O	O	O	O	O	_	_	_
+Kavallerie-Regiments	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ments	O	O	O	O	O	O	_	_	_|Commented
+ernannt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Prinz	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+Pallast	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+trat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+fand	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+daselbst	O	O	O	O	O	O	_	_	_
+bereits	O	O	O	O	O	O	_	_	_
+Leute	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+Librée	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vor	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+Carossen	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+Wappen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Prinz	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+war	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Verlegenheit	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+welcher	O	O	O	O	O	O	_	_	_
+Stelle	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+eigentlich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+Zeichen	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+St	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Andreas-Ordens	O	O	O	O	O	O	_	_	_
+tragen	O	O	O	O	O	O	_	_	_
+sollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+Kaiser	O	O	O	O	O	O	_	_	_
+antwortete	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+möchte	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Insignien	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+hl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Geist-Ordens	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+derselben	O	O	O	O	O	O	_	_	_
+Linie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+tragen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+hieng	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Orden	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

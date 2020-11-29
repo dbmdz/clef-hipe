@@ -1,0 +1,313 @@
+# language = de
+# newspaper = NZZ
+# date = 1808-05-24
+# document_id = NZZ-1808-05-24-a-p0004
+# segment_iiif_link = _
+Mörspurg	B-loc	O	B-loc.fac	O	O	O	Q2242517	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+13	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+May	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Zu	O	O	O	O	O	O	_	_	_
+Trochtelfingen	B-loc	O	B-loc.adm.town	O	O	O	Q82285	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Fürstl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Hohenzöllern	B-pers	O	B-pers.coll	O	O	O	Q295143	_	_
+Sitzmaringischen	O	O	O	O	O	O	_	_	_
+Städtchen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-2
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#de	O	O	O	O	O	O	_	_	_|Commented
+am	O	O	O	O	O	O	_	_	_
+jüngsten	O	O	O	O	O	O	_	_	_
+Palmsonntag	O	O	O	O	O	O	_	_	_
+sowohl	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+folgenden	O	O	O	O	O	O	_	_	_
+Charfreytag	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#freytag	O	O	O	O	O	O	_	_	_|Commented
+die	O	O	O	O	O	O	_	_	_
+Leidensgeschichte	O	O	O	O	O	O	_	_	_
+Jesu	B-pers	O	B-pers.ind	O	O	O	Q302	_	_
+Christi	I-pers	O	I-pers.ind	O	O	O	Q302	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Zwischenspiel	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Enthauptung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Johannes	B-pers	O	B-pers.ind	O	B-comp.name	O	Q40662	_	_
+des	I-pers	O	I-pers.ind	O	O	O	Q40662	_	_
+Taufers	I-pers	O	I-pers.ind	O	B-comp.function	O	Q40662	_	NoSpaceAfter|Normalized-4
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	Q40662	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fers	I-pers	O	I-pers.ind	O	I-comp.function	O	Q40662	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+dortigen	O	O	O	O	O	O	_	_	_
+bürgerlichen	O	O	O	O	O	O	_	_	_
+Schuspielergesellschaft	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auf	O	O	O	O	O	O	_	_	_
+freyem	O	O	O	O	O	O	_	_	_
+Felde	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Gegenwart	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Volksmenge	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+wenigstens	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nigstens	O	O	O	O	O	O	_	_	_|Commented
+6000	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Zuschauern	O	O	O	O	O	O	_	_	_
+aufgeführt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+ganzen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nachbarschaft	O	O	O	O	O	O	_	_	_
+zusammengeströmt	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Zwar	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bischöfl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Vikariat	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Konstanz	B-loc	O	B-loc.adm.town	O	O	O	Q3834	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sobald	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Vorhaben	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dieses	O	O	O	O	O	O	_	_	_
+Spektakels	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wovon	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Verkündigungszetrel	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Gegend	O	O	O	O	O	O	_	_	_
+verbreitet	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+kund	O	O	O	O	O	O	_	_	_
+geworden	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+26	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Merz	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Bischöfl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Deputaten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Pfarrer	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Grausback	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Weisung	O	O	O	O	O	O	_	_	_
+ertheilt	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Gemeine	B-loc	O	B-loc.adm.town	O	O	O	Q82285	_	_
+Trochtelfingen	I-loc	O	I-loc.adm.town	O	B-comp.name	O	Q82285	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bischöfl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Mißbilligung	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+Spektakels	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+erkennen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+geben	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ben	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+welches	O	O	O	O	O	O	_	_	_
+gar	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+dazu	O	O	O	O	O	O	_	_	_
+geeignet	O	O	O	O	O	O	_	_	_
+sey	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wahre	O	O	O	O	O	O	_	_	_
+Verehrung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+für	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Christenthum	B-prod	O	B-prod.doctr	O	O	O	Q5043	_	_
+einzuflößen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Gemüther	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hohen	O	O	O	O	O	O	_	_	_
+Osterfest	O	O	O	O	O	O	_	_	_
+gehörig	O	O	O	O	O	O	_	_	_
+vorzubereiten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+vielen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dingen	O	O	O	O	O	O	_	_	_
+verbunden	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+seyn	O	O	O	O	O	O	_	_	_
+pflegen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wodurch	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Heiligste	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vielmehr	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Gelächter	O	O	O	O	O	O	_	_	_
+preisgegeben	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Zugleich	O	O	O	O	O	O	_	_	_
+erließ	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ließ	O	O	O	O	O	O	_	_	_|Commented
+das	O	O	O	O	O	O	_	_	_
+Bischöfliche	O	O	O	O	O	O	_	_	_
+Vikariat	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+weltliche	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+Ansuchen	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Von	O	O	O	O	O	O	_	_	_
+Staatspolizey	O	O	O	O	O	O	_	_	_
+wegen	O	O	O	O	O	O	_	_	_
+solche	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+guten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sittlich	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+religiösen	O	O	O	O	O	O	_	_	_
+Ordnung	O	O	O	O	O	O	_	_	_
+widersprechende	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+längst	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+durch	O	O	O	O	O	O	_	_	_
+Gesetze	O	O	O	O	O	O	_	_	_
+abgeschafte	O	O	O	O	O	O	_	_	_
+Auftritte	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+ernstliches	O	O	O	O	O	O	_	_	_
+Verbot	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bot	O	O	O	O	O	O	_	_	_|Commented
+zu	O	O	O	O	O	O	_	_	_
+verhindern	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Allein	O	O	O	O	O	O	_	_	_
+jene	O	O	O	O	O	O	_	_	_
+erklärte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+billigung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Bischöfliche	O	O	O	O	O	O	_	_	_
+Behörde	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Gemeine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zugehen	O	O	O	O	O	O	_	_	_
+ließ	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+unbefugte	O	O	O	O	O	O	_	_	_
+Anmaaßung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+erwiederte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+am	O	O	O	O	O	O	_	_	_
+4	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+April	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+sehe	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Behauptung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Würde	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sonveräns	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Ansehens	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+dessen	O	O	O	O	O	O	_	_	_
+Landesregies	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+rung	O	O	O	O	O	O	_	_	_
+Pflichten	O	O	O	O	O	O	_	_	_
+halber	O	O	O	O	O	O	_	_	_
+aufgefordert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+bisherige	O	O	O	O	O	O	_	_	_
+ignorirte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Passionsvorstellung	O	O	O	O	O	O	_	_	_
+förmlich	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+bewilligen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+
+

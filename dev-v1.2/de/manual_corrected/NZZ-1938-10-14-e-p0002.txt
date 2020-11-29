@@ -1,0 +1,663 @@
+# language = de
+# newspaper = NZZ
+# date = 1938-10-14
+# document_id = NZZ-1938-10-14-e-p0002
+# segment_iiif_link = _
+Zürcher	O	O	O	O	O	O	_	_	_
+Filmrundschau	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Capitol	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+cs	B-pers	O	B-pers.ind.articleauthor	O	O	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Der	O	O	O	O	O	O	_	_	_
+Tiger	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Arizona	B-loc	O	B-loc.adm.reg	O	O	O	Q816	_	NoSpaceAfter
+""""	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ein	O	O	O	O	O	O	_	_	_
+Männerfilm	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+wild	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+streitlustig	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+heiteren	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Abenteuerleben	O	O	O	O	O	O	_	_	_
+aufgeschlossener	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Ernst	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Todes	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+gehört	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Kategorie	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Wildwestfilme	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+denen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+amerikanische	O	O	O	O	O	O	_	_	_
+Produktion	O	O	O	O	O	O	_	_	_
+anscheinend	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nie	O	O	O	O	O	O	_	_	_
+genug	O	O	O	O	O	O	_	_	_
+bekommt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Man	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+jener	O	O	O	O	O	O	_	_	_
+Barackenstädte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rackenstädte	O	O	O	O	O	O	_	_	_|Commented
+versetzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Sezessionskrieg	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Prärie	O	O	O	O	O	O	_	_	_
+wucherten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Stämmige	O	O	O	O	O	O	_	_	_
+Männer	O	O	O	O	O	O	_	_	_
+trinken	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+spielen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#len	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+raufen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+übeln	O	O	O	O	O	O	_	_	_
+Spelunken	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+dazwischen	O	O	O	O	O	O	_	_	_
+gibt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+es	O	O	O	O	O	O	_	_	_
+Reiterszenen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Bilder	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+bizarren	O	O	O	O	O	O	_	_	_
+Felstälern	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Run	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+neu	O	O	O	O	O	O	_	_	_
+entdeckten	O	O	O	O	O	O	_	_	_
+Silbergruben	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ganze	O	O	O	O	O	O	_	_	_
+Reihe	O	O	O	O	O	O	_	_	_
+kecker	O	O	O	O	O	O	_	_	_
+Ueberfälle	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Jeder	O	O	O	O	O	O	_	_	_
+nimmt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ihm	O	O	O	O	O	O	_	_	_
+gerade	O	O	O	O	O	O	_	_	_
+paßt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+diesem	O	O	O	O	O	O	_	_	_
+Paradies	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Terrors	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schafft	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+unerschrockener	O	O	O	O	O	O	_	_	_
+Boxer	O	O	O	O	O	O	_	_	_
+Ordnung	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+er	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+frohmütiger	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ideal	O	O	O	O	O	O	_	_	_
+gesinnter	O	O	O	O	O	O	_	_	_
+Verfechter	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Gesetzes	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#setzes	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+schöne	O	O	O	O	O	O	_	_	_
+Mädchen	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Virginia	B-pers	O	B-pers.ind	O	O	O	Q242462	_	_
+Bruce	I-pers	O	I-pers.ind	O	O	O	Q242462	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+verdient	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#dient	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+liebt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+spannendsten	O	O	O	O	O	O	_	_	_
+Konflikte	O	O	O	O	O	O	_	_	_
+spielen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+zwischen	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+Vater	O	O	O	O	O	O	_	_	_
+ab	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Banditenhäuptling	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-14
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ditenhäuptling	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wer	O	O	O	O	O	O	_	_	_
+paßte	O	O	O	O	O	O	_	_	_
+dazu	O	O	O	O	O	O	_	_	_
+besser	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Wallace	B-pers	O	B-pers.ind	O	O	O	Q322179	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Beery	I-pers	O	I-pers.ind	O	O	O	Q322179	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Menschenklotz	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+wunderliche	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Mischung	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Bauer	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Halunke	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	_|EOS
+
+Ungebärdie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+fallen	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Strähnen	O	O	O	O	O	O	_	_	_
+ins	O	O	O	O	O	O	_	_	_
+massige	O	O	O	O	O	O	_	_	_
+Gesicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Heftig	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kontrastiert	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+breites	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+gutmütiges	O	O	O	O	O	O	_	_	_
+Lachen	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+heimtückischen	O	O	O	O	O	O	_	_	_
+Blick	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Gegner	O	O	O	O	O	O	_	_	_
+mißt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Halb	O	O	O	O	O	O	_	_	_
+Kind	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+halb	O	O	O	O	O	O	_	_	_
+Teufel	O	O	O	O	O	O	_	_	_
+führt	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+Gewaltherrschaft	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schaft	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Fast	O	O	O	O	O	O	_	_	_
+rührend	O	O	O	O	O	O	_	_	_
+weiß	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+aufkeimende	O	O	O	O	O	O	_	_	_
+Liebe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+darzustellen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+ihn	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+rechtschaffenen	O	O	O	O	O	O	_	_	_
+Sohn	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zieht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Film	O	O	O	O	O	O	_	_	_
+ragt	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Regieleistung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+üblichen	O	O	O	O	O	O	_	_	_
+Wildwester	O	O	O	O	O	O	_	_	_
+heraus	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Durch	O	O	O	O	O	O	_	_	_
+effektvolle	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#volle	O	O	O	O	O	O	_	_	_|Commented
+Montage	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+entscheidende	O	O	O	O	O	O	_	_	_
+Revolverschlacht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+während	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+markante	O	O	O	O	O	O	_	_	_
+Gesichter	O	O	O	O	O	O	_	_	_
+auftauchen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sulminantes	O	O	O	O	O	O	_	_	_
+Tempo	O	O	O	O	O	O	_	_	_
+bekommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Apollo	B-org	O	B-org.ent	O	O	O	Q619102	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+eb	B-pers	O	B-pers.ind.articleauthor	O	O	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Früher	O	O	O	O	O	O	_	_	_
+mußten	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Kaufleute	O	O	O	O	O	O	_	_	_
+Englisch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+lernen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Filmschauspieler	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+London	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gedrehten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Pariser	O	O	O	O	O	O	_	_	_
+Apachen	O	O	O	O	O	O	_	_	_
+handelnden	O	O	O	O	O	O	_	_	_
+Film	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Die	O	O	O	O	O	O	_	_	_
+Ratte	O	O	O	O	O	O	_	_	NoSpaceAfter
+""""	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+spielt	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Anton	B-pers	O	B-pers.ind	O	O	O	Q79005	_	_
+Walbrook	I-pers	O	I-pers.ind	O	O	O	Q79005	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Hauptrolle	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+dies	O	O	O	O	O	O	_	_	_
+niemand	O	O	O	O	O	O	_	_	_
+anders	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Adolph	B-pers	O	B-pers.ind	O	O	O	Q79005	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Wohlbrück	I-pers	O	I-pers.ind	O	O	O	Q79005	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+bevorzugte	O	O	O	O	O	O	_	_	_
+Kopfbedeckung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+helle	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+etwas	O	O	O	O	O	O	_	_	_
+schrägsitzende	O	O	O	O	O	O	_	_	_
+Dächlikappe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+England	B-loc	O	B-loc.adm.nat	O	O	O	Q21	_	NoSpaceAfter|Normalized-4
+#¬	I-loc	O	I-loc.adm.nat	O	O	O	Q21	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#land	I-loc	O	I-loc.adm.nat	O	O	O	Q21	_	_|Commented
+trägt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+korrekte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+oft	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+amerikanischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schen	O	O	O	O	O	O	_	_	_|Commented
+Filmen	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Sprachbrei	O	O	O	O	O	O	_	_	_
+gewordene	O	O	O	O	O	O	_	_	_
+Dialog	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dem	O	O	O	O	O	O	_	_	_
+englischen	O	O	O	O	O	O	_	_	_
+Film	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+eigenen	O	O	O	O	O	O	_	_	_
+klanglichen	O	O	O	O	O	O	_	_	_
+Reiz	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gibt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+erleichtert	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+deutschen	O	O	O	O	O	O	_	_	_
+Künstler	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Anpassung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#passung	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sein	O	O	O	O	O	O	_	_	_
+gepflegtes	O	O	O	O	O	O	_	_	_
+Aussehen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+weltmännische	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#männische	O	O	O	O	O	O	_	_	_|Commented
+Intelligenz	O	O	O	O	O	O	_	_	_
+wären	O	O	O	O	O	O	_	_	_
+allerdings	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+anspruchsvolleren	O	O	O	O	O	O	_	_	_
+Aufgabe	O	O	O	O	O	O	_	_	_
+würdig	O	O	O	O	O	O	_	_	_
+gewesen	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Darstellung	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+grantigen	O	O	O	O	O	O	_	_	_
+Raufbolds	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Juwelenräubers	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#räubers	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+;	O	O	O	O	O	O	_	_	_|EOS
+
+doch	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+gleich	O	O	O	O	O	O	_	_	_
+zwei	O	O	O	O	O	O	_	_	_
+Frauen	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+""""	O	O	O	O	O	O	_	_	NoSpaceAfter
+Ratte	O	O	O	O	O	O	_	_	NoSpaceAfter
+""""	O	O	O	O	O	O	_	_	_
+opfern	O	O	O	O	O	O	_	_	_
+wollen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Charme	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einem	O	O	O	O	O	O	_	_	_
+verführerischen	O	O	O	O	O	O	_	_	_
+Schnurrbärtchen	O	O	O	O	O	O	_	_	_
+ausgestatteten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Auswanderers	O	O	O	O	O	O	_	_	_
+aufs	O	O	O	O	O	O	_	_	_
+neue	O	O	O	O	O	O	_	_	_
+beglaubigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Gerade	O	O	O	O	O	O	_	_	_
+umgekehrt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gekehrt	O	O	O	O	O	O	_	_	_|Commented
+ist	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+winterlichen	O	O	O	O	O	O	_	_	_
+Dorfgeschichte	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Einmal	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mal	O	O	O	O	O	O	_	_	_|Commented
+wirst	O	O	O	O	O	O	_	_	_
+du	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+mich	O	O	O	O	O	O	_	_	_
+weinen	O	O	O	O	O	O	_	_	NoSpaceAfter
+""""	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+denn	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+reißen	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Männer	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+junge	O	O	O	O	O	O	_	_	_
+Lehrerin	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+sanften	O	O	O	O	O	O	_	_	_
+Bestimmtheit	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+Widerstände	O	O	O	O	O	O	_	_	_
+besiegt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#siegt	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Maria	B-pers	O	B-pers.ind	O	O	O	Q1895629	_	_
+Andergast	I-pers	O	I-pers.ind	O	O	O	Q1895629	_	_
+hat	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Rolle	O	O	O	O	O	O	_	_	_
+erhalten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+ihrem	O	O	O	O	O	O	_	_	_
+liebwerten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+natürlichen	O	O	O	O	O	O	_	_	_
+Wesen	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+schön	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+entspricht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Walche	B-org	O	B-org.ent	O	O	O	Q35722550	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+bu	B-pers	O	B-pers.ind.articleauthor	O	O	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Film	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Das	O	O	O	O	O	O	_	_	_
+Leben	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Emile	B-pers	O	B-pers.ind	O	O	O	Q504	_	_
+Zolas	I-pers	O	I-pers.ind	O	O	O	Q504	_	NoSpaceAfter
+“	O	O	O	O	O	O	_	_	_
+verstand	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+Wilhelm	B-pers	O	B-pers.ind	O	O	O	Q55413	_	_
+Dieterles	I-pers	O	I-pers.ind	O	O	O	Q55413	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Regie	O	O	O	O	O	O	_	_	_
+treffend	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	_
+Menschen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+kleinen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nen	O	O	O	O	O	O	_	_	_|Commented
+irdischen	O	O	O	O	O	O	_	_	_
+Unzulänglichkeiten	O	O	O	O	O	O	_	_	_
+darzustellen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Wirkung	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+reinen	O	O	O	O	O	O	_	_	_
+Ideen	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+verstärkte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Paul	B-pers	O	B-pers.ind	O	O	O	Q182292	_	_
+Muni	I-pers	O	I-pers.ind	O	O	O	Q182292	_	_
+ist	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Emile	B-pers	O	B-pers.ind	O	O	O	Q504	_	_
+Zola	I-pers	O	I-pers.ind	O	O	O	Q504	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+trotz	O	O	O	O	O	O	_	_	_
+allen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Eigenheiten	O	O	O	O	O	O	_	_	_
+Mut	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+schöpferische	O	O	O	O	O	O	_	_	_
+Geisteskraft	O	O	O	O	O	O	_	_	_
+glaubt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

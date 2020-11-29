@@ -1,0 +1,691 @@
+# language = de
+# newspaper = NZZ
+# date = 1838-04-04
+# document_id = NZZ-1838-04-04-a-p0001
+# segment_iiif_link = _
+In	O	O	O	O	O	O	_	_	_
+Zürich	B-loc	O	B-loc.adm.town	O	O	O	Q72	_	_
+starb	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+2	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+April	O	O	O	O	O	O	_	_	_
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Apotheker	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	_
+Jakob	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Ulrich	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+Irminger	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter|Normalized-3
+#¬	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ger	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+53ten	O	O	O	O	O	O	_	_	_
+Altersjahre	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+ein	O	O	O	O	O	O	_	_	_
+kenntnißreicher	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+gewissenhafter	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+allgemein	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gemein	O	O	O	O	O	O	_	_	_|Commented
+geschätzter	O	O	O	O	O	O	_	_	_
+Mann	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kanton	B-loc	O	B-loc.adm.reg	O	O	O	Q11943	_	_
+Zürich	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q11943	_	_
+eine	O	O	O	O	O	O	_	_	_
+treffliche	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sparsame	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Verwaltung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Apotheke	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Kantonsspital	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+verdanken	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Luzern	B-loc	O	B-loc.adm.reg	O	O	O	Q12121	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Bundeszeitung	B-prod	O	B-prod.media	O	O	O	NIL	_	_
+will	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+geringe	O	O	O	O	O	O	_	_	_
+Theilnahme	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Volkes	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kes	O	O	O	O	O	O	_	_	_|Commented
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+sog	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Romfahrt	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Museggerumgang	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+einzig	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Rechnung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Umstandes	O	O	O	O	O	O	_	_	_
+setzen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+dießjährige	O	O	O	O	O	O	_	_	_
+Ablaß	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vom	O	O	O	O	O	O	_	_	_
+Papste	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Bischof	O	O	O	O	O	O	_	_	_
+kam	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Zum	O	O	O	O	O	O	_	_	_
+Beweise	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gereinigter	O	O	O	O	O	O	_	_	_
+christlicher	O	O	O	O	O	O	_	_	_
+Glaube	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	_
+Antheil	O	O	O	O	O	O	_	_	_
+daran	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+erinnert	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+daß	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+zwei	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+päpstlicher	O	O	O	O	O	O	_	_	_
+Ablaß	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+finden	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Zudrang	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Volkes	O	O	O	O	O	O	_	_	_
+ungleich	O	O	O	O	O	O	_	_	_
+geringer	O	O	O	O	O	O	_	_	_
+gewesen	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+früheren	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Zeiten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Uri	B-loc	O	B-loc.adm.reg	O	O	O	Q12404	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+sonst	O	O	O	O	O	O	_	_	_
+immer	O	O	O	O	O	O	_	_	_
+erklärt	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+werde	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nie	O	O	O	O	O	O	_	_	_
+herablassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Privaten	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+etwas	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+unterhandeln	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Befugnissen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Regierungen	O	O	O	O	O	O	_	_	_
+liege	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+nun	O	O	O	O	O	O	_	_	_
+plötzlich	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Kapitän	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+Dampfschiffes	O	O	O	O	O	O	_	_	_
+eingetreten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Provisorium	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+drei	O	O	O	O	O	O	_	_	_
+Jahre	O	O	O	O	O	O	_	_	_
+handeln	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+während	O	O	O	O	O	O	_	_	_
+welcher	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Dampfschifffahrtsgesellschaft	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Urnerschiffern	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+jährliche	O	O	O	O	O	O	_	_	_
+Summe	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+1000	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+zahlen	O	O	O	O	O	O	_	_	_
+würde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+um	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+Rechte	O	O	O	O	O	O	_	_	_
+derselben	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+einzutreten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Bundeszeitung	B-prod	O	B-prod.media	O	O	O	NIL	_	_
+schreibt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Aenderung	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Benehmen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+öffentlichen	O	O	O	O	O	O	_	_	_
+Meinung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nung	O	O	O	O	O	O	_	_	_|Commented
+zu	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+das	O	O	O	O	O	O	_	_	_
+Volk	O	O	O	O	O	O	_	_	_
+stehe	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Ansicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	_
+im	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+Jahr	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1857	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Landsgemeinde	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+freie	O	O	O	O	O	O	_	_	_
+Konkurrenz	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+bloß	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Land	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Aule	O	O	O	O	O	O	_	_	_
+ie	O	O	O	O	O	O	_	_	_
+iesesesse	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+St	B-loc	O	B-loc.adm.reg	O	O	O	Q12746	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.reg	O	O	O	Q12746	_	_
+Gallen	I-loc	O	I-loc.adm.reg	O	O	O	Q12746	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Den	O	O	O	O	O	O	_	_	_
+29	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Merz	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+kathol	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Administrationsrath	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+beschlossen	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+es	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Kollaturrecht	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Pfarrerpfründe	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Magdenau	B-loc	O	B-loc.adm.town	O	O	O	Q1483472	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+welches	O	O	O	O	O	O	_	_	_
+ursprünglich	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Kloster	B-loc	B-org	B-loc.fac	B-org.ent	O	O	Q155699	Q155699	_
+zu	I-loc	I-org	I-loc.fac	I-org.ent	O	O	Q155699	Q155699	_
+St	I-loc	I-org	I-loc.fac	I-org.ent	O	B-loc.adm.town	Q155699	Q155699	NoSpaceAfter
+.	I-loc	I-org	I-loc.fac	I-org.ent	O	I-loc.adm.town	Q155699	Q155699	_
+Gallen	I-loc	I-org	I-loc.fac	I-org.ent	O	I-loc.adm.town	Q155699	Q155699	_
+zugestanden	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aber	O	O	O	O	O	O	_	_	_
+seit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Reformationszeit	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Abte	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Wettingen	B-loc	O	B-loc.adm.town	O	O	O	Q27576	_	_
+unbefugt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ausgeübt	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Handen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+kathol	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Konfessionstheile	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Kantons	B-loc	O	B-loc.adm.reg	O	O	O	Q12746	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+St	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q12746	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.reg	O	I-comp.name	O	Q12746	_	_
+Gallen	I-loc	O	I-loc.adm.reg	O	I-comp.name	O	Q12746	_	_
+zurückgezogen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+fortan	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Administrationsrath	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ausgeübt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+St	B-prod	O	B-prod.media	O	O	O	Q689052	_	NoSpaceAfter
+.	I-prod	O	I-prod.media	O	O	O	Q689052	_	_
+G	I-prod	O	I-prod.media	O	O	O	Q689052	_	NoSpaceAfter
+.	I-prod	O	I-prod.media	O	O	O	Q689052	_	_
+Ztg	I-prod	O	I-prod.media	O	O	O	Q689052	_	NoSpaceAfter
+.	I-prod	O	I-prod.media	O	O	O	Q689052	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Neuenburg	B-loc	O	B-loc.adm.reg	O	O	O	Q12738	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Petition	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Gunsten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Proskribirten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wir	O	O	O	O	O	O	_	_	_
+jüngst	O	O	O	O	O	O	_	_	_
+gesprochen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+49	O	O	O	O	O	O	_	_	_
+Bürgern	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+St	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.town	O	O	O	NIL	_	_
+Martin	I-loc	O	I-loc.adm.town	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Mairie	B-org	O	B-org.adm	O	O	O	Q70194	_	_
+von	I-org	O	I-org.adm	O	O	O	Q70194	_	_
+Valangin	I-org	O	I-org.adm	O	O	B-loc.adm.town	Q70194	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+unterschrieben	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+St	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.town	O	O	O	NIL	_	_
+Martin	I-loc	O	I-loc.adm.town	O	O	O	NIL	_	_
+ist	O	O	O	O	O	O	_	_	_
+gerade	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+diejenige	O	O	O	O	O	O	_	_	_
+Gemeinde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Unruhen	O	O	O	O	O	O	_	_	_
+von	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+1831	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+am	O	O	O	O	O	O	_	_	_
+treuesten	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Regierung	O	O	O	O	O	O	_	_	_
+gehalten	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Leute	O	O	O	O	O	O	_	_	_
+hernach	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Herrn	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+von	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Chambrier	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+dem	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Maire	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+von	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Valangin	I-pers	O	I-pers.ind	O	O	B-loc.adm.town	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+begaben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Unterschriften	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zurück	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+ziehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+legte	O	O	O	O	O	O	_	_	_
+ihnen	O	O	O	O	O	O	_	_	_
+derselbe	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Erklärung	O	O	O	O	O	O	_	_	_
+folgenden	O	O	O	O	O	O	_	_	_
+Inhalts	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zur	O	O	O	O	O	O	_	_	_
+Unterschrift	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Da	O	O	O	O	O	O	_	_	_
+uns	O	O	O	O	O	O	_	_	_
+P	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+L	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Eward-Bourquin	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+der	O	O	O	O	O	O	_	_	_
+Urheber	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Petition	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+unsere	O	O	O	O	O	O	_	_	_
+Unterschriften	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+trügerische	O	O	O	O	O	O	_	_	_
+Reden	O	O	O	O	O	O	_	_	_
+entlockt	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+indem	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+namentlich	O	O	O	O	O	O	_	_	_
+versicherte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+Personen	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+hohem	O	O	O	O	O	O	_	_	_
+Range	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Petition	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Proscribirten	O	O	O	O	O	O	_	_	_
+unterzeichnet	O	O	O	O	O	O	_	_	_
+hätten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+verlangen	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+unsere	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sere	O	O	O	O	O	O	_	_	_|Commented
+Unterschriften	O	O	O	O	O	O	_	_	_
+zurück	O	O	O	O	O	O	_	_	_
+ziehen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+beauftragen	O	O	O	O	O	O	_	_	_
+damit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Hrn	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Baron	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	_
+v	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+Chambrier	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Maire	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	_
+von	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+Valangin	I-pers	O	I-pers.ind	O	I-comp.function	B-loc.adm.town	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+""""	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+Die	B-prod	O	B-prod.media	O	O	O	NIL	_	_
+Helvetie	I-prod	O	I-prod.media	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+andere	O	O	O	O	O	O	_	_	_
+Details	O	O	O	O	O	O	_	_	_
+enthält	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+erinnert	O	O	O	O	O	O	_	_	_
+dabei	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+folgende	O	O	O	O	O	O	_	_	_
+Worte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bruder	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Hrn	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+v	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+Chambrier	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+im	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+Jahr	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1834	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+im	O	O	O	O	O	O	_	_	_
+legislativen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Rathe	O	O	O	O	O	O	_	_	_
+gesprochen	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Das	O	O	O	O	O	O	_	_	_
+Petitionsrecht	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+diesem	O	O	O	O	O	O	_	_	_
+Lande	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+unbeschränkt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schränkt	O	O	O	O	O	O	_	_	_|Commented
+als	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+unbeschränkter	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+keinem	O	O	O	O	O	O	_	_	_
+andern	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Lande	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+namentlich	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+keinem	O	O	O	O	O	O	_	_	_
+Schweizerkanton	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+mögen	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Könige	O	O	O	O	O	O	_	_	_
+Kollektivpetitionen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+Petitionen	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Korporationen	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Einzelnen	O	O	O	O	O	O	_	_	_
+zugesandt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+sei	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+direkte	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+ihn	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Mittel	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tel	O	O	O	O	O	O	_	_	_|Commented
+seines	O	O	O	O	O	O	_	_	_
+Rathes	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+seien	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+Handlungen	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gen	O	O	O	O	O	O	_	_	_|Commented
+irgend	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+andere	O	O	O	O	O	O	_	_	_
+Staatsbehörde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+""""	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+
+

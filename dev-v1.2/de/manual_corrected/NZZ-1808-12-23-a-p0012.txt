@@ -1,0 +1,237 @@
+# language = de
+# newspaper = NZZ
+# date = 1808-12-23
+# document_id = NZZ-1808-12-23-a-p0012
+# segment_iiif_link = _
+Da	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+wodlgeachte	O	O	O	O	O	O	_	_	_
+Gemeindratd	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Detuwol	B-loc	O	B-loc.adm.town	O	O	O	Q64763	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.town	O	O	O	Q64763	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Der	B-loc	O	B-loc.adm.reg	O	O	O	Q656740	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zirks	I-loc	O	I-loc.adm.reg	O	O	O	Q656740	_	_
+Mury	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q656740	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Cantons	B-loc	O	B-loc.adm.reg	O	O	O	Q11972	_	_
+Aargau	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q11972	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+hiesigen	O	O	O	O	O	O	_	_	_
+Bezirksgericht	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#richt	O	O	O	O	O	O	_	_	_|Commented
+mit	O	O	O	O	O	O	_	_	_
+Mehrerem	O	O	O	O	O	O	_	_	_
+vorgestellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+größerer	O	O	O	O	O	O	_	_	_
+Sicherheit	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#cherheit	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+auszufertigenden	O	O	O	O	O	O	_	_	_
+Geldaufbruchscheine	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Versicherungscopien	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-16
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sicherungscopien	O	O	O	O	O	O	_	_	_|Commented
+eine	O	O	O	O	O	O	_	_	_
+Bereinigung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Hypothekenwesens	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nöthig	O	O	O	O	O	O	_	_	_
+finde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sofort	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Bereinigung	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Befestigung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+öffentlichen	O	O	O	O	O	O	_	_	_
+Kredits	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Bezirksgericht	O	O	O	O	O	O	_	_	_
+bewilliget	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#den	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+hiemit	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+diejenigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+Gülten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Aufschlag	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+andere	O	O	O	O	O	O	_	_	_
+Versicherungsbriefe	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+vor	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+Anno	I-time	O	I-time.date.abs	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+1804	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+errichtet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+worin	O	O	O	O	O	O	_	_	_
+liegende	O	O	O	O	O	O	_	_	_
+Güter	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Obern	O	O	O	O	O	O	_	_	_
+Freyen	O	O	O	O	O	O	_	_	_
+Aemtern	O	O	O	O	O	O	_	_	_
+gelegenen	O	O	O	O	O	O	_	_	_
+Gemeinden	B-loc	O	B-loc.adm.town	O	O	O	Q65024	_	_
+Beinwyl	I-loc	O	I-loc.adm.town	O	B-comp.name	O	Q65024	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Wiggwyl	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Winterschwyl	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Brunnwyl	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Wallenschwyl	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	_
+oder	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Höfe	B-loc	O	B-loc.fac	O	O	O	NIL	_	_
+Grüt	I-loc	O	I-loc.fac	O	B-comp.name	O	NIL	_	NoSpaceAfter|Partial--5:3
+,	O	O	O	O	O	O	_	_	_
+Summeri	B-loc	O	B-loc.fac	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Grod	B-loc	O	B-loc.fac	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Brand	B-loc	O	B-loc.fac	O	O	O	NIL	_	_
+und	O	O	O	O	O	O	_	_	_
+Tschöpli	B-loc	O	B-loc.fac	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+verschrieben	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+Handen	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aufgefordert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+entweder	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#weder	O	O	O	O	O	O	_	_	_|Commented
+diese	O	O	O	O	O	O	_	_	_
+Titel	O	O	O	O	O	O	_	_	_
+Originaliter	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+wenigstens	O	O	O	O	O	O	_	_	_
+abschriftlich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lich	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+zwey	O	O	O	O	O	O	_	_	_
+Monatcn	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Publikation	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+gerechnet	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rechnet	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+unterzeichneten	O	O	O	O	O	O	_	_	_
+Gerichts	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Canzley	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+Quits	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+tung	O	O	O	O	O	O	_	_	_
+einzusenden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+indem	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Verfluß	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Terming	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+alle	O	O	O	O	O	O	_	_	_
+jene	O	O	O	O	O	O	_	_	_
+Schuldverschreibungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wovon	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+Meldung	O	O	O	O	O	O	_	_	_
+eingesandt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gesandt	O	O	O	O	O	O	_	_	_|Commented
+würde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+cassirt	O	O	O	O	O	O	_	_	_
+angesehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+folglich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Protokollen	O	O	O	O	O	O	_	_	_
+durchgestrichen	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+sollen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Si	O	O	O	O	O	O	_	_	_
+wein	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+eserise	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Aus	O	O	O	O	O	O	_	_	_
+Anfrag	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Beztisgerichte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Gerichts	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Canzley	O	O	O	O	O	O	_	_	_
+allda	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

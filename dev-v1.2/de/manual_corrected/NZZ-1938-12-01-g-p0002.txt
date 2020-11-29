@@ -1,0 +1,2992 @@
+# language = de
+# newspaper = NZZ
+# date = 1938-12-01
+# document_id = NZZ-1938-12-01-g-p0002
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+schweizerische	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bg	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Zürcher	B-org	O	B-org.ent	O	O	O	NIL	_	_
+Volkswirtschaftlichen	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|Normalized-6
+#¬	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lichen	I-org	O	I-org.ent	O	O	O	NIL	_	_|Commented
+Gesellschaft	I-org	O	I-org.ent	O	O	O	NIL	_	_
+sprach	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+23	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Novemder	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#der	O	O	O	O	O	O	_	_	_|Commented
+Oberst	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+E	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+von	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+Goumoéns	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Präsident	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	_
+des	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Verwaltungsrates	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+Société	I-pers	O	I-pers.ind	O	I-comp.function	B-org.ent	NIL	_	_
+de	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	NIL	_	_
+la	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	NIL	_	_
+Viscose	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	O	I-org.ent	NIL	_	_
+Emmendrücke	I-pers	O	I-pers.ind	O	O	I-org.ent	NIL	_	NoSpaceAfter|Normalized-6
+#¬	I-pers	O	I-pers.ind	O	O	I-org.ent	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#drücke	I-pers	O	I-pers.ind	O	O	I-org.ent	NIL	_	NoSpaceAfter|Commented
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+schweizerische	O	O	O	O	O	O	_	_	_
+Kunstseidenindustrie	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-15
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#seidenindustrie	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Reserent	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+1906	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dieser	O	O	O	O	O	O	_	_	_
+Gesellschaft	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Direktor	O	O	O	O	O	O	_	_	_
+gewonnen	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wie	O	O	O	O	O	O	_	_	_
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Dürsteler	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+Begrüßungsworten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#worten	O	O	O	O	O	O	_	_	_|Commented
+bemerkte	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Pionier	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+schweizerischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ischen	O	O	O	O	O	O	_	_	_|Commented
+Kunstscidenindustrie	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+unternahm	O	O	O	O	O	O	_	_	_
+zunächst	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+einen	O	O	O	O	O	O	_	_	_
+Terrainritt	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+ganze	O	O	O	O	O	O	_	_	_
+Entwicklungsgebiet	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lungsgebiet	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Kunstseidenindustrie	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Hier	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kurze	O	O	O	O	O	O	_	_	_
+Inhaltsangabe	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Vortrages	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Wie	O	O	O	O	O	O	_	_	_
+andere	O	O	O	O	O	O	_	_	_
+vertvolle	O	O	O	O	O	O	_	_	_
+Stoffe	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+früh	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auch	O	O	O	O	O	O	_	_	_
+daran	O	O	O	O	O	O	_	_	_
+gedacht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Seide	O	O	O	O	O	O	_	_	_
+künstlich	O	O	O	O	O	O	_	_	_
+herzusteller	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Schon	O	O	O	O	O	O	_	_	_
+1665	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+schrieb	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Engländer	B-pers	O	B-pers.ind	O	B-comp.demonym	O	Q46830	_	_
+Robert	I-pers	O	I-pers.ind	O	B-comp.name	O	Q46830	_	_
+Hoole	I-pers	O	I-pers.ind	O	I-comp.name	O	Q46830	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+es	O	O	O	O	O	O	_	_	_
+sollte	O	O	O	O	O	O	_	_	_
+möglich	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Seidenraupe	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Elebrige	O	O	O	O	O	O	_	_	_
+Flüssigkeit	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+Oeffnung	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+pressen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Flüssigkeit	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Erstarren	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+bringen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+70	O	O	O	O	O	O	_	_	_
+Jahre	O	O	O	O	O	O	_	_	_
+später	O	O	O	O	O	O	_	_	_
+brachte	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+berühmte	B-pers	O	B-pers.ind	O	B-comp.function	O	Q310779	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+französische	I-pers	O	I-pers.ind	O	I-comp.function	O	Q310779	_	_
+Chemiker	I-pers	O	I-pers.ind	O	I-comp.function	O	Q310779	_	_
+Ferchault	I-pers	O	I-pers.ind	O	B-comp.name	O	Q310779	_	_
+de	I-pers	O	I-pers.ind	O	I-comp.name	O	Q310779	_	_
+Réaumur	I-pers	O	I-pers.ind	O	I-comp.name	O	Q310779	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+Problem	O	O	O	O	O	O	_	_	_
+theoretisch	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+entscheidenden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schritt	O	O	O	O	O	O	_	_	_
+weiter	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+indem	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+1734	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+ldee	O	O	O	O	O	O	_	_	_
+kam	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+durch	O	O	O	O	O	O	_	_	_
+Verlestigung	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Gelatinefäden	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+gomme	O	O	O	O	O	O	_	_	_
+liquide	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#quide	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+)	O	O	O	O	O	O	_	_	_
+sollte	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+künstliche	O	O	O	O	O	O	_	_	_
+Faser	O	O	O	O	O	O	_	_	_
+erzeugen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Können	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Seidenfaser	O	O	O	O	O	O	_	_	_
+ähnlich	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+1846	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+entdeckte	O	O	O	O	O	O	_	_	_
+Christian	B-pers	O	B-pers.ind	O	B-comp.name	O	Q61319	_	_
+Friedrich	I-pers	O	I-pers.ind	O	I-comp.name	O	Q61319	_	_
+Schönbein	I-pers	O	I-pers.ind	O	I-comp.name	O	Q61319	_	NoSpaceAfter|Normalized-4
+#¬	I-pers	O	I-pers.ind	O	I-comp.name	O	Q61319	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bein	I-pers	O	I-pers.ind	O	I-comp.name	O	Q61319	_	NoSpaceAfter|Commented
+,	I-pers	O	I-pers.ind	O	O	O	Q61319	_	_
+Professor	I-pers	O	I-pers.ind	O	B-comp.function	O	Q61319	_	_
+in	I-pers	O	I-pers.ind	O	I-comp.function	O	Q61319	_	_
+Basel	I-pers	O	I-pers.ind	O	I-comp.function	B-loc.adm.town	Q61319	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Kollodiumwolle	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wolle	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+heißt	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Material	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Grundlage	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lage	O	O	O	O	O	O	_	_	_|Commented
+zu	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+heutigen	O	O	O	O	O	O	_	_	_
+Kunstscidenindustrie	O	O	O	O	O	O	_	_	_
+bieten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+allohol	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+ätherlésliche	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sellulosenitrat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+unkorrekter	O	O	O	O	O	O	_	_	_
+Weise	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nitrozellulose	O	O	O	O	O	O	_	_	_
+genannt	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+1855	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+schen	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dem	O	O	O	O	O	O	_	_	_
+Jouxtale	B-loc	O	B-loc.phys.geo	O	O	O	Q675178	_	_
+stammenden	O	O	O	O	O	O	_	_	_
+Lausanner	B-pers	O	B-pers.ind	O	B-comp.demonym	O	NIL	_	_
+Audemars	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Schönbeins	B-pers	O	B-pers.ind	O	O	O	Q61319	_	_
+Material	O	O	O	O	O	O	_	_	_
+beschäftigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+er	O	O	O	O	O	O	_	_	_
+wollte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Bast	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Maulbeerbäumen	O	O	O	O	O	O	_	_	_
+nitrieren	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einer	O	O	O	O	O	O	_	_	_
+Nadel	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+honigdicken	O	O	O	O	O	O	_	_	_
+Flüssigkeit	O	O	O	O	O	O	_	_	_
+Fäden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zichen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+1882	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+benützte	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Eigenschaft	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kollodiumwolle	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lodiumwolle	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+dünne	O	O	O	O	O	O	_	_	_
+Fäden	O	O	O	O	O	O	_	_	_
+ausziehen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+lassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Herstellung	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+relativ	O	O	O	O	O	O	_	_	_
+dicken	O	O	O	O	O	O	_	_	_
+Fäden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+nachträglich	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Zellulose	O	O	O	O	O	O	_	_	_
+zurückverwandelte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#verwandelte	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+heißt	O	O	O	O	O	O	_	_	_
+denitrierte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Aber	O	O	O	O	O	O	_	_	_
+erst	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+1889	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+konnte	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+erste	O	O	O	O	O	O	_	_	_
+technisch	O	O	O	O	O	O	_	_	_
+hergestellte	O	O	O	O	O	O	_	_	_
+Kunstseide	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#seide	O	O	O	O	O	O	_	_	_|Commented
+gezeigt	O	O	O	O	O	O	_	_	_
+verden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+zwar	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Weltausstellung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ausstellung	O	O	O	O	O	O	_	_	_|Commented
+von	O	O	O	O	O	O	_	_	_
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Apparat	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eine	O	O	O	O	O	O	_	_	_
+bierfarbene	O	O	O	O	O	O	_	_	_
+Flüssigkeit	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+Glasröhrchen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+drückte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+glänzenden	O	O	O	O	O	O	_	_	_
+Fäden	O	O	O	O	O	O	_	_	_
+Koagulierte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+weißbärtige	B-pers	O	B-pers.ind	O	B-comp.qualifier	O	Q901049	_	_
+Erfinder	I-pers	O	I-pers.ind	O	B-comp.function	O	Q901049	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q901049	_	_
+Graf	I-pers	O	I-pers.ind	O	B-comp.title	O	Q901049	_	_
+Hilaire	I-pers	O	I-pers.ind	O	B-comp.name	O	Q901049	_	_
+de	I-pers	O	I-pers.ind	O	I-comp.name	O	Q901049	_	_
+Chardonnet	I-pers	O	I-pers.ind	O	I-comp.name	O	Q901049	_	NoSpaceAfter|Normalized-6
+#¬	I-pers	O	I-pers.ind	O	I-comp.name	O	Q901049	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#donnet	I-pers	O	I-pers.ind	O	I-comp.name	O	Q901049	_	NoSpaceAfter|Commented
+,	I-pers	O	I-pers.ind	O	O	O	Q901049	_	_
+mußte	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+zugeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Sache	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nicht	O	O	O	O	O	O	_	_	_
+fabrikationsreif	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+sein	O	O	O	O	O	O	_	_	_
+Material	O	O	O	O	O	O	_	_	_
+bestand	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aus	O	O	O	O	O	O	_	_	_
+unveränderter	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+äußerst	O	O	O	O	O	O	_	_	_
+feuergefährlicher	O	O	O	O	O	O	_	_	_
+Schießbaumwolle	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#baumwolle	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Herstellung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+verbrennbaren	O	O	O	O	O	O	_	_	_
+Pulversäcken	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+schwere	O	O	O	O	O	O	_	_	_
+Geschütze	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schütze	O	O	O	O	O	O	_	_	_|Commented
+verwendet	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Bald	O	O	O	O	O	O	_	_	_
+darauf	O	O	O	O	O	O	_	_	_
+erland	O	O	O	O	O	O	_	_	_
+jedoch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Chardonnet	B-pers	O	B-pers.ind	O	O	O	Q901049	_	_
+ein	O	O	O	O	O	O	_	_	_
+einsache	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+billige	O	O	O	O	O	O	_	_	_
+Methode	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Nitrokunstseide	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+denitrieren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+s0daß	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#daß	O	O	O	O	O	O	_	_	_|Commented
+die	O	O	O	O	O	O	_	_	_
+Chardonnetscide	B-pers	O	B-pers.ind	O	O	O	Q901049	_	Partial-0:10
+als	O	O	O	O	O	O	_	_	_
+schönes	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+völlig	O	O	O	O	O	O	_	_	_
+gefahrloses	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fahrloses	O	O	O	O	O	O	_	_	_|Commented
+Material	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Markt	O	O	O	O	O	O	_	_	_
+kam	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+1896	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+wurde	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eine	O	O	O	O	O	O	_	_	_
+Versuchslabrik	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Besançon	B-loc	O	B-loc.adm.town	O	O	O	Q37776	_	_
+gegründet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Chardonnet	B-pers	O	B-pers.ind	O	O	O	Q901049	_	_
+sein	O	O	O	O	O	O	_	_	_
+ganzes	O	O	O	O	O	O	_	_	_
+Vermögen	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+6	O	O	O	O	O	O	_	_	_
+Millionen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Franken	O	O	O	O	O	O	_	_	_
+verlor	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+1857	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+beschrieb	O	O	O	O	O	O	_	_	_
+Schweizer	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+im	O	O	O	O	O	O	_	_	_
+Journal	B-prod	O	B-prod.media	O	O	O	Q1709822	_	_
+für	I-prod	O	I-prod.media	O	O	O	Q1709822	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+praktische	I-prod	O	I-prod.media	O	O	O	Q1709822	_	_
+Chemie	I-prod	O	I-prod.media	O	O	O	Q1709822	_	_
+die	O	O	O	O	O	O	_	_	_
+kuproammoniakale	O	O	O	O	O	O	_	_	_
+Schweizerlôsung	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lôsung	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+:	O	O	O	O	O	O	_	_	_|EOS
+
+1890	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+stellte	O	O	O	O	O	O	_	_	_
+Gral	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+Dupeissis	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+das	O	O	O	O	O	O	_	_	_
+sog	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Kupfer	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Ammoniak	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Versahren	O	O	O	O	O	O	_	_	_
+her	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Cunstseidenindustrie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dessen	O	O	O	O	O	O	_	_	_
+Entwicklung	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Verbesserung	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+Pauly	B-pers	O	B-pers.ind	O	O	O	Q1612335	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Freméry	B-pers	O	B-pers.ind	O	O	O	Q15431204	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Urban	B-pers	O	B-pers.ind	O	O	O	Q1696437	_	_
+und	O	O	O	O	O	O	_	_	_
+Bronnert	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+beteiligt	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Durch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+TLhiele	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+-	O	O	O	O	O	O	_	_	_
+Bembergsche	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+Streckspinnversahren	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sahren	O	O	O	O	O	O	_	_	_|Commented
+wurde	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Kupferscide	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+verleinert	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#leinert	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+dritte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+sog	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Viscoseversahren	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sahren	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Vorteil	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+verschiedensten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Materialien	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Papier	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Lumpen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Holz	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+verwendet	O	O	O	O	O	O	_	_	_
+verden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#den	O	O	O	O	O	O	_	_	_|Commented
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+1892	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+erfanden	O	O	O	O	O	O	_	_	_
+Cross	B-pers	O	B-pers.ind	O	O	O	Q3666396	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Bevan	B-pers	O	B-pers.ind	O	O	O	Q3719976	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Beadle	B-pers	O	B-pers.ind	O	O	O	Q52149604	_	_
+die	O	O	O	O	O	O	_	_	_
+Viscoselösung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+deren	O	O	O	O	O	O	_	_	_
+Fäden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+durch	O	O	O	O	O	O	_	_	_
+Müller	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+und	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Eilienfeldverlahren	B-pers	O	B-pers.ind	O	O	O	NIL	_	Partial-0:10
+stark	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+verbessert	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sodaß	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	_
+Viscose	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+gebräuchlichste	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-13
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bräuchlichste	O	O	O	O	O	O	_	_	_|Commented
+unter	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Fünstlichen	O	O	O	O	O	O	_	_	_
+Textilstoffen	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+An	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Ausbildung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+sog	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Acetatseide	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vierten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+jüngsten	O	O	O	O	O	O	_	_	_
+Kunstseide	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schweizer	B-pers	O	B-pers.ind	O	B-comp.demonym	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+H	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+Dreyfus	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Deutsche	B-pers	O	B-pers.ind	O	B-comp.demonym	O	NIL	_	_
+L	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+Lederer	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+entscheidend	O	O	O	O	O	O	_	_	_
+beteiligt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ihr	O	O	O	O	O	O	_	_	_
+Rohmaterial	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+Baumvoll	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#voll	O	O	O	O	O	O	_	_	_|Commented
+Linters	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+heißt	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Wolle	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Baumwollkern	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wollkern	O	O	O	O	O	O	_	_	_|Commented
+umgibt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Acctatseide	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+elastisch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+wasserfest	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Interessant	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+sowohl	O	O	O	O	O	O	_	_	_
+beim	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nitro	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+beim	O	O	O	O	O	O	_	_	_
+Kupfer	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Viscoseverfahren	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Absicht	O	O	O	O	O	O	_	_	_
+bestand	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Glühfäden	O	O	O	O	O	O	_	_	_
+herzustellen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Ausbreitung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kunstseidenindustrie	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#industrie	O	O	O	O	O	O	_	_	_|Commented
+ging	O	O	O	O	O	O	_	_	_
+zunächst	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Besançon	B-loc	O	B-loc.adm.town	O	O	O	Q37776	_	_
+aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+heute	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+Nitro	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+Viscoseseide	O	O	O	O	O	O	_	_	_
+hergestellt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gestellt	O	O	O	O	O	O	_	_	_|Commented
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Aufmerksamkeit	O	O	O	O	O	O	_	_	_
+richtete	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Naturseidenindustrie	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#industrie	O	O	O	O	O	O	_	_	_|Commented
+einen	O	O	O	O	O	O	_	_	_
+ersten	O	O	O	O	O	O	_	_	_
+Rang	O	O	O	O	O	O	_	_	_
+einnahm	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+erste	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Fabrik	O	O	O	O	O	O	_	_	_
+entstand	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Spreitenbach	B-loc	O	B-loc.adm.town	O	O	O	Q64210	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+1892	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+kam	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Deutsche	B-pers	O	B-pers.ind	O	B-comp.demonym	O	NIL	_	_
+Lehnert	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+nach	O	O	O	O	O	O	_	_	_
+Glattbrugg	B-loc	O	B-loc.adm.town	O	O	O	Q22702084	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+eröffnete	O	O	O	O	O	O	_	_	_
+dort	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Fabrik	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Beide	O	O	O	O	O	O	_	_	_
+Unternehmen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+fabrizierten	O	O	O	O	O	O	_	_	_
+Chardonnetscide	B-pers	O	B-pers.ind	O	O	O	Q901049	_	NoSpaceAfter|Partial-0:10
+,	O	O	O	O	O	O	_	_	_
+gingen	O	O	O	O	O	O	_	_	_
+jedoch	O	O	O	O	O	O	_	_	_
+1905	B-time	O	B-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+/	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+06	I-time	O	I-time.date.abs	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wieder	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ihre	O	O	O	O	O	O	_	_	_
+erste	O	O	O	O	O	O	_	_	_
+Verwendung	O	O	O	O	O	O	_	_	_
+sand	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Kunstscide	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#scide	O	O	O	O	O	O	_	_	_|Commented
+als	O	O	O	O	O	O	_	_	_
+Besatxartikel	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+Tressen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Fabriken	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+entstanden	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Frankfurt	B-loc	O	B-loc.adm.town	O	O	O	Q1794	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Belgien	B-loc	O	B-loc.adm.nat	O	O	O	Q31	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Padua	B-loc	O	B-loc.adm.town	O	O	O	Q617	_	_
+und	O	O	O	O	O	O	_	_	_
+Pavia	B-loc	O	B-loc.adm.town	O	O	O	Q6259	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Viscose	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eine	O	O	O	O	O	O	_	_	_
+bedeutende	O	O	O	O	O	O	_	_	_
+Rolle	O	O	O	O	O	O	_	_	_
+spielt	O	O	O	O	O	O	_	_	_
+Auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Herren	B-pers	O	B-pers.ind	O	B-comp.title	O	Q15431204	_	_
+Fréméry	I-pers	O	I-pers.ind	O	B-comp.name	O	Q15431204	_	NoSpaceAfter|Normalized-4
+#¬	I-pers	O	I-pers.ind	O	I-comp.name	O	Q15431204	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#méry	I-pers	O	I-pers.ind	O	I-comp.name	O	Q15431204	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Bronnert	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+und	O	O	O	O	O	O	_	_	_
+Thiele	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Nitroseide	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+weiterarbeiteten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+vollten	O	O	O	O	O	O	_	_	_
+eigentlich	O	O	O	O	O	O	_	_	_
+Glühfäden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erzielen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+s0	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+damals	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+eben	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Edison	B-pers	O	B-pers.ind	O	O	O	Q8743	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erfundene	O	O	O	O	O	O	_	_	_
+Kohlenfaden	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Glühlampe	O	O	O	O	O	O	_	_	_
+verwendet	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#den	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+;	O	O	O	O	O	O	_	_	_|EOS
+
+aus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+sog	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Kupferseide	O	O	O	O	O	O	_	_	_
+fabrizierte	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+denn	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auch	O	O	O	O	O	O	_	_	_
+später	O	O	O	O	O	O	_	_	_
+vielsach	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Träger	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+bekannten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Auerschen	B-pers	O	B-pers.ind	O	O	O	Q89390	_	_
+Glühstrümpfe	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+incandescent	O	O	O	O	O	O	_	_	_
+light	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kunstscidenunternehmungen	O	O	O	O	O	O	_	_	_
+entstanden	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+St	B-loc	O	B-loc.adm.town	O	O	O	Q82500	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.town	O	O	O	Q82500	_	_
+Pölten	I-loc	O	I-loc.adm.town	O	O	O	Q82500	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Ardennen	B-loc	O	B-loc.adm.reg	O	O	O	Q3164	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Givet	B-loc	O	B-loc.adm.town	O	O	O	Q241940	_	_
+Bernheim	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter|Normalized-4
+#¬	I-pers	O	I-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#heim	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter|Commented
+)	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+Lyon	B-loc	O	B-loc.adm.town	O	O	O	Q456	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Izicux	B-loc	O	B-loc.adm.town	O	O	O	Q2380513	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Wegen	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+geringen	O	O	O	O	O	O	_	_	_
+Festigkeitsgrades	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hohen	O	O	O	O	O	O	_	_	_
+Alkoholkosten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Nitroseide	O	O	O	O	O	O	_	_	_
+ging	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+im	B-time	O	B-time.date.abs	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zweiten	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+Jahrzehnt	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+des	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+20	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+Jahrhunderts	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+allgemein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zum	O	O	O	O	O	O	_	_	_
+Viscoseversahren	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Samuel	B-pers	B-org	B-pers.ind	B-org.ent	O	O	Q7411171	NIL	_
+Courtaults	I-pers	I-org	I-pers.ind	I-org.ent	O	O	Q7411171	NIL	NoSpaceAfter|Normalized-6
+#¬	I-pers	I-org	I-pers.ind	I-org.ent	O	O	Q7411171	NIL	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#taults	I-pers	I-org	I-pers.ind	I-org.ent	O	O	Q7411171	NIL	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+alte	O	O	O	O	O	O	_	_	_
+Seidenfirma	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+London	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Kaufte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Patente	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Cross	B-pers	O	B-pers.ind	O	O	O	Q3666396	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Bevan	B-pers	O	B-pers.ind	O	O	O	Q3719976	_	_
+und	O	O	O	O	O	O	_	_	_
+Beadle	B-pers	O	B-pers.ind	O	O	O	Q52149604	_	_
+auf	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+baute	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+heutigen	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	_
+englischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Viscoseindustrie	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Einen	O	O	O	O	O	O	_	_	_
+hervorragenden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Anteil	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+technischen	O	O	O	O	O	O	_	_	_
+Entwicklung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Viscoseverfahrens	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#verfahrens	O	O	O	O	O	O	_	_	_|Commented
+hat	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Société	B-org	O	B-org.ent	O	O	O	NIL	_	_
+Française	I-org	O	I-org.ent	O	B-comp.demonym	O	NIL	_	_
+de	I-org	O	I-org.ent	O	O	O	NIL	_	_
+la	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Viscose	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Muttergesellschalt	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schweizesrischen	B-org	O	B-org.ent	O	B-comp.demonym	O	NIL	_	NoSpaceAfter|Normalized-8
+#¬	I-org	O	I-org.ent	O	I-comp.demonym	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#srischen	I-org	O	I-org.ent	O	I-comp.demonym	O	NIL	_	_|Commented
+Viscosegesellschalt	I-org	O	I-org.ent	O	O	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	_
+Emmenbrücke	B-loc	O	B-loc.adm.town	O	O	O	Q55283951	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Deutschland	B-loc	O	B-loc.adm.nat	O	O	O	Q183	_	_
+finanzierte	O	O	O	O	O	O	_	_	_
+Graf	B-pers	O	B-pers.ind	O	B-comp.title	O	Q68362	_	_
+Henckel	I-pers	O	I-pers.ind	O	B-comp.name	O	Q68362	_	_
+von	I-pers	O	I-pers.ind	O	I-comp.name	O	Q68362	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Donnersmark	I-pers	O	I-pers.ind	O	I-comp.name	O	Q68362	_	_
+das	O	O	O	O	O	O	_	_	_
+Viscoseverfahren	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+der	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Vereinigten	B-org	O	B-org.ent	O	O	O	Q875320	_	NoSpaceAfter|Normalized-8
+#¬	I-org	O	I-org.ent	O	O	O	Q875320	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#einigten	I-org	O	I-org.ent	O	O	O	Q875320	_	_|Commented
+Glanzstof	I-org	O	I-org.ent	O	O	O	Q875320	_	NoSpaceAfter
+!	I-org	O	I-org.ent	O	O	O	Q875320	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Elberkeld	B-loc	O	B-loc.adm.town	O	O	O	Q702259	_	_
+schlossen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Niesenwerke	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Oberbruch	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	NoSpaceAfter|Normalized-5
+#¬	I-loc	O	I-loc.adm.town	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bruch	I-loc	O	I-loc.adm.town	O	O	O	NIL	_	_|Commented
+bei	O	O	O	O	O	O	_	_	_
+Aachen	B-loc	O	B-loc.adm.town	O	O	O	Q1017	_	_
+aus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+alten	O	O	O	O	O	O	_	_	_
+Papiermühle	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+entstanden	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+im	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+letzten	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+Jahrzehnt	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+des	I-time	O	I-time.date.abs	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+19	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+ahrhunderts	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Max	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Fréméry	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Herstellung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stellung	O	O	O	O	O	O	_	_	_|Commented
+von	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Kupferscide	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+gearbeitet	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+An	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Pariser	O	O	O	O	O	O	_	_	_
+Weltausstellung	O	O	O	O	O	O	_	_	_
+machte	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Viscose	O	O	O	O	O	O	_	_	_
+neben	O	O	O	O	O	O	_	_	_
+Chardonnet	B-pers	O	B-pers.ind	O	O	O	Q901049	_	_
+noch	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+triste	O	O	O	O	O	O	_	_	_
+figure	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dann	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+1907	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+die	O	O	O	O	O	O	_	_	_
+bessern	O	O	O	O	O	O	_	_	_
+Apparate	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Verfügung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+waren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ging	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+rasch	O	O	O	O	O	O	_	_	_
+vorwärts	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+heutige	O	O	O	O	O	O	_	_	_
+Hauptgruppe	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gruppe	O	O	O	O	O	O	_	_	_|Commented
+ist	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Comptoir	B-org	O	B-org.ent	O	O	O	NIL	_	_
+des	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Textiles	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Artisicieles	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+“	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Die	O	O	O	O	O	O	_	_	_
+französische	O	O	O	O	O	O	_	_	_
+Viscose	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schon	O	O	O	O	O	O	_	_	_
+früh	O	O	O	O	O	O	_	_	_
+technische	O	O	O	O	O	O	_	_	_
+Bezichungen	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Belgien	B-loc	O	B-loc.adm.nat	O	O	O	Q31	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	_
+und	O	O	O	O	O	O	_	_	_
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+englischen	O	O	O	O	O	O	_	_	_
+Courtaulds	B-pers	O	B-pers.ind	O	O	O	Q7411171	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+wiederum	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+amerikanischen	O	O	O	O	O	O	_	_	_
+Viscosc	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#cosc	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+französische	O	O	O	O	O	O	_	_	_
+Viscose	O	O	O	O	O	O	_	_	_
+absorbierte	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+italienische	O	O	O	O	O	O	_	_	_
+Nitroscideindustrie	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+an	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Stelle	O	O	O	O	O	O	_	_	_
+traten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Cisa	B-org	O	B-org.ent	O	O	O	Q3459824	_	_
+,	I-org	O	I-org.ent	O	O	O	Q3459824	_	_
+die	I-org	O	I-org.ent	O	O	O	Q3459824	_	_
+Snia	I-org	O	I-org.ent	O	O	O	Q3459824	_	_
+viscosa	I-org	O	I-org.ent	O	O	O	Q3459824	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Gualino	B-pers	O	B-pers.ind	O	O	O	Q782629	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Vom	O	O	O	O	O	O	_	_	_
+Comptoir	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#toir	O	O	O	O	O	O	_	_	_|Commented
+aus	O	O	O	O	O	O	_	_	_
+gingen	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+Ableger	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+DupontNemouxs	B-org	O	B-org.ent	O	O	O	Q221062	_	NoSpaceAfter|Normalized-7
+#¬	I-org	O	I-org.ent	O	O	O	Q221062	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#Nemouxs	I-org	O	I-org.ent	O	O	O	Q221062	_	NoSpaceAfter|Commented
+-	I-org	O	I-org.ent	O	O	O	Q221062	_	NoSpaceAfter
+Gruppe	I-org	O	I-org.ent	O	O	O	Q221062	_	_
+in	O	O	O	O	O	O	_	_	_
+Köln	B-loc	O	B-loc.adm.town	O	O	O	Q365	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Rottweil	B-loc	O	B-loc.adm.town	O	O	O	Q82960	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+durch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Versailler	O	O	O	O	O	O	_	_	_
+Verträge	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Umstellung	O	O	O	O	O	O	_	_	_
+gezwungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zwungen	O	O	O	O	O	O	_	_	_|Commented
+war	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Kunstseide	O	O	O	O	O	O	_	_	_
+gewaltig	O	O	O	O	O	O	_	_	_
+gelördert	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Zwei	O	O	O	O	O	O	_	_	_
+altbekannte	O	O	O	O	O	O	_	_	_
+Firmen	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Enka	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter
+“	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Niederlanden	B-loc	O	B-loc.adm.nat	O	O	O	Q55	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Hartogs	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+ein	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Volontär	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter|Normalized-6
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lontär	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_|Commented
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+Courtaulds	I-pers	O	I-pers.ind	O	I-comp.function	B-org.ent	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+prächtig	O	O	O	O	O	O	_	_	_
+entwickelte	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Küttner	B-org	O	B-org.ent	O	O	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	_
+Sachsen	B-loc	O	B-loc.adm.reg	O	O	O	Q1202	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+gleichzeitig	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Société	B-org	O	B-org.ent	O	O	O	NIL	_	_
+de	I-org	O	I-org.ent	O	O	O	NIL	_	_
+la	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Viscose	I-org	O	I-org.ent	O	O	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	_
+Emmenbrücke	B-loc	O	B-loc.adm.town	O	O	O	Q55283951	_	_
+gegründet	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gründet	O	O	O	O	O	O	_	_	_|Commented
+wurde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	_
+Vorteil	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Comptoir	O	O	O	O	O	O	_	_	_
+unabhängig	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	_
+Krisenvogel	O	O	O	O	O	O	_	_	_
+kam	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Japan	B-loc	O	B-loc.adm.nat	O	O	O	Q17	_	_
+zur	O	O	O	O	O	O	_	_	_
+Runstscidenindustrie	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+sein	O	O	O	O	O	O	_	_	_
+Produftionsanteil	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tionsanteil	O	O	O	O	O	O	_	_	_|Commented
+betrug	O	O	O	O	O	O	_	_	_
+1923	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+350	O	O	O	O	O	O	_	_	_
+000	O	O	O	O	O	O	_	_	_
+lg	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+1937	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+151	O	O	O	O	O	O	_	_	_
+Millionen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lionen	O	O	O	O	O	O	_	_	_|Commented
+Rg	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+heißt	O	O	O	O	O	O	_	_	_
+28	O	O	O	O	O	O	_	_	_
+Prozent	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Weltproduktion	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+jüngste	O	O	O	O	O	O	_	_	_
+Kunstscide	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Aretat	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Aretylzellulose	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Kunstseide	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Rohmaterial	O	O	O	O	O	O	_	_	_
+Linters	O	O	O	O	O	O	_	_	_
+verwendet	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+sie	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Dreysus	B-pers	O	B-pers.ind	O	O	O	Q15998806	_	NoSpaceAfter|Normalized-3
+#¬	I-pers	O	I-pers.ind	O	O	O	Q15998806	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sus	I-pers	O	I-pers.ind	O	O	O	Q15998806	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+Clavel	B-pers	O	B-pers.ind	O	O	O	Q63065733	_	_
+in	O	O	O	O	O	O	_	_	_
+Basel	B-loc	O	B-loc.adm.town	O	O	O	Q78	_	_
+und	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Rhodiaseta	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter
+“	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Usines	B-org	O	B-org.ent	O	O	O	NIL	_	_
+du	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Rhone	I-org	O	I-org.ent	O	O	B-loc.phys.hydro	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Deutschland	B-loc	O	B-loc.adm.nat	O	O	O	Q183	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+I	B-org	O	B-org.ent	O	O	O	Q156152	_	NoSpaceAfter
+.	I-org	O	I-org.ent	O	O	O	Q156152	_	_
+G	I-org	O	I-org.ent	O	O	O	Q156152	_	NoSpaceAfter
+.	I-org	O	I-org.ent	O	O	O	Q156152	_	_
+Farben	I-org	O	I-org.ent	O	O	O	Q156152	_	_
+hergestellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+überall	O	O	O	O	O	O	_	_	_
+Lizenzen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zen	O	O	O	O	O	O	_	_	_|Commented
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Hinzu	O	O	O	O	O	O	_	_	_
+kommen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Celanaise	B-org	O	B-org.ent	O	O	O	Q547450	_	_
+Française	I-org	O	I-org.ent	O	B-comp.demonym	O	Q547450	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+British	B-org	O	B-org.ent	O	O	O	Q4969612	_	_
+Celanese	I-org	O	I-org.ent	O	O	O	Q4969612	_	_
+Ltd	I-org	O	I-org.ent	O	O	O	Q4969612	_	NoSpaceAfter
+.	I-org	O	I-org.ent	O	O	O	Q4969612	_	NoSpaceAfter
+“	O	O	O	O	O	O	_	_	_
+Die	O	O	O	O	O	O	_	_	_
+Acctatseide	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+trotz	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+höheren	O	O	O	O	O	O	_	_	_
+Preis	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+kurzer	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+beliebt	O	O	O	O	O	O	_	_	_
+geworden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#worden	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+clastisch	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+Holzzclluloseseide	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+plastisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+elastisch	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+vertvolle	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+färberische	O	O	O	O	O	O	_	_	_
+Sonderqualitäten	O	O	O	O	O	O	_	_	_
+besitzt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Beispiel	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Erzeugung	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Weiß	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+Bunteffekten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#effekten	O	O	O	O	O	O	_	_	_|Commented
+am	O	O	O	O	O	O	_	_	_
+Stück	O	O	O	O	O	O	_	_	_
+eignet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wenn	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Viscose	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Rindlleisch	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Bemberg	B-pers	B-org	B-pers.ind	B-org.ent	O	O	NIL	NIL	_
+das	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+dauerhafte	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Poulet	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Kunstsciden	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+s0	O	O	O	O	O	O	_	_	_
+dürse	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Aretatscide	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+blancmanger	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+bezeichnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Sie	O	O	O	O	O	O	_	_	_
+rangiert	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+sieben	O	O	O	O	O	O	_	_	_
+Prozent	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Pemberg	B-pers	B-org	B-pers.ind	B-org.ent	O	O	NIL	NIL	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+drei	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Viscose	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+90	O	O	O	O	O	O	_	_	_
+Prozent	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+gesamten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ten	O	O	O	O	O	O	_	_	_|Commented
+Kunstseidenproduktion	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+reinste	O	O	O	O	O	O	_	_	_
+Zellulose	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Natur	O	O	O	O	O	O	_	_	_
+bietet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Baumwolle	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+pflanzt	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+Tellulose	O	O	O	O	O	O	_	_	_
+Schilf	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Art	O	O	O	O	O	O	_	_	_
+abessinisches	O	O	O	O	O	O	_	_	_
+Gras	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Hat	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Viscose	O	O	O	O	O	O	_	_	_
+dank	O	O	O	O	O	O	_	_	_
+ihrem	O	O	O	O	O	O	_	_	_
+Rohmaterial	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+billigste	O	O	O	O	O	O	_	_	_
+Herstellung	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+größten	O	O	O	O	O	O	_	_	_
+Markt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+80	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dafür	O	O	O	O	O	O	_	_	_
+ihr	O	O	O	O	O	O	_	_	_
+Verhalten	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+arbeitstechnischer	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#scher	O	O	O	O	O	O	_	_	_|Commented
+Hinsicht	O	O	O	O	O	O	_	_	_
+etwas	O	O	O	O	O	O	_	_	_
+tyrannisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Während	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Aretatlösung	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+sestem	O	O	O	O	O	O	_	_	_
+Austand	O	O	O	O	O	O	_	_	_
+gekauft	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+transportiert	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#portiert	O	O	O	O	O	O	_	_	_|Commented
+werden	O	O	O	O	O	O	_	_	_
+Kann	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+muß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Viscoselösung	O	O	O	O	O	O	_	_	_
+verschiedene	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schiedene	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+beim	O	O	O	O	O	O	_	_	_
+Sauser	O	O	O	O	O	O	_	_	_
+empfindsame	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Reisestadien	O	O	O	O	O	O	_	_	_
+durchmachen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ihr	O	O	O	O	O	O	_	_	_
+Faden	O	O	O	O	O	O	_	_	_
+muß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	_
+bestimmten	O	O	O	O	O	O	_	_	_
+Moment	O	O	O	O	O	O	_	_	_
+gesponnen	O	O	O	O	O	O	_	_	_
+verden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#den	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Hinzu	O	O	O	O	O	O	_	_	_
+kommt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+aller	O	O	O	O	O	O	_	_	_
+Kunstscidefaden	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zum	O	O	O	O	O	O	_	_	_
+Unterschied	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Stapelfaser	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+Kontinuierlich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nuierlich	O	O	O	O	O	O	_	_	_|Commented
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Viscose	O	O	O	O	O	O	_	_	_
+entspräche	O	O	O	O	O	O	_	_	_
+also	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Tag	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Nacht	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Sonntags	O	O	O	O	O	O	_	_	_
+durchgehende	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Arbeitszeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+menschlichen	O	O	O	O	O	O	_	_	_
+Natur	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+entspricht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Ausland	O	O	O	O	O	O	_	_	_
+vielerorts	O	O	O	O	O	O	_	_	_
+durehgeführt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ein	O	O	O	O	O	O	_	_	_
+willkürliches	O	O	O	O	O	O	_	_	_
+Stoppen	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+dort	O	O	O	O	O	O	_	_	_
+erträglich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lich	O	O	O	O	O	O	_	_	_|Commented
+wo	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+große	O	O	O	O	O	O	_	_	_
+Gewinnmargen	O	O	O	O	O	O	_	_	_
+bestehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	_
+nicht	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Fall	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Qualitätsgrad	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+Produktes	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+weitgehend	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Frage	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+sorgfältigen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fältigen	O	O	O	O	O	O	_	_	_|Commented
+Behandlung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Besonders	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Färber	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+konnten	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+zögernd	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Gedanken	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aussöhnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+weniger	O	O	O	O	O	O	_	_	_
+vertvolles	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Material	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+Sorgfalt	O	O	O	O	O	O	_	_	_
+aufbringen	O	O	O	O	O	O	_	_	_
+sollten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Zellwolle	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Stapelkaser	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Gespinst	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kurzen	O	O	O	O	O	O	_	_	_
+Kunstscidefäden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hergestellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+liegt	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Verwendung	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Anfängen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schweden	B-loc	O	B-loc.adm.nat	O	O	O	Q34	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+doch	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+autarkische	O	O	O	O	O	O	_	_	_
+Not	O	O	O	O	O	O	_	_	_
+kennt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+beträgt	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Zehnfache	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+schweizerischen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+300	O	O	O	O	O	O	_	_	_
+Millionen	O	O	O	O	O	O	_	_	_
+lg	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Weltproduktion	O	O	O	O	O	O	_	_	_
+entfallen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fallen	O	O	O	O	O	O	_	_	_|Commented
+50	O	O	O	O	O	O	_	_	_
+Millionen	O	O	O	O	O	O	_	_	_
+kg	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	_
+und	O	O	O	O	O	O	_	_	_
+100	O	O	O	O	O	O	_	_	_
+Millionen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nen	O	O	O	O	O	O	_	_	_|Commented
+g	O	O	O	O	O	O	_	_	_
+aul	O	O	O	O	O	O	_	_	_
+Deutschland	B-loc	O	B-loc.adm.nat	O	O	O	Q183	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Seit	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+1935	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+hat	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zellwolle	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wolle	O	O	O	O	O	O	_	_	_|Commented
+einen	O	O	O	O	O	O	_	_	_
+raschen	O	O	O	O	O	O	_	_	_
+Anstieg	O	O	O	O	O	O	_	_	_
+erlebt	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+ihre	O	O	O	O	O	O	_	_	_
+Produktionszikler	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tionszikler	O	O	O	O	O	O	_	_	_|Commented
+ist	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+halber	O	O	O	O	O	O	_	_	_
+Höhe	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kunstscide	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+schweizerische	O	O	O	O	O	O	_	_	_
+Runstseidenindustrie	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#industrie	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+zunächst	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Export	O	O	O	O	O	O	_	_	_
+lebte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+allmählich	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+eigenen	O	O	O	O	O	O	_	_	_
+Lande	O	O	O	O	O	O	_	_	_
+Absatz	O	O	O	O	O	O	_	_	_
+fand	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+stellte	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+zuerst	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Seidenersatx	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+es	O	O	O	O	O	O	_	_	_
+zeigten	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	_
+andere	O	O	O	O	O	O	_	_	_
+Verkaulsgebiete	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gebiete	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+:	O	O	O	O	O	O	_	_	_|EOS
+
+so	O	O	O	O	O	O	_	_	_
+bildete	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Beispiel	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Crinol	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kunstscidenrothaar	O	O	O	O	O	O	_	_	_
+lange	O	O	O	O	O	O	_	_	_
+Jahre	O	O	O	O	O	O	_	_	_
+hindurch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+Ruhekissen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Viscosefabrik	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Emmenbrücke	B-loc	O	B-loc.adm.town	O	O	O	Q55283951	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bis	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Wohlener	O	O	O	O	O	O	_	_	_
+Hutlabrikation	O	O	O	O	O	O	_	_	_
+plötzlich	O	O	O	O	O	O	_	_	_
+nichts	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mehr	O	O	O	O	O	O	_	_	_
+davon	O	O	O	O	O	O	_	_	_
+wissen	O	O	O	O	O	O	_	_	_
+wollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Nach	O	O	O	O	O	O	_	_	_
+minutiésen	O	O	O	O	O	O	_	_	_
+Darlegungen	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+Festigkeitsgrad	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#keitsgrad	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dehnbarkeit	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Färbbarkeit	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#keit	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Viscose	O	O	O	O	O	O	_	_	_
+schilderte	O	O	O	O	O	O	_	_	_
+v	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Goumoéns	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Celta	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+Lustseide	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+deren	O	O	O	O	O	O	_	_	_
+Gewebe	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bündeln	O	O	O	O	O	O	_	_	_
+hohler	O	O	O	O	O	O	_	_	_
+Fäden	O	O	O	O	O	O	_	_	_
+bestcht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sodaß	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Kunstseide	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#seide	O	O	O	O	O	O	_	_	_|Commented
+weich	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Griff	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+warm	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Tragen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aber	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+haltbar	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+massive	O	O	O	O	O	O	_	_	_
+Kunstscide	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#scide	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Während	O	O	O	O	O	O	_	_	_
+matte	O	O	O	O	O	O	_	_	_
+Kunstscide	O	O	O	O	O	O	_	_	_
+nichts	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Neues	O	O	O	O	O	O	_	_	_
+bedeutet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bleibt	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Knittern	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+böse	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sache	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+obwohl	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	_
+Fortschritte	O	O	O	O	O	O	_	_	_
+gemacht	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#den	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Verbesserungen	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sache	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+gesunden	O	O	O	O	O	O	_	_	_
+Menschenverstandes	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Sorgfalt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#falt	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kontinuierlichen	O	O	O	O	O	O	_	_	_
+Beobachtung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Cunstscide	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	_
+Vorteil	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+ihr	O	O	O	O	O	O	_	_	_
+Rohmaterial	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#material	O	O	O	O	O	O	_	_	_|Commented
+—	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+Holz	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+Baumwolle	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+regelmäßig	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mäßig	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Launen	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+Wurms	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+abhängig	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+verliebt	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+Katarrh	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kann	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	_
+ist	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Entwicklung	O	O	O	O	O	O	_	_	_
+sukzcssive	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vor	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+gegangen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+mit	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+besseren	O	O	O	O	O	O	_	_	_
+Apparaten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wurden	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Eiter	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+keiner	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+arbeitenden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Hlände	O	O	O	O	O	O	_	_	_
+sorglältiger	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Ein	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+wichtiges	O	O	O	O	O	O	_	_	_
+Gebiet	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Wirkerei	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Rundstuhl	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+als	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+1910	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+jemand	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Strümplewirken	O	O	O	O	O	O	_	_	_
+sprach	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+antwortete	O	O	O	O	O	O	_	_	_
+von	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+Goumoéns	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Sagen	O	O	O	O	O	O	_	_	_
+Sie	O	O	O	O	O	O	_	_	_
+lieber	O	O	O	O	O	O	_	_	_
+gleich	O	O	O	O	O	O	_	_	_
+Regenschirme	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+"	O	O	O	O	O	O	_	_	_
+Heute	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+haben	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+beides	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Zuletzt	O	O	O	O	O	O	_	_	_
+kam	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Kettenwirkemaschine	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#maschine	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Sorgfalt	O	O	O	O	O	O	_	_	_
+muß	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+allgemeine	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#meine	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+besondern	O	O	O	O	O	O	_	_	_
+Stoff	O	O	O	O	O	O	_	_	_
+angepaßt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Azetatscide	O	O	O	O	O	O	_	_	_
+darf	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+heißen	O	O	O	O	O	O	_	_	_
+Eisen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Berührung	O	O	O	O	O	O	_	_	_
+kommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+Seidenwäsche	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nicht	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Seil	O	O	O	O	O	O	_	_	_
+angeklammert	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Bei	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Gestehungskosten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-14
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stehungskosten	O	O	O	O	O	O	_	_	_|Commented
+sind	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+viel	O	O	O	O	O	O	_	_	_
+weniger	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Löhne	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+drücken	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Rationalisierung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kompensiert	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Eleinkeram	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einem	O	O	O	O	O	O	_	_	_
+Vielerlei	O	O	O	O	O	O	_	_	_
+zwingt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+weder	O	O	O	O	O	O	_	_	_
+Personal	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+noch	O	O	O	O	O	O	_	_	_
+Apparate	O	O	O	O	O	O	_	_	_
+rationel	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	_|EOS
+
+eingesetrt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ausgenützt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+werden	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Rohstoslpreise	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schlecht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dollschutz	O	O	O	O	O	O	_	_	_
+genießt	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Schweizer	O	O	O	O	O	O	_	_	_
+Kunstseide	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#seide	O	O	O	O	O	O	_	_	_|Commented
+keinen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dafür	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Einzelverträgen	O	O	O	O	O	O	_	_	_
+unser	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vertragspartner	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+einseitige	O	O	O	O	O	O	_	_	_
+Recht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+viel	O	O	O	O	O	O	_	_	_
+Soll	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+verlangen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+will	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Bei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kunstseidenkontingentierung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-16
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kontingentierung	O	O	O	O	O	O	_	_	_|Commented
+ist	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+daß	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Veredelungsfabrikate	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+ins	O	O	O	O	O	O	_	_	_
+Ausland	O	O	O	O	O	O	_	_	_
+gchen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mitverrechnet	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#verrechnet	O	O	O	O	O	O	_	_	_|Commented
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+einsacher	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Wenn	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+eigentlichen	O	O	O	O	O	O	_	_	_
+Herstellungskosten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kosten	O	O	O	O	O	O	_	_	_|Commented
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+ohne	O	O	O	O	O	O	_	_	_
+Heizung	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Aehnliches	O	O	O	O	O	O	_	_	_
+rechnet	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+macht	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Betrag	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kunstseidenproduktion	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tion	O	O	O	O	O	O	_	_	_|Commented
+für	O	O	O	O	O	O	_	_	_
+Rohstoffe	O	O	O	O	O	O	_	_	_
+ins	O	O	O	O	O	O	_	_	_
+Ausland	O	O	O	O	O	O	_	_	_
+geht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+35	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+25	O	O	O	O	O	O	_	_	_
+Prozent	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zent	O	O	O	O	O	O	_	_	_|Commented
+aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+er	O	O	O	O	O	O	_	_	_
+könnte	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+U	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+20	O	O	O	O	O	O	_	_	_
+Prozent	O	O	O	O	O	O	_	_	_
+herabgedrückt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gedrückt	O	O	O	O	O	O	_	_	_|Commented
+verden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Bei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Baumwolle	O	O	O	O	O	O	_	_	_
+fließen	O	O	O	O	O	O	_	_	_
+40	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+50	O	O	O	O	O	O	_	_	_
+Prozent	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Wolle	O	O	O	O	O	O	_	_	_
+50	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+60	O	O	O	O	O	O	_	_	_
+Prozent	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ins	O	O	O	O	O	O	_	_	_
+Ausland	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+1923	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+hat	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Emmenbrücke	B-loc	O	B-loc.adm.town	O	O	B-org.ent	Q55283951	_	_
+in	O	O	O	O	O	O	_	_	_
+Widnau	B-loc	O	B-loc.adm.town	O	O	O	Q65612	_	NoSpaceAfter|Normalized-3
+#¬	I-loc	O	I-loc.adm.town	O	O	O	Q65612	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nau	I-loc	O	I-loc.adm.town	O	O	O	Q65612	_	NoSpaceAfter|Commented
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Heerbrugg	B-loc	O	B-loc.adm.town	O	O	O	Q486284	_	_
+im	O	O	O	O	O	O	_	_	_
+Rheintal	B-loc	O	B-loc.phys.geo	O	O	O	Q95747	_	_
+eine	O	O	O	O	O	O	_	_	_
+Zweigsabrik	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eröffnet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Inzwischen	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Feldmühle	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter|Normalized-5
+#¬	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mühle	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+Norschach	B-loc	O	B-loc.adm.town	O	O	O	Q68250	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Kunstseide	O	O	O	O	O	O	_	_	_
+umgestellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Weitere	O	O	O	O	O	O	_	_	_
+Fabriken	O	O	O	O	O	O	_	_	_
+befinden	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Arbon	B-loc	O	B-loc.adm.town	O	O	O	Q64156	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Nova	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Seta	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Kupfer	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Acetat	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Rheinfelden	B-loc	O	B-loc.adm.town	O	O	O	Q269667	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Viscose	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Steckborn	B-loc	O	B-loc.adm.town	O	O	O	Q67123	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Viscose	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+seit	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+1929	I-time	O	I-time.date.abs	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+Basel	B-loc	O	B-loc.adm.town	O	O	O	Q78	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Azetat	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Das	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+ahr	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1932	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+brachte	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+argen	O	O	O	O	O	O	_	_	_
+Rückschlag	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+1937	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+war	O	O	O	O	O	O	_	_	_
+infolge	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Abwertung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ein	O	O	O	O	O	O	_	_	_
+Rekordjahr	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+1938	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+wird	O	O	O	O	O	O	_	_	_
+wohl	O	O	O	O	O	O	_	_	_
+Einbußen	O	O	O	O	O	O	_	_	_
+verzeichnen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	_
+wurden	O	O	O	O	O	O	_	_	_
+1936	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+an	O	O	O	O	O	O	_	_	_
+Viscose	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+1651000	O	O	O	O	O	O	_	_	_
+lg	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+1937	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+1806	O	O	O	O	O	O	_	_	_
+000	O	O	O	O	O	O	_	_	_
+kg	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Aretat	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kupferseide	O	O	O	O	O	O	_	_	_
+1936	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+299	O	O	O	O	O	O	_	_	_
+000	O	O	O	O	O	O	_	_	_
+lg	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+1937	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+415	O	O	O	O	O	O	_	_	_
+000	O	O	O	O	O	O	_	_	_
+lg	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+verbraucht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Totalkconsum	O	O	O	O	O	O	_	_	_
+macht	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+1936	B-time	O	B-time.date.abs	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+3	O	O	O	O	O	O	_	_	_
+062	O	O	O	O	O	O	_	_	_
+000	O	O	O	O	O	O	_	_	_
+lg	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+1937	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+3	O	O	O	O	O	O	_	_	_
+526	O	O	O	O	O	O	_	_	_
+000	O	O	O	O	O	O	_	_	_
+lg	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Den	O	O	O	O	O	O	_	_	_
+Siegeszug	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kunstseide	O	O	O	O	O	O	_	_	_
+darf	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+wesentlich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lich	O	O	O	O	O	O	_	_	_|Commented
+dem	O	O	O	O	O	O	_	_	_
+Umstande	O	O	O	O	O	O	_	_	_
+zuschreiben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+breitesten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kreisen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Möglichkeit	O	O	O	O	O	O	_	_	_
+gibt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+geschmackvoll	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+lestlich	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+kleiden	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+unterzukleiden	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+scidene	O	O	O	O	O	O	_	_	_
+Kleider	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Wäsche	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Monopol	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+dünnen	O	O	O	O	O	O	_	_	_
+Oberschicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Oberst	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+Stehli	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schloß	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+wehmütiges	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+übelwollendes	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Diskussionsvotum	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Erfolg	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kunstseide	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dem	O	O	O	O	O	O	_	_	_
+Stoßseufzer	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+könne	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+einem	O	O	O	O	O	O	_	_	_
+alten	O	O	O	O	O	O	_	_	_
+Seidenfabrikanten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fabrikanten	O	O	O	O	O	O	_	_	_|Commented
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Seele	O	O	O	O	O	O	_	_	_
+weh	O	O	O	O	O	O	_	_	_
+tun	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+sehe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+was	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+schöne	O	O	O	O	O	O	_	_	_
+Sachen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Kunstseidenindustrie	O	O	O	O	O	O	_	_	_
+fertig	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tig	O	O	O	O	O	O	_	_	_|Commented
+bringe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Immerhin	O	O	O	O	O	O	_	_	_
+komme	O	O	O	O	O	O	_	_	_
+beim	O	O	O	O	O	O	_	_	_
+Färben	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+allerhand	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Tag	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Dürsteler	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+entkräftete	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tete	O	O	O	O	O	O	_	_	_|Commented
+diesen	O	O	O	O	O	O	_	_	_
+Trost	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+indem	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+Schlußwort	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+beifügte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Seidenfärber	O	O	O	O	O	O	_	_	_
+könne	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Seele	O	O	O	O	O	O	_	_	_
+weh	O	O	O	O	O	O	_	_	_
+tun	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+sche	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+Fortschritte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sogar	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Färben	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kunstseide	O	O	O	O	O	O	_	_	_
+erzielt	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+N	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+B	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_
+Einige	O	O	O	O	O	O	_	_	_
+wissenschaktliche	O	O	O	O	O	O	_	_	_
+Begriffe	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Präzisierungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zisierungen	O	O	O	O	O	O	_	_	_|Commented
+dieses	O	O	O	O	O	O	_	_	_
+Berichtes	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+schönen	O	O	O	O	O	O	_	_	_
+Monographie	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#graphie	O	O	O	O	O	O	_	_	_|Commented
+entnommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Prof	B-pers	O	B-pers.ind	O	B-comp.title	O	Q57276235	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q57276235	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	Q57276235	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q57276235	_	_
+H	I-pers	O	I-pers.ind	O	B-comp.name	O	Q57276235	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	Q57276235	_	_
+Ed	I-pers	O	I-pers.ind	O	I-comp.name	O	Q57276235	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	Q57276235	_	_
+Fierz	I-pers	O	I-pers.ind	O	I-comp.name	O	Q57276235	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q57276235	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+E	I-pers	O	I-pers.ind	O	O	B-org.ent	Q57276235	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	O	I-org.ent	Q57276235	_	_
+T.H	I-pers	O	I-pers.ind	O	O	I-org.ent	Q57276235	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	O	I-org.ent	Q57276235	_	_
+Zürich	I-pers	O	I-pers.ind	O	O	I-org.ent	Q57276235	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q57276235	_	_
+der	O	O	O	O	O	O	_	_	_
+Runstseide	O	O	O	O	O	O	_	_	_
+gewidmet	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Verlag	O	O	O	O	O	O	_	_	_
+Gebr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Fretx	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Zürich	B-loc	O	B-loc.adm.town	O	O	O	Q72	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+1930	B-time	O	B-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+
+

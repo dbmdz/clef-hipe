@@ -1,0 +1,366 @@
+# language = de
+# newspaper = NZZ
+# date = 1818-05-26
+# document_id = NZZ-1818-05-26-a-p0003
+# segment_iiif_link = _
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Rom	B-loc	O	B-loc.adm.town	O	O	O	Q220	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+26	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+April	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Se	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Königl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Hoh	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kronprinz	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bayern	B-loc	O	B-loc.adm.reg	O	O	O	Q154195	_	_
+sind	O	O	O	O	O	O	_	_	_
+vorigen	O	O	O	O	O	O	_	_	_
+Mittwoch	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Neapel	B-loc	O	B-loc.adm.town	O	O	O	Q2634	_	_
+wieder	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eingetroffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+seitdem	O	O	O	O	O	O	_	_	_
+verlautet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+erlauchte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Prinz	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+beabsichtigte	O	O	O	O	O	O	_	_	_
+Reise	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Griechenland	B-loc	O	B-loc.adm.nat	O	O	O	Q41	_	_
+wegen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auf	O	O	O	O	O	O	_	_	_
+mehreren	O	O	O	O	O	O	_	_	_
+Inseln	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Archipelagus	O	O	O	O	O	O	_	_	_
+herrschenden	O	O	O	O	O	O	_	_	_
+Krankheiten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#heiten	O	O	O	O	O	O	_	_	_|Commented
+angegeben	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+unverzüglich	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Deutschland	B-loc	O	B-loc.adm.nat	O	O	O	Q183	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zurückkehren	O	O	O	O	O	O	_	_	_
+werde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Ihre	O	O	O	O	O	O	_	_	_
+Königl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Hoh	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Prinzessin	O	O	O	O	O	O	_	_	_
+v	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Wales	B-loc	O	B-loc.adm.reg	O	O	O	Q25	_	_
+liegt	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+ihrem	O	O	O	O	O	O	_	_	_
+Landgute	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+Pesaro	B-loc	O	B-loc.adm.town	O	O	O	Q13134	_	_
+gefährlich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+krank	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Schmerz	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Verlust	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+geliebten	O	O	O	O	O	O	_	_	_
+Tochter	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ter	O	O	O	O	O	O	_	_	_|Commented
+hatte	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Gesundheit	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+angegriffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+durch	O	O	O	O	O	O	_	_	_
+neuere	O	O	O	O	O	O	_	_	_
+Unannehmlichkeiten	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Betreff	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+falsch	O	O	O	O	O	O	_	_	_
+seyn	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sollenden	O	O	O	O	O	O	_	_	_
+Wechsel	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Verlassenschaft	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+letztverstorbenen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nen	O	O	O	O	O	O	_	_	_|Commented
+Herzogs	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Braunschweig	B-loc	O	B-loc.adm.town	O	O	O	Q2773	_	_
+stark	O	O	O	O	O	O	_	_	_
+erschüttert	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Unterhandlungen	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Konkordat	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Hannover	B-loc	B-org	B-loc.adm.town	B-org.adm	O	O	Q1715	Q1715	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schreiten	O	O	O	O	O	O	_	_	_
+vorwärts	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+auch	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Preußen	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q38872	Q38872	_
+abzuschliessenden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#senden	O	O	O	O	O	O	_	_	_|Commented
+Konkordate	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Vorarbeiten	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Gange	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Unsre	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kurialisten	O	O	O	O	O	O	_	_	_
+erklären	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+einige	O	O	O	O	O	O	_	_	_
+andere	O	O	O	O	O	O	_	_	_
+Deutsche	O	O	O	O	O	O	_	_	_
+Staaten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ten	O	O	O	O	O	O	_	_	_|Commented
+bey	O	O	O	O	O	O	_	_	_
+Feststellung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Grundlagen	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Heil	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Stuhle	O	O	O	O	O	O	_	_	_
+abzuschließenden	O	O	O	O	O	O	_	_	_
+Konkordats	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+gerechten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gemäßigten	O	O	O	O	O	O	_	_	_
+Grundsätzen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+denen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Heil	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Pater	O	O	O	O	O	O	_	_	_
+geleitet	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tet	O	O	O	O	O	O	_	_	_|Commented
+werde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+abweichen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Heil	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Stuhl	O	O	O	O	O	O	_	_	_
+zwingen	O	O	O	O	O	O	_	_	_
+wollten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Grundsätze	O	O	O	O	O	O	_	_	_
+einzulassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Heil	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Vater	O	O	O	O	O	O	_	_	_
+niemals	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mals	O	O	O	O	O	O	_	_	_|Commented
+genehmigen	O	O	O	O	O	O	_	_	_
+könne	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ohne	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+Gewissen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+verletzen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+so	O	O	O	O	O	O	_	_	_
+würden	O	O	O	O	O	O	_	_	_
+Se	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Heiligkeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welcher	O	O	O	O	O	O	_	_	_
+Nichts	O	O	O	O	O	O	_	_	_
+angelegentlicher	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+am	O	O	O	O	O	O	_	_	_
+Herzen	O	O	O	O	O	O	_	_	_
+liege	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+kirchlichen	O	O	O	O	O	O	_	_	_
+Angelegenheiten	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Deutschland	B-loc	O	B-loc.adm.town	O	O	O	Q183	_	_
+recht	O	O	O	O	O	O	_	_	_
+bald	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+gegenseitigem	O	O	O	O	O	O	_	_	_
+Heil	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kirche	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Staates	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+schlichten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+allerdings	O	O	O	O	O	O	_	_	_
+tiefen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schmerz	O	O	O	O	O	O	_	_	_
+darüber	O	O	O	O	O	O	_	_	_
+empfinden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+gleicher	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+entbrechen	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Pflichten	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Oberhaupt	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kirche	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+erfüllen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Besetzung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+lange	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+verwaisten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kirchen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+diesen	O	O	O	O	O	O	_	_	_
+Staaten	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+kanonischem	O	O	O	O	O	O	_	_	_
+Wege	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+schreiten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Das	O	O	O	O	O	O	_	_	_
+Diario	B-prod	O	B-prod.media	O	O	O	NIL	_	_
+di	I-prod	O	I-prod.media	O	O	O	NIL	_	_
+Roma	I-prod	O	I-prod.media	O	O	O	NIL	_	_
+meldet	O	O	O	O	O	O	_	_	_
+unterm	O	O	O	O	O	O	_	_	_
+2	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+May	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Deutschen	O	O	O	O	O	O	_	_	_
+Professoren	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Studierenden	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+schönen	O	O	O	O	O	O	_	_	_
+Künste	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+
+

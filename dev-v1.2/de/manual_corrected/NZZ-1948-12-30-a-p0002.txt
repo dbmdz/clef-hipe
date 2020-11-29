@@ -1,0 +1,1680 @@
+# language = de
+# newspaper = NZZ
+# date = 1948-12-30
+# document_id = NZZ-1948-12-30-a-p0002
+# segment_iiif_link = _
+Nokcraschi	B-pers	O	B-pers.ind	O	B-comp.name	O	Q1391679	_	_
+Pascha	I-pers	O	I-pers.ind	O	B-comp.title	O	Q1391679	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ed	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+7	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Montag	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Kairo	B-loc	O	B-loc.adm.town	O	O	O	Q85	_	_
+ermordete	O	O	O	O	O	O	_	_	_
+ögxptische	B-pers	O	B-pers.ind	O	B-comp.function	O	Q1391679	_	NoSpaceAfter|Normalized-6
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1391679	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tische	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1391679	_	_|Commented
+Ministerprüsident	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1391679	_	_
+Mahmud	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1391679	_	_
+Fahmi	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1391679	_	_
+Al	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1391679	_	NoSpaceAfter
+-	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1391679	_	NoSpaceAfter
+Nostraschi	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1391679	_	NoSpaceAfter|Normalized-4
+#¬	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1391679	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schi	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1391679	_	_|Commented
+Pascha	I-pers	O	I-pers.ind	O	B-comp.title	O	Q1391679	_	_
+gehörte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+obsohl	O	O	O	O	O	O	_	_	_
+ex	O	O	O	O	O	O	_	_	_
+bereits	O	O	O	O	O	O	_	_	_
+60	O	O	O	O	O	O	_	_	_
+Jnhire	O	O	O	O	O	O	_	_	_
+alt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+verhültnismülig	O	O	O	O	O	O	_	_	_
+jungen	O	O	O	O	O	O	_	_	_
+Politikern	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erst	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+swei	O	O	O	O	O	O	_	_	_
+leteten	O	O	O	O	O	O	_	_	_
+Juhrzelnken	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+politische	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Arena	O	O	O	O	O	O	_	_	_
+hinabgestiegen	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Fxüherer	O	O	O	O	O	O	_	_	_
+Anbünger	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Waldl	B-org	O	B-org.ent	O	O	O	Q748617	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+überhaupt	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+ügpptisehen	O	O	O	O	O	O	_	_	_
+Politikker	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+trat	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+ersten	O	O	O	O	O	O	_	_	_
+Mal	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Verkehrsminister	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zweiten	B-org	O	B-org.adm	O	O	O	Q19611550	_	_
+Kahinett	I-org	O	I-org.adm	O	O	O	Q19611550	_	_
+Nahns	I-org	O	I-org.adm	O	B-comp.name	B-pers.ind	Q19611550	_	_
+Pascha	I-org	O	I-org.adm	O	B-comp.title	I-pers.ind	Q19611550	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Vordergrund	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#grund	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+vom	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+Jannar	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+bis	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+Juni	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1930	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+im	O	O	O	O	O	O	_	_	_
+Amte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+blieb	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dasselbe	O	O	O	O	O	O	_	_	_
+Amt	O	O	O	O	O	O	_	_	_
+bekleidete	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+einmal	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dritten	B-org	O	B-org.adm	O	O	O	Q19611551	_	_
+Kabinett	I-org	O	I-org.adm	O	O	O	Q19611551	_	_
+Nahas	I-org	O	I-org.adm	O	O	B-pers.ind	Q19611551	_	_
+vom	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+Mai	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1936	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Sein	O	O	O	O	O	O	_	_	_
+munteres	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#teres	O	O	O	O	O	O	_	_	_|Commented
+Mesen	O	O	O	O	O	O	_	_	_
+machte	O	O	O	O	O	O	_	_	_
+il	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+jungen	O	O	O	O	O	O	_	_	_
+Anhüngern	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#hüngern	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Partei	O	O	O	O	O	O	_	_	_
+besonders	O	O	O	O	O	O	_	_	_
+beliebt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+brachte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ilm	O	O	O	O	O	O	_	_	_
+auberdem	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+Parteikreund	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Altersgenossen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#genossen	O	O	O	O	O	O	_	_	_|Commented
+Amed	B-pers	O	B-pers.ind	O	B-comp.name	O	Q1572537	_	_
+Maher	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1572537	_	_
+Pascha	I-pers	O	I-pers.ind	O	B-comp.title	O	Q1572537	_	_
+näher	I-pers	O	I-pers.ind	O	O	O	Q1572537	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q1572537	_	_
+dem	I-pers	O	I-pers.ind	O	O	O	Q1572537	_	_
+Prisidenten	I-pers	O	I-pers.ind	O	B-comp.function	O	Q1572537	_	NoSpaceAfter|Normalized-6
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1572537	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#denten	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1572537	_	_|Commented
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1572537	_	_
+Abgeordnetenkammer	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1572537	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Folge	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+trennte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Ilre	O	O	O	O	O	O	_	_	_
+parallele	O	O	O	O	O	O	_	_	_
+Laukbalin	O	O	O	O	O	O	_	_	_
+begann	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+London	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sie	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+beide	O	O	O	O	O	O	_	_	_
+im	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+August	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1936	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+unter	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+dreisehn	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Delegierten	O	O	O	O	O	O	_	_	_
+befanden	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+anslo	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+ügyptischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vertrag	O	O	O	O	O	O	_	_	_
+unterzeichneten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nach	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Rüelhehr	O	O	O	O	O	O	_	_	_
+unch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Aexypten	B-loc	O	B-loc.adm.nat	O	O	O	Q79	_	_
+gevannen	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+jüngere	O	O	O	O	O	O	_	_	_
+Mitglieder	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Partei	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Eindruck	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+ob	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Wajd	B-org	O	B-org.ent	O	O	O	Q748617	_	_
+in	O	O	O	O	O	O	_	_	_
+London	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	_
+Karten	O	O	O	O	O	O	_	_	_
+ausgespielt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+somit	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+Anhängern	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#hängern	O	O	O	O	O	O	_	_	_|Commented
+keine	O	O	O	O	O	O	_	_	_
+Aussiehten	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+bieten	O	O	O	O	O	O	_	_	_
+hätte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Dieser	O	O	O	O	O	O	_	_	_
+Standpunkt	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+damals	O	O	O	O	O	O	_	_	_
+durehaus	O	O	O	O	O	O	_	_	_
+gereehtfertigt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fertigt	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+;	O	O	O	O	O	O	_	_	_|EOS
+
+tatsüehlich	O	O	O	O	O	O	_	_	_
+setzte	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+eigentliehe	O	O	O	O	O	O	_	_	_
+Riiekgang	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+Wafd	B-org	O	B-org.ent	O	O	O	Q748617	_	_
+in	O	O	O	O	O	O	_	_	_
+jenem	O	O	O	O	O	O	_	_	_
+Zeitpunkt	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	_
+nämlich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Wafd	B-org	O	B-org.ent	O	O	O	Q748617	_	_
+gegründet	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+uar	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+einzige	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Hiel	O	O	O	O	O	O	_	_	_
+seines	O	O	O	O	O	O	_	_	_
+Programms	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Absehlul	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+Vertrapes	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#pes	O	O	O	O	O	O	_	_	_|Commented
+mit	O	O	O	O	O	O	_	_	_
+Grolbritannien	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q145	Q145	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Unabhängigkeit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Aeppptens	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q748617	Q748617	_
+anerkennen	O	O	O	O	O	O	_	_	_
+sollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Mnn	O	O	O	O	O	O	_	_	_
+weis	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dnss	O	O	O	O	O	O	_	_	_
+dns	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+arabisehe	O	O	O	O	O	O	_	_	_
+Wort	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Watd	B-org	O	B-org.ent	O	O	O	Q748617	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+niehts	O	O	O	O	O	O	_	_	_
+anderes	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Pelevation	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#vation	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+"	O	O	O	O	O	O	_	_	_
+bedeutet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Diesen	O	O	O	O	O	O	_	_	_
+Vertrag	O	O	O	O	O	O	_	_	_
+Untte	O	O	O	O	O	O	_	_	_
+nun	O	O	O	O	O	O	_	_	_
+Nalas	B-pers	O	B-pers.ind	O	B-comp.name	O	Q403629	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Puscha	I-pers	O	I-pers.ind	O	B-comp.title	O	Q403629	_	_
+den	O	O	O	O	O	O	_	_	_
+Briten	O	O	O	O	O	O	_	_	_
+abgerungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Rolle	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Delegntion	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Wafd	B-org	O	B-org.ent	O	O	O	Q748617	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+somit	O	O	O	O	O	O	_	_	_
+ausgespielt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Iu	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+nächsten	O	O	O	O	O	O	_	_	_
+Monnten	O	O	O	O	O	O	_	_	_
+benahmen	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Führer	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rer	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Purtei	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+allem	O	O	O	O	O	O	_	_	_
+Makram	B-pers	O	B-pers.ind	O	O	O	Q2226265	_	_
+Eheid	I-pers	O	I-pers.ind	O	O	O	Q2226265	_	_
+und	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+geringerem	O	O	O	O	O	O	_	_	_
+Male	O	O	O	O	O	O	_	_	_
+Nahas	B-pers	O	B-pers.ind	O	O	O	Q403629	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+s0	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+ob	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+nun	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Recht	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+enige	O	O	O	O	O	O	_	_	_
+Dankbarkeit	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Landes	O	O	O	O	O	O	_	_	_
+hätten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Versclwendung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+ökkentlichen	O	O	O	O	O	O	_	_	_
+Gelder	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Bestechlienkeit	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lienkeit	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+Favoritismus	O	O	O	O	O	O	_	_	_
+muchten	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+breit	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wurdle	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+pewirtselnktet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+ob	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+jede	O	O	O	O	O	O	_	_	_
+Hoslnung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aukgegeben	O	O	O	O	O	O	_	_	_
+hätte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+später	O	O	O	O	O	O	_	_	_
+je	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+ans	O	O	O	O	O	O	_	_	_
+Ruder	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Im	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+Angust	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1937	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+sagten	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+zwei	O	O	O	O	O	O	_	_	_
+Freunde	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Mnhier	B-pers	O	B-pers.ind	O	O	O	Q1572537	_	_
+undl	O	O	O	O	O	O	_	_	_
+Nokruschi	B-pers	O	B-pers.ind	O	O	O	Q1391679	_	_
+vom	O	O	O	O	O	O	_	_	_
+Watd	B-org	O	B-org.ent	O	O	O	Q748617	_	_
+los	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+gründeten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gemeinsum	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+neue	O	O	O	O	O	O	_	_	_
+Partei	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Gründer	B-pers	O	B-pers.ind	O	B-comp.function	O	Q328734	_	NoSpaceAfter|Normalized-3
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	Q328734	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#der	I-pers	O	I-pers.ind	O	I-comp.function	O	Q328734	_	_|Commented
+des	I-pers	O	I-pers.ind	O	I-comp.function	O	Q328734	_	_
+Wufd	I-pers	O	I-pers.ind	O	I-comp.function	B-org.ent	Q328734	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q328734	_	_
+Sand	I-pers	O	I-pers.ind	O	B-comp.name	O	Q328734	_	_
+Engblul	I-pers	O	I-pers.ind	O	I-comp.name	O	Q328734	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Sandistische	B-org	O	B-org.ent	O	O	O	Q12186375	_	_
+Partei	I-org	O	I-org.ent	O	O	O	Q12186375	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+unnnten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Voruand	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+diesem	O	O	O	O	O	O	_	_	_
+gegründete	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gründete	O	O	O	O	O	O	_	_	_|Commented
+Partei	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+Geiste	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+treu	O	O	O	O	O	O	_	_	_
+geblieben	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ben	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Anfünge	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	_
+selner	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+neue	O	O	O	O	O	O	_	_	_
+Partei	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+setste	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+seblieBzlich	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+uls	O	O	O	O	O	O	_	_	_
+im	B-time	O	B-time.date.abs	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Auxust	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1939	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+Ali	B-pers	O	B-pers.ind	O	B-comp.name	O	Q733972	_	_
+Maher	I-pers	O	I-pers.ind	O	I-comp.name	O	Q733972	_	_
+Pascha	I-pers	O	I-pers.ind	O	B-comp.title	O	Q733972	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q733972	_	_
+der	I-pers	O	I-pers.ind	O	O	O	Q733972	_	_
+Bruder	I-pers	O	I-pers.ind	O	B-comp.function	O	Q733972	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ahmeds	I-pers	O	I-pers.ind	O	I-comp.function	O	Q733972	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bildung	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+neuen	O	O	O	O	O	O	_	_	_
+Kabinetts	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ihre	O	O	O	O	O	O	_	_	_
+Unterstützung	O	O	O	O	O	O	_	_	_
+benötigte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bot	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+ihrem	O	O	O	O	O	O	_	_	_
+l	B-pers	O	B-pers.ind	O	B-comp.function	O	Q1391679	_	NoSpaceAfter
+'	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1391679	_	NoSpaceAfter
+rüsidenten	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1391679	_	NoSpaceAfter|Normalized-6
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1391679	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#denten	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1391679	_	NoSpaceAfter|Commented
+,	I-pers	O	I-pers.ind	O	O	O	Q1391679	_	_
+Nokraschi	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1391679	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dus	O	O	O	O	O	O	_	_	_
+Ereiebungsminiskerium	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+lm	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+Juni	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1940	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+mutte	O	O	O	O	O	O	_	_	_
+Ali	B-pers	O	B-pers.ind	O	O	O	Q733972	_	_
+Mnher	I-pers	O	I-pers.ind	O	O	O	Q733972	_	_
+wegen	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+prodentsehen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#dentsehen	O	O	O	O	O	O	_	_	_|Commented
+Neigungen	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Druck	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+britischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schen	O	O	O	O	O	O	_	_	_|Commented
+Botsehnkt	O	O	O	O	O	O	_	_	_
+zuriektreten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Nokraschi	B-pers	O	B-pers.ind	O	O	O	Q1391679	_	_
+wurde	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vom	O	O	O	O	O	O	_	_	_
+Knbinett	O	O	O	O	O	O	_	_	_
+Hasenn	B-pers	O	B-pers.ind	O	B-comp.name	O	Q4115734	_	NoSpaceAfter
+-	I-pers	O	I-pers.ind	O	I-comp.name	O	Q4115734	_	NoSpaceAfter
+-	I-pers	O	I-pers.ind	O	I-comp.name	O	Q4115734	_	NoSpaceAfter
+Suliri	I-pers	O	I-pers.ind	O	I-comp.name	O	Q4115734	_	_
+Poseln	I-pers	O	I-pers.ind	O	B-comp.title	O	Q4115734	_	_
+uls	O	O	O	O	O	O	_	_	_
+Innenminisker	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#minisker	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+übernommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dieses	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Eriegszeiten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ünberst	O	O	O	O	O	O	_	_	_
+wiehtige	O	O	O	O	O	O	_	_	_
+Amt	O	O	O	O	O	O	_	_	_
+konnte	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+zweikellos	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Einverstündnis	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Englündern	O	O	O	O	O	O	_	_	_
+anvertraut	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Das	O	O	O	O	O	O	_	_	_
+Cabinett	O	O	O	O	O	O	_	_	_
+Sabri	B-pers	O	B-pers.ind	O	O	O	Q4115734	_	_
+blieb	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+zwei	O	O	O	O	O	O	_	_	_
+Monnte	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ruder	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Bei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Pröflunng	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Parlaments	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Ministerprüsident	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Throurede	O	O	O	O	O	O	_	_	_
+verlas	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Herzsehlag	O	O	O	O	O	O	_	_	_
+getrokken	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sein	O	O	O	O	O	O	_	_	_
+Nnchfolger	B-pers	O	B-pers.ind	O	B-comp.function	O	Q4116118	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Hussein	I-pers	O	I-pers.ind	O	B-comp.name	O	Q4116118	_	_
+Sirry	I-pers	O	I-pers.ind	O	I-comp.name	O	Q4116118	_	_
+verziehtete	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Beteiligung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sundisten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Im	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+Februar	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1942	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+wurde	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Enbinett	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Hussein	B-pers	O	B-pers.ind	O	B-comp.name	O	Q4116118	_	_
+Sirry	I-pers	O	I-pers.ind	O	I-comp.name	O	Q4116118	_	_
+vom	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	_
+Wafdlnbinett	B-org	O	B-org.ent	O	O	O	Q748617	_	Partial-0:4
+unter	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nalias	B-pers	O	B-pers.ind	O	B-comp.name	O	Q403629	_	_
+Paschn	I-pers	O	I-pers.ind	O	B-comp.title	O	Q403629	_	_
+abgelöst	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	_
+im	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+Oktober	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1944	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+Lord	B-pers	O	B-pers.ind	O	B-comp.title	O	Q2597653	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Killearn	I-pers	O	I-pers.ind	O	B-comp.name	O	Q2597653	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+britische	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+sehlieslich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einschen	O	O	O	O	O	O	_	_	_
+mußten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+weitere	O	O	O	O	O	O	_	_	_
+Verbleiben	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nulns	B-pers	O	B-pers.ind	O	B-comp.name	O	Q403629	_	_
+Paschns	I-pers	O	I-pers.ind	O	B-comp.title	O	Q403629	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+eigene	O	O	O	O	O	O	_	_	_
+Stellung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lung	O	O	O	O	O	O	_	_	_|Commented
+gekührdete	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+entzogen	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Unterstiitzung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stiitzung	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+drüngten	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Ernennung	O	O	O	O	O	O	_	_	_
+Ahmed	B-pers	O	B-pers.ind	O	B-comp.name	O	Q1572537	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Mahen	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1572537	_	_
+Paschas	I-pers	O	I-pers.ind	O	B-comp.title	O	Q1572537	_	_
+als	O	O	O	O	O	O	_	_	_
+Nnchfolger	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Gegner	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nahus	B-pers	O	B-pers.ind	O	O	O	Q403629	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+probritisch	O	O	O	O	O	O	_	_	_
+gesinnter	O	O	O	O	O	O	_	_	_
+Politiker	O	O	O	O	O	O	_	_	_
+zngleich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gleich	O	O	O	O	O	O	_	_	_|Commented
+im	O	O	O	O	O	O	_	_	_
+Pulnis	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+britischen	O	O	O	O	O	O	_	_	_
+Botsehnft	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gut	O	O	O	O	O	O	_	_	_
+ungesehrieben	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+beiden	O	O	O	O	O	O	_	_	_
+sandistischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Führer	O	O	O	O	O	O	_	_	_
+hatten	O	O	O	O	O	O	_	_	_
+damit	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+höchste	O	O	O	O	O	O	_	_	_
+Stuke	O	O	O	O	O	O	_	_	_
+erkelommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+sie	O	O	O	O	O	O	_	_	_
+teilten	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Sehlüsselstellungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Mnher	B-pers	O	B-pers.ind	O	O	O	Q1572537	_	_
+behielt	O	O	O	O	O	O	_	_	_
+kür	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Innenministerium	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nokraschi	B-pers	O	B-pers.ind	O	O	O	Q1391679	_	_
+wurde	O	O	O	O	O	O	_	_	_
+AuBenminister	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+So	O	O	O	O	O	O	_	_	_
+untte	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zweiten	O	O	O	O	O	O	_	_	_
+Grad	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Premierministerschule	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+absolviert	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#viert	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+denn	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Aegypten	B-loc	O	B-loc.adm.nat	O	O	O	Q79	_	_
+beinahe	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Prndition	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+geworden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Ministerpräsident	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+solern	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nieht	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Vorsits	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Sennts	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kammer	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mer	O	O	O	O	O	O	_	_	_|Commented
+zu	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+Posten	O	O	O	O	O	O	_	_	_
+gelungt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ruei	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+drei	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ilauptümtern	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nämlich	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Innen	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Aulen	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Finansministerium	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+verwaltet	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+mulz	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Enter	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Pührung	O	O	O	O	O	O	_	_	_
+Ahmed	B-pers	O	B-pers.ind	O	O	O	Q1572537	_	_
+Mahers	I-pers	O	I-pers.ind	O	O	O	Q1572537	_	_
+wurde	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ügyptische	O	O	O	O	O	O	_	_	_
+Politik	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+britisehe	O	O	O	O	O	O	_	_	_
+Fahrwasser	O	O	O	O	O	O	_	_	_
+gesteuert	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#steuert	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Diese	O	O	O	O	O	O	_	_	_
+Politik	O	O	O	O	O	O	_	_	_
+multe	O	O	O	O	O	O	_	_	_
+Maher	B-pers	O	B-pers.ind	O	O	O	Q1572537	_	_
+schon	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wenigen	O	O	O	O	O	O	_	_	_
+Monaten	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+leben	O	O	O	O	O	O	_	_	_
+biisen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Maher	B-pers	O	B-pers.ind	O	B-comp.name	O	Q1572537	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Pnscha	I-pers	O	I-pers.ind	O	B-comp.title	O	Q1572537	_	_
+wurde	O	O	O	O	O	O	_	_	_
+am	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+24	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+Februar	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1945	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+von	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+kanatischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tischen	O	O	O	O	O	O	_	_	_|Commented
+Nntionalisten	O	O	O	O	O	O	_	_	_
+erschossen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+gernde	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Parlament	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Triegserklärung	O	O	O	O	O	O	_	_	_
+Aegyptens	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q79	Q79	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Aehsenmüehte	B-org	O	B-org.adm	O	O	O	Q43056	_	_
+angekinfligt	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+E	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+s	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nokraschi	B-pers	O	B-pers.ind	O	O	O	Q1391679	_	_
+unter	O	O	O	O	O	O	_	_	_
+solehen	O	O	O	O	O	O	_	_	_
+Umstünden	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+heilele	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Aulgabe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Xnchfolge	O	O	O	O	O	O	_	_	_
+seines	O	O	O	O	O	O	_	_	_
+Freundes	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+übernehmen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nehmen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nach	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Kriege	O	O	O	O	O	O	_	_	_
+versehürfte	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Aesppten	B-loc	O	B-loc.adm.nat	O	O	O	Q79	_	_
+der	O	O	O	O	O	O	_	_	_
+Nationalismus	B-prod	O	B-prod.doctr	O	O	O	Q6235	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Nokraschi	B-pers	O	B-pers.ind	O	O	O	Q1391679	_	_
+entgegenzutreten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-13
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gegenzutreten	O	O	O	O	O	O	_	_	_|Commented
+verzuchte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	_
+Realpolitiker	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Machtmittel	O	O	O	O	O	O	_	_	_
+seines	O	O	O	O	O	O	_	_	_
+Landes	O	O	O	O	O	O	_	_	_
+genau	O	O	O	O	O	O	_	_	_
+einsuschütsen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+verstand	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+glaubte	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Mege	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Freundschntt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schntt	O	O	O	O	O	O	_	_	_|Commented
+den	O	O	O	O	O	O	_	_	_
+Priten	O	O	O	O	O	O	_	_	_
+Zugeständnisse	O	O	O	O	O	O	_	_	_
+abringen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+könneu	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#neu	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+ausgesprochenen	O	O	O	O	O	O	_	_	_
+Feinden	O	O	O	O	O	O	_	_	_
+niemnals	O	O	O	O	O	O	_	_	_
+gewühren	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wühren	O	O	O	O	O	O	_	_	_|Commented
+würden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Persönlich	O	O	O	O	O	O	_	_	_
+hätte	O	O	O	O	O	O	_	_	_
+Tokraschi	B-pers	O	B-pers.ind	O	O	O	Q1391679	_	_
+vou	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einer	O	O	O	O	O	O	_	_	_
+Rerision	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Londoner	O	O	O	O	O	O	_	_	_
+Vertrages	O	O	O	O	O	O	_	_	_
+gern	O	O	O	O	O	O	_	_	_
+abgeschen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+klaren	O	O	O	O	O	O	_	_	_
+Einsicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Bestimmungen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+Klauseln	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Wert	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+man	O	O	O	O	O	O	_	_	_
+dureh	O	O	O	O	O	O	_	_	_
+entsprechende	O	O	O	O	O	O	_	_	_
+Aittel	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Partner	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Einhultung	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+Verptliehtungen	O	O	O	O	O	O	_	_	_
+zwingen	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Er	O	O	O	O	O	O	_	_	_
+multe	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Druck	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Achtsehn	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+fügen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+Beratungsausschusses	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+König	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ins	O	O	O	O	O	O	_	_	_
+leben	O	O	O	O	O	O	_	_	_
+gernken	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Verhandlungen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+Landem	B-loc	B-org	B-loc.adm.town	B-org.adm	O	O	Q84	Q84	_
+beginnen	O	O	O	O	O	O	_	_	_
+wollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+multe	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gierung	O	O	O	O	O	O	_	_	_|Commented
+den	O	O	O	O	O	O	_	_	_
+Umtrieben	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Opposition	O	O	O	O	O	O	_	_	_
+weichen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#chen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+fehlte	O	O	O	O	O	O	_	_	_
+Nokraschi	B-pers	O	B-pers.ind	O	O	O	Q1391679	_	_
+die	O	O	O	O	O	O	_	_	_
+notwendige	O	O	O	O	O	O	_	_	_
+Selbstbeherrsehung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#beherrsehung	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+Ruhe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+zeigte	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+als	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+im	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+Februar	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1946	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+der	O	O	O	O	O	O	_	_	_
+Polizei	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Befehl	O	O	O	O	O	O	_	_	_
+erteilen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#len	O	O	O	O	O	O	_	_	_|Commented
+lies	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ricksichtslos	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+unbennkfnete	O	O	O	O	O	O	_	_	_
+Studentenschuren	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schuren	O	O	O	O	O	O	_	_	_|Commented
+zu	O	O	O	O	O	O	_	_	_
+schielzen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Abbas	B-loc	O	B-loc.oro	O	O	B-pers.ind	NIL	_	NoSpaceAfter
+-	I-loc	O	I-loc.oro	O	O	O	NIL	_	NoSpaceAfter
+Brücke	I-loc	O	I-loc.oro	O	O	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+Regierungsviertel	O	O	O	O	O	O	_	_	_
+eindringen	O	O	O	O	O	O	_	_	_
+wollten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Seine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+brutale	O	O	O	O	O	O	_	_	_
+Handlungsweise	O	O	O	O	O	O	_	_	_
+verriet	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+Enerzie	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sonderen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#deren	O	O	O	O	O	O	_	_	_|Commented
+vielmehr	O	O	O	O	O	O	_	_	_
+Angst	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Nnch	O	O	O	O	O	O	_	_	_
+Nokraschi	B-pers	O	B-pers.ind	O	B-comp.name	O	Q1391679	_	_
+Pnsehns	I-pers	O	I-pers.ind	O	B-comp.title	O	Q1391679	_	_
+Rüektritt	O	O	O	O	O	O	_	_	_
+um	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+15	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+Februar	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter|Normalized-5
+#¬	I-time	O	I-time.date.abs	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bruar	I-time	O	I-time.date.abs	O	O	O	NIL	_	_|Commented
+1946	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+übernalun	O	O	O	O	O	O	_	_	_
+lsmail	B-pers	O	B-pers.ind	O	B-comp.name	O	Q20003279	_	_
+Sidlkey	I-pers	O	I-pers.ind	O	I-comp.name	O	Q20003279	_	_
+Pascin	I-pers	O	I-pers.ind	O	B-comp.title	O	Q20003279	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Enbinett	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dus	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Nokraschi	B-pers	O	B-pers.ind	O	O	O	Q1391679	_	_
+unterstützt	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aber	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Dezemher	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+demissionieren	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+muläte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wornuf	O	O	O	O	O	O	_	_	_
+Nokraschi	B-pers	O	B-pers.ind	O	B-comp.name	O	Q1391679	_	_
+Pascha	I-pers	O	I-pers.ind	O	B-comp.title	O	Q1391679	_	_
+um	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+10	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+Desember	I-time	O	I-time.date.abs	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+1946	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+von	O	O	O	O	O	O	_	_	_
+neuem	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Premierminister	O	O	O	O	O	O	_	_	_
+ernannt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wurele	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Bestatlung	O	O	O	O	O	O	_	_	_
+Roleraschi	B-pers	O	B-pers.ind	O	B-comp.name	O	Q1391679	_	_
+Paschus	I-pers	O	I-pers.ind	O	B-comp.title	O	Q1391679	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Cairo	B-loc	O	B-loc.adm.town	O	O	O	Q85	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+29	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Der	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+ag	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+A	B-org	O	B-org.ent.pressagency	O	O	O	Q40464	_	NoSpaceAfter
+'	I-org	O	I-org.ent.pressagency	O	O	O	Q40464	_	NoSpaceAfter
+P	I-org	O	I-org.ent.pressagency	O	O	O	Q40464	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+nationnle	O	O	O	O	O	O	_	_	_
+Bepräbnis	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#präbnis	O	O	O	O	O	O	_	_	_|Commented
+von	O	O	O	O	O	O	_	_	_
+Ministerprüsident	B-pers	O	B-pers.ind	O	B-comp.function	O	Q1391679	_	_
+Nokraschi	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1391679	_	_
+Paschn	I-pers	O	I-pers.ind	O	B-comp.title	O	Q1391679	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kand	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Mittwoelvormittag	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Eniro	B-loc	O	B-loc.adm.town	O	O	O	Q85	_	_
+stutt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Tranerzug	O	O	O	O	O	O	_	_	_
+führte	O	O	O	O	O	O	_	_	_
+dureh	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Stadtmitte	O	O	O	O	O	O	_	_	_
+unch	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Mloschee	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+vo	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Gottesdienst	O	O	O	O	O	O	_	_	_
+abgehalten	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Dann	O	O	O	O	O	O	_	_	_
+erkolgte	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Ueberkührung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Leiche	O	O	O	O	O	O	_	_	_
+unch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dem	O	O	O	O	O	O	_	_	_
+Alausokeum	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dus	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+früheren	B-pers	O	B-pers.ind	O	B-comp.function	O	Q1572537	_	_
+Ministerprüsidenten	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1572537	_	NoSpaceAfter|Normalized-11
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1572537	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#prüsidenten	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1572537	_	_|Commented
+Ahmed	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1572537	_	_
+Maher	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1572537	_	_
+Pascha	I-pers	O	I-pers.ind	O	B-comp.title	O	Q1572537	_	_
+erlmut	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+im	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+Februar	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1945	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+ebenkulls	O	O	O	O	O	O	_	_	_
+ermordet	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Einweilung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Mausoleims	O	O	O	O	O	O	_	_	_
+hätte	O	O	O	O	O	O	_	_	_
+demnichst	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+stattkinden	O	O	O	O	O	O	_	_	_
+sollen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Leiche	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Almed	B-pers	O	B-pers.ind	O	B-comp.name	O	Q1572537	_	_
+Anher	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1572537	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Paselm	I-pers	O	I-pers.ind	O	B-comp.title	O	Q1572537	_	_
+wurde	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Aneht	O	O	O	O	O	O	_	_	_
+dorthin	O	O	O	O	O	O	_	_	_
+gebrucht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dumit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+beiden	O	O	O	O	O	O	_	_	_
+Freunde	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Kampkkamernden	O	O	O	O	O	O	_	_	_
+Seite	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Seite	O	O	O	O	O	O	_	_	_
+ruhen	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Presse	O	O	O	O	O	O	_	_	_
+verweist	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+gleiehurtige	O	O	O	O	O	O	_	_	_
+lnukbahn	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bahn	O	O	O	O	O	O	_	_	_|Commented
+dieser	O	O	O	O	O	O	_	_	_
+beiden	O	O	O	O	O	O	_	_	_
+Stantsminner	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+stets	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nationale	O	O	O	O	O	O	_	_	_
+Bekreiung	O	O	O	O	O	O	_	_	_
+arbeiteten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+beide	O	O	O	O	O	O	_	_	_
+Eril	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Geküngnis	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#küngnis	O	O	O	O	O	O	_	_	_|Commented
+erdulden	O	O	O	O	O	O	_	_	_
+mutten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+schlieblieb	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Amt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nls	O	O	O	O	O	O	_	_	_
+Ministerprüsidenten	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+jungen	O	O	O	O	O	O	_	_	_
+Fanntikern	O	O	O	O	O	O	_	_	_
+ermordet	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mordet	O	O	O	O	O	O	_	_	_|Commented
+wurden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Aussagen	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Mörders	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kairo	B-loc	O	B-loc.adm.town	O	O	O	Q85	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+29	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Der	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+ag	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+AFF	B-org	O	B-org.ent.pressagency	O	O	O	Q40464	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Nörder	O	O	O	O	O	O	_	_	_
+Nokraschi	B-pers	O	B-pers.ind	O	B-comp.name	O	Q1391679	_	NoSpaceAfter|Normalized-4
+#¬	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1391679	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schi	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1391679	_	_|Commented
+Pasehas	I-pers	O	I-pers.ind	O	B-comp.title	O	Q1391679	_	_
+erklärte	O	O	O	O	O	O	_	_	_
+beim	O	O	O	O	O	O	_	_	_
+Verhör	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Attentat	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+stelle	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Protest	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Politike	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Ministerprüsidenten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#prüsidenten	O	O	O	O	O	O	_	_	_|Commented
+dar	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Verbot	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Mohammedanischen	B-org	O	B-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Prüdler	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Politik	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Sudan	B-loc	O	B-loc.adm.nat	O	O	O	Q1049	_	_
+und	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Paliistina	B-loc	O	B-loc.adm.nat	O	O	O	Q193714	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nörder	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Sohmn	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+krüheren	O	O	O	O	O	O	_	_	_
+Beamten	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Innenministeriums	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+er	O	O	O	O	O	O	_	_	_
+gehört	O	O	O	O	O	O	_	_	_
+seit	O	O	O	O	O	O	_	_	_
+mehreren	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ren	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Organisation	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Mohammednnisehen	B-org	O	B-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Prüder	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Seine	O	O	O	O	O	O	_	_	_
+Studien	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Veterinär	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Hedizinischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zinischen	O	O	O	O	O	O	_	_	_|Commented
+Faleultiit	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+dureh	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Ssipendium	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#dium	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+dus	O	O	O	O	O	O	_	_	_
+ilim	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Nokraschi	B-pers	O	B-pers.ind	O	B-comp.name	O	Q1391679	_	_
+Pascha	I-pers	O	I-pers.ind	O	B-comp.title	O	Q1391679	_	_
+persönlich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gewührt	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ermöglicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+In	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Sehublade	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Sebreibtisches	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+ermordeten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mordeten	O	O	O	O	O	O	_	_	_|Commented
+Ministerprüsidenten	O	O	O	O	O	O	_	_	_
+fand	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Stolz	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Drokbriefe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Nokeraschi	B-pers	O	B-pers.ind	O	B-comp.name	O	Q1391679	_	_
+Pasehn	I-pers	O	I-pers.ind	O	B-comp.title	O	Q1391679	_	_
+erhalten	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+nieht	O	O	O	O	O	O	_	_	_
+einmal	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Untersuchung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+angeordnet	O	O	O	O	O	O	_	_	_
+lntte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Da	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Aexypten	B-loc	O	B-loc.adm.nat	O	O	O	Q79	_	_
+seit	O	O	O	O	O	O	_	_	_
+Ausbruch	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Krieges	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Paliistinn	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q193714	Q193714	_
+der	O	O	O	O	O	O	_	_	_
+Belugerungszustand	O	O	O	O	O	O	_	_	_
+herrscht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Mörder	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Akslitärgericht	O	O	O	O	O	O	_	_	_
+ubgeurteilt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+
+
