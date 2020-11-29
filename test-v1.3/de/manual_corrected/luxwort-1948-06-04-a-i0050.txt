@@ -1,0 +1,268 @@
+# language = de
+# newspaper = luxwort
+# date = 1948-06-04
+# document_id = luxwort-1948-06-04-a-i0050
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3121,224,565,57/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+neue	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3133,274,539,60/full/0/default.jpg
+südafrikanischen	B-loc	O	B-loc.adm.nat	O	O	O	Q193619	_	LED0.00
+Union	I-loc	O	I-loc.adm.nat	O	O	O	Q193619	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3094,337,638,50/full/0/default.jpg
+Pretoria	B-loc	O	B-loc.adm.town	O	O	O	Q3926	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+4	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Juni	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+AP	B-org	O	B-org.ent.pressagency	O	O	O	Q40469	_	NoSpaceAfter|LED0.00
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3057,376,689,48/full/0/default.jpg
+südafrikanische	B-pers	O	B-pers.ind	O	B-comp.function	O	Q317449	_	LED0.00
+Ministerpräsident	I-pers	O	I-pers.ind	O	I-comp.function	O	Q317449	_	NoSpaceAfter|LED0.00
+,	I-pers	O	I-pers.ind	O	I-comp.function	O	Q317449	_	LED0.00
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	Q317449	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q317449	_	LED0.00
+D	I-pers	O	I-pers.ind	O	B-comp.name	O	Q317449	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	Q317449	_	LED0.00
+F	I-pers	O	I-pers.ind	O	I-comp.name	O	Q317449	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	Q317449	_	LED0.00
+Malan	I-pers	O	I-pers.ind	O	I-comp.name	O	Q317449	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3055,415,692,55/full/0/default.jpg
+gab	O	O	O	O	O	O	_	_	_
+gestern	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zusammensetzung	O	O	O	O	O	O	_	_	_
+seines	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3056,454,691,49/full/0/default.jpg
+Kabinetts	O	O	O	O	O	O	_	_	_
+bekannt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+außer	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+neun	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3055,494,677,55/full/0/default.jpg
+Mitglieder	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+Nationalisten	B-org	O	B-org.ent	O	O	O	Q740718	_	NoSpaceAfter|LED0.00
+-	I-org	O	I-org.ent	O	O	O	Q740718	_	NoSpaceAfter|LED0.00
+Partei	I-org	O	I-org.ent	O	O	O	Q740718	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3055,535,691,54/full/0/default.jpg
+angehören	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nur	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Finanzminister	B-pers	O	B-pers.ind	O	B-comp.function	O	Q3141749	_	LED0.00
+Havenga	I-pers	O	I-pers.ind	O	B-comp.name	O	Q3141749	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3056,577,691,44/full/0/default.jpg
+ist	O	O	O	O	O	O	_	_	_
+Mitglied	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Afrikaner	B-org	O	B-org.ent	O	O	O	Q3366175	_	NoSpaceAfter|LED0.00
+-	I-org	O	I-org.ent	O	O	O	Q3366175	_	NoSpaceAfter|LED0.00
+Partei	I-org	O	I-org.ent	O	O	O	Q3366175	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3054,615,695,47/full/0/default.jpg
+Auèenministerrium	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q317449	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q317449	_	LED0.00
+Malan	I-pers	O	I-pers.ind	O	B-comp.name	O	Q317449	_	LED0.00
+selber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3055,653,677,48/full/0/default.jpg
+übernommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Zum	O	O	O	O	O	O	_	_	_
+Finanzminister	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3054,693,694,47/full/0/default.jpg
+bestellte	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+N	B-pers	O	B-pers.ind	O	O	O	Q3141749	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	O	O	Q3141749	_	LED0.00
+C	I-pers	O	I-pers.ind	O	O	O	Q3141749	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	O	O	Q3141749	_	LED0.00
+Havenga	I-pers	O	I-pers.ind	O	O	O	Q3141749	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+denselben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3056,732,692,48/full/0/default.jpg
+Posten	O	O	O	O	O	O	_	_	_
+von	B-time	O	B-time.date.abs	O	O	O	NIL	_	LED0.00
+1924	I-time	O	I-time.date.abs	O	O	O	NIL	_	LED0.00
+bis	I-time	O	I-time.date.abs	O	O	O	NIL	_	LED0.00
+1939	I-time	O	I-time.date.abs	O	O	O	NIL	_	LED0.00
+unter	O	O	O	O	O	O	_	_	_
+General	B-pers	O	B-pers.ind	O	B-comp.title	O	Q356395	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3055,772,675,55/full/0/default.jpg
+Hertzog	I-pers	O	I-pers.ind	O	B-comp.name	O	Q356395	_	LED0.00
+bekleidet	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Mit	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3056,811,693,55/full/0/default.jpg
+Angelegenheiten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Eingeborenen	O	O	O	O	O	O	_	_	_
+betraute	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3056,851,693,47/full/0/default.jpg
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q1170739	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q1170739	_	LED0.00
+E	I-pers	O	I-pers.ind	O	O	O	Q1170739	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	O	O	Q1170739	_	LED0.00
+G	I-pers	O	I-pers.ind	O	O	O	Q1170739	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	O	O	Q1170739	_	LED0.00
+Jansen	I-pers	O	I-pers.ind	O	O	O	Q1170739	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Amt	O	O	O	O	O	O	_	_	_
+bereits	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3056,901,692,36/full/0/default.jpg
+vnn	B-time	O	B-time.date.abs	O	O	O	NIL	_	LED0.00
+1929	I-time	O	I-time.date.abs	O	O	O	NIL	_	LED0.00
+bis	I-time	O	I-time.date.abs	O	O	O	NIL	_	LED0.00
+1933	I-time	O	I-time.date.abs	O	O	O	NIL	_	LED0.00
+innehatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Jansen	B-pers	O	B-pers.ind	O	O	O	Q1170739	_	LED0.00
+wird	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3055,929,676,49/full/0/default.jpg
+voraussichtlich	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Sprecher	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3055,973,694,51/full/0/default.jpg
+Regierung	O	O	O	O	O	O	_	_	_
+ernannt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Posten	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3055,1008,694,49/full/0/default.jpg
+stellvertretenden	O	O	O	O	O	O	_	_	_
+Ministerpräsidenten	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3055,1047,477,49/full/0/default.jpg
+auf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Eiste	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+enthalten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3094,1098,640,47/full/0/default.jpg
+Wie	O	O	O	O	O	O	_	_	_
+Reuter	B-org	O	B-org.ent.pressagency	O	O	O	Q130879	_	LED0.00
+meldet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+stellt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3057,1139,692,45/full/0/default.jpg
+definitive	O	O	O	O	O	O	_	_	_
+Zusammensetzung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Parlamentes	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3056,1176,691,48/full/0/default.jpg
+nunmehr	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+folgt	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Nationalisten	B-org	O	B-org.ent	O	O	O	Q740718	_	LED0.00
+70	O	O	O	O	O	O	_	_	_
+Sitze	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3056,1215,677,55/full/0/default.jpg
+Einheitspartei	B-org	O	B-org.ent	O	O	O	Q1812146	_	LED0.00
+65	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Afrikaner	B-org	O	B-org.ent	O	O	O	Q3366175	_	NoSpaceAfter|LED0.00
+-	I-org	O	I-org.ent	O	O	O	Q3366175	_	NoSpaceAfter|LED0.00
+Partei	I-org	O	I-org.ent	O	O	O	Q3366175	_	LED0.00
+9	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3055,1255,317,48/full/0/default.jpg
+Labour	B-org	O	B-org.ent	O	O	O	Q3136263	_	NoSpaceAfter|LED0.00
+-	I-org	O	I-org.ent	O	O	O	Q3136263	_	NoSpaceAfter|LED0.00
+Partei	I-org	O	I-org.ent	O	O	O	Q3136263	_	LED0.00
+6	O	O	O	O	O	O	_	_	_
+Sitze	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3158,1313,490,48/full/0/default.jpg
+Feldmarschall	B-pers	O	B-pers.ind	O	B-comp.function	O	Q214321	_	LED0.00
+Smuts	I-pers	O	I-pers.ind	O	B-comp.name	O	Q214321	_	Partial--14:4|LED0.00
+in	O	O	O	O	O	O	_	_	_
+Athen	B-loc	O	B-loc.adm.town	O	O	O	Q1524	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3095,1370,640,51/full/0/default.jpg
+Athen	B-loc	O	B-loc.adm.town	O	O	O	Q1524	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+4	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Juni	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Feldmarschall	B-pers	O	B-pers.ind	O	B-comp.function	O	Q214321	_	LED0.00
+Jan	I-pers	O	I-pers.ind	O	B-comp.name	O	Q214321	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3055,1412,695,44/full/0/default.jpg
+Christian	I-pers	O	I-pers.ind	O	I-comp.name	O	Q214321	_	LED0.00
+Smuts	I-pers	O	I-pers.ind	O	I-comp.name	O	Q214321	_	LED0.00
+traf	O	O	O	O	O	O	_	_	_
+gestern	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Durchreise	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3059,1452,691,44/full/0/default.jpg
+in	O	O	O	O	O	O	_	_	_
+Athen	B-loc	O	B-loc.adm.town	O	O	O	Q1524	_	LED0.00
+ein	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3059,1489,691,48/full/0/default.jpg
+dem	B-loc	O	B-loc.adm.town	O	O	O	Q36600	_	LED0.00
+Haag	I-loc	O	I-loc.adm.town	O	O	O	Q36600	_	LED0.00
+begeben	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3056,1528,680,55/full/0/default.jpg
+Königin	B-pers	O	B-pers.ind	O	B-comp.title	O	Q61351	_	LED0.00
+Frederika	I-pers	O	I-pers.ind	O	B-comp.name	O	Q61351	_	LED0.00
+und	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkrc4hb%2fpages%2f8/3055,1567,695,49/full/0/default.jpg
+stellvertretenden	B-pers	O	B-pers.ind	O	B-comp.function	O	Q728875	_	LED0.00
+Ministerpräsidenten	I-pers	O	I-pers.ind	O	I-comp.function	O	Q728875	_	LED0.00
+Tsaldaris	I-pers	O	I-pers.ind	O	B-comp.name	O	Q728875	_	LED0.00
+begrüßt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

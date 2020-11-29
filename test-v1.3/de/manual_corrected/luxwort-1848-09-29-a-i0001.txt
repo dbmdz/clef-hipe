@@ -1,0 +1,126 @@
+# language = de
+# newspaper = luxwort
+# date = 1848-09-29
+# document_id = luxwort-1848-09-29-a-i0001
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fcqcgt2%2fpages%2f4/2007,2368,851,61/full/0/default.jpg
+Luremburg	B-loc	O	B-loc.adm.nat	O	O	O	Q32	_	NoSpaceAfter|LED0.11
+,	O	O	O	O	O	O	_	_	_
+26	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Sept	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Heute	O	O	O	O	O	O	_	_	_
+trug	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fcqcgt2%2fpages%2f4/1970,2417,888,60/full/0/default.jpg
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Gcurricr	B-prod	O	B-prod.media	O	O	O	Q13102226	_	NoSpaceAfter|LED0.38
+"	O	O	O	O	O	O	_	_	_
+aufgestellte	O	O	O	O	O	O	_	_	_
+Wahlliste	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+harten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fcqcgt2%2fpages%2f4/1968,2468,891,60/full/0/default.jpg
+Kampfe	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+zweien	O	O	O	O	O	O	_	_	_
+fast	O	O	O	O	O	O	_	_	_
+gleichstarken	O	O	O	O	O	O	_	_	_
+Parteien	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fcqcgt2%2fpages%2f4/1972,2520,889,60/full/0/default.jpg
+Sieg	O	O	O	O	O	O	_	_	_
+davon	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Gewählten	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+Theodor	B-pers	O	B-pers.ind	O	O	O	Q7799867	_	EndOfLine|LED0.06
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fcqcgt2%2fpages%2f4/1970,2574,891,54/full/0/default.jpg
+PeScatore	I-pers	O	I-pers.ind	O	O	O	Q7799867	_	NoSpaceAfter|LED0.06
+,	O	O	O	O	O	O	_	_	_
+Ch	B-pers	O	B-pers.ind	O	O	O	Q5080926	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	O	O	Q5080926	_	LED0.00
+Metz	I-pers	O	I-pers.ind	O	O	O	Q5080926	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+Stifft	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+Fischer	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+Hertert	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+Heldenstein	B-pers	O	B-pers.ind	O	O	O	Q13103205	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fcqcgt2%2fpages%2f4/1972,2620,889,61/full/0/default.jpg
+Schlinck	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+Lampach	B-pers	O	B-pers.ind	O	O	O	NIL	_	LED0.00
+und	O	O	O	O	O	O	_	_	_
+Dassclboru	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter|LED0.20
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Beim	O	O	O	O	O	O	_	_	_
+ersten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fcqcgt2%2fpages%2f4/1972,2672,888,54/full/0/default.jpg
+Ccrutimum	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	_
+4	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Luremburger	B-prod	O	B-prod.media	O	O	O	Q1751317	_	LED0.06
+Worte	I-prod	O	I-prod.media	O	O	O	Q1751317	_	EndOfLine|LED0.06
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fcqcgt2%2fpages%2f4/1972,2722,890,62/full/0/default.jpg
+aufgestellten	O	O	O	O	O	O	_	_	NoSpaceAfter
+^	O	O	O	O	O	O	_	_	NoSpaceAfter
+Candidaten	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+9	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fcqcgt2%2fpages%2f4/1972,2775,887,58/full/0/default.jpg
+meisten	O	O	O	O	O	O	_	_	_
+Stimmen	O	O	O	O	O	O	_	_	_
+zählten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Theodor	B-pers	O	B-pers.ind	O	O	O	Q7799867	_	LED0.12
+Pcscalore	I-pers	O	I-pers.ind	O	O	O	Q7799867	_	LED0.12
+war	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fcqcgt2%2fpages%2f4/1972,2833,890,44/full/0/default.jpg
+von	O	O	O	O	O	O	_	_	_
+beiden	O	O	O	O	O	O	_	_	_
+Parteien	O	O	O	O	O	O	_	_	_
+gewählt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Regierungspartei	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fcqcgt2%2fpages%2f4/1974,2877,888,57/full/0/default.jpg
+ist	O	O	O	O	O	O	_	_	_
+völlig	O	O	O	O	O	O	_	_	_
+unterlegen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+Nähere	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+folgenden	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fcqcgt2%2fpages%2f4/1973,2926,148,51/full/0/default.jpg
+Nummer	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fcqcgt2%2fpages%2f4/2116,2307,589,56/full/0/default.jpg
+Ausfall	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Wahlen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

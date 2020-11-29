@@ -1,0 +1,229 @@
+# language = de
+# newspaper = luxwort
+# date = 1858-02-07
+# document_id = luxwort-1858-02-07-a-i0009
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/447,2545,175,61/full/0/default.jpg
+Belgien	B-loc	O	B-loc.adm.nat	O	O	O	Q31	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/121,2600,856,60/full/0/default.jpg
+Brüssel	B-loc	O	B-loc.adm.town	O	O	O	Q239	_	LED0.00
+31	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Jan	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	_
+Verfasser	O	O	O	O	O	O	_	_	_
+deS	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Dra	B-prod	O	B-prod.media	O	O	O	Q3222443	_	NoSpaceAfter|LED0.33
+»	I-prod	O	I-prod.media	O	O	O	Q3222443	_	EndOfLine|LED0.33
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/80,2658,901,58/full/0/default.jpg
+pcau	I-prod	O	I-prod.media	O	O	O	Q3222443	_	NoSpaceAfter|LED0.33
+"	O	O	O	O	O	O	_	_	_
+erschienenen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+angeklagten	O	O	O	O	O	O	_	_	_
+Artikels	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/80,2715,899,48/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+frühere	B-pers	O	B-pers.ind	O	B-comp.qualifier	O	Q4251818	_	LED0.00
+Rédacteur	I-pers	O	I-pers.ind	O	B-comp.function	O	Q4251818	_	LED0.00
+des	I-pers	O	I-pers.ind	O	I-comp.function	O	Q4251818	_	LED0.00
+Blattes	I-pers	O	I-pers.ind	O	I-comp.function	O	Q4251818	_	NoSpaceAfter|LED0.00
+,	I-pers	O	I-pers.ind	O	O	O	Q4251818	_	LED0.00
+Louis	I-pers	O	I-pers.ind	O	B-comp.name	O	Q4251818	_	LED0.00
+Labarre	I-pers	O	I-pers.ind	O	I-comp.name	O	Q4251818	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/85,2768,896,48/full/0/default.jpg
+genannt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+jetzige	B-pers	O	B-pers.ind	O	B-comp.qualifier	O	NIL	_	LED0.00
+nominelle	I-pers	O	I-pers.ind	O	I-comp.qualifier	O	NIL	_	LED0.00
+Herausgeber	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter|LED0.00
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	LED0.00
+Brismee	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/85,2819,898,60/full/0/default.jpg
+soll	O	O	O	O	O	O	_	_	_
+diesmal	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+verantwortliche	O	O	O	O	O	O	_	_	_
+Haut	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Markte	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/82,2878,901,53/full/0/default.jpg
+tragen	O	O	O	O	O	O	_	_	_
+wollen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Jahr	O	O	O	O	O	O	_	_	_
+Gefängnis	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/87,2933,897,44/full/0/default.jpg
+cc	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+Kurzem	O	O	O	O	O	O	_	_	_
+abgesessen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Gliedern	O	O	O	O	O	O	_	_	_
+liege	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Gro	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/88,2978,901,57/full/0/default.jpg
+Bes	O	O	O	O	O	O	_	_	_
+Aufsehen	O	O	O	O	O	O	_	_	_
+macht	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+neuer	O	O	O	O	O	O	_	_	_
+Artikel	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Bezug	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/89,3034,897,48/full/0/default.jpg
+das	O	O	O	O	O	O	_	_	_
+Attentat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+einigen	O	O	O	O	O	O	_	_	_
+Tagen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+kleinen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/92,3082,895,60/full/0/default.jpg
+Blatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Proletarier	B-prod	O	B-prod.media	O	O	O	NIL	_	NoSpaceAfter|Partial-0:10|LED0.00
+"	O	O	O	O	O	O	_	_	_
+betitelt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+erschienen	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dieses	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/92,3140,897,62/full/0/default.jpg
+giftige	O	O	O	O	O	O	_	_	_
+Blatt	O	O	O	O	O	O	_	_	_
+steht	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+socialen	O	O	O	O	O	O	_	_	_
+Handwerkervereine	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/90,3196,900,50/full/0/default.jpg
+in	O	O	O	O	O	O	_	_	_
+London	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	LED0.00
+in	O	O	O	O	O	O	_	_	_
+Verbindung	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+rabiaten	B-pers	O	B-pers.ind	O	B-comp.qualifier	O	NIL	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/93,3245,898,61/full/0/default.jpg
+Schneider	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter|LED0.00
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	LED0.00
+Namens	I-pers	O	I-pers.ind	O	O	O	NIL	_	LED0.00
+Coulon	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+redigirt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+Attentat	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/94,3300,884,55/full/0/default.jpg
+wird	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+diesem	O	O	O	O	O	O	_	_	_
+Artikel	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+perfider	O	O	O	O	O	O	_	_	_
+Frechheit	O	O	O	O	O	O	_	_	_
+verherr	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/93,3354,898,58/full/0/default.jpg
+licht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+zugleich	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+Orsini	B-pers	O	B-pers.ind	O	O	O	Q708837	_	LED0.00
+und	O	O	O	O	O	O	_	_	_
+Pierri	B-pers	O	B-pers.ind	O	O	O	Q3106996	_	LED0.00
+als	O	O	O	O	O	O	_	_	_
+Helden	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/95,3407,896,61/full/0/default.jpg
+ausgerufen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+That	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Beifalle	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/96,3459,895,61/full/0/default.jpg
+Wahnwitzes	O	O	O	O	O	O	_	_	_
+überschüttet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Mr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	LED0.00
+Coulon	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	LED0.00
+der	I-pers	O	I-pers.ind	O	O	O	NIL	_	LED0.00
+kühne	I-pers	O	I-pers.ind	O	B-comp.qualifier	O	NIL	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/98,3513,893,58/full/0/default.jpg
+Schneider	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Rédacteur	O	O	O	O	O	O	_	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+«	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Drapeau	B-prod	O	B-prod.media	O	O	O	Q3222443	_	NoSpaceAfter|LED0.00
+"	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/96,3569,895,51/full/0/default.jpg
+und	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Crocodile	B-prod	O	B-prod.media	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+"	O	O	O	O	O	O	_	_	_
+zusammen	O	O	O	O	O	O	_	_	_
+demnächst	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+Gericht	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhn41zt%2fpages%2f4/101,3620,850,58/full/0/default.jpg
+erscheinen	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+sM	B-pers	O	B-pers.ind.articleauthor	O	O	O	NIL	_	NoSpaceAfter|Partial-1:2|LED0.00
+.	I-pers	O	I-pers.ind.articleauthor	O	O	O	NIL	_	LED0.00
+I	I-pers	O	I-pers.ind.articleauthor	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind.articleauthor	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+)	O	O	O	O	O	O	_	_	EndOfLine
+
+

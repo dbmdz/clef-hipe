@@ -1,0 +1,399 @@
+# language = de
+# newspaper = NZZ
+# date = 1798-01-20
+# document_id = NZZ-1798-01-20-a-p0002
+# segment_iiif_link = _
+Neuigkeiten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Mißhandlung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Franken	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Rom	B-loc	O	B-loc.adm.town	O	O	O	Q220	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+]	O	O	O	O	O	O	_	_	_
+Buonaparte	B-pers	O	B-pers.ind	O	O	O	Q517	_	NoSpaceAfter|LED0.00
+'	I-pers	O	I-pers.ind	O	O	O	Q517	_	NoSpaceAfter|LED0.00
+s	I-pers	O	I-pers.ind	O	O	O	Q517	_	LED0.00
+Bruder	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+neulich	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+erzählten	O	O	O	O	O	O	_	_	_
+Vorfälle	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Rom	B-loc	O	B-loc.adm.town	O	O	O	Q220	_	LED0.00
+ans	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Directorium	O	O	O	O	O	O	_	_	_
+berichtet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+verdächtige	O	O	O	O	O	O	_	_	_
+Weise	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+römische	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+dabey	O	O	O	O	O	O	_	_	_
+betrug	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ein	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+klares	O	O	O	O	O	O	_	_	_
+Licht	O	O	O	O	O	O	_	_	_
+gesezt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+25	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dec	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+einige	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Aufrührer	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Vertrauen	O	O	O	O	O	O	_	_	_
+Frank	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q142	Q142	EndOfLine|LED0.00
+# segment_iiif_link = _
+reichs	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q142	Q142	LED0.00
+Schutz	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Beystand	O	O	O	O	O	O	_	_	_
+erflehten	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+dringend	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+und	O	O	O	O	O	O	_	_	_
+derb	O	O	O	O	O	O	_	_	_
+abgewiesen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+ganzen	O	O	O	O	O	O	_	_	_
+Vorhaben	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dem	O	O	O	O	O	O	_	_	_
+Kardinal	O	O	O	O	O	O	_	_	_
+Staatssekretär	O	O	O	O	O	O	_	_	_
+Nachricht	O	O	O	O	O	O	_	_	_
+gegeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+damit	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+Sicherheitsanstalten	O	O	O	O	O	O	_	_	_
+träfe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Derselbe	O	O	O	O	O	O	_	_	_
+versprach	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sprach	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+Abends	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+6	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+franz	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Gesandten	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+seiner	O	O	O	O	O	O	_	_	_
+Wohnung	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+besuchen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nähere	O	O	O	O	O	O	_	_	_
+Maßregeln	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+verabreden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Aller	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Vorsicht	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sicht	O	O	O	O	O	O	_	_	_|Commented
+ungeachtet	O	O	O	O	O	O	_	_	_
+ward	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Ausbruch	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Auflaufs	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+pässtlichen	O	O	O	O	O	O	_	_	_
+Emissarien	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+lautesten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vivat	O	O	O	O	O	O	_	_	_
+riefen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+veranstaltet	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+geleitet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Man	O	O	O	O	O	O	_	_	_
+verletzte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#letzte	O	O	O	O	O	O	_	_	_|Commented
+die	O	O	O	O	O	O	_	_	_
+Freyheit	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+französ	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Pallastes	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+drang	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Höfe	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+schoß	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+mordete	O	O	O	O	O	O	_	_	_
+daselbst	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+erlegte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#legte	O	O	O	O	O	O	_	_	_|Commented
+den	O	O	O	O	O	O	_	_	_
+Gen	B-pers	O	B-pers.ind	O	B-comp.title	O	Q977001	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q977001	_	LED0.00
+Duphot	I-pers	O	I-pers.ind	O	B-comp.name	O	Q977001	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Soldaten	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+unerschrockener	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-13
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#erschrockener	O	O	O	O	O	O	_	_	_|Commented
+Kuhnheit	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+fernern	O	O	O	O	O	O	_	_	_
+Feuern	O	O	O	O	O	O	_	_	_
+abhalten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ten	O	O	O	O	O	O	_	_	_|Commented
+wollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+vielen	O	O	O	O	O	O	_	_	_
+Schüssen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Stichen	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Steinwürfen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#würfen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Selbst	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Gesandten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+GeneralLieutenant	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter|LED0.00|Normalized-10
+#¬	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	EndOfLine|NoSpaceAfter|LED0.00|Commented
+# segment_iiif_link = _|Commented
+#Lieutenant	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	LED0.00|Commented
+Sherlöck	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	LED0.00
+wollten	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Unbändigen	O	O	O	O	O	O	_	_	_
+tödten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ten	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+;	O	O	O	O	O	O	_	_	_|EOS
+
+aber	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+gelang	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+beyden	O	O	O	O	O	O	_	_	_
+Verfolgten	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+entkommen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kommen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+ließ	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+dennoch	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+Obrigkeit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+abzuwehren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+obschon	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+Schießen	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Pallaste	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+lange	O	O	O	O	O	O	_	_	_
+fortdauerte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nur	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+leeren	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bedauerungsbrief	O	O	O	O	O	O	_	_	_
+schrieb	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Staatssekretär	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Folge	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+aber	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Tage	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Mordes	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	_
+kam	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+versprochenen	O	O	O	O	O	O	_	_	_
+Stunde	O	O	O	O	O	O	_	_	_
+gar	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+überließ	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Gesandten	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+Schicksal	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+obwohl	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+Gegenwart	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wart	O	O	O	O	O	O	_	_	_|Commented
+gewiß	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+fernere	O	O	O	O	O	O	_	_	_
+Blutbad	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+welchem	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+als	O	O	O	O	O	O	_	_	_
+20	O	O	O	O	O	O	_	_	_
+Personen	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Leben	O	O	O	O	O	O	_	_	_
+verloren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+verhütet	O	O	O	O	O	O	_	_	_
+hätte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-2
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#te	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Das	O	O	O	O	O	O	_	_	_
+Directorium	O	O	O	O	O	O	_	_	_
+beschloß	O	O	O	O	O	O	_	_	_
+diesen	O	O	O	O	O	O	_	_	_
+Nachrichten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zufolge	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+einleuchtend	O	O	O	O	O	O	_	_	_
+machten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+Rom	B-loc	B-org	B-loc.adm.town	B-org.adm	O	O	Q220	Q220	LED0.00
+die	O	O	O	O	O	O	_	_	_
+Ermordung	O	O	O	O	O	O	_	_	_
+Basseville	B-pers	O	B-pers.ind	O	O	O	Q3339973	_	NoSpaceAfter|LED0.00
+'	I-pers	O	I-pers.ind	O	O	O	Q3339973	_	NoSpaceAfter|LED0.00
+s	I-pers	O	I-pers.ind	O	O	O	Q3339973	_	LED0.00
+erneuern	O	O	O	O	O	O	_	_	_
+wollen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#len	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+indem	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Gen	B-pers	O	B-pers.ind	O	B-comp.title	O	Q977001	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q977001	_	LED0.00
+Duphot	I-pers	O	I-pers.ind	O	B-comp.name	O	Q977001	_	LED0.00
+umbrachte	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+
+

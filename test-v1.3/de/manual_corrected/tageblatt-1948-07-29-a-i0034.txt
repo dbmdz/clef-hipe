@@ -1,0 +1,350 @@
+# language = de
+# newspaper = tageblatt
+# date = 1948-07-29
+# document_id = tageblatt-1948-07-29-a-i0034
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2562,3298,1037,64/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+Kritiken	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kominform	O	O	O	O	O	O	_	_	_
+zurückgewiesen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2400,3385,669,50/full/0/default.jpg
+Belgrad	B-loc	O	B-loc.adm.town	O	O	O	Q3711	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+29	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Juli	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Marschall	B-pers	O	B-pers.ind	O	B-comp.title	O	Q9161	_	LED0.00
+Tito	I-pers	O	I-pers.ind	O	B-comp.name	O	Q9161	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2359,3422,707,49/full/0/default.jpg
+Minister	B-pers	O	B-pers.ind	O	B-comp.function	O	Q153909	_	LED0.00
+Djilas	I-pers	O	I-pers.ind	O	B-comp.name	O	Q153909	_	LED0.00
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+anderen	O	O	O	O	O	O	_	_	_
+Mitglieder	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2364,3454,702,48/full/0/default.jpg
+des	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	_
+Zentralkomitees	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2361,3492,707,49/full/0/default.jpg
+Entschließung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kominform	O	O	O	O	O	O	_	_	_
+kritisiert	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2361,3528,707,44/full/0/default.jpg
+worden	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Laufe	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2362,3563,705,49/full/0/default.jpg
+Sitzung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+5	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Parteikongresses	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2362,3598,276,51/full/0/default.jpg
+wiedergewählt	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2398,3635,676,44/full/0/default.jpg
+Der	O	O	O	O	O	O	_	_	_
+Kongreß	O	O	O	O	O	O	_	_	_
+nahm	O	O	O	O	O	O	_	_	_
+einstimmig	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2363,3669,704,45/full/0/default.jpg
+Schlußresolution	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+heißt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2365,3706,705,50/full/0/default.jpg
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+die	O	O	O	O	O	O	_	_	_
+Kritiken	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kominform	O	O	O	O	O	O	_	_	_
+unrichtig	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2363,3741,705,50/full/0/default.jpg
+ungerecht	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+rechtfertigen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2365,3777,706,45/full/0/default.jpg
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+"	O	O	O	O	O	O	_	_	_
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+Die	O	O	O	O	O	O	_	_	_
+Entschließung	O	O	O	O	O	O	_	_	_
+billigt	O	O	O	O	O	O	_	_	_
+weiter	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2366,3813,705,47/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+Haltung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Zentralkomitees	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2364,3849,724,49/full/0/default.jpg
+Anklagen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+russischen	B-org	O	B-org.ent	O	O	O	Q79854	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2366,3884,722,45/full/0/default.jpg
+kommunistischen	I-org	O	I-org.ent	O	O	O	Q79854	_	LED0.00
+Partei	I-org	O	I-org.ent	O	O	O	Q79854	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+erklärt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Leitung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2366,3920,706,45/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+jugoslawischen	B-org	O	B-org.ent	O	O	O	Q641691	_	LED0.00
+kommunist	I-org	O	I-org.ent	O	O	O	Q641691	_	NoSpaceAfter|LED0.00
+.	I-org	O	I-org.ent	O	O	O	Q641691	_	LED0.00
+Partei	I-org	O	I-org.ent	O	O	O	Q641691	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2366,3955,706,45/full/0/default.jpg
+nicht	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Prinzipien	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Marxismus	B-prod	O	B-prod.doctr	O	O	O	Q7264	_	LED0.00
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2368,3989,707,45/full/0/default.jpg
+Leninismus	B-prod	O	B-prod.doctr	O	O	O	Q155059	_	LED0.00
+aufgegeben	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+stellt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2366,4025,705,51/full/0/default.jpg
+fest	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Partei	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2370,4063,702,44/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Kominform	O	O	O	O	O	O	_	_	_
+ausgeschlossen	O	O	O	O	O	O	_	_	_
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2366,4098,703,44/full/0/default.jpg
+indem	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+weigerte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2366,4138,623,44/full/0/default.jpg
+Sitzung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kominform	O	O	O	O	O	O	_	_	_
+teilzunehmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2403,4165,670,47/full/0/default.jpg
+Schließlich	O	O	O	O	O	O	_	_	_
+besagt	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Resolution	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+daß	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/2372,4202,704,47/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+jugoslawische	B-org	O	B-org.ent	O	O	O	Q641691	_	LED0.00
+kommunistische	I-org	O	I-org.ent	O	O	O	Q641691	_	LED0.00
+Par	I-org	O	I-org.ent	O	O	O	Q641691	_	NoSpaceAfter|LED0.00
+-	I-org	O	I-org.ent	O	O	O	Q641691	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3103,3381,705,45/full/0/default.jpg
+tei	I-org	O	I-org.ent	O	O	O	Q641691	_	LED0.00
+wieder	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kominform	O	O	O	O	O	O	_	_	_
+beitreten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3101,3417,704,49/full/0/default.jpg
+könnte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sobald	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Meinungsverschieden	O	O	O	O	O	O	_	_	NoSpaceAfter
+*	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3103,3451,706,45/full/0/default.jpg
+heiten	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+bolschewistischen	B-org	O	B-org.ent	O	O	O	Q83372	_	LED0.00
+Partei	I-org	O	I-org.ent	O	O	O	Q83372	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3106,3487,220,49/full/0/default.jpg
+geregelt	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3141,3523,668,44/full/0/default.jpg
+Der	O	O	O	O	O	O	_	_	_
+Landeskongreß	O	O	O	O	O	O	_	_	_
+billigt	O	O	O	O	O	O	_	_	_
+einmütig	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3103,3559,705,44/full/0/default.jpg
+das	O	O	O	O	O	O	_	_	_
+Parteiprogramm	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Paragraph	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3105,3592,703,45/full/0/default.jpg
+sich	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Vorbereitung	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3103,3630,705,44/full/0/default.jpg
+Staatenbundes	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Bulgarien	B-loc	O	B-loc.adm.nat	O	O	O	Q219	_	LED0.00
+und	O	O	O	O	O	O	_	_	_
+Albanien	B-loc	O	B-loc.adm.nat	O	O	O	Q222	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3103,3670,703,44/full/0/default.jpg
+bezog	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+fallen	O	O	O	O	O	O	_	_	_
+gelassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3106,3700,704,45/full/0/default.jpg
+angesichts	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+jüngsten	O	O	O	O	O	O	_	_	_
+Aeußerungen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3105,3735,705,51/full/0/default.jpg
+maßgeblichen	O	O	O	O	O	O	_	_	_
+Leute	O	O	O	O	O	O	_	_	_
+Bulgariens	B-loc	O	B-loc.adm.nat	O	O	O	Q219	_	LED0.00
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3106,3772,662,44/full/0/default.jpg
+Albaniens	B-loc	O	B-loc.adm.nat	O	O	O	Q222	_	LED0.00
+gegenwärtig	O	O	O	O	O	O	_	_	_
+hinfällig	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+.	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3142,3807,669,44/full/0/default.jpg
+Der	O	O	O	O	O	O	_	_	_
+Kongreß	O	O	O	O	O	O	_	_	_
+billigte	O	O	O	O	O	O	_	_	_
+außerdem	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3106,3844,704,48/full/0/default.jpg
+Motion	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Ausbau	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+politli	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3107,3879,704,45/full/0/default.jpg
+sehen	O	O	O	O	O	O	_	_	_
+Unterrichts	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+namentlich	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3109,3915,703,44/full/0/default.jpg
+hinsichtlich	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Lehre	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Marxismus	B-prod	O	B-prod.doctr	O	O	O	Q7264	_	LED0.00
+und	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3108,3949,703,45/full/0/default.jpg
+Leninismus	B-prod	O	B-prod.doctr	O	O	O	Q155059	_	LED0.00
+eintritt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+gleiche	O	O	O	O	O	O	_	_	_
+Motion	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3109,3980,701,54/full/0/default.jpg
+verlangt	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Vereinheitlichung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3109,4021,705,49/full/0/default.jpg
+Jugendbewegungen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Volksfront	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3109,4055,704,49/full/0/default.jpg
+Partei	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Entwicklung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Volksfront	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3108,4089,702,47/full/0/default.jpg
+als	O	O	O	O	O	O	_	_	_
+solcher	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Kampf	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3113,4126,702,45/full/0/default.jpg
+Bürokratie	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+schließlich	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Ausbau	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3111,4162,701,45/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+Konsolidierung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+sozialistischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzwn79n%2fpages%2f1/3111,4197,364,44/full/0/default.jpg
+Wirtschaft	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Lande	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

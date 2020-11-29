@@ -1,0 +1,137 @@
+# language = de
+# newspaper = luxwort
+# date = 1848-04-23
+# document_id = luxwort-1848-04-23-a-i0003
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc54jdr%2fpages%2f3/1026,1950,887,64/full/0/default.jpg
+Warnung	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Arbeiter	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc54jdr%2fpages%2f3/1776,1948,137,63/full/0/default.jpg
+Handwer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc54jdr%2fpages%2f3/1067,2055,843,53/full/0/default.jpg
+ker	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Lurem	B-loc	O	B-loc.adm.nat	O	O	O	Q32	_	LED0.27
+biurg	I-loc	O	I-loc.adm.nat	O	O	O	Q32	_	NoSpaceAfter|LED0.27
+,	O	O	O	O	O	O	_	_	_
+22	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+April	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Arbeiter	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc54jdr%2fpages%2f3/1026,2103,887,62/full/0/default.jpg
+Handwerker	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Lurcmburg	B-loc	O	B-loc.adm.nat	O	O	O	Q32	_	LED0.22
+haben	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+geeinigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc54jdr%2fpages%2f3/1026,2155,886,58/full/0/default.jpg
+ihre	O	O	O	O	O	O	_	_	_
+Forderungen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Wünsche	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Bittschrift	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc54jdr%2fpages%2f3/1026,2208,888,49/full/0/default.jpg
+den	O	O	O	O	O	O	_	_	_
+Ständen	O	O	O	O	O	O	_	_	_
+vorzulegen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wir	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc54jdr%2fpages%2f3/1027,2258,887,60/full/0/default.jpg
+billigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+Luremburgcr	B-prod	O	B-prod.media	O	O	O	Q1751317	_	LED0.12
+Wort	I-prod	O	I-prod.media	O	O	O	Q1751317	_	LED0.12
+hat	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Anfange	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc54jdr%2fpages%2f3/1028,2317,886,41/full/0/default.jpg
+an	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Rechte	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Handwerker	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Arbeiter	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc54jdr%2fpages%2f3/1028,2358,885,50/full/0/default.jpg
+mit	O	O	O	O	O	O	_	_	_
+aller	O	O	O	O	O	O	_	_	_
+Kraft	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Liebe	O	O	O	O	O	O	_	_	_
+gesprochen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc54jdr%2fpages%2f3/1028,2409,886,51/full/0/default.jpg
+damit	O	O	O	O	O	O	_	_	_
+fortfahren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Aber	O	O	O	O	O	O	_	_	_
+lieben	O	O	O	O	O	O	_	_	_
+Freunde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+seid	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Eurer	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc54jdr%2fpages%2f3/1029,2459,885,61/full/0/default.jpg
+Hul	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+mau	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+versteckter	O	O	O	O	O	O	_	_	_
+Weise	O	O	O	O	O	O	_	_	_
+Euch	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc54jdr%2fpages%2f3/1029,2508,884,58/full/0/default.jpg
+mißbraucht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Thut	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+Allem	O	O	O	O	O	O	_	_	_
+nichts	O	O	O	O	O	O	_	_	_
+gcqcn	O	O	O	O	O	O	_	_	_
+Eure	O	O	O	O	O	O	_	_	_
+Re	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc54jdr%2fpages%2f3/1029,2560,884,57/full/0/default.jpg
+liqion	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+vcrlamet	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Stadt	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+man	O	O	O	O	O	O	_	_	_
+wolle	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc54jdr%2fpages%2f3/1031,2611,330,58/full/0/default.jpg
+Euch	O	O	O	O	O	O	_	_	_
+dünnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	EndOfLine
+
+

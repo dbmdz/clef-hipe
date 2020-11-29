@@ -1,0 +1,2435 @@
+# language = de
+# newspaper = luxwort
+# date = 1878-05-14
+# document_id = luxwort-1878-05-14-a-i0001
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/957,3624,545,54/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+Weltausstellung	O	O	O	O	O	O	_	_	_
+von	B-time	O	B-time.date.abs	O	O	O	NIL	_	LED0.00
+1878	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1022,3680,418,53/full/0/default.jpg
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Corresp	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+,	B-prod	O	B-prod.media	O	O	O	Q1751317	_	NoSpaceAfter|LED0.25
+Lux	I-prod	O	I-prod.media	O	O	O	Q1751317	_	NoSpaceAfter|LED0.25
+.	I-prod	O	I-prod.media	O	O	O	Q1751317	_	LED0.25
+Woll	I-prod	O	I-prod.media	O	O	O	Q1751317	_	NoSpaceAfter|LED0.25
+.	I-prod	O	I-prod.media	O	O	O	Q1751317	_	NoSpaceAfter|LED0.25
+‘	I-prod	O	I-prod.media	O	O	O	Q1751317	_	NoSpaceAfter|LED0.25
+)	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1647,851,751,53/full/0/default.jpg
+Anbere	O	O	O	O	O	O	_	_	_
+finb	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+bem	O	O	O	O	O	O	_	_	_
+behäbigen	O	O	O	O	O	O	_	_	_
+Styl	O	O	O	O	O	O	_	_	_
+beS	O	O	O	O	O	O	_	_	_
+16	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1646,897,741,60/full/0/default.jpg
+Iahrhunberts	O	O	O	O	O	O	_	_	_
+gehalten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+in	O	O	O	O	O	O	_	_	_
+Bau	O	O	O	O	O	O	_	_	_
+echt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1647,942,738,61/full/0/default.jpg
+gothifcher	O	O	O	O	O	O	_	_	_
+Art	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Ziegeln	O	O	O	O	O	O	_	_	_
+WunbersdM	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1648,987,734,60/full/0/default.jpg
+aufgebaut	O	O	O	O	O	O	_	_	_
+War	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+burch	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+gefchmadlofe	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1648,1033,754,51/full/0/default.jpg
+Decoraiion	O	O	O	O	O	O	_	_	_
+total	O	O	O	O	O	O	_	_	_
+berunftaltei	O	O	O	O	O	O	_	_	_
+worben	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+ebenso	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1648,1077,753,60/full/0/default.jpg
+unglücklich	O	O	O	O	O	O	_	_	_
+ift	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Krönung	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Atlike	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1648,1122,184,60/full/0/default.jpg
+ausgefallen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1699,1164,706,53/full/0/default.jpg
+Das	O	O	O	O	O	O	_	_	_
+Innere	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+englischen	O	O	O	O	O	O	_	_	_
+Abiheilung	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1651,1209,754,53/full/0/default.jpg
+ein	O	O	O	O	O	O	_	_	_
+richtiges	O	O	O	O	O	O	_	_	_
+Waarenlager	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+geschmack	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1651,1255,754,60/full/0/default.jpg
+bollster	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+Vesuchcr	O	O	O	O	O	O	_	_	_
+bequemsten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1653,1299,758,61/full/0/default.jpg
+Weise	O	O	O	O	O	O	_	_	_
+georbnet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Raum	O	O	O	O	O	O	_	_	_
+begreift	O	O	O	O	O	O	_	_	_
+getrennte	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1652,1344,736,58/full/0/default.jpg
+Selber	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+Canaba	B-loc	O	B-loc.adm.nat	O	O	O	Q16	_	NoSpaceAfter|LED0.17
+,	O	O	O	O	O	O	_	_	_
+Neu	B-loc	O	B-loc.adm.reg	O	O	O	Q3224	_	NoSpaceAfter|LED0.33
+-	I-loc	O	I-loc.adm.reg	O	O	O	Q3224	_	NoSpaceAfter|LED0.33
+©	I-loc	O	I-loc.adm.reg	O	O	O	Q3224	_	NoSpaceAfter|LED0.33
+üb	I-loc	O	I-loc.adm.reg	O	O	O	Q3224	_	NoSpaceAfter|LED0.33
+>	I-loc	O	I-loc.adm.reg	O	O	O	Q3224	_	NoSpaceAfter|LED0.33
+WaleS	I-loc	O	I-loc.adm.reg	O	O	O	Q3224	_	NoSpaceAfter|LED0.33
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1652,1386,774,60/full/0/default.jpg
+Victoria	B-loc	O	B-loc.adm.reg	O	O	O	Q36687	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+QueenSlanb	B-loc	O	B-loc.adm.reg	O	O	O	Q36074	_	LED0.20
+unb	O	O	O	O	O	O	_	_	_
+bas	O	O	O	O	O	O	_	_	_
+eigenll	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+!	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1652,1431,145,63/full/0/default.jpg
+©	B-loc	O	B-loc.adm.nat	O	O	O	Q21	_	NoSpaceAfter|LED0.29
+nglanb	I-loc	O	I-loc.adm.nat	O	O	O	Q21	_	NoSpaceAfter|LED0.29
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1700,1490,706,53/full/0/default.jpg
+Mit	O	O	O	O	O	O	_	_	_
+Canaba	B-loc	O	B-loc.adm.nat	O	O	O	Q16	_	LED0.17
+Will	O	O	O	O	O	O	_	_	_
+ich	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+Seser	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+lange	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1653,1536,754,61/full/0/default.jpg
+Hinhalten	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+er	O	O	O	O	O	O	_	_	_
+Würbe	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	_
+burch	O	O	O	O	O	O	_	_	_
+weg	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1655,1582,751,51/full/0/default.jpg
+etwas	O	O	O	O	O	O	_	_	_
+primitib	O	O	O	O	O	O	_	_	_
+gehaltene	O	O	O	O	O	O	_	_	_
+Copien	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+echt	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1655,1626,469,61/full/0/default.jpg
+englischen	O	O	O	O	O	O	_	_	_
+Seistungen	O	O	O	O	O	O	_	_	_
+finben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1701,1670,725,53/full/0/default.jpg
+Vor	O	O	O	O	O	O	_	_	_
+Allem	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+nächsten	O	O	O	O	O	O	_	_	_
+prak	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+!	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1655,1715,754,61/full/0/default.jpg
+tischen	O	O	O	O	O	O	_	_	_
+Bebürfniffe	O	O	O	O	O	O	_	_	_
+gesorgt	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+ba	O	O	O	O	O	O	_	_	_
+finben	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1655,1759,753,60/full/0/default.jpg
+Pumpen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Blechwaaren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Topfergeschirr	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+eife	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1655,1804,755,57/full/0/default.jpg
+Sättel	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Seber	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Erbsen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Schuhwert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Hüte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1657,1848,753,60/full/0/default.jpg
+Eägescheiben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Nähmaschinen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+sogar	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1657,1894,280,60/full/0/default.jpg
+gemaltes	O	O	O	O	O	O	_	_	_
+Sanfter	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1703,1935,707,54/full/0/default.jpg
+Neu	B-loc	O	B-loc.adm.reg	O	O	O	Q3224	_	NoSpaceAfter|LED0.09
+-	I-loc	O	I-loc.adm.reg	O	O	O	Q3224	_	NoSpaceAfter|LED0.09
+Süb	I-loc	O	I-loc.adm.reg	O	O	O	Q3224	_	NoSpaceAfter|LED0.09
+-	I-loc	O	I-loc.adm.reg	O	O	O	Q3224	_	NoSpaceAfter|LED0.09
+Wales	I-loc	O	I-loc.adm.reg	O	O	O	Q3224	_	LED0.09
+hat	O	O	O	O	O	O	_	_	_
+außer	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Wolle	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1658,1981,752,61/full/0/default.jpg
+ausgestopften	O	O	O	O	O	O	_	_	_
+Papageien	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+Känguruh	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+S	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1659,2028,767,51/full/0/default.jpg
+unb	O	O	O	O	O	O	_	_	_
+einigen	O	O	O	O	O	O	_	_	_
+Sübweinen	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+Kupfer	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+'	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1660,2071,750,53/full/0/default.jpg
+Silber	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+Golberze	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ebenso	O	O	O	O	O	O	_	_	_
+Muster	O	O	O	O	O	O	_	_	_
+fossiler	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1660,2117,627,58/full/0/default.jpg
+Sauna	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+Uora	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Schau	O	O	O	O	O	O	_	_	_
+gestellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1705,2172,704,57/full/0/default.jpg
+In	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Abteilung	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Vicloria	B-loc	O	B-loc.adm.reg	O	O	O	Q36687	_	NoSpaceAfter|LED0.12
+"	O	O	O	O	O	O	_	_	_
+fallen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1660,2218,750,53/full/0/default.jpg
+neben	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+N	B-loc	O	B-loc.adm.reg	O	O	O	Q3224	_	NoSpaceAfter|LED0.20
+.	I-loc	O	I-loc.adm.reg	O	O	O	Q3224	_	NoSpaceAfter|LED0.20
+-	I-loc	O	I-loc.adm.reg	O	O	O	Q3224	_	NoSpaceAfter|LED0.20
+S	I-loc	O	I-loc.adm.reg	O	O	O	Q3224	_	NoSpaceAfter|LED0.20
+.	I-loc	O	I-loc.adm.reg	O	O	O	Q3224	_	NoSpaceAfter|LED0.20
+°	I-loc	O	I-loc.adm.reg	O	O	O	Q3224	_	NoSpaceAfter|LED0.20
+WaleS	I-loc	O	I-loc.adm.reg	O	O	O	Q3224	_	LED0.20
+angeführten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1661,2261,749,62/full/0/default.jpg
+Gegenstänben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+besonberS	O	O	O	O	O	O	_	_	_
+große	O	O	O	O	O	O	_	_	_
+Vogeleier	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1661,2307,732,51/full/0/default.jpg
+bie	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Verfertigung	O	O	O	O	O	O	_	_	_
+bon	O	O	O	O	O	O	_	_	_
+Vasen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1661,2352,753,60/full/0/default.jpg
+Verwenbung	O	O	O	O	O	O	_	_	_
+finben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+benen	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+eigentlichen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1660,2397,732,53/full/0/default.jpg
+Seib	O	O	O	O	O	O	_	_	_
+bilben	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	_|EOS
+
+bann	O	O	O	O	O	O	_	_	_
+Pelze	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Tuche	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1661,2443,755,55/full/0/default.jpg
+Antimonblocke	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+namentlich	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+beiben	O	O	O	O	O	O	_	_	_
+Pyramiben	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1660,2488,756,50/full/0/default.jpg
+ber	O	O	O	O	O	O	_	_	_
+Cubus	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+bergolbet	O	O	O	O	O	O	_	_	_
+finb	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+genau	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1660,2532,757,53/full/0/default.jpg
+bie	O	O	O	O	O	O	_	_	_
+Quantität	O	O	O	O	O	O	_	_	_
+GolbeS	O	O	O	O	O	O	_	_	_
+barftellen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1661,2576,740,61/full/0/default.jpg
+näher	O	O	O	O	O	O	_	_	_
+bezeichneten	O	O	O	O	O	O	_	_	_
+Minen	O	O	O	O	O	O	_	_	_
+währenb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1660,2623,758,50/full/0/default.jpg
+bestimmter	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+gewonnen	O	O	O	O	O	O	_	_	_
+würbe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Eine	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+beiben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1661,2665,757,61/full/0/default.jpg
+Pyramiben	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+circa	O	O	O	O	O	O	_	_	_
+3	O	O	O	O	O	O	_	_	_
+Meter	O	O	O	O	O	O	_	_	_
+Höhe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1661,2710,741,61/full/0/default.jpg
+vierseitigen	O	O	O	O	O	O	_	_	_
+Vase	O	O	O	O	O	O	_	_	_
+je	O	O	O	O	O	O	_	_	_
+90	O	O	O	O	O	O	_	_	_
+Centim	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+unb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1661,2756,758,60/full/0/default.jpg
+repräseniirt	O	O	O	O	O	O	_	_	_
+35	O	O	O	O	O	O	_	_	_
+Millionen	O	O	O	O	O	O	_	_	_
+graulen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+ber	O	O	O	O	O	O	_	_	_
+Würfel	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1661,2800,741,50/full/0/default.jpg
+mit	O	O	O	O	O	O	_	_	_
+je	O	O	O	O	O	O	_	_	_
+70	O	O	O	O	O	O	_	_	NoSpaceAfter
+—	O	O	O	O	O	O	_	_	NoSpaceAfter
+80	O	O	O	O	O	O	_	_	_
+Centim	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+jeber	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1640,2848,779,35/full/0/default.jpg
+Sei	O	O	O	O	O	O	_	_	NoSpaceAfter
+>	O	O	O	O	O	O	_	_	_
+ten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+stellt	O	O	O	O	O	O	_	_	_
+bas	O	O	O	O	O	O	_	_	_
+Golb	O	O	O	O	O	O	_	_	_
+bar	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bas	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Mine	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1662,2889,759,49/full/0/default.jpg
+8	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	_
+gewonnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Anbete	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+tiide	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+etwa	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1640,2937,780,45/full/0/default.jpg
+!	O	O	O	O	O	O	_	_	_|EOS
+
+in	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Grüße	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+eisernen	O	O	O	O	O	O	_	_	_
+Gewichtes	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1664,2977,756,48/full/0/default.jpg
+80	O	O	O	O	O	O	_	_	_
+Pfunb	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zeigen	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+olbmenge	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1640,3029,766,28/full/0/default.jpg
+'	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+währenb	O	O	O	O	O	O	_	_	_
+14	O	O	O	O	O	O	_	_	_
+Tagen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Mine	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1662,3062,143,58/full/0/default.jpg
+erzielt	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1706,3118,713,57/full/0/default.jpg
+Im	O	O	O	O	O	O	_	_	_
+Rebier	O	O	O	O	O	O	_	_	_
+bon	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+QueenSlanb	B-loc	O	B-loc.adm.reg	O	O	O	Q36074	_	NoSpaceAfter|LED0.20
+"	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1661,3164,757,51/full/0/default.jpg
+colorirte	O	O	O	O	O	O	_	_	_
+photographische	O	O	O	O	O	O	_	_	_
+Abbildungen	O	O	O	O	O	O	_	_	_
+bon	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1660,3207,760,54/full/0/default.jpg
+Sanb	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+Seilten	O	O	O	O	O	O	_	_	_
+gewahr	O	O	O	O	O	O	_	_	_
+nehmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+ehr	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1661,3252,757,61/full/0/default.jpg
+tereffant	O	O	O	O	O	O	_	_	_
+finb	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Golb	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+Kupfererze	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1659,3298,756,51/full/0/default.jpg
+bann	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Abbrücke	O	O	O	O	O	O	_	_	_
+bon	O	O	O	O	O	O	_	_	_
+fossilen	O	O	O	O	O	O	_	_	_
+Pflanzen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1659,3342,755,60/full/0/default.jpg
+Auch	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Prachtbollen	O	O	O	O	O	O	_	_	_
+Marmorarten	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1659,3385,760,62/full/0/default.jpg
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+erpentinsteine	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Steinkohlen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Drogen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1703,3487,716,58/full/0/default.jpg
+In	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+fpec	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+englischen	O	O	O	O	O	O	_	_	_
+Abtheilung	O	O	O	O	O	O	_	_	_
+fallen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1659,3531,759,63/full/0/default.jpg
+zunächst	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+berschiebenen	O	O	O	O	O	O	_	_	_
+Seberarten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1660,3577,745,61/full/0/default.jpg
+feinster	O	O	O	O	O	O	_	_	_
+Qualität	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Slinten	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+kostbar	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1661,3622,755,54/full/0/default.jpg
+gearbeitete	O	O	O	O	O	O	_	_	_
+Nebolber	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Zelt	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Mobell	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+S	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Neifekoffer	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1659,3667,758,55/full/0/default.jpg
+Kämme	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Seifen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Parfümeriewaaren	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1659,3712,757,60/full/0/default.jpg
+bergl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Berücksichtigung	O	O	O	O	O	O	_	_	_
+iverth	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1658,3757,738,58/full/0/default.jpg
+finb	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+Stanforb	B-org	O	B-org.ent	O	O	O	NIL	_	LED0.12
+ausgestellten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1658,3800,755,60/full/0/default.jpg
+Gegenstänbe	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+Schulen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Senster	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Rouleau	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+s	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+schöne	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1657,3845,611,55/full/0/default.jpg
+Sanbkarten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aud	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+englische	O	O	O	O	O	O	_	_	_
+Einbänbe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1701,3889,712,56/full/0/default.jpg
+IameS	B-org	O	B-org.ent	O	O	O	NIL	_	LED0.18
+Swift	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.18
+,	O	O	O	O	O	O	_	_	_
+Darton	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+Vollonb	B-org	O	B-org.ent	O	O	O	NIL	_	LED0.29
+haben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1639,3924,770,63/full/0/default.jpg
+!	O	O	O	O	O	O	_	_	_|EOS
+
+feine	O	O	O	O	O	O	_	_	_
+optische	O	O	O	O	O	O	_	_	_
+Instrumente	O	O	O	O	O	O	_	_	_
+ausgestellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1639,3970,773,58/full/0/default.jpg
+i	O	O	O	O	O	O	_	_	_
+Sehr	O	O	O	O	O	O	_	_	_
+beachtenSwerth	O	O	O	O	O	O	_	_	_
+finb	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Prachtbollen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1639,4028,772,50/full/0/default.jpg
+j	O	O	O	O	O	O	_	_	_
+Kamine	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+meist	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+gemalten	O	O	O	O	O	O	_	_	_
+Porzellan	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1655,4067,771,58/full/0/default.jpg
+Platten	O	O	O	O	O	O	_	_	_
+geziert	O	O	O	O	O	O	_	_	_
+finb	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Schon	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+!	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1658,4111,754,60/full/0/default.jpg
+manchem	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+folgt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+merkt	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+klar	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1639,4165,787,50/full/0/default.jpg
+l	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+mittelalterliche	O	O	O	O	O	O	_	_	_
+Kunst	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+germanischen	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1639,4210,787,44/full/0/default.jpg
+!	O	O	O	O	O	O	_	_	_|EOS
+
+Völker	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Englanb	B-loc	O	B-loc.adm.nat	O	O	O	Q21	_	LED0.14
+erfaßt	O	O	O	O	O	O	_	_	_
+ift	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+frei	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+j	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1655,4244,755,60/full/0/default.jpg
+bernünftig	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+S	O	O	O	O	O	O	_	_	NoSpaceAfter
+°	O	O	O	O	O	O	_	_	NoSpaceAfter
+rmen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+bilben	O	O	O	O	O	O	_	_	_
+Weiß	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1655,4289,756,60/full/0/default.jpg
+ohne	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Sklaverei	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Antike	O	O	O	O	O	O	_	_	_
+zurückzu	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1654,4335,98,60/full/0/default.jpg
+fallen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1698,4379,713,51/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+ausgestellten	O	O	O	O	O	O	_	_	_
+Oefen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+theilweise	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1653,4423,740,61/full/0/default.jpg
+Kirchen	O	O	O	O	O	O	_	_	_
+bestimmt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+berbienen	O	O	O	O	O	O	_	_	_
+neben	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1639,4456,769,67/full/0/default.jpg
+brak	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	_|EOS
+
+tischen	O	O	O	O	O	O	_	_	_
+Vorteilen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+bort	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1654,4513,772,62/full/0/default.jpg
+freunblich	O	O	O	O	O	O	_	_	_
+belehrt	O	O	O	O	O	O	_	_	_
+wirb	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+stylistischer	O	O	O	O	O	O	_	_	_
+j	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1639,4549,768,62/full/0/default.jpg
+!	O	O	O	O	O	O	_	_	_
+Beziehung	O	O	O	O	O	O	_	_	_
+unbebingte	O	O	O	O	O	O	_	_	_
+Anerkennung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1652,4605,678,53/full/0/default.jpg
+betr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Silma	O	O	O	O	O	O	_	_	_
+heißt	O	O	O	O	O	O	_	_	_
+Musgrabe	B-org	O	B-org.ent	O	O	O	Q3328441	_	LED0.12
+in	O	O	O	O	O	O	_	_	_
+Belfast	B-loc	O	B-loc.adm.town	O	O	O	Q10686	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1699,4648,706,53/full/0/default.jpg
+Etwas	O	O	O	O	O	O	_	_	_
+weiter	O	O	O	O	O	O	_	_	_
+finbet	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+Costüme	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+S	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1654,4692,739,62/full/0/default.jpg
+wahrscheinlich	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+engt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nürbenträger	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1654,4738,730,60/full/0/default.jpg
+bestimmt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Serner	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+feine	O	O	O	O	O	O	_	_	_
+Sarben	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1653,4784,501,60/full/0/default.jpg
+Mrnisse	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Wilkinson	B-org	O	B-org.ent	O	O	O	NIL	_	LED0.06
+Heywoob	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.06
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1699,4827,706,54/full/0/default.jpg
+Ein	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Holz	O	O	O	O	O	O	_	_	_
+geschnitzter	O	O	O	O	O	O	_	_	_
+Altar	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+Jones	B-org	O	B-org.ent	O	O	O	NIL	_	EndOfLine|LED0.06
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1653,4873,753,51/full/0/default.jpg
+unb	I-org	O	I-org.ent	O	O	O	NIL	_	LED0.06
+Willis	I-org	O	I-org.ent	O	O	O	NIL	_	LED0.06
+in	O	O	O	O	O	O	_	_	_
+Lonbon	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	NoSpaceAfter|LED0.17
+,	O	O	O	O	O	O	_	_	_
+namentlich	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1652,4918,753,60/full/0/default.jpg
+prachtvolle	O	O	O	O	O	O	_	_	_
+aufgestellte	O	O	O	O	O	O	_	_	_
+Vase	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Metall	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1653,4963,753,56/full/0/default.jpg
+Altarblumen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+bas	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+meisterhafter	O	O	O	O	O	O	_	_	_
+Art	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1651,5006,754,61/full/0/default.jpg
+gefertigte	O	O	O	O	O	O	_	_	_
+Eisengiiter	O	O	O	O	O	O	_	_	_
+werben	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+Kunstfreunb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1649,5051,754,60/full/0/default.jpg
+angenehm	O	O	O	O	O	O	_	_	_
+überraschen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+twaS	O	O	O	O	O	O	_	_	_
+einfacher	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1649,5096,754,60/full/0/default.jpg
+mehr	O	O	O	O	O	O	_	_	_
+praktischer	O	O	O	O	O	O	_	_	_
+Art	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+nett	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1648,5141,756,61/full/0/default.jpg
+finb	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Schlosserarbeiten	O	O	O	O	O	O	_	_	_
+bon	O	O	O	O	O	O	_	_	_
+Chubb	B-org	O	B-org.ent	O	O	O	NIL	_	LED0.00
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1648,5186,127,51/full/0/default.jpg
+Sondon	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	NoSpaceAfter|LED0.17
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1694,5241,731,51/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+Bijouterie	O	O	O	O	O	O	_	_	_
+Waaren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Golbschmiebe	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1648,5286,777,53/full/0/default.jpg
+arbeiten	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+englischen	O	O	O	O	O	O	_	_	_
+Abtheiluug	O	O	O	O	O	O	_	_	_
+machen	O	O	O	O	O	O	_	_	_
+i	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1648,5332,740,50/full/0/default.jpg
+ben	O	O	O	O	O	O	_	_	_
+besten	O	O	O	O	O	O	_	_	_
+Einbruck	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+schöner	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ebler	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1648,5375,755,61/full/0/default.jpg
+ernster	O	O	O	O	O	O	_	_	_
+gezeichnete	O	O	O	O	O	O	_	_	_
+Schmucksachen	O	O	O	O	O	O	_	_	_
+sieht	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+wohl	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1648,5418,753,60/full/0/default.jpg
+nirgenbs	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ein	O	O	O	O	O	O	_	_	_
+reich	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Steinen	O	O	O	O	O	O	_	_	_
+geziertes	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1648,5462,729,61/full/0/default.jpg
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+chmudkästchen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+baS	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Prinzessin	B-pers	O	B-pers.ind	O	B-comp.title	O	Q152260	_	LED0.05
+bon	I-pers	O	I-pers.ind	O	O	O	Q152260	_	EndOfLine|LED0.05
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1647,5508,777,53/full/0/default.jpg
+Wales	I-pers	O	I-pers.ind	O	B-comp.name	O	Q152260	_	LED0.05
+zugehört	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+geschmackvoll	O	O	O	O	O	O	_	_	_
+gearbeitet	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+!	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1647,5553,736,60/full/0/default.jpg
+nicht	O	O	O	O	O	O	_	_	_
+weniger	O	O	O	O	O	O	_	_	_
+intéressant	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1645,5599,736,55/full/0/default.jpg
+gegenüberstehenbeS	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bas	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+schottischem	O	O	O	O	O	O	_	_	_
+Geschmacke	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1645,5644,754,60/full/0/default.jpg
+Achatsteinen	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Silbergmnb	O	O	O	O	O	O	_	_	_
+verziert	O	O	O	O	O	O	_	_	_
+ift	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wir	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1645,5688,752,61/full/0/default.jpg
+müssen	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	_
+besonberö	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+schön	O	O	O	O	O	O	_	_	_
+ftylisirten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1646,5734,753,53/full/0/default.jpg
+in	O	O	O	O	O	O	_	_	_
+reicher	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+einfacherer	O	O	O	O	O	O	_	_	_
+Sarbenhanblung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1645,5778,735,63/full/0/default.jpg
+hergestellten	O	O	O	O	O	O	_	_	_
+Porzellanplatten	O	O	O	O	O	O	_	_	_
+aufmerksam	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1646,5825,753,60/full/0/default.jpg
+machen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Decoration	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Wänbe	O	O	O	O	O	O	_	_	_
+bestimmt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1644,5870,755,62/full/0/default.jpg
+finb	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+sie	O	O	O	O	O	O	_	_	_
+finb	O	O	O	O	O	O	_	_	_
+bon	O	O	O	O	O	O	_	_	_
+verschiebenen	O	O	O	O	O	O	_	_	_
+Finnen	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1216,3767,38,51/full/0/default.jpg
+X	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1274,3831,313,61/full/0/default.jpg
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+10	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Mai	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/1111,3887,235,53/full/0/default.jpg
+E	B-loc	O	B-loc.adm.nat	O	O	O	Q21	_	LED0.54
+n	I-loc	O	I-loc.adm.nat	O	O	O	Q21	_	LED0.54
+g	I-loc	O	I-loc.adm.nat	O	O	O	Q21	_	LED0.54
+l	I-loc	O	I-loc.adm.nat	O	O	O	Q21	_	LED0.54
+a	I-loc	O	I-loc.adm.nat	O	O	O	Q21	_	LED0.54
+n	I-loc	O	I-loc.adm.nat	O	O	O	Q21	_	LED0.54
+b	I-loc	O	I-loc.adm.nat	O	O	O	Q21	_	NoSpaceAfter|LED0.54
+.	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/894,3943,715,61/full/0/default.jpg
+Nirgenbs	O	O	O	O	O	O	_	_	_
+fehen	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+trabitionelles	O	O	O	O	O	O	_	_	_
+Fest	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/846,3989,746,61/full/0/default.jpg
+halten	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Vergangenheit	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/845,4035,762,51/full/0/default.jpg
+unternehmenben	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+eist	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Zukunft	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nirgenbs	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/846,4080,747,61/full/0/default.jpg
+feinen	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+efchmad	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Kunst	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/845,4126,764,60/full/0/default.jpg
+erfirberisches	O	O	O	O	O	O	_	_	_
+Talent	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+mechanischen	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+ebilbe	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/845,4171,764,51/full/0/default.jpg
+ber	O	O	O	O	O	O	_	_	_
+Gegenwart	O	O	O	O	O	O	_	_	_
+inniger	O	O	O	O	O	O	_	_	_
+bereint	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+bem	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/845,4216,762,53/full/0/default.jpg
+eblen	O	O	O	O	O	O	_	_	_
+Volk	O	O	O	O	O	O	_	_	_
+bon	O	O	O	O	O	O	_	_	_
+Großbritannien	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Diese	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/845,4261,762,53/full/0/default.jpg
+Nation	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+praktisch	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+eminentesten	O	O	O	O	O	O	_	_	_
+Sinne	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/844,4307,760,61/full/0/default.jpg
+felbft	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Kunst	O	O	O	O	O	O	_	_	_
+muß	O	O	O	O	O	O	_	_	_
+ihr	O	O	O	O	O	O	_	_	_
+bienen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+währenb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/843,4352,763,51/full/0/default.jpg
+anbere	O	O	O	O	O	O	_	_	_
+Völker	O	O	O	O	O	O	_	_	_
+berfelben	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Genius	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/843,4396,111,60/full/0/default.jpg
+opfern	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/888,4439,717,61/full/0/default.jpg
+Qbschon	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Englanb	B-loc	O	B-loc.adm.nat	O	O	O	Q21	_	LED0.14
+manches	O	O	O	O	O	O	_	_	_
+etwas	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/843,4485,762,60/full/0/default.jpg
+faul	O	O	O	O	O	O	_	_	_
+geworben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+fo	O	O	O	O	O	O	_	_	_
+fühlt	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+boch	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+mir	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/842,4530,763,61/full/0/default.jpg
+fcheint	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+s	O	O	O	O	O	O	_	_	_
+fo	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+britannischen	O	O	O	O	O	O	_	_	_
+Volle	O	O	O	O	O	O	_	_	_
+besser	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/842,4576,764,53/full/0/default.jpg
+als	O	O	O	O	O	O	_	_	_
+irgend	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+andern	O	O	O	O	O	O	_	_	_
+heraus	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/843,4621,763,61/full/0/default.jpg
+große	O	O	O	O	O	O	_	_	_
+christliche	O	O	O	O	O	O	_	_	_
+Völker	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Republik	O	O	O	O	O	O	_	_	_
+geworben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/843,4668,764,53/full/0/default.jpg
+wäre	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+bcr	O	O	O	O	O	O	_	_	_
+traurige	O	O	O	O	O	O	_	_	_
+Zwist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Abfall	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/842,4713,764,51/full/0/default.jpg
+bes	O	O	O	O	O	O	_	_	_
+16	B-time	O	B-time.date.abs	O	O	O	NIL	_	NoSpaceAfter|LED0.25
+.	I-time	O	I-time.date.abs	O	O	O	NIL	_	LED0.25
+IahihunbertZ	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter|LED0.25
+.	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Kluft	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+fo	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/843,4757,762,54/full/0/default.jpg
+weit	O	O	O	O	O	O	_	_	_
+geöffnet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+Schwung	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+fo	O	O	O	O	O	O	_	_	_
+lähmenb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/843,4802,762,62/full/0/default.jpg
+gehemmt	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+riefige	O	O	O	O	O	O	_	_	_
+mechanische	O	O	O	O	O	O	_	_	_
+Fort	O	O	O	O	O	O	_	_	NoSpaceAfter
+«	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/843,4848,747,60/full/0/default.jpg
+schritt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+unternehmenbe	O	O	O	O	O	O	_	_	_
+Geist	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/842,4892,763,60/full/0/default.jpg
+japhetitischen	O	O	O	O	O	O	_	_	_
+Race	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Einigung	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Völker	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/842,4935,745,50/full/0/default.jpg
+bem	O	O	O	O	O	O	_	_	_
+Segen	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Kirche	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+stetige	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/843,4980,761,58/full/0/default.jpg
+orbnungZmcißlg	O	O	O	O	O	O	_	_	_
+forlfchreitenbe	O	O	O	O	O	O	_	_	_
+Verbesserung	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/843,5020,760,58/full/0/default.jpg
+socialen	O	O	O	O	O	O	_	_	_
+Zustünde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Trost	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+allen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/844,5064,757,60/full/0/default.jpg
+Klassen	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+autoritatib	O	O	O	O	O	O	_	_	_
+berbünbeten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/844,5108,758,60/full/0/default.jpg
+übernatürlichen	O	O	O	O	O	O	_	_	_
+Lebensziele	O	O	O	O	O	O	_	_	_
+geworben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/843,5150,759,60/full/0/default.jpg
+Veredlung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Inlcntionen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+bon	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/843,5195,738,60/full/0/default.jpg
+Kirche	O	O	O	O	O	O	_	_	_
+gegebene	O	O	O	O	O	O	_	_	_
+Anregung	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+generösen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/843,5240,756,60/full/0/default.jpg
+Unternehmen	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Alles	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ohne	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+blinben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/843,5286,756,60/full/0/default.jpg
+Eifer	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Reformatoren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+traurige	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	_
+Andenkens	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/842,5332,760,60/full/0/default.jpg
+hätte	O	O	O	O	O	O	_	_	_
+wohl	O	O	O	O	O	O	_	_	_
+längst	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Welt	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Frucht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/842,5378,758,51/full/0/default.jpg
+bes	O	O	O	O	O	O	_	_	_
+besten	O	O	O	O	O	O	_	_	_
+Kreuzzuges	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+japhetitischen	O	O	O	O	O	O	_	_	_
+Ne	O	O	O	O	O	O	_	_	NoSpaceAfter
+>	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/842,5422,758,61/full/0/default.jpg
+publik	O	O	O	O	O	O	_	_	_
+erobert	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Da	O	O	O	O	O	O	_	_	_
+mögen	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+benn	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/840,5468,761,61/full/0/default.jpg
+Jahr	O	O	O	O	O	O	_	_	_
+bes	O	O	O	O	O	O	_	_	_
+baucrnbcn	O	O	O	O	O	O	_	_	_
+Heils	O	O	O	O	O	O	_	_	_
+1878	B-time	O	B-time.date.abs	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+inmitten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/843,5515,756,51/full/0/default.jpg
+bcr	O	O	O	O	O	O	_	_	_
+Weltausstellung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+riefige	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/840,5560,760,61/full/0/default.jpg
+Verspätung	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Doch	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+hilfts	O	O	O	O	O	O	_	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	_|EOS
+
+hier	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/842,5606,587,60/full/0/default.jpg
+stehe	O	O	O	O	O	O	_	_	_
+id	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+kunn	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+rückwärts	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/883,5651,712,60/full/0/default.jpg
+Ich	O	O	O	O	O	O	_	_	_
+stehe	O	O	O	O	O	O	_	_	_
+bar	O	O	O	O	O	O	_	_	_
+bcr	O	O	O	O	O	O	_	_	_
+englischen	O	O	O	O	O	O	_	_	_
+Fa	O	O	O	O	O	O	_	_	NoSpaceAfter
+^	O	O	O	O	O	O	_	_	NoSpaceAfter
+abe	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/839,5696,743,54/full/0/default.jpg
+ober	O	O	O	O	O	O	_	_	_
+biclmehr	O	O	O	O	O	O	_	_	_
+bor	O	O	O	O	O	O	_	_	_
+jener	O	O	O	O	O	O	_	_	_
+Serie	O	O	O	O	O	O	_	_	_
+bon	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/840,5743,760,57/full/0/default.jpg
+Constructioncn	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+lange	O	O	O	O	O	O	_	_	_
+Galerie	O	O	O	O	O	O	_	_	_
+bes	O	O	O	O	O	O	_	_	_
+geeinten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/840,5788,760,60/full/0/default.jpg
+Reiches	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Außen	O	O	O	O	O	O	_	_	_
+kennzeichnet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ein	O	O	O	O	O	O	_	_	_
+Haus	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/839,5833,758,61/full/0/default.jpg
+ist	O	O	O	O	O	O	_	_	_
+vollstanbig	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Eiscnplatien	O	O	O	O	O	O	_	_	_
+construirt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/838,5879,757,54/full/0/default.jpg
+bie	O	O	O	O	O	O	_	_	_
+Vauweise	O	O	O	O	O	O	_	_	_
+benälh	O	O	O	O	O	O	_	_	_
+davon	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+wenig	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2448,851,759,58/full/0/default.jpg
+gestellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bod	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+burchweg	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+selben	O	O	O	O	O	O	_	_	_
+Charakter	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2449,895,157,60/full/0/default.jpg
+behanbelt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2494,939,692,51/full/0/default.jpg
+Sie	O	O	O	O	O	O	_	_	_
+Porzellcm	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Waaren	O	O	O	O	O	O	_	_	_
+fiub	O	O	O	O	O	O	_	_	_
+theilweife	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2449,982,739,54/full/0/default.jpg
+Imitationen	O	O	O	O	O	O	_	_	_
+japanesifcher	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+chinesischer	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2449,1028,758,61/full/0/default.jpg
+Probucte	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+auch	O	O	O	O	O	O	_	_	_
+theilweise	O	O	O	O	O	O	_	_	_
+Bildungen	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+antiken	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2450,1073,757,60/full/0/default.jpg
+Mustern	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+boch	O	O	O	O	O	O	_	_	_
+finb	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+echt	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	NoSpaceAfter
+englischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2450,1119,756,58/full/0/default.jpg
+Probucten	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+mittelalterlichen	O	O	O	O	O	O	_	_	_
+Typen	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2451,1163,738,61/full/0/default.jpg
+borheirschenden	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Form	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2451,1208,755,51/full/0/default.jpg
+Secoration	O	O	O	O	O	O	_	_	_
+fo	O	O	O	O	O	O	_	_	_
+richtig	O	O	O	O	O	O	_	_	_
+berfianben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+fo	O	O	O	O	O	O	_	_	_
+unmittelbar	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2451,1252,755,62/full/0/default.jpg
+gefühlt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+baß	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+biefen	O	O	O	O	O	O	_	_	_
+Obiecten	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2451,1296,756,60/full/0/default.jpg
+überhaupt	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+englifchen	O	O	O	O	O	O	_	_	_
+Abtheilung	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2453,1340,754,61/full/0/default.jpg
+angenehme	O	O	O	O	O	O	_	_	_
+Ueberzeugung	O	O	O	O	O	O	_	_	_
+gewinnt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+feien	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2451,1386,756,51/full/0/default.jpg
+bie	O	O	O	O	O	O	_	_	_
+üblichen	O	O	O	O	O	O	_	_	_
+Seiftungen	O	O	O	O	O	O	_	_	_
+ausgestellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2453,1430,754,61/full/0/default.jpg
+nach	O	O	O	O	O	O	_	_	_
+blenbenbem	O	O	O	O	O	O	_	_	_
+Effect	O	O	O	O	O	O	_	_	_
+gehascht	O	O	O	O	O	O	_	_	_
+worben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2454,1474,752,61/full/0/default.jpg
+anberweitig	O	O	O	O	O	O	_	_	_
+wohl	O	O	O	O	O	O	_	_	_
+etwas	O	O	O	O	O	O	_	_	_
+unangenehm	O	O	O	O	O	O	_	_	_
+berührt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2500,1520,707,51/full/0/default.jpg
+Man	O	O	O	O	O	O	_	_	_
+finbet	O	O	O	O	O	O	_	_	_
+weiter	O	O	O	O	O	O	_	_	_
+feine	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+laswaaren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2455,1565,753,60/full/0/default.jpg
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+efsel	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Ruhebette	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+schöne	O	O	O	O	O	O	_	_	_
+Vüffet	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+s	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+namentlich	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2455,1608,735,60/full/0/default.jpg
+ift	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+Schreibtisches	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Schränkchen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2455,1663,737,50/full/0/default.jpg
+Erwähnung	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+thun	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+weißem	O	O	O	O	O	O	_	_	_
+Holz	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2455,1698,758,51/full/0/default.jpg
+gearbeitet	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+feinen	O	O	O	O	O	O	_	_	_
+Felbern	O	O	O	O	O	O	_	_	_
+reich	O	O	O	O	O	O	_	_	_
+polychromirt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2435,1743,739,25/full/0/default.jpg
+'	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+eingelegter	O	O	O	O	O	O	_	_	_
+Arbeit	O	O	O	O	O	O	_	_	_
+ausgestattet	O	O	O	O	O	O	_	_	_
+ift	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2434,1779,778,53/full/0/default.jpg
+i	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+ehr	O	O	O	O	O	O	_	_	_
+praktische	O	O	O	O	O	O	_	_	_
+Schulbänke	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Pulte	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2435,1848,778,34/full/0/default.jpg
+!	O	O	O	O	O	O	_	_	_
+bergl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+finb	O	O	O	O	O	O	_	_	_
+bon	O	O	O	O	O	O	_	_	_
+Hammer	B-org	O	B-org.ent	O	O	O	NIL	_	LED0.00
+in	O	O	O	O	O	O	_	_	_
+Sonbon	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	EndOfLine|LED0.33
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2435,1885,778,36/full/0/default.jpg
+!	O	O	O	O	O	O	_	_	_|EOS
+
+auZgestillt	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+nebenan	O	O	O	O	O	O	_	_	_
+herrliche	O	O	O	O	O	O	_	_	_
+typographische	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2434,1928,780,42/full/0/default.jpg
+!	O	O	O	O	O	O	_	_	_|EOS
+
+Charaktere	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bann	O	O	O	O	O	O	_	_	_
+ganze	O	O	O	O	O	O	_	_	_
+Sager	O	O	O	O	O	O	_	_	_
+bon	O	O	O	O	O	O	_	_	_
+Büchern	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2434,1955,779,51/full/0/default.jpg
+!	O	O	O	O	O	O	_	_	_|EOS
+
+unb	O	O	O	O	O	O	_	_	_
+Bildern	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+chuleü	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Arbeiter	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2457,2010,758,51/full/0/default.jpg
+bereine	O	O	O	O	O	O	_	_	_
+:	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+c	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+bon	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+englifchen	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+>	O	O	O	O	O	O	_	_	NoSpaceAfter
+fellfchaft	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2434,2069,779,34/full/0/default.jpg
+<	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+?	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.56
+li	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.56
+<	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.56
+e	I-org	O	I-org.ent	O	O	O	NIL	_	LED0.56
+I	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.56
+^	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.56
+it	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.56
+,	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.56
+Lr	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.56
+>	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.56
+tur	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.56
+«	I-org	O	I-org.ent	O	O	O	NIL	_	LED0.56
+'	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.56
+oei	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.56
+^	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.56
+y	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.56
+"	O	O	O	O	O	O	_	_	_
+empfohlen	O	O	O	O	O	O	_	_	_
+werben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2434,2104,765,47/full/0/default.jpg
+!	O	O	O	O	O	O	_	_	_|EOS
+
+Saneben	O	O	O	O	O	O	_	_	_
+finben	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+ganze	O	O	O	O	O	O	_	_	_
+Sager	O	O	O	O	O	O	_	_	_
+bon	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2457,2143,760,51/full/0/default.jpg
+Bibeln	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+Tractätchen	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+bie	O	O	O	O	O	O	_	_	_
+Bibelgesellschaft	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2457,2188,757,58/full/0/default.jpg
+hat	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+hl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Schuft	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+216	O	O	O	O	O	O	_	_	_
+Exemplaren	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2459,2233,755,60/full/0/default.jpg
+schiebener	O	O	O	O	O	O	_	_	_
+Sprachen	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Ausstellung	O	O	O	O	O	O	_	_	_
+gebracht	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2460,2278,756,60/full/0/default.jpg
+auch	O	O	O	O	O	O	_	_	_
+neben	O	O	O	O	O	O	_	_	_
+bem	O	O	O	O	O	O	_	_	_
+Palaste	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2461,2323,754,51/full/0/default.jpg
+einem	O	O	O	O	O	O	_	_	_
+Hause	O	O	O	O	O	O	_	_	_
+eingemiethet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+bort	O	O	O	O	O	O	_	_	_
+Bibeln	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2435,2358,782,60/full/0/default.jpg
+!	O	O	O	O	O	O	_	_	_|EOS
+
+art	O	O	O	O	O	O	_	_	_
+bas	O	O	O	O	O	O	_	_	_
+Publikum	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+berablaffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Sas	O	O	O	O	O	O	_	_	_
+Alles	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2461,2411,755,60/full/0/default.jpg
+beweist	O	O	O	O	O	O	_	_	_
+eben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+baß	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Englanb	B-loc	O	B-loc.adm.nat	O	O	O	Q21	_	LED0.14
+neben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2435,2467,781,41/full/0/default.jpg
+l	O	O	O	O	O	O	_	_	_
+bem	O	O	O	O	O	O	_	_	_
+fo	O	O	O	O	O	O	_	_	_
+gebiegenen	O	O	O	O	O	O	_	_	_
+praktifchen	O	O	O	O	O	O	_	_	_
+Verstaube	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2436,2512,780,36/full/0/default.jpg
+>	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+blinbe	O	O	O	O	O	O	_	_	_
+Eifer	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+tüchtig	O	O	O	O	O	O	_	_	_
+aufwuchern	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2463,2546,739,53/full/0/default.jpg
+kann	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Sie	O	O	O	O	O	O	_	_	_
+schönen	O	O	O	O	O	O	_	_	_
+Einbänbe	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2464,2591,752,61/full/0/default.jpg
+biegsamen	O	O	O	O	O	O	_	_	_
+Rücken	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+kräftigem	O	O	O	O	O	O	_	_	_
+nnb	O	O	O	O	O	O	_	_	_
+fehl	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2437,2637,763,48/full/0/default.jpg
+!	O	O	O	O	O	O	_	_	_|EOS
+
+charakteristischen	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+Register	O	O	O	O	O	O	_	_	_
+berdienen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2437,2684,779,48/full/0/default.jpg
+Beach	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	_
+tung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+ausgestellten	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+lasfenster	O	O	O	O	O	O	_	_	_
+gehören	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2437,2718,765,51/full/0/default.jpg
+!	O	O	O	O	O	O	_	_	_|EOS
+
+neben	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+besten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2437,2774,779,47/full/0/default.jpg
+Sei	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	_|EOS
+
+stungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+sie	O	O	O	O	O	O	_	_	_
+finb	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+bies	O	O	O	O	O	O	_	_	_
+übrigens	O	O	O	O	O	O	_	_	_
+burch	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2464,2814,752,51/full/0/default.jpg
+bie	O	O	O	O	O	O	_	_	_
+nördlichere	O	O	O	O	O	O	_	_	_
+Sage	O	O	O	O	O	O	_	_	_
+bes	O	O	O	O	O	O	_	_	_
+SanbeZ	O	O	O	O	O	O	_	_	_
+bebingt	O	O	O	O	O	O	_	_	_
+if	O	O	O	O	O	O	_	_	NoSpaceAfter
+<	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2470,2858,747,57/full/0/default.jpg
+—	O	O	O	O	O	O	_	_	NoSpaceAfter
+Heller	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weniger	O	O	O	O	O	O	_	_	_
+warn	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2466,2902,751,51/full/0/default.jpg
+unb	O	O	O	O	O	O	_	_	_
+lichtreich	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+bas	O	O	O	O	O	O	_	_	_
+nichtgefärbte	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+las	O	O	O	O	O	O	_	_	_
+komm	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2464,2945,753,53/full/0/default.jpg
+babei	O	O	O	O	O	O	_	_	_
+theilweise	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Verwenbung	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+ber	O	O	O	O	O	O	_	_	_
+Far	O	O	O	O	O	O	_	_	NoSpaceAfter
+>	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2466,2990,749,51/full/0/default.jpg
+benaccorb	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+Art	O	O	O	O	O	O	_	_	_
+bollenbet	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2464,3034,752,49/full/0/default.jpg
+bie	O	O	O	O	O	O	_	_	_
+Zeichnung	O	O	O	O	O	O	_	_	_
+iabellos	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+innig	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+eiwai	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2464,3076,579,58/full/0/default.jpg
+frommer	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2509,3120,708,53/full/0/default.jpg
+Sie	O	O	O	O	O	O	_	_	_
+feinen	O	O	O	O	O	O	_	_	_
+Möbel	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+berfchiebenen	O	O	O	O	O	O	_	_	_
+Stylen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2464,3165,753,51/full/0/default.jpg
+bie	O	O	O	O	O	O	_	_	_
+herrlichen	O	O	O	O	O	O	_	_	_
+Betten	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+boppelfarbigeni	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2464,3209,752,62/full/0/default.jpg
+Kupfer	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+bie	O	O	O	O	O	O	_	_	_
+fchünen	O	O	O	O	O	O	_	_	_
+Glaswaaren	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	_
+iH	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2464,3255,752,58/full/0/default.jpg
+nicht	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+aufzählen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+will	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2466,3300,751,60/full/0/default.jpg
+schönen	O	O	O	O	O	O	_	_	_
+Schrein	O	O	O	O	O	O	_	_	_
+Herborheben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+Harry	B-org	O	B-org.ent	O	O	O	NIL	_	LED0.10
+Newi	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|LED0.10
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2464,3344,752,51/full/0/default.jpg
+in	O	O	O	O	O	O	_	_	_
+Exeter	B-loc	O	B-loc.adm.town	O	O	O	Q134672	_	LED0.00
+nach	O	O	O	O	O	O	_	_	_
+gothischer	O	O	O	O	O	O	_	_	_
+Manier	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Holz	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2464,3388,196,61/full/0/default.jpg
+sculpiri	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2509,3433,706,51/full/0/default.jpg
+Sie	O	O	O	O	O	O	_	_	_
+englischen	O	O	O	O	O	O	_	_	_
+Photographier	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	_
+berbiene	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2463,3478,752,61/full/0/default.jpg
+besonbere	O	O	O	O	O	O	_	_	_
+Berücksichtigung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+namentlid	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+b	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	NoSpaceAfter
+«	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2464,3522,733,61/full/0/default.jpg
+Sarstellungen	O	O	O	O	O	O	_	_	_
+englischer	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+irischer	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2464,3567,751,61/full/0/default.jpg
+Sanbfchaften	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+nationalen	O	O	O	O	O	O	_	_	_
+Monumente	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2464,3611,751,51/full/0/default.jpg
+Wie	O	O	O	O	O	O	_	_	_
+muß	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+Cnglänbern	O	O	O	O	O	O	_	_	_
+Recht	O	O	O	O	O	O	_	_	_
+geben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2462,3656,753,58/full/0/default.jpg
+baß	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Cathebrale	B-loc	O	B-loc.fac	O	O	O	Q390150	_	LED0.08
+bon	I-loc	O	I-loc.fac	O	O	O	Q390150	_	LED0.08
+Salisbury	I-loc	O	I-loc.fac	O	O	O	Q390150	_	LED0.08
+liek	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2460,3701,754,57/full/0/default.jpg
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+an	O	O	O	O	O	O	_	_	_
+fo	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Meisterwerk	O	O	O	O	O	O	_	_	_
+lernt	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2460,3744,753,60/full/0/default.jpg
+mehr	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+Schönheit	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+Kunst	O	O	O	O	O	O	_	_	_
+angeht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2457,3797,758,42/full/0/default.jpg
+an	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Weltausstellung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wär	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+s	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2457,3832,221,60/full/0/default.jpg
+Jahre	O	O	O	O	O	O	_	_	_
+1873	B-time	O	B-time.date.abs	O	O	O	NIL	_	NoSpaceAfter|LED0.25
+!	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2503,3884,712,51/full/0/default.jpg
+Ser	O	O	O	O	O	O	_	_	_
+Besucher	O	O	O	O	O	O	_	_	_
+wirb	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+berfehlen	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2459,3929,756,60/full/0/default.jpg
+Chubb	B-org	O	B-org.ent	O	O	O	NIL	_	LED0.08
+unb	I-org	O	I-org.ent	O	O	O	NIL	_	LED0.08
+Son	I-org	O	I-org.ent	O	O	O	NIL	_	LED0.08
+bie	O	O	O	O	O	O	_	_	_
+herrlichen	O	O	O	O	O	O	_	_	_
+Kupfergegen	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2457,3974,757,60/full/0/default.jpg
+stäube	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+Kirchen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Armleuchter	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Kreuze	O	O	O	O	O	O	_	_	_
+«	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2459,4017,738,62/full/0/default.jpg
+anzusehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Bei	O	O	O	O	O	O	_	_	_
+Hart	B-org	O	B-org.ent	O	O	O	Q16983391	_	LED0.14
+©	I-org	O	I-org.ent	O	O	O	Q16983391	_	NoSpaceAfter|LED0.14
+on	I-org	O	I-org.ent	O	O	O	Q16983391	_	LED0.14
+Pearb	I-org	O	I-org.ent	O	O	O	Q16983391	_	NoSpaceAfter|LED0.14
+,	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2457,4063,757,60/full/0/default.jpg
+ähnliche	O	O	O	O	O	O	_	_	_
+Objecte	O	O	O	O	O	O	_	_	_
+ausgestellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sinb	O	O	O	O	O	O	_	_	_
+befoubers	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2457,4106,737,60/full/0/default.jpg
+Metallträger	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+Chorabfchlüffe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2457,4151,742,53/full/0/default.jpg
+Kommunionbänkc	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+bergl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+beachten	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+sie	O	O	O	O	O	O	_	_	_
+finb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2457,4197,756,53/full/0/default.jpg
+prachtboll	O	O	O	O	O	O	_	_	_
+stylifirt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bem	O	O	O	O	O	O	_	_	_
+Charakter	O	O	O	O	O	O	_	_	_
+bes	O	O	O	O	O	O	_	_	_
+Materials	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2456,4241,756,61/full/0/default.jpg
+bollstänbig	O	O	O	O	O	O	_	_	_
+entsprechend	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Namentlid	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+sinb	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2456,4287,741,60/full/0/default.jpg
+einfachem	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Schmiebe	O	O	O	O	O	O	_	_	NoSpaceAfter
+>	O	O	O	O	O	O	_	_	NoSpaceAfter
+Eifen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+jeber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2454,4331,757,61/full/0/default.jpg
+Veziehung	O	O	O	O	O	O	_	_	_
+tabellos	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Preise	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+per	O	O	O	O	O	O	_	_	_
+Stütze	O	O	O	O	O	O	_	_	_
+80	O	O	O	O	O	O	_	_	NoSpaceAfter
+—	O	O	O	O	O	O	_	_	NoSpaceAfter
+100	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2455,4376,756,60/full/0/default.jpg
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+feinere	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Kupfer	O	O	O	O	O	O	_	_	_
+übersteigen	O	O	O	O	O	O	_	_	_
+300	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2500,4420,712,51/full/0/default.jpg
+Aus	O	O	O	O	O	O	_	_	_
+bem	O	O	O	O	O	O	_	_	_
+reichen	O	O	O	O	O	O	_	_	_
+Säger	O	O	O	O	O	O	_	_	_
+bon	O	O	O	O	O	O	_	_	_
+Tuchen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Tep	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2454,4465,757,61/full/0/default.jpg
+pichen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Eisenwaaren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Nabeln	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Zwirnröllchen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2453,4510,758,53/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+phantastischsten	O	O	O	O	O	O	_	_	_
+Conftruciionen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2455,4555,756,60/full/0/default.jpg
+Thürmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Vallon	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+Z	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+f	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+w	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+zusammengefügt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2453,4600,737,60/full/0/default.jpg
+finb	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+bas	O	O	O	O	O	O	_	_	_
+Merkwiirbigere	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2451,4654,389,48/full/0/default.jpg
+erwähnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+mir	O	O	O	O	O	O	_	_	_
+unmöglich	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2498,4690,710,51/full/0/default.jpg
+Nur	O	O	O	O	O	O	_	_	_
+will	O	O	O	O	O	O	_	_	_
+ich	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+reizenb	O	O	O	O	O	O	_	_	_
+schönen	O	O	O	O	O	O	_	_	_
+Teppiche	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2451,4741,758,45/full/0/default.jpg
+bon	O	O	O	O	O	O	_	_	_
+Templeton	B-org	O	B-org.ent	O	O	O	Q16849442	_	LED0.00
+in	O	O	O	O	O	O	_	_	_
+Glasgow	B-loc	O	B-loc.adm.town	O	O	O	Q4093	_	LED0.00
+hcrborheben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2451,4780,756,51/full/0/default.jpg
+in	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+reichsten	O	O	O	O	O	O	_	_	_
+Farbenaccorben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+benen	O	O	O	O	O	O	_	_	_
+grün	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2451,4824,741,57/full/0/default.jpg
+braun	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+golboker	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Grunb	O	O	O	O	O	O	_	_	_
+gelegt	O	O	O	O	O	O	_	_	_
+sinb	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2453,4869,754,55/full/0/default.jpg
+executirt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Zeichnung	O	O	O	O	O	O	_	_	_
+meisterhaft	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2453,4912,670,61/full/0/default.jpg
+mittelalterlichen	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+eschmacke	O	O	O	O	O	O	_	_	_
+stylifirt	O	O	O	O	O	O	_	_	_
+finb	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2499,4959,710,51/full/0/default.jpg
+Was	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+schließlich	O	O	O	O	O	O	_	_	_
+bon	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+englischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2453,5000,754,64/full/0/default.jpg
+Maschinen	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Galerie	O	O	O	O	O	O	_	_	_
+mitlheilen	O	O	O	O	O	O	_	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	_|EOS
+
+Wohl	O	O	O	O	O	O	_	_	_
+bies	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2451,5049,756,60/full/0/default.jpg
+baß	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Nichtkenuer	O	O	O	O	O	O	_	_	_
+interessirt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bem	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2451,5092,756,54/full/0/default.jpg
+Getriebe	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	_
+Spulbänken	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Kamm	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2451,5137,755,61/full/0/default.jpg
+Maschinen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Streckwesken	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Selbstputz	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Seckel	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2450,5182,756,58/full/0/default.jpg
+karbeu	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Spinn	O	O	O	O	O	O	_	_	NoSpaceAfter
+>	O	O	O	O	O	O	_	_	NoSpaceAfter
+Mafchinen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bieten	O	O	O	O	O	O	_	_	_
+anbern	O	O	O	O	O	O	_	_	_
+be	O	O	O	O	O	O	_	_	NoSpaceAfter
+>	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2449,5228,756,51/full/0/default.jpg
+beutenden	O	O	O	O	O	O	_	_	_
+Werten	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+fo	O	O	O	O	O	O	_	_	_
+auffallenb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2450,5273,753,60/full/0/default.jpg
+construirten	O	O	O	O	O	O	_	_	_
+Äppretir	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Maschine	O	O	O	O	O	O	_	_	_
+nachzusehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2449,5326,757,44/full/0/default.jpg
+an	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+wahrer	O	O	O	O	O	O	_	_	_
+Prügelregen	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2449,5362,554,61/full/0/default.jpg
+aufrollenden	O	O	O	O	O	O	_	_	_
+Stoffe	O	O	O	O	O	O	_	_	_
+organifirt	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2494,5413,697,51/full/0/default.jpg
+Nebenan	O	O	O	O	O	O	_	_	_
+finben	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+kleinere	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2447,5457,741,61/full/0/default.jpg
+mechanische	O	O	O	O	O	O	_	_	_
+Vorrichtungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+z	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+V	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+kleine	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2448,5501,756,62/full/0/default.jpg
+pabyrograbhische	O	O	O	O	O	O	_	_	_
+Presse	O	O	O	O	O	O	_	_	_
+bon	O	O	O	O	O	O	_	_	_
+Zuccato	B-org	O	B-org.ent	O	O	O	NIL	_	LED0.00
+in	O	O	O	O	O	O	_	_	_
+Sondon	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	NoSpaceAfter|LED0.17
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2446,5548,742,51/full/0/default.jpg
+bann	O	O	O	O	O	O	_	_	_
+bas	O	O	O	O	O	O	_	_	_
+Modell	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Maschine	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2446,5593,760,51/full/0/default.jpg
+Ausladen	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+ctreibe	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+Schiffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+sie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2446,5638,746,60/full/0/default.jpg
+besteht	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Halbcylinber	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2446,5691,742,44/full/0/default.jpg
+seinen	O	O	O	O	O	O	_	_	_
+Enben	O	O	O	O	O	O	_	_	_
+geschossen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+Sänge	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2444,5728,759,61/full/0/default.jpg
+getheilt	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+beim	O	O	O	O	O	O	_	_	_
+Niederlassen	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Kette	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2446,5774,758,60/full/0/default.jpg
+sich	O	O	O	O	O	O	_	_	_
+öffnet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+beim	O	O	O	O	O	O	_	_	_
+Heben	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+schließt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+faßt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2446,5825,755,45/full/0/default.jpg
+bon	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+inbem	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+unten	O	O	O	O	O	O	_	_	_
+austhut	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/2447,5863,754,62/full/0/default.jpg
+seine	O	O	O	O	O	O	_	_	_
+Sabung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+schließt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+sofort	O	O	O	O	O	O	_	_	_
+beim	O	O	O	O	O	O	_	_	_
+Heben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/3253,845,740,53/full/0/default.jpg
+unb	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Kette	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+bem	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/3253,889,468,62/full/0/default.jpg
+AuslabungZorte	O	O	O	O	O	O	_	_	_
+abgelenkt	O	O	O	O	O	O	_	_	_
+werben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/3299,934,710,61/full/0/default.jpg
+Daß	O	O	O	O	O	O	_	_	_
+unsere	O	O	O	O	O	O	_	_	_
+Mittheilungen	O	O	O	O	O	O	_	_	_
+keinen	O	O	O	O	O	O	_	_	_
+Anspruch	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/3252,979,760,60/full/0/default.jpg
+auf	O	O	O	O	O	O	_	_	_
+absolute	O	O	O	O	O	O	_	_	_
+Vollstänbigkeit	O	O	O	O	O	O	_	_	_
+machen	O	O	O	O	O	O	_	_	_
+tonnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/3253,1022,758,53/full/0/default.jpg
+wiib	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Leser	O	O	O	O	O	O	_	_	_
+baraus	O	O	O	O	O	O	_	_	_
+entnehmen	O	O	O	O	O	O	_	_	_
+wollen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/3252,1068,759,58/full/0/default.jpg
+baß	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Catalog	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+alleinige	O	O	O	O	O	O	_	_	_
+englische	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/3253,1113,759,62/full/0/default.jpg
+Abtheilung	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+netten	O	O	O	O	O	O	_	_	_
+Acht	O	O	O	O	O	O	_	_	_
+Band	O	O	O	O	O	O	_	_	_
+bil	O	O	O	O	O	O	_	_	NoSpaceAfter
+«	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/3252,1157,761,53/full/0/default.jpg
+bet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Doch	O	O	O	O	O	O	_	_	_
+hoffen	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Manchem	O	O	O	O	O	O	_	_	_
+bas	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fnm0n69%2fpages%2f1/3251,1201,657,63/full/0/default.jpg
+Merkwürbigste	O	O	O	O	O	O	_	_	_
+hervorgehoben	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

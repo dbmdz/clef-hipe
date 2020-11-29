@@ -1,0 +1,187 @@
+# language = de
+# newspaper = luxwort
+# date = 1858-08-29
+# document_id = luxwort-1858-08-29-a-i0005
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc3gctm%2fpages%2f4/1358,1536,201,60/full/0/default.jpg
+England	B-loc	O	B-loc.adm.nat	O	O	O	Q21	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc3gctm%2fpages%2f4/1058,1591,835,53/full/0/default.jpg
+l	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	NoSpaceAfter|LED0.56
+'	I-loc	O	I-loc.adm.town	O	O	O	Q84	_	NoSpaceAfter|LED0.56
+ont	I-loc	O	I-loc.adm.town	O	O	O	Q84	_	NoSpaceAfter|LED0.56
+»	I-loc	O	I-loc.adm.town	O	O	O	Q84	_	LED0.56
+on	I-loc	O	I-loc.adm.town	O	O	O	Q84	_	NoSpaceAfter|LED0.56
+,	O	O	O	O	O	O	_	_	_
+22	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+August	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Beinahe	O	O	O	O	O	O	_	_	_
+während	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+gan	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc3gctm%2fpages%2f4/1016,1655,889,49/full/0/default.jpg
+jen	O	O	O	O	O	O	_	_	_
+gestrigen	O	O	O	O	O	O	_	_	_
+Tages	O	O	O	O	O	O	_	_	_
+mürben	O	O	O	O	O	O	_	_	_
+zwischen	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+beiden	O	O	O	O	O	O	_	_	_
+Ufern	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc3gctm%2fpages%2f4/1016,1703,892,49/full/0/default.jpg
+des	O	O	O	O	O	O	_	_	_
+atlantischen	O	O	O	O	O	O	_	_	_
+Meeres	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Telegraphen	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+ig	O	O	O	O	O	O	_	_	NoSpaceAfter
+«	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc3gctm%2fpages%2f4/1019,1755,890,50/full/0/default.jpg
+nale	O	O	O	O	O	O	_	_	_
+ausgetauscht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Votschaften	O	O	O	O	O	O	_	_	_
+belogen	O	O	O	O	O	O	_	_	_
+[	O	O	O	O	O	O	_	_	NoSpaceAfter
+ta	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+jedoch	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc3gctm%2fpages%2f4/1018,1808,892,58/full/0/default.jpg
+ausschließlich	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Dinge	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Thäligkcit	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc3gctm%2fpages%2f4/1019,1866,891,48/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Linie	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Herrichtung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Instrumente	O	O	O	O	O	O	_	_	_
+zusam	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc3gctm%2fpages%2f4/1019,1915,892,60/full/0/default.jpg
+mcnhingen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Linie	O	O	O	O	O	O	_	_	_
+arbeitet	O	O	O	O	O	O	_	_	_
+rüstig	O	O	O	O	O	O	_	_	_
+fort	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc3gctm%2fpages%2f4/1019,1968,891,61/full/0/default.jpg
+Schnelligkeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+welcher	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Signale	O	O	O	O	O	O	_	_	_
+befördert	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc3gctm%2fpages%2f4/1016,2025,894,56/full/0/default.jpg
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+stetigem	O	O	O	O	O	O	_	_	_
+Zunehmen	O	O	O	O	O	O	_	_	_
+begriffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Jetzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc3gctm%2fpages%2f4/1018,2076,891,58/full/0/default.jpg
+atlantische	O	O	O	O	O	O	_	_	_
+Telegraph	O	O	O	O	O	O	_	_	_
+glücklich	O	O	O	O	O	O	_	_	_
+vollendet	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc3gctm%2fpages%2f4/1019,2130,891,53/full/0/default.jpg
+bald	O	O	O	O	O	O	_	_	_
+daran	O	O	O	O	O	O	_	_	_
+denken	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+verschiedenen	O	O	O	O	O	O	_	_	_
+britischen	O	O	O	O	O	O	_	_	_
+Colo	O	O	O	O	O	O	_	_	NoSpaceAfter
+«	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc3gctm%2fpages%2f4/1020,2186,890,51/full/0/default.jpg
+nien	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Mutterlande	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+einander	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc3gctm%2fpages%2f4/1021,2239,891,50/full/0/default.jpg
+den	O	O	O	O	O	O	_	_	_
+elektrischen	O	O	O	O	O	O	_	_	_
+Draht	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+verbinden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dem	O	O	O	O	O	O	_	_	_
+Observer	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc3gctm%2fpages%2f4/1024,2291,887,57/full/0/default.jpg
+erscheint	O	O	O	O	O	O	_	_	_
+dies	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+gar	O	O	O	O	O	O	_	_	_
+kein	O	O	O	O	O	O	_	_	_
+besonders	O	O	O	O	O	O	_	_	_
+gewaltiges	O	O	O	O	O	O	_	_	_
+Un	O	O	O	O	O	O	_	_	NoSpaceAfter
+«	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc3gctm%2fpages%2f4/1022,2345,890,58/full/0/default.jpg
+ternebmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+er	O	O	O	O	O	O	_	_	_
+meint	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+dazu	O	O	O	O	O	O	_	_	_
+erforderliche	O	O	O	O	O	O	_	_	_
+Kabeltau	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc3gctm%2fpages%2f4/1022,2401,890,56/full/0/default.jpg
+branche	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+langer	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+24,000	O	O	O	O	O	O	_	_	_
+englische	O	O	O	O	O	O	_	_	_
+Meilen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fc3gctm%2fpages%2f4/1022,2454,847,57/full/0/default.jpg
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+m	B-pers	O	B-pers.ind.articleauthor	O	O	O	NIL	_	NoSpaceAfter|LED0.60
+.	I-pers	O	I-pers.ind.articleauthor	O	O	O	NIL	_	LED0.60
+I	I-pers	O	I-pers.ind.articleauthor	O	O	O	NIL	_	LED0.60
+)	O	O	O	O	O	O	_	_	EndOfLine
+
+

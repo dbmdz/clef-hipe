@@ -1,0 +1,1165 @@
+# language = de
+# newspaper = NZZ
+# date = 1868-02-17
+# document_id = NZZ-1868-02-17-a-p0001
+# segment_iiif_link = _
+Nochenschau	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Alabamafrage	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Vordergrund	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#dergrund	O	O	O	O	O	O	_	_	_|Commented
+tritt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+besteht	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+zwei	O	O	O	O	O	O	_	_	_
+Forderungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Einmal	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wird	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Nordamerika	B-loc	O	B-loc.adm.sup	O	O	O	Q49	_	LED0.00
+Entschädigung	O	O	O	O	O	O	_	_	_
+verlangt	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nordischen	O	O	O	O	O	O	_	_	_
+Kauffahrer	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+England	B-loc	O	B-loc.adm.nat	O	O	O	Q21	_	LED0.00
+gekauften	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kauften	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+bewaffneten	O	O	O	O	O	O	_	_	_
+Korsaren	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+Alabama	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Georgia	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Florida	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Sumter	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+s	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+w	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+während	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Bürgerkrieg	O	O	O	O	O	O	_	_	_
+gekapert	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kapert	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+verbrannt	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dann	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+England	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q21	Q21	LED0.00
+auch	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Verletzung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Völkerrechts	O	O	O	O	O	O	_	_	_
+beschuldigt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#digt	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+indem	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+Häfen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Ausrüstung	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sonderbündischen	O	O	O	O	O	O	_	_	_
+Kaperschiffen	O	O	O	O	O	O	_	_	_
+zugelassen	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Von	O	O	O	O	O	O	_	_	_
+Washington	B-loc	B-org	B-loc.adm.town	B-org.adm	O	O	Q61	Q30	NoSpaceAfter|LED0.00|Normalized-8
+#¬	I-loc	I-org	I-loc.adm.town	I-org.adm	O	O	Q61	Q30	EndOfLine|NoSpaceAfter|LED0.00|Commented
+# segment_iiif_link = _|Commented
+#shington	I-loc	I-org	I-loc.adm.town	I-org.adm	O	O	Q61	Q30	LED0.00|Commented
+aus	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+nun	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Schiedsgericht	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+beide	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Fragen	O	O	O	O	O	O	_	_	_
+vorgeschlagen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+während	O	O	O	O	O	O	_	_	_
+England	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q21	Q21	LED0.00
+sich	O	O	O	O	O	O	_	_	_
+wohl	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+erste	O	O	O	O	O	O	_	_	_
+Frage	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Schiedsgericht	O	O	O	O	O	O	_	_	_
+unterziehen	O	O	O	O	O	O	_	_	_
+wollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hingegen	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+Intervention	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+innere	O	O	O	O	O	O	_	_	_
+Verkehrspolitik	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#politik	O	O	O	O	O	O	_	_	_|Commented
+dulden	O	O	O	O	O	O	_	_	_
+will	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Da	O	O	O	O	O	O	_	_	_
+nun	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Vereinigten	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q30	Q30	LED0.00
+Staaten	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q30	Q30	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+auf	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Ausscheidung	O	O	O	O	O	O	_	_	_
+beider	O	O	O	O	O	O	_	_	_
+Punkte	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+eingehen	O	O	O	O	O	O	_	_	_
+wollten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ten	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Unterhandlungen	O	O	O	O	O	O	_	_	_
+abgebrochen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zwar	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Weise	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Standard	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Organ	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+torystischen	O	O	O	O	O	O	_	_	_
+Kabinets	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Bestimmtesten	O	O	O	O	O	O	_	_	_
+erklärte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+neue	O	O	O	O	O	O	_	_	_
+englische	O	O	O	O	O	O	_	_	_
+Minister	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Washington	B-loc	O	B-loc.adm.town	O	O	O	Q61	_	LED0.00
+habe	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+Ohr	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+jedem	O	O	O	O	O	O	_	_	_
+weitern	O	O	O	O	O	O	_	_	_
+Vorschlagüber	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Alabamafrage	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+verschließen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schließen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Bei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+zwischen	O	O	O	O	O	O	_	_	_
+beiden	O	O	O	O	O	O	_	_	_
+Kabineten	O	O	O	O	O	O	_	_	_
+herrschenden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Spannung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+amerikanische	O	O	O	O	O	O	_	_	_
+Bürger	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Europa	B-loc	O	B-loc.adm.sup	O	O	O	Q46	_	LED0.00
+verlangten	O	O	O	O	O	O	_	_	_
+Schutz	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+höher	O	O	O	O	O	O	_	_	_
+geschraubt	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+es	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+daher	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+verwundern	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+nächstens	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Noten	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Ultimatum	O	O	O	O	O	O	_	_	_
+käme	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Eisenbahnen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Vereinigten	B-loc	O	B-loc.adm.nat	O	B-comp.name	O	Q30	_	LED0.00
+Staaten	I-loc	O	I-loc.adm.nat	O	I-comp.name	O	Q30	_	LED0.00
+von	I-loc	O	I-loc.adm.nat	O	O	O	Q30	_	LED0.00
+Nordamerika	I-loc	O	I-loc.adm.nat	O	O	B-loc.adm.sup	Q30	_	NoSpaceAfter|LED0.00|Normalized-7
+#¬	I-loc	O	I-loc.adm.nat	O	O	I-loc.adm.sup	Q30	_	EndOfLine|NoSpaceAfter|LED0.00|Commented
+# segment_iiif_link = _|Commented
+#amerika	I-loc	O	I-loc.adm.nat	O	O	I-loc.adm.sup	Q30	_	LED0.00|Commented
+umfassen	O	O	O	O	O	O	_	_	_
+gegenwärtig	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Länge	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+38,605	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+englischen	O	O	O	O	O	O	_	_	_
+Meilen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Erstellung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+derselben	O	O	O	O	O	O	_	_	_
+kostete	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+1,654,050,799	O	O	O	O	O	O	_	_	_
+Dollars	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+In	O	O	O	O	O	O	_	_	_
+Wafhington	B-loc	B-org	B-loc.adm.town	B-org.adm	O	O	Q61	Q48525	LED0.00
+ist	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+offizielle	O	O	O	O	O	O	_	_	_
+Bericht	O	O	O	O	O	O	_	_	_
+angelangt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zession	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Insel	B-loc	O	B-loc.phys.geo	O	O	O	Q463937	_	LED0.00
+St	I-loc	O	I-loc.phys.geo	O	B-comp.name	O	Q463937	_	NoSpaceAfter|LED0.00
+.	I-loc	O	I-loc.phys.geo	O	I-comp.name	O	Q463937	_	LED0.00
+Thomas	I-loc	O	I-loc.phys.geo	O	I-comp.name	O	Q463937	_	LED0.00
+in	O	O	O	O	O	O	_	_	_
+Kopenhagen	B-loc	O	B-loc.adm.town	O	O	O	Q1748	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+ratifizirt	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Mehrere	O	O	O	O	O	O	_	_	_
+Söhne	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+ersten	O	O	O	O	O	O	_	_	_
+Familien	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Königreichs	B-loc	O	B-loc.adm.nat	O	O	O	Q1155700	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+Siam	I-loc	O	I-loc.adm.nat	O	B-comp.name	O	Q1155700	_	LED0.00
+sind	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	LED0.00
+erwartet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Nach	O	O	O	O	O	O	_	_	_
+glaubwürdigen	O	O	O	O	O	O	_	_	_
+Londoner	O	O	O	O	O	O	_	_	_
+Privatberichten	O	O	O	O	O	O	_	_	_
+treten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+erfreulichsten	O	O	O	O	O	O	_	_	_
+Vorzeichen	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+kräftigern	O	O	O	O	O	O	_	_	_
+Geschäftsverkehrs	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#verkehrs	O	O	O	O	O	O	_	_	_|Commented
+zu	O	O	O	O	O	O	_	_	_
+Tage	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Diese	O	O	O	O	O	O	_	_	_
+Erscheinung	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+tröstlicher	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#licher	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+industrielle	O	O	O	O	O	O	_	_	_
+Krise	O	O	O	O	O	O	_	_	_
+von	B-time	O	B-time.date.abs	O	O	O	NIL	_	LED0.00
+1866	I-time	O	I-time.date.abs	O	O	O	NIL	_	LED0.00
+in	O	O	O	O	O	O	_	_	_
+England	B-loc	O	B-loc.adm.nat	O	O	O	Q21	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+zugleich	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+schlechten	O	O	O	O	O	O	_	_	_
+Ernte	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Theuerung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Nahrungsmittel	O	O	O	O	O	O	_	_	_
+verbunden	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+Widerspruch	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Disraeli	B-pers	O	B-pers.ind	O	O	O	Q82006	_	LED0.00
+vorgeschlagene	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gene	O	O	O	O	O	O	_	_	_|Commented
+Wahlbestechungsgericht	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+drei	O	O	O	O	O	O	_	_	_
+Richter	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+je	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Gehalt	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+200	O	O	O	O	O	O	_	_	_
+Pfund	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+erklärt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Beschränkung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schränkung	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+dadurch	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Rechten	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Unterhauses	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erwachsen	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Bis	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	_
+unterlag	O	O	O	O	O	O	_	_	_
+nämlich	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Fall	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dem	O	O	O	O	O	O	_	_	_
+Urtheil	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Gemeinen	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+diesen	O	O	O	O	O	O	_	_	_
+gewählten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kommission	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Im	O	O	O	O	O	O	_	_	_
+ungarischen	B-loc	O	B-loc.adm.reg	O	O	O	Q767378	_	LED0.00
+Comitat	I-loc	O	I-loc.adm.reg	O	O	O	Q767378	_	LED0.00
+Zips	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q767378	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+Galizien	B-loc	O	B-loc.adm.nat	O	O	O	Q180086	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+grenzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Verzweigungen	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+ausgedehnten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+panslavistischen	O	O	O	O	O	O	_	_	_
+Agitation	O	O	O	O	O	O	_	_	_
+gestoßen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eine	O	O	O	O	O	O	_	_	_
+Untersuchung	O	O	O	O	O	O	_	_	_
+angeordnet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Direktor	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Lyceums	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ceums	O	O	O	O	O	O	_	_	_|Commented
+von	O	O	O	O	O	O	_	_	_
+Leutschau	B-loc	O	B-loc.adm.town	O	O	O	Q242478	_	LED0.00
+ist	O	O	O	O	O	O	_	_	_
+schwer	O	O	O	O	O	O	_	_	_
+kompromittirt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Monatlich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lich	O	O	O	O	O	O	_	_	_|Commented
+werden	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	_
+50,000	O	O	O	O	O	O	_	_	_
+umgeänderte	O	O	O	O	O	O	_	_	_
+Gewehre	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Armee	O	O	O	O	O	O	_	_	_
+abgeliefert	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+In	O	O	O	O	O	O	_	_	_
+Oesterreich	B-loc	O	B-loc.adm.nat	O	O	O	Q533534	_	LED0.00
+werden	O	O	O	O	O	O	_	_	_
+sämmtliche	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Umänderung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+Hinterlader	O	O	O	O	O	O	_	_	_
+geeignete	O	O	O	O	O	O	_	_	_
+Gewehre	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+deren	O	O	O	O	O	O	_	_	_
+Zahl	O	O	O	O	O	O	_	_	_
+ungefähr	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+600,000	O	O	O	O	O	O	_	_	_
+Stück	O	O	O	O	O	O	_	_	_
+beträgt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Ende	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Jahres	O	O	O	O	O	O	_	_	_
+umgeändert	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ändert	O	O	O	O	O	O	_	_	_|Commented
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+Streit	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Hannoveraner	O	O	O	O	O	O	_	_	_
+Emigration	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+gestrigen	O	O	O	O	O	O	_	_	_
+telegraphischen	O	O	O	O	O	O	_	_	_
+Depeschen	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+allen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Seiten	O	O	O	O	O	O	_	_	_
+auseinandergesetzt	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Von	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	_
+besonderer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bedeutung	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	_
+Samstag	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+N	B-prod	O	B-prod.media	O	O	O	Q658945	_	NoSpaceAfter|LED0.00
+.	I-prod	O	I-prod.media	O	O	O	Q658945	_	LED0.00
+Z	I-prod	O	I-prod.media	O	O	O	Q658945	_	NoSpaceAfter|LED0.00
+.	I-prod	O	I-prod.media	O	O	O	Q658945	_	LED0.00
+Ztg	I-prod	O	I-prod.media	O	O	O	Q658945	_	NoSpaceAfter|LED0.00
+.	I-prod	O	I-prod.media	O	O	O	Q658945	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+erschienene	O	O	O	O	O	O	_	_	_
+Bundesstadt	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Korrespondenz	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Angabe	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Lieutenant	B-pers	O	B-pers.ind	O	B-comp.title	O	Q28737714	_	LED0.00
+v	I-pers	O	I-pers.ind	O	B-comp.name	O	Q28737714	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	Q28737714	_	LED0.00
+Tschirschnitz	I-pers	O	I-pers.ind	O	I-comp.name	O	Q28737714	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+ob	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Hannoveraner	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#noveraner	O	O	O	O	O	O	_	_	_|Commented
+durch	O	O	O	O	O	O	_	_	_
+preußischen	O	O	O	O	O	O	_	_	_
+Einfluß	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+verdrängt	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+seien	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+unbegründet	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#det	O	O	O	O	O	O	_	_	_|Commented
+nachgewiesen	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+Antrag	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Deputirten	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	LED0.00
+Mellana	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Militärbüdget	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#büdget	O	O	O	O	O	O	_	_	_|Commented
+von	O	O	O	O	O	O	_	_	_
+162	O	O	O	O	O	O	_	_	_
+Millionen	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+142	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+reduziren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+verworfen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Pungolo	B-prod	O	B-prod.media	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+"	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Mailand	B-loc	O	B-loc.adm.town	O	O	O	Q490	_	LED0.00
+spricht	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Arbeiter	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#beiter	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+40,000	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Gold	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Verdienst	O	O	O	O	O	O	_	_	_
+mehrerer	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rerer	O	O	O	O	O	O	_	_	_|Commented
+Jahre	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Amerika	B-loc	O	B-loc.adm.sup	O	O	O	Q828	_	LED0.00
+nach	O	O	O	O	O	O	_	_	_
+Varese	B-loc	O	B-loc.adm.town	O	O	O	Q6285	_	LED0.00
+zurückgekehrt	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+Baarschaft	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Bankbillets	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+45,000	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+umgewechselt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gewechselt	O	O	O	O	O	O	_	_	_|Commented
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dieses	O	O	O	O	O	O	_	_	_
+Papier	O	O	O	O	O	O	_	_	_
+nun	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+unglücklichen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lichen	O	O	O	O	O	O	_	_	_|Commented
+Viertelstunde	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Kind	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Tische	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+welchem	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+ausgebreitet	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weggetragen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+s	O	O	O	O	O	O	_	_	_
+Kaminfeuer	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#minfeuer	O	O	O	O	O	O	_	_	_|Commented
+geworfen	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+unglückliche	O	O	O	O	O	O	_	_	_
+Arbeiter	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sei	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Schlag	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+solche	O	O	O	O	O	O	_	_	_
+Wuth	O	O	O	O	O	O	_	_	_
+gerathen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+er	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+kleinen	O	O	O	O	O	O	_	_	_
+Anstifter	O	O	O	O	O	O	_	_	_
+seines	O	O	O	O	O	O	_	_	_
+Unglücks	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Fußtritt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+versetzte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welcher	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Tod	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+zog	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+doppelt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Unglückliche	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	_
+bereits	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+Gericht	O	O	O	O	O	O	_	_	_
+gestellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Laut	O	O	O	O	O	O	_	_	_
+belgischen	O	O	O	O	O	O	_	_	_
+Korrespondenzen	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+ArbeiterBewegung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#Bewegung	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+diesen	O	O	O	O	O	O	_	_	_
+Augenblick	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Hennegau	B-loc	O	B-loc.adm.reg	O	O	O	Q1129	_	LED0.00
+aufgetreten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#getreten	O	O	O	O	O	O	_	_	_|Commented
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Erscheinung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+regelmäßig	O	O	O	O	O	O	_	_	_
+eintritt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+als	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Winter	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+demselben	O	O	O	O	O	O	_	_	_
+verbundene	O	O	O	O	O	O	_	_	_
+Abnahme	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nahme	O	O	O	O	O	O	_	_	_|Commented
+des	O	O	O	O	O	O	_	_	_
+Verdienstes	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Leider	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+seit	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Vierteljahrhundert	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-14
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#teljahrhundert	O	O	O	O	O	O	_	_	_|Commented
+sich	O	O	O	O	O	O	_	_	_
+alljährlich	O	O	O	O	O	O	_	_	_
+erneuernde	O	O	O	O	O	O	_	_	_
+Kampf	O	O	O	O	O	O	_	_	_
+zwischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Polizei	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Arbeitern	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kohlenbergwerke	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Jahr	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Jahr	O	O	O	O	O	O	_	_	_
+blutiger	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+dürfte	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Ende	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schrecklichen	O	O	O	O	O	O	_	_	_
+Katastrophe	O	O	O	O	O	O	_	_	_
+führen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Was	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+parlamentarischen	O	O	O	O	O	O	_	_	_
+Ministerium	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Frankreich	B-loc	O	B-loc.adm.nat	O	O	O	Q142	_	LED0.00
+verlautet	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+gestrigen	O	O	O	O	O	O	_	_	_
+Pariser	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Telegraphen	O	O	O	O	O	O	_	_	_
+total	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Abrede	O	O	O	O	O	O	_	_	_
+gestellt	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+Kurzem	O	O	O	O	O	O	_	_	_
+verstorbene	O	O	O	O	O	O	_	_	_
+Senator	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	LED0.00
+Montlaville	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+war	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+geschworner	O	O	O	O	O	O	_	_	_
+Feind	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Engländer	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	_
+à	O	O	O	O	O	O	_	_	_
+la	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Marquis	B-pers	O	B-pers.ind	O	B-comp.title	O	Q3135539	_	LED0.00
+Boissy	I-pers	O	I-pers.ind	O	B-comp.name	O	Q3135539	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Von	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+kursirte	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Bitte	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kaiser	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Bordeaux	B-loc	O	B-loc.adm.town	O	O	O	Q1479	_	NoSpaceAfter|LED0.00
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Sire	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ich	O	O	O	O	O	O	_	_	_
+hoffe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+Sie	O	O	O	O	O	O	_	_	_
+mich	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einmal	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Präfekten	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+London	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	LED0.00
+wählen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Abbe	B-pers	O	B-pers.ind	O	B-comp.function	O	Q326431	_	LED0.00
+Migne	I-pers	O	I-pers.ind	O	B-comp.name	O	Q326431	_	NoSpaceAfter|LED0.00
+'	I-pers	O	I-pers.ind	O	I-comp.name	O	Q326431	_	NoSpaceAfter|LED0.00
+s	I-pers	O	I-pers.ind	O	I-comp.name	O	Q326431	_	LED0.00
+Druckerei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kirchenväter	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	LED0.00
+ist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+abgebrannt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Schaden	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+6	O	O	O	O	O	O	_	_	_
+Mill	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+angeschlagen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+versichert	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Heute	O	O	O	O	O	O	_	_	_
+Abends	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+5	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	_
+21	O	O	O	O	O	O	_	_	_
+Minuten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Sonnenuntergang	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#untergang	O	O	O	O	O	O	_	_	_|Commented
+an	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Verschwinden	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Jupiters	B-loc	O	B-loc.phys.astro	O	O	O	Q319	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+7	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Abends	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sieht	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Wetter	O	O	O	O	O	O	_	_	_
+günstig	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+letztern	O	O	O	O	O	O	_	_	_
+Gestirn	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+kleinen	O	O	O	O	O	O	_	_	_
+röthlichen	O	O	O	O	O	O	_	_	_
+Stern	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nämlich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Planeten	B-loc	O	B-loc.phys.astro	O	O	O	Q308	_	LED0.00
+Merkur	I-loc	O	I-loc.phys.astro	O	B-comp.name	O	Q308	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+welcher	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Sonne	B-loc	O	B-loc.phys.astro	O	O	O	Q525	_	LED0.00
+dreimal	O	O	O	O	O	O	_	_	_
+näher	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ist	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Erde	B-loc	O	B-loc.phys.astro	O	O	O	Q2	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Seit	O	O	O	O	O	O	_	_	_
+tausend	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	_
+befand	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Merkur	B-loc	O	B-loc.phys.astro	O	O	O	Q308	_	LED0.00
+in	O	O	O	O	O	O	_	_	_
+keiner	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+unsere	O	O	O	O	O	O	_	_	_
+Beobachtung	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+günstigen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Stellung	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Einerseits	O	O	O	O	O	O	_	_	_
+steht	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Mond	B-loc	O	B-loc.phys.astro	O	O	O	Q405	_	LED0.00
+nicht	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Horizont	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+anderseits	O	O	O	O	O	O	_	_	_
+bildet	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Jupiter	B-loc	O	B-loc.phys.astro	O	O	O	Q319	_	LED0.00
+einen	O	O	O	O	O	O	_	_	_
+Abstandspunkt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+gerade	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Augenblick	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Merkur	B-loc	O	B-loc.phys.astro	O	O	O	Q308	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+größtmöglichen	O	O	O	O	O	O	_	_	_
+östlichen	O	O	O	O	O	O	_	_	_
+Entfernung	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sonne	B-loc	O	B-loc.phys.astro	O	O	O	Q525	_	LED0.00
+befindet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Bekanntlich	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Astronom	B-pers	O	B-pers.ind	O	B-comp.function	O	Q192315	_	LED0.00
+Gassendi	I-pers	O	I-pers.ind	O	B-comp.name	O	Q192315	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+noch	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Todbette	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+Bedauern	O	O	O	O	O	O	_	_	_
+ausgesprochen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ihm	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Glück	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+geworden	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Merkur	B-loc	O	B-loc.phys.astro	O	O	O	Q308	_	LED0.00
+von	O	O	O	O	O	O	_	_	_
+freiem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Auge	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+sehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

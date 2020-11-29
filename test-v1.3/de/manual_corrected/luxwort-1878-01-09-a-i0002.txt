@@ -1,0 +1,241 @@
+# language = de
+# newspaper = luxwort
+# date = 1878-01-09
+# document_id = luxwort-1878-01-09-a-i0002
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/155,3072,717,66/full/0/default.jpg
+Zur	O	O	O	O	O	O	_	_	_
+Nothlage	O	O	O	O	O	O	_	_	_
+unserer	O	O	O	O	O	O	_	_	_
+Landwirthschaft	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/178,3183,720,56/full/0/default.jpg
+Itt	O	O	O	O	O	O	_	_	_
+d	O	O	O	O	O	O	_	_	NoSpaceAfter
+«	O	O	O	O	O	O	_	_	_
+«	O	O	O	O	O	O	_	_	NoSpaceAfter
+estriaen	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Diensiags	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Nummei	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/135,3226,760,60/full/0/default.jpg
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Sujeutburger	B-prod	O	B-prod.media	O	O	O	Q1751317	_	LED0.24
+Wort	I-prod	O	I-prod.media	O	O	O	Q1751317	_	NoSpaceAfter|LED0.24
+"	O	O	O	O	O	O	_	_	_
+ergreift	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Lorrefpon	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/131,3272,768,51/full/0/default.jpg
+dent	O	O	O	O	O	O	_	_	_
+Partei	O	O	O	O	O	O	_	_	_
+fär	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Wanderlehrer	O	O	O	O	O	O	_	_	_
+Legen	O	O	O	O	O	O	_	_	_
+de	O	O	O	O	O	O	_	_	NoSpaceAfter
+«	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/133,3316,767,53/full/0/default.jpg
+Autor	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Artikel	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+zur	O	O	O	O	O	O	_	_	_
+Rothlage	O	O	O	O	O	O	_	_	_
+unserer	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/134,3360,288,60/full/0/default.jpg
+Landwirthschaft	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/184,3413,721,51/full/0/default.jpg
+Da	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+wohl	O	O	O	O	O	O	_	_	_
+wenige	O	O	O	O	O	O	_	_	_
+Personen	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Lande	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/137,3458,769,60/full/0/default.jpg
+grtt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	_
+Verdiente	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Wan	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/137,3504,768,50/full/0/default.jpg
+derlebrer	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+unfern	O	O	O	O	O	O	_	_	_
+Ackerbau	O	O	O	O	O	O	_	_	_
+frendiZer	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/138,3549,767,56/full/0/default.jpg
+erkätnlen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+«	O	O	O	O	O	O	_	_	NoSpaceAfter
+18	O	O	O	O	O	O	_	_	_
+eben	O	O	O	O	O	O	_	_	_
+diefer	O	O	O	O	O	O	_	_	_
+Autor	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+fo	O	O	O	O	O	O	_	_	_
+mutz	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/139,3592,767,57/full/0/default.jpg
+«	O	O	O	O	O	O	_	_	NoSpaceAfter
+lorreipolident	O	O	O	O	O	O	_	_	_
+irgend	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+stelle	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Ar	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/139,3639,769,51/full/0/default.jpg
+tikel	O	O	O	O	O	O	_	_	_
+falsch	O	O	O	O	O	O	_	_	_
+interpretiit	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Denn	O	O	O	O	O	O	_	_	_
+j	O	O	O	O	O	O	_	_	_
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+eben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/142,3683,766,50/full/0/default.jpg
+das	O	O	O	O	O	O	_	_	_
+Factum	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Nachfrage	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+künst	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/141,3727,767,58/full/0/default.jpg
+lichcui	O	O	O	O	O	O	_	_	_
+Nünzer	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Steigen	O	O	O	O	O	O	_	_	_
+begriffen	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+legt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/142,3773,765,50/full/0/default.jpg
+ein	O	O	O	O	O	O	_	_	_
+éclatantes	O	O	O	O	O	O	_	_	_
+Zeugniß	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Lifer	O	O	O	O	O	O	_	_	_
+ab	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/142,3818,767,51/full/0/default.jpg
+mit	O	O	O	O	O	O	_	_	_
+welchem	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Wanderlehrer	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+schweren	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/144,3862,294,60/full/0/default.jpg
+Aufgabe	O	O	O	O	O	O	_	_	_
+obliegen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/190,3913,719,61/full/0/default.jpg
+Unterstellen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Wanderlehrer	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/141,3960,769,60/full/0/default.jpg
+irgend	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Weife	O	O	O	O	O	O	_	_	_
+verdächtigt	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hieße	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/142,4008,767,49/full/0/default.jpg
+un	O	O	O	O	O	O	_	_	NoSpaceAfter
+«	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Beleidigung	O	O	O	O	O	O	_	_	_
+zusagen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/142,4048,766,60/full/0/default.jpg
+fchließlich	O	O	O	O	O	O	_	_	_
+unser	O	O	O	O	O	O	_	_	NoSpaceAfter
+«	O	O	O	O	O	O	_	_	_
+Zweck	O	O	O	O	O	O	_	_	_
+anbelargt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+i	O	O	O	O	O	O	_	_	NoSpaceAfter
+&	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/142,4093,766,61/full/0/default.jpg
+derjenige	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+seit	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	_
+befil	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/142,4148,766,51/full/0/default.jpg
+gen	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Im	O	O	O	O	O	O	_	_	_
+M	O	O	O	O	O	O	_	_	_
+tße	O	O	O	O	O	O	_	_	_
+unferer	O	O	O	O	O	O	_	_	_
+schwachen	O	O	O	O	O	O	_	_	_
+Krüfte	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/144,4183,764,58/full/0/default.jpg
+bahin	O	O	O	O	O	O	_	_	_
+zn	O	O	O	O	O	O	_	_	_
+wirken	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+nützliche	O	O	O	O	O	O	_	_	_
+Kenntnisse	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/121,4229,682,51/full/0/default.jpg
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+die	O	O	O	O	O	O	_	_	_
+ZrLßtmöMchste	O	O	O	O	O	O	_	_	_
+Verbreitung	O	O	O	O	O	O	_	_	_
+finden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/194,4287,721,51/full/0/default.jpg
+Seien	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+also	O	O	O	O	O	O	_	_	_
+einig	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+denn	O	O	O	O	O	O	_	_	_
+unser	O	O	O	O	O	O	_	_	_
+Zweck	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fq0646c%2fpages%2f2/144,4331,320,58/full/0/default.jpg
+ift	O	O	O	O	O	O	_	_	_
+ja	O	O	O	O	O	O	_	_	_
+derselbe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

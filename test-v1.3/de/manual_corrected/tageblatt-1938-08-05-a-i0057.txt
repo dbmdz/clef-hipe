@@ -1,0 +1,132 @@
+# language = de
+# newspaper = tageblatt
+# date = 1938-08-05
+# document_id = tageblatt-1938-08-05-a-i0057
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f7m2d04%2fpages%2f9/1994,3435,823,45/full/0/default.jpg
+«	O	O	O	O	O	O	_	_	NoSpaceAfter
+Die	B-prod	O	B-prod.media	O	O	O	Q5274415	_	LED0.00
+Neue	I-prod	O	I-prod.media	O	O	O	Q5274415	_	LED0.00
+Welt	I-prod	O	I-prod.media	O	O	O	Q5274415	_	NoSpaceAfter|LED0.00
+»	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Die	O	O	O	O	O	O	_	_	_
+oben	O	O	O	O	O	O	_	_	_
+erschienene	O	O	O	O	O	O	_	_	_
+Num	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f7m2d04%2fpages%2f9/1946,3480,870,36/full/0/default.jpg
+mer	O	O	O	O	O	O	_	_	_
+5	O	O	O	O	O	O	_	_	_
+beschäftigt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+kürzüchen	O	O	O	O	O	O	_	_	_
+Wahlen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f7m2d04%2fpages%2f9/1944,3504,872,48/full/0/default.jpg
+Nationalen	O	O	O	O	O	O	_	_	_
+Sowjetrepubliken	O	O	O	O	O	O	_	_	_
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+und	O	O	O	O	O	O	_	_	_
+sucht	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f7m2d04%2fpages%2f9/1945,3544,867,50/full/0/default.jpg
+Sowjetregim	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+wirkliche	O	O	O	O	O	O	_	_	_
+Volksdemokratie	O	O	O	O	O	O	_	_	_
+hinzustellen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f7m2d04%2fpages%2f9/1944,3579,872,47/full/0/default.jpg
+Sie	O	O	O	O	O	O	_	_	_
+gibt	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+kürzliche	O	O	O	O	O	O	_	_	_
+Rede	O	O	O	O	O	O	_	_	_
+Litwinows	B-pers	O	B-pers.ind	O	O	O	Q310100	_	LED0.00
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f7m2d04%2fpages%2f9/1945,3615,869,45/full/0/default.jpg
+internationale	O	O	O	O	O	O	_	_	_
+Lage	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+und	O	O	O	O	O	O	_	_	_
+enthält	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ausser	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f7m2d04%2fpages%2f9/1942,3653,873,49/full/0/default.jpg
+anderen	O	O	O	O	O	O	_	_	_
+Angaben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+knappe	O	O	O	O	O	O	_	_	_
+Darstellung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f7m2d04%2fpages%2f9/1942,3688,873,50/full/0/default.jpg
+Sozialversicherung	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Sowjetunion	B-loc	O	B-loc.adm.nat	O	O	O	Q15180	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	_|EOS
+
+“	O	O	O	O	O	O	_	_	NoSpaceAfter
+Die	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Zeitschrift	O	O	O	O	O	O	_	_	_
+hält	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f7m2d04%2fpages%2f9/1942,3725,874,44/full/0/default.jpg
+sich	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+hohlen	O	O	O	O	O	O	_	_	_
+Phrasendrescherei	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+K	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f7m2d04%2fpages%2f9/1944,3761,870,44/full/0/default.jpg
+P	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Blättchens	O	O	O	O	O	O	_	_	_
+frei	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Doch	O	O	O	O	O	O	_	_	_
+nehmen	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Redakteure	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f7m2d04%2fpages%2f9/1941,3796,873,45/full/0/default.jpg
+besonders	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+der	O	O	O	O	O	O	_	_	_
+Aufsatz	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Sowjetwahlen	O	O	O	O	O	O	_	_	_
+zeigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f7m2d04%2fpages%2f9/1942,3831,849,48/full/0/default.jpg
+offizielle	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	_
+Stalin	B-pers	O	B-pers.ind	O	O	O	Q855	_	NoSpaceAfter|LED0.00
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Propaganda	O	O	O	O	O	O	_	_	_
+allzu	O	O	O	O	O	O	_	_	_
+unkritisch	O	O	O	O	O	O	_	_	_
+hin	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

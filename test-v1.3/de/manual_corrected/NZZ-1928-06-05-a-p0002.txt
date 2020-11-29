@@ -1,0 +1,643 @@
+# language = de
+# newspaper = NZZ
+# date = 1928-06-05
+# document_id = NZZ-1928-06-05-a-p0002
+# segment_iiif_link = _
+Musikalisches	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Konzort	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+St	B-loc	O	B-loc.fac	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+.	I-loc	O	I-loc.fac	O	O	O	NIL	_	LED0.00
+Jakobskirche	I-loc	O	I-loc.fac	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	_|EOS
+
+C	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Sch	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Das	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Männerchören	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Frohsinn	B-org	O	B-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+Zürich	I-org	O	I-org.ent	O	O	B-loc.adm.town	NIL	_	NoSpaceAfter|LED0.00
+"	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Liederkranz	B-org	O	B-org.ent	O	O	O	NIL	_	LED0.00
+AußersihlZürich	I-org	O	I-org.ent	O	O	B-loc.adm.town	NIL	_	NoSpaceAfter|LED0.00|Normalized-6
+#¬	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|LED0.00|Commented
+# segment_iiif_link = _|Commented
+#Zürich	I-org	O	I-org.ent	O	O	B-loc.adm.town	NIL	_	NoSpaceAfter|LED0.00|Commented
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+denen	O	O	O	O	O	O	_	_	_
+jener	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+IV	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+III	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kategorie	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Eidgen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sängervereins	O	O	O	O	O	O	_	_	_
+angehört	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+veranstaltete	O	O	O	O	O	O	_	_	_
+Konzert	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+1	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Juni	O	O	O	O	O	O	_	_	_
+bot	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+beiden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Chören	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+seit	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+ihren	O	O	O	O	O	O	_	_	_
+bewährten	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+Dirigenten	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	LED0.00
+Jacques	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	LED0.00
+Wydler	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	LED0.00
+in	O	O	O	O	O	O	_	_	_
+Personalunion	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+stehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+erwünste	O	O	O	O	O	O	_	_	_
+Gelegenheit	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+seriöse	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vorbereitung	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Eidgen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sängerfest	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Lausanne	B-loc	O	B-loc.adm.town	O	O	O	Q807	_	NoSpaceAfter|LED0.00|Normalized-5
+#¬	I-loc	O	I-loc.adm.town	O	O	O	Q807	_	EndOfLine|NoSpaceAfter|LED0.00|Commented
+# segment_iiif_link = _|Commented
+#sanne	I-loc	O	I-loc.adm.town	O	O	O	Q807	_	LED0.00|Commented
+auszuweisen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+U	B-pers	O	B-pers.ind	O	O	O	Q2562857	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	O	O	Q2562857	_	LED0.00
+Wehrlis	I-pers	O	I-pers.ind	O	O	O	Q2562857	_	LED0.00
+kraftvolles	O	O	O	O	O	O	_	_	_
+Sempacherlied	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#pacherlied	O	O	O	O	O	O	_	_	_|Commented
+leitete	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Gesamtchor	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Bedenkt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+man	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Lied	O	O	O	O	O	O	_	_	_
+ursprünglich	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Marsch	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Blechmusik	O	O	O	O	O	O	_	_	_
+komponiert	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+J	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	O	O	NIL	_	LED0.00
+Boßhards	I-pers	O	I-pers.ind	O	O	O	NIL	_	LED0.00
+Text	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wurde	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+später	O	O	O	O	O	O	_	_	_
+unterlegt	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+versteht	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auf	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Instrumentalbegleitung	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+bestimmten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stimmten	O	O	O	O	O	O	_	_	_|Commented
+Gründen	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+verzichtet	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+konnte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Trieb	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Chor	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+halben	O	O	O	O	O	O	_	_	_
+Ton	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Höhe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+blieb	O	O	O	O	O	O	_	_	_
+doch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+erwünschte	O	O	O	O	O	O	_	_	_
+Phrasierung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+richt	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Wahl	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Hegars	B-pers	O	B-pers.ind	O	O	O	Q670852	_	LED0.00
+Ballade	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Rudolf	B-pers	O	B-pers.ind	O	O	O	Q23639608	_	LED0.00
+von	I-pers	O	I-pers.ind	O	O	O	Q23639608	_	LED0.00
+Werdenberg	I-pers	O	I-pers.ind	O	O	B-loc.adm.reg	Q23639608	_	NoSpaceAfter|LED0.00
+"	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Wettlied	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Liederkranz	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+wirkungssichere	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+klippenreiche	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#penreiche	O	O	O	O	O	O	_	_	_|Commented
+Aufgabe	O	O	O	O	O	O	_	_	_
+gestellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+sinngemäß	O	O	O	O	O	O	_	_	_
+erfaßt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+kontrastreich	O	O	O	O	O	O	_	_	_
+interpretiert	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Durch	O	O	O	O	O	O	_	_	_
+restlose	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+harmonische	O	O	O	O	O	O	_	_	_
+Ausfeilung	O	O	O	O	O	O	_	_	_
+einiger	O	O	O	O	O	O	_	_	_
+Uebergänge	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vermehrte	O	O	O	O	O	O	_	_	_
+klangliche	O	O	O	O	O	O	_	_	_
+Schattierung	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Vortrag	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#trag	O	O	O	O	O	O	_	_	_|Commented
+an	O	O	O	O	O	O	_	_	_
+Schönheit	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Durchschlagskraft	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+gewinnen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#winnen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Mit	O	O	O	O	O	O	_	_	_
+Schuberts	B-pers	O	B-pers.ind	O	O	O	Q7312	_	LED0.00
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Salve	O	O	O	O	O	O	_	_	_
+Regina	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Prüfstein	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+verfeinerte	O	O	O	O	O	O	_	_	_
+Sangeskultur	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zog	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Männerchor	B-org	O	B-org.ent	O	O	O	NIL	_	LED0.00
+Außersihl	I-org	O	I-org.ent	O	O	B-loc.adm.town	NIL	_	LED0.00
+1922	B-time	O	B-time.date.abs	O	O	O	NIL	_	LED0.00
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+V	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Kategorie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zum	O	O	O	O	O	O	_	_	_
+Luzerner	O	O	O	O	O	O	_	_	_
+Wettstreit	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Heuer	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Frohsinn	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sinn	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+"	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+subtilen	O	O	O	O	O	O	_	_	_
+Opus	O	O	O	O	O	O	_	_	_
+liebevoll	O	O	O	O	O	O	_	_	_
+angenommen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#men	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+stilistisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+technisch	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+klanglich	O	O	O	O	O	O	_	_	_
+vorzügliche	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zügliche	O	O	O	O	O	O	_	_	_|Commented
+Art	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Durchführung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Schluß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eine	O	O	O	O	O	O	_	_	_
+prächtige	O	O	O	O	O	O	_	_	_
+Steigerung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+musikalischen	O	O	O	O	O	O	_	_	_
+Ausdrucks	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#drucks	O	O	O	O	O	O	_	_	_|Commented
+erbrachte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+verdiente	O	O	O	O	O	O	_	_	_
+rückhalilose	O	O	O	O	O	O	_	_	_
+AnerkenEs	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-2
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#Es	O	O	O	O	O	O	_	_	_|Commented
+folgten	O	O	O	O	O	O	_	_	_
+zwei	O	O	O	O	O	O	_	_	_
+Gesamtchöre	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+III	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Kategorie	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gorie	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Trefflich	O	O	O	O	O	O	_	_	_
+gewählt	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+Nicodés	B-pers	O	B-pers.ind	O	O	O	Q878610	_	LED0.00
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Das	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Meer	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+dessen	O	O	O	O	O	O	_	_	_
+Wiedergabe	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+schwierigen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Modulationen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+gutem	O	O	O	O	O	O	_	_	_
+Gelingen	O	O	O	O	O	O	_	_	_
+kamen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Man	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+darf	O	O	O	O	O	O	_	_	_
+wohl	O	O	O	O	O	O	_	_	_
+annehmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Lausanne	B-loc	O	B-loc.adm.town	O	O	O	Q807	_	LED0.00
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Orchesterbegleitung	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Soldaten	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Studentenchor	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#chor	O	O	O	O	O	O	_	_	_|Commented
+aus	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Fausts	O	O	O	O	O	O	_	_	_
+Verdammung	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+H	B-pers	O	B-pers.ind	O	O	O	Q1151	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	O	O	Q1151	_	LED0.00
+Berlioz	I-pers	O	I-pers.ind	O	O	O	Q1151	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+zum	O	O	O	O	O	O	_	_	_
+nötigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+rhythmisch	O	O	O	O	O	O	_	_	_
+beschwingten	O	O	O	O	O	O	_	_	_
+Vortrag	O	O	O	O	O	O	_	_	_
+verhelfen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#helfen	O	O	O	O	O	O	_	_	_|Commented
+werde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Großem	O	O	O	O	O	O	_	_	_
+Interesse	O	O	O	O	O	O	_	_	_
+begegneten	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Gesamtchöre	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+IV	O	O	O	O	O	O	_	_	_
+Kategorie	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+H	B-pers	O	B-pers.ind	O	O	O	Q671472	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	O	O	Q671472	_	LED0.00
+Suters	I-pers	O	I-pers.ind	O	O	O	Q671472	_	LED0.00
+klangschwelgerisches	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-15
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schwelgerisches	O	O	O	O	O	O	_	_	_|Commented
+Jugendwerk	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Die	O	O	O	O	O	O	_	_	_
+Schmiede	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Wald	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+glänzte	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+vornehme	O	O	O	O	O	O	_	_	_
+Melodik	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+modern	O	O	O	O	O	O	_	_	_
+gehaltene	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+charakteristische	O	O	O	O	O	O	_	_	_
+Orchesterbegleitung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#begleitung	O	O	O	O	O	O	_	_	_|Commented
+aber	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+beeinträchtigt	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Im	O	O	O	O	O	O	_	_	_
+achtstimmigen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stimmigen	O	O	O	O	O	O	_	_	_|Commented
+a	O	O	O	O	O	O	_	_	_
+cappella	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Chor	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Jubilate	O	O	O	O	O	O	_	_	_
+Deo	O	O	O	O	O	O	_	_	NoSpaceAfter
+“	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Venezianers	B-pers	O	B-pers.ind	O	B-comp.demonym	O	Q34624	_	LED0.00
+Gabrieli	I-pers	O	I-pers.ind	O	B-comp.name	O	Q34624	_	LED0.00
+ließen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Präzision	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Einsätze	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Geschlossenheit	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Ensembles	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nichts	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+wünschen	O	O	O	O	O	O	_	_	_
+übrig	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+Werk	O	O	O	O	O	O	_	_	_
+bietet	O	O	O	O	O	O	_	_	_
+Freunden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#den	O	O	O	O	O	O	_	_	_|Commented
+altitalienischen	O	O	O	O	O	O	_	_	_
+Chorstils	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+herrlichen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Polyphonie	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+seltenen	O	O	O	O	O	O	_	_	_
+Genuß	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+beiden	O	O	O	O	O	O	_	_	_
+Gesamtchöre	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#samtchöre	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Attenhofers	B-pers	O	B-pers.ind	O	O	O	Q4072280	_	LED0.00
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Das	O	O	O	O	O	O	_	_	_
+weiße	O	O	O	O	O	O	_	_	_
+Kreuz	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+roten	O	O	O	O	O	O	_	_	_
+Feld	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Halbchor	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+wohltuende	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tuende	O	O	O	O	O	O	_	_	_|Commented
+klangliche	O	O	O	O	O	O	_	_	_
+Differenzierung	O	O	O	O	O	O	_	_	_
+ergab	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+J	B-pers	O	B-pers.ind	O	O	O	Q511463	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	O	O	Q511463	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+Bulls	I-pers	O	I-pers.ind	O	O	O	Q511463	_	LED0.00
+bekanntes	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Dem	O	O	O	O	O	O	_	_	_
+Vaterland	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+mit	O	O	O	O	O	O	_	_	_
+Klavierbegleitung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#begleitung	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+)	O	O	O	O	O	O	_	_	_
+bildeten	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+patriotischen	O	O	O	O	O	O	_	_	_
+Ausklang	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Konzertes	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+zahlreiche	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dankbare	O	O	O	O	O	O	_	_	_
+Zuhörerschaft	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#hörerschaft	O	O	O	O	O	O	_	_	_|Commented
+gefunden	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Musikdirektor	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	LED0.00
+A	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	LED0.00
+Biedermann	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter|LED0.00|Normalized-7
+#¬	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter|LED0.00|Commented
+# segment_iiif_link = _|Commented
+#dermann	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	LED0.00|Commented
+am	O	O	O	O	O	O	_	_	_
+Flügel	O	O	O	O	O	O	_	_	_
+erwies	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+namentlich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Suters	B-pers	O	B-pers.ind	O	O	O	Q671472	_	LED0.00
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Die	O	O	O	O	O	O	_	_	_
+Schmiede	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Wald	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+verläßlicher	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+gewandter	O	O	O	O	O	O	_	_	_
+Begleiter	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

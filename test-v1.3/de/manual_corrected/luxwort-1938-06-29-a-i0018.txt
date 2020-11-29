@@ -1,0 +1,173 @@
+# language = de
+# newspaper = luxwort
+# date = 1938-06-29
+# document_id = luxwort-1938-06-29-a-i0018
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/179,887,674,51/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+deutschen	O	O	O	O	O	O	_	_	_
+militärischen	O	O	O	O	O	O	_	_	_
+Berater	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/134,946,800,57/full/0/default.jpg
+Schanghai	B-loc	O	B-loc.adm.town	O	O	O	Q8686	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+28	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Juni	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Havas	B-org	O	B-org.ent.pressagency	O	O	O	Q516033	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Aus	O	O	O	O	O	O	_	_	_
+Hankau	B-loc	O	B-loc.adm.town	O	O	O	Q11746	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/94,988,841,49/full/0/default.jpg
+wird	O	O	O	O	O	O	_	_	_
+berichtet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+datz	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+beutschen	O	O	O	O	O	O	_	_	_
+militärischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/94,1031,825,51/full/0/default.jpg
+Berater	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+formelle	O	O	O	O	O	O	_	_	_
+Intervention	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/94,1073,841,57/full/0/default.jpg
+chinesischen	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+hin	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+abgereist	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/94,1116,841,57/full/0/default.jpg
+sollen	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Marschall	B-pers	O	B-pers.ind	O	B-comp.function	O	Q16574	_	LED0.00
+Tschiang	I-pers	O	I-pers.ind	O	B-comp.name	O	Q16574	_	LED0.00
+Kai	I-pers	O	I-pers.ind	O	I-comp.name	O	Q16574	_	NoSpaceAfter|LED0.00
+-	I-pers	O	I-pers.ind	O	I-comp.name	O	Q16574	_	NoSpaceAfter|LED0.00
+shek	I-pers	O	I-pers.ind	O	I-comp.name	O	Q16574	_	LED0.00
+das	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/94,1159,840,57/full/0/default.jpg
+Versprechen	O	O	O	O	O	O	_	_	_
+erhalten	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+5	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/94,1201,398,56/full/0/default.jpg
+Juli	O	O	O	O	O	O	_	_	_
+abreisen	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/133,1244,801,49/full/0/default.jpg
+Wie	O	O	O	O	O	O	_	_	_
+dazu	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Hankau	B-loc	O	B-loc.adm.town	O	O	O	Q11746	_	LED0.00
+weiter	O	O	O	O	O	O	_	_	_
+gemeldet	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/94,1286,840,55/full/0/default.jpg
+wirb	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+geht	O	O	O	O	O	O	_	_	_
+infolge	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+verzögerten	O	O	O	O	O	O	_	_	_
+Abreise	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/94,1329,841,48/full/0/default.jpg
+ber	O	O	O	O	O	O	_	_	_
+beutschen	O	O	O	O	O	O	_	_	_
+Berater	O	O	O	O	O	O	_	_	_
+bas	O	O	O	O	O	O	_	_	_
+Gerücht	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/94,1371,826,57/full/0/default.jpg
+chinesische	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+werde	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+Abreise	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/94,1415,823,56/full/0/default.jpg
+biefer	O	O	O	O	O	O	_	_	_
+Experten	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+bem	O	O	O	O	O	O	_	_	_
+Enbe	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/94,1458,841,48/full/0/default.jpg
+Feindseligkeiten	O	O	O	O	O	O	_	_	_
+überhaupt	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+zustimmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+beutsche	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/94,1500,821,56/full/0/default.jpg
+Regierung	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+bem	O	O	O	O	O	O	_	_	_
+Abbruch	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/95,1542,822,56/full/0/default.jpg
+diplomatischen	O	O	O	O	O	O	_	_	_
+Beziehungen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+chinesischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/94,1592,841,50/full/0/default.jpg
+Regierung	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Hankau	B-loc	O	B-loc.adm.town	O	O	O	Q11746	_	LED0.00
+gedroht	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/95,1627,840,49/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+Abreise	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Experten	O	O	O	O	O	O	_	_	_
+verhindere	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/95,1670,822,55/full/0/default.jpg
+Gründe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+beutschen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/95,1713,840,56/full/0/default.jpg
+Sachverständigen	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Bleiben	O	O	O	O	O	O	_	_	_
+bewogen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sinb	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fz219sb%2fpages%2f3/98,1764,272,47/full/0/default.jpg
+genau	O	O	O	O	O	O	_	_	_
+bekannt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

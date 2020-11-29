@@ -1,0 +1,229 @@
+# language = de
+# newspaper = luxwort
+# date = 1938-01-29
+# document_id = luxwort-1938-01-29-a-i0025
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3842,372,524,56/full/0/default.jpg
+Frankreichs	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q142	Q1450662	Partial-0:10|LED0.00
+Volksoermögen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3718,435,810,58/full/0/default.jpg
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	_|EOS
+
+28	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Januar	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Laufe	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3682,480,847,57/full/0/default.jpg
+letzten	O	O	O	O	O	O	_	_	_
+Jahrzehnte	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+Versuchen	O	O	O	O	O	O	_	_	_
+gefehlt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3682,524,847,50/full/0/default.jpg
+das	O	O	O	O	O	O	_	_	_
+französische	O	O	O	O	O	O	_	_	_
+Volksvermögen	O	O	O	O	O	O	_	_	_
+zahlenmäßig	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3682,576,846,49/full/0/default.jpg
+zu	O	O	O	O	O	O	_	_	_
+erfassen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+auszudrücken	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ein	O	O	O	O	O	O	_	_	_
+Rückblick	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3682,611,847,57/full/0/default.jpg
+auf	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Versuche	O	O	O	O	O	O	_	_	_
+zeigt	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+erschreckender	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3682,653,847,58/full/0/default.jpg
+Deutlichkeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welch	O	O	O	O	O	O	_	_	_
+gewaltige	O	O	O	O	O	O	_	_	_
+Bresche	O	O	O	O	O	O	_	_	_
+Welt	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3682,698,847,58/full/0/default.jpg
+Krieg	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+Krisenjahre	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3682,741,848,58/full/0/default.jpg
+Wohlstand	O	O	O	O	O	O	_	_	_
+geschlagen	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+ver	O	O	O	O	O	O	_	_	NoSpaceAfter
+«	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3682,786,848,57/full/0/default.jpg
+schiedenen	O	O	O	O	O	O	_	_	_
+Methoden	O	O	O	O	O	O	_	_	_
+errechneten	O	O	O	O	O	O	_	_	_
+Mittelzahlen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3682,829,847,57/full/0/default.jpg
+lassen	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Rene	B-pers	O	B-pers.ind	O	O	O	NIL	_	LED0.00
+Pupin	I-pers	O	I-pers.ind	O	O	O	NIL	_	LED0.00
+in	O	O	O	O	O	O	_	_	_
+folgender	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3682,872,848,51/full/0/default.jpg
+Tabelle	O	O	O	O	O	O	_	_	_
+zusammenfassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+1853	B-time	O	B-time.date.abs	O	O	O	NIL	_	LED0.00
+100	O	O	O	O	O	O	_	_	_
+Milliarden	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3682,915,848,58/full/0/default.jpg
+Goldfranken	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+1878	B-time	O	B-time.date.abs	O	O	O	NIL	_	LED0.00
+205	O	O	O	O	O	O	_	_	_
+Milliarden	O	O	O	O	O	O	_	_	_
+Gold	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3682,959,848,58/full/0/default.jpg
+franken	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+1903	B-time	O	B-time.date.abs	O	O	O	NIL	_	LED0.00
+250	O	O	O	O	O	O	_	_	_
+Milliarden	O	O	O	O	O	O	_	_	_
+Golbfranken	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3682,1002,642,51/full/0/default.jpg
+1913	B-time	O	B-time.date.abs	O	O	O	NIL	_	LED0.00
+300	O	O	O	O	O	O	_	_	_
+Milliarden	O	O	O	O	O	O	_	_	_
+Goldfranken	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3720,1047,810,50/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+300	O	O	O	O	O	O	_	_	_
+Borkriegsmilliarden	O	O	O	O	O	O	_	_	_
+würden	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3682,1091,830,50/full/0/default.jpg
+einem	O	O	O	O	O	O	_	_	_
+Papierfrankenwert	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+3000	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3682,1133,847,51/full/0/default.jpg
+Militärden	O	O	O	O	O	O	_	_	_
+entsprechen	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Kaufwert	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3682,1178,848,49/full/0/default.jpg
+2100	O	O	O	O	O	O	_	_	_
+Milliarden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Die	O	O	O	O	O	O	_	_	_
+Schätzungen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3682,1221,848,58/full/0/default.jpg
+heutigen	O	O	O	O	O	O	_	_	_
+Vermögenslage	O	O	O	O	O	O	_	_	_
+erreichen	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3682,1265,848,51/full/0/default.jpg
+weitem	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+diefe	O	O	O	O	O	O	_	_	_
+Höhe	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+sie	O	O	O	O	O	O	_	_	_
+liegen	O	O	O	O	O	O	_	_	_
+zwischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3683,1312,846,50/full/0/default.jpg
+einem	O	O	O	O	O	O	_	_	_
+opttmistischen	O	O	O	O	O	O	_	_	_
+Maximum	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+1400	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3685,1352,825,50/full/0/default.jpg
+einem	O	O	O	O	O	O	_	_	_
+pessimistischen	O	O	O	O	O	O	_	_	_
+Minimum	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+1000	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3685,1394,845,51/full/0/default.jpg
+Milliarden	O	O	O	O	O	O	_	_	_
+heutiger	O	O	O	O	O	O	_	_	_
+Franken	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+140	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+100	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3683,1439,847,50/full/0/default.jpg
+Milliarden	O	O	O	O	O	O	_	_	_
+Goldfranken	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Krieg	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wirtschaftliche	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3683,1483,825,50/full/0/default.jpg
+und	O	O	O	O	O	O	_	_	_
+soziale	O	O	O	O	O	O	_	_	_
+Krisen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Sinken	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3685,1526,845,51/full/0/default.jpg
+Produktion	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Arbeitsleistung	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+demnach	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3685,1569,845,51/full/0/default.jpg
+das	O	O	O	O	O	O	_	_	_
+französische	O	O	O	O	O	O	_	_	_
+Volksvermögen	O	O	O	O	O	O	_	_	_
+feit	B-time	O	B-time.date.abs	O	O	O	NIL	_	LED0.11
+1914	I-time	O	I-time.date.abs	O	O	O	NIL	_	LED0.11
+um	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/3686,1613,827,51/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+Hälfte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+vielleicht	O	O	O	O	O	O	_	_	_
+sogar	O	O	O	O	O	O	_	_	_
+Zweidrittel	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fjdbz43%2fpages%2f3/4462,1617,51,43/full/0/default.jpg
+verringe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+
+

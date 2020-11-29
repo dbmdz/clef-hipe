@@ -1,0 +1,206 @@
+# language = de
+# newspaper = luxwort
+# date = 1948-07-09
+# document_id = luxwort-1948-07-09-a-i0038
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/897,4670,523,41/full/0/default.jpg
+Der	O	O	O	O	O	O	_	_	_
+Streik	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Finanzbeamten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/845,4703,647,48/full/0/default.jpg
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+9	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Juli	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Mehrzahl	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/812,4738,694,44/full/0/default.jpg
+Finanzbeamten	O	O	O	O	O	O	_	_	_
+leistete	O	O	O	O	O	O	_	_	_
+gestern	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/811,4774,678,44/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Gewerkschaft	B-org	O	B-org.ent	O	O	O	Q1125623	_	LED0.00
+„	I-org	O	I-org.ent	O	O	O	Q1125623	_	NoSpaceAfter|LED0.00
+Force	I-org	O	I-org.ent	O	B-comp.name	O	Q1125623	_	LED0.00
+ouvrière	I-org	O	I-org.ent	O	I-comp.name	O	Q1125623	_	NoSpaceAfter|LED0.00
+"	I-org	O	I-org.ent	O	O	O	Q1125623	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/813,4809,694,45/full/0/default.jpg
+proklamierten	O	O	O	O	O	O	_	_	_
+Streik	O	O	O	O	O	O	_	_	_
+Folge	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Bewegung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/811,4844,680,47/full/0/default.jpg
+erstreckt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/811,4880,696,50/full/0/default.jpg
+Finanzministerium	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+'	O	O	O	O	O	O	_	_	_
+Steuererhebungsbüros	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/812,4914,680,45/full/0/default.jpg
+Zentraldienst	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Währungskontrolle	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/812,4952,695,44/full/0/default.jpg
+sowie	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zollverwaltung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Infolgedessen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/816,4986,673,44/full/0/default.jpg
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+vurden	O	O	O	O	O	O	_	_	_
+gestern	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+vielen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/814,5022,694,50/full/0/default.jpg
+Grenzübergängen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+a	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Flughafen	B-loc	O	B-loc.fac	O	O	O	Q738719	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/813,5063,677,38/full/0/default.jpg
+von	I-loc	O	I-loc.fac	O	O	O	Q738719	_	LED0.00
+Le	I-loc	O	I-loc.fac	O	O	B-loc.adm.town	Q738719	_	LED0.00
+Bourget	I-loc	O	I-loc.fac	O	O	I-loc.adm.town	Q738719	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Gepäcke	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/814,5092,439,44/full/0/default.jpg
+Reisenden	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+kontrolliert	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/848,5124,642,48/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+kommunistische	O	O	O	O	O	O	_	_	_
+C	B-org	O	B-org.ent	O	O	O	Q1125638	_	NoSpaceAfter|LED0.00
+.	I-org	O	I-org.ent	O	O	O	Q1125638	_	LED0.00
+G	I-org	O	I-org.ent	O	O	O	Q1125638	_	NoSpaceAfter|LED0.00
+.	I-org	O	I-org.ent	O	O	O	Q1125638	_	LED0.00
+T	I-org	O	I-org.ent	O	O	O	Q1125638	_	NoSpaceAfter|LED0.00
+.	I-org	O	I-org.ent	O	O	O	Q1125638	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/813,5163,694,43/full/0/default.jpg
+unterstützt	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Srteik	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+während	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+gestern	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/816,5198,691,45/full/0/default.jpg
+bereits	O	O	O	O	O	O	_	_	_
+gemeldet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Confédération	B-org	O	B-org.ent	O	O	O	Q1125610	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/813,5233,694,48/full/0/default.jpg
+Française	I-org	O	I-org.ent	O	O	O	Q1125610	_	LED0.00
+des	I-org	O	I-org.ent	O	O	O	Q1125610	_	LED0.00
+Travailleurs	I-org	O	I-org.ent	O	O	O	Q1125610	_	LED0.00
+Chrétiens	I-org	O	I-org.ent	O	O	O	Q1125610	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/814,5268,676,44/full/0/default.jpg
+«	O	O	O	O	O	O	_	_	NoSpaceAfter
+ich	O	O	O	O	O	O	_	_	_
+ihren	O	O	O	O	O	O	_	_	_
+definitiven	O	O	O	O	O	O	_	_	_
+Entscheid	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/817,5304,222,44/full/0/default.jpg
+vorbehalten	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/849,5338,640,44/full/0/default.jpg
+In	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+gestrigen	O	O	O	O	O	O	_	_	_
+späten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/814,5374,677,44/full/0/default.jpg
+Abendstunden	O	O	O	O	O	O	_	_	_
+fand	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Ministerrat	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/816,5409,691,48/full/0/default.jpg
+Forderungen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Finanzangestellten	O	O	O	O	O	O	_	_	_
+statt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/817,5444,691,43/full/0/default.jpg
+Es	O	O	O	O	O	O	_	_	_
+verlautet	O	O	O	O	O	O	_	_	_
+jedoch	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	_
+nichts	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/817,5479,411,48/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+gefaßten	O	O	O	O	O	O	_	_	_
+Beschlüsse	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/850,5514,639,44/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+C	B-org	O	B-org.ent	O	O	O	Q1125638	_	NoSpaceAfter|LED0.00
+.	I-org	O	I-org.ent	O	O	O	Q1125638	_	LED0.00
+G	I-org	O	I-org.ent	O	O	O	Q1125638	_	NoSpaceAfter|LED0.00
+.	I-org	O	I-org.ent	O	O	O	Q1125638	_	LED0.00
+T	I-org	O	I-org.ent	O	O	O	Q1125638	_	NoSpaceAfter|LED0.00
+.	I-org	O	I-org.ent	O	O	O	Q1125638	_	LED0.00
+proklamierte	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/816,5553,675,44/full/0/default.jpg
+morgen	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Streik	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+elsässischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/817,5584,690,48/full/0/default.jpg
+Kaligruben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+„	B-org	O	B-org.ent	O	O	O	Q1125623	_	NoSpaceAfter|LED0.00
+Force	I-org	O	I-org.ent	O	O	O	Q1125623	_	LED0.00
+ouvrière	I-org	O	I-org.ent	O	O	O	Q1125623	_	NoSpaceAfter|LED0.00
+"	I-org	O	I-org.ent	O	O	O	Q1125623	_	LED0.00
+schloß	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhwbt6q%2fpages%2f1/817,5619,267,47/full/0/default.jpg
+Streikparole	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

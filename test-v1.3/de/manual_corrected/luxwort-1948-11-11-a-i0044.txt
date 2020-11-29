@@ -1,0 +1,184 @@
+# language = de
+# newspaper = luxwort
+# date = 1948-11-11
+# document_id = luxwort-1948-11-11-a-i0044
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/4013,1040,148,41/full/0/default.jpg
+URLAUB	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3772,1078,648,45/full/0/default.jpg
+für	O	O	O	O	O	O	_	_	_
+ehemalige	O	O	O	O	O	O	_	_	_
+Kriegsgefangene	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3874,1110,443,45/full/0/default.jpg
+Landwirtschaft	O	O	O	O	O	O	_	_	_
+genehmigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3787,1159,637,43/full/0/default.jpg
+Der	O	O	O	O	O	O	_	_	_
+Heimurlaub	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+ehemalige	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3755,1196,670,48/full/0/default.jpg
+Kriegsgefangene	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+auch	O	O	O	O	O	O	_	_	_
+diesjährig	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3755,1231,666,49/full/0/default.jpg
+genehmigt	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+zwar	O	O	O	O	O	O	_	_	_
+ab	O	O	O	O	O	O	_	_	_
+10	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3755,1267,687,53/full/0/default.jpg
+November	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+für.die	O	O	O	O	O	O	_	_	_
+3	O	O	O	O	O	O	_	_	_
+westlichen	O	O	O	O	O	O	_	_	_
+Zonen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3755,1305,688,44/full/0/default.jpg
+Ausnahme	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Stadt	B-loc	O	B-loc.adm.town	O	O	O	Q64	_	LED0.00
+Berlin	I-loc	O	I-loc.adm.town	O	B-comp.name	O	Q64	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3757,1339,685,45/full/0/default.jpg
+amerikanische	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+englische	B-loc	O	B-loc.adm.reg	O	O	O	Q55306	_	LED0.00
+Zone	I-loc	O	I-loc.adm.reg	O	O	O	Q55306	_	LED0.00
+sind	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3758,1378,686,44/full/0/default.jpg
+14	O	O	O	O	O	O	_	_	_
+Tage	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+während	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+französische	B-loc	O	B-loc.adm.reg	O	O	O	Q55309	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3758,1415,686,45/full/0/default.jpg
+Zone	I-loc	O	I-loc.adm.reg	O	O	O	Q55309	_	LED0.00
+10	O	O	O	O	O	O	_	_	_
+Tage	O	O	O	O	O	O	_	_	_
+gestattet	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3758,1450,686,45/full/0/default.jpg
+Formalitäten	O	O	O	O	O	O	_	_	_
+wende	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3757,1484,666,48/full/0/default.jpg
+Gemeindeverwaltungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+gemäß	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3758,1522,685,45/full/0/default.jpg
+Rundschreiben	O	O	O	O	O	O	_	_	_
+Nr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+14	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+16	B-time	O	B-time.date.abs	O	O	O	NIL	_	LED0.00
+Januar	I-time	O	I-time.date.abs	O	O	O	NIL	_	LED0.00
+1948	I-time	O	I-time.date.abs	O	O	O	NIL	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3759,1560,306,43/full/0/default.jpg
+verfahren	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3791,1596,653,43/full/0/default.jpg
+Für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+französische	B-loc	O	B-loc.adm.reg	O	O	O	Q55309	_	LED0.00
+besetzte	I-loc	O	I-loc.adm.reg	O	O	O	Q55309	_	LED0.00
+Zone	I-loc	O	I-loc.adm.reg	O	O	O	Q55309	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3758,1632,686,45/full/0/default.jpg
+kann	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Urlaub	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+erteilt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3758,1676,666,37/full/0/default.jpg
+wenn	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Urlauber	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Besitze	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3758,1704,685,50/full/0/default.jpg
+Bescheinigung	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+hervorgeht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3757,1749,689,37/full/0/default.jpg
+er	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Urlaubsort	O	O	O	O	O	O	_	_	_
+Unterkunft	O	O	O	O	O	O	_	_	_
+findet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3759,1775,687,48/full/0/default.jpg
+Unterkunft	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Bescheinigungen	O	O	O	O	O	O	_	_	_
+müsesn	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3759,1814,688,49/full/0/default.jpg
+zuständigen	O	O	O	O	O	O	_	_	_
+Kreisdelegierten	O	O	O	O	O	O	_	_	_
+ausgestellt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3760,1852,687,45/full/0/default.jpg
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Jeder	O	O	O	O	O	O	_	_	_
+Urlauber	O	O	O	O	O	O	_	_	_
+erhält	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Lizenz	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3761,1888,686,44/full/0/default.jpg
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+übliche	O	O	O	O	O	O	_	_	_
+5	O	O	O	O	O	O	_	_	_
+kg	O	O	O	O	O	O	_	_	_
+Lebensmittel	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3761,1925,237,44/full/0/default.jpg
+Raucherwaren	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fwzdpr9%2fpages%2f5/3818,1959,628,49/full/0/default.jpg
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Mitget	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Ackerbauministerium	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+i	O	O	O	O	O	O	_	_	EndOfLine
+
+

@@ -1,0 +1,137 @@
+# language = de
+# newspaper = luxwort
+# date = 1938-09-03
+# document_id = luxwort-1938-09-03-a-i0024
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f80r4sz%2fpages%2f3/1107,903,652,61/full/0/default.jpg
+Schließung	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+kirklichen	O	O	O	O	O	O	_	_	_
+Schulen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f80r4sz%2fpages%2f3/1046,953,812,56/full/0/default.jpg
+Wien	B-loc	O	B-loc.adm.town	O	O	O	Q1741	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	_|EOS
+
+2	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Sept	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Wiener	O	O	O	O	O	O	_	_	_
+Ausgabe	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f80r4sz%2fpages%2f3/1008,995,832,58/full/0/default.jpg
+„	B-prod	O	B-prod.media	O	O	O	Q152564	_	NoSpaceAfter|LED0.00
+Völkischen	I-prod	O	I-prod.media	O	O	O	Q152564	_	LED0.00
+Beobachters	I-prod	O	I-prod.media	O	O	O	Q152564	_	NoSpaceAfter|LED0.00
+"	I-prod	O	I-prod.media	O	O	O	Q152564	_	LED0.00
+wird	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f80r4sz%2fpages%2f3/1006,1039,837,57/full/0/default.jpg
+bekanntgegeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+kirchlichen	O	O	O	O	O	O	_	_	_
+Schulen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f80r4sz%2fpages%2f3/1006,1081,834,60/full/0/default.jpg
+einschließlich	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+römisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+katholischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f80r4sz%2fpages%2f3/1005,1124,853,56/full/0/default.jpg
+Parochialschulen	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Beendigung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Sommerferien	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f80r4sz%2fpages%2f3/1003,1168,840,57/full/0/default.jpg
+nicht	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+eröffnet	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auch	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f80r4sz%2fpages%2f3/1002,1210,856,57/full/0/default.jpg
+berühmte	O	O	O	O	O	O	_	_	_
+Schotten	B-org	O	B-org.ent	O	O	O	Q2249183	_	NoSpaceAfter|LED0.00
+-	I-org	O	I-org.ent	O	O	O	Q2249183	_	NoSpaceAfter|LED0.00
+Gymnasium	I-org	O	I-org.ent	O	O	O	Q2249183	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+übrigens	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f80r4sz%2fpages%2f3/1001,1255,857,56/full/0/default.jpg
+auch	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Sohne	O	O	O	O	O	O	_	_	_
+Seyß	B-pers	O	B-pers.ind	O	O	O	Q650219	_	NoSpaceAfter|LED0.08
+-	I-pers	O	I-pers.ind	O	O	O	Q650219	_	NoSpaceAfter|LED0.08
+Inauarts	I-pers	O	I-pers.ind	O	O	O	Q650219	_	LED0.08
+besucht	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f80r4sz%2fpages%2f3/1001,1298,857,56/full/0/default.jpg
+gehört	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Anstalten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+staatliche	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f80r4sz%2fpages%2f3/1001,1340,855,57/full/0/default.jpg
+Schulen	O	O	O	O	O	O	_	_	_
+verwandelt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+„	B-prod	O	B-prod.media	O	O	O	Q152564	_	NoSpaceAfter|LED0.00
+Völkische	I-prod	O	I-prod.media	O	O	O	Q152564	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f80r4sz%2fpages%2f3/1001,1383,856,60/full/0/default.jpg
+Beobachter	I-prod	O	I-prod.media	O	O	O	Q152564	_	NoSpaceAfter|LED0.00
+"	I-prod	O	I-prod.media	O	O	O	Q152564	_	LED0.00
+erklärt	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Maßnahme	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f80r4sz%2fpages%2f3/1001,1426,837,51/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+nationalsozialistische	O	O	O	O	O	O	_	_	_
+Staat	O	O	O	O	O	O	_	_	_
+stehe	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f80r4sz%2fpages%2f3/1001,1469,837,60/full/0/default.jpg
+grundsätzlich	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Standpunkte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f80r4sz%2fpages%2f3/1001,1513,854,60/full/0/default.jpg
+Erziehung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Jugend	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Angelegenheit	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f80r4sz%2fpages%2f3/1001,1556,854,53/full/0/default.jpg
+Staates	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+diesem	O	O	O	O	O	O	_	_	_
+völlig	O	O	O	O	O	O	_	_	_
+vorbehalten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f80r4sz%2fpages%2f3/1000,1599,260,54/full/0/default.jpg
+bleiben	O	O	O	O	O	O	_	_	_
+müsse	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

@@ -1,0 +1,172 @@
+# language = de
+# newspaper = tageblatt
+# date = 1948-12-17
+# document_id = tageblatt-1948-12-17-a-i0051
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3129,1518,621,82/full/0/default.jpg
+Washington	B-loc	B-org	B-loc.adm.town	B-org.adm	O	O	Q61	Q61	LED0.00
+dementiert	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3096,1596,692,81/full/0/default.jpg
+Ausrüstung	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+20	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3201,1664,494,81/full/0/default.jpg
+italienischen	O	O	O	O	O	O	_	_	_
+Divisionen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3127,1752,664,49/full/0/default.jpg
+Washington	B-loc	O	B-loc.adm.town	O	O	O	Q61	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+17	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+12	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+In	O	O	O	O	O	O	_	_	_
+militärischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3093,1788,696,45/full/0/default.jpg
+und	O	O	O	O	O	O	_	_	_
+diplomatischen	O	O	O	O	O	O	_	_	_
+Kreisen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3094,1822,698,45/full/0/default.jpg
+Washingtons	B-loc	B-org	B-loc.adm.town	B-org.adm	O	O	Q61	Q61	LED0.00
+werden	O	O	O	O	O	O	_	_	_
+kategorisch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Meldungen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3094,1857,698,50/full/0/default.jpg
+dementiert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wonach	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+amerikanische	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3093,1894,699,49/full/0/default.jpg
+Regierung	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Grund	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Washingtoner	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3093,1929,699,45/full/0/default.jpg
+Besuches	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+talienischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3094,1964,698,45/full/0/default.jpg
+Generalstabschefs	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+damit	O	O	O	O	O	O	_	_	_
+einverstanden	O	O	O	O	O	O	_	_	_
+erklärt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3094,1999,728,49/full/0/default.jpg
+habe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+20	O	O	O	O	O	O	_	_	_
+italienische	O	O	O	O	O	O	_	_	_
+Divisionen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3685,2007,137,38/full/0/default.jpg
+auszurü	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3129,2080,663,47/full/0/default.jpg
+sten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ein	O	O	O	O	O	O	_	_	_
+amerikanischer	O	O	O	O	O	O	_	_	_
+General	O	O	O	O	O	O	_	_	_
+erklärte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3095,2114,698,45/full/0/default.jpg
+daß	O	O	O	O	O	O	_	_	_
+derartige	O	O	O	O	O	O	_	_	_
+Gerüchte	O	O	O	O	O	O	_	_	_
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+absolut	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3095,2150,699,50/full/0/default.jpg
+unsinnig	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+seien	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+meinte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	_
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3095,2185,699,50/full/0/default.jpg
+Vereinigten	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q30	Q30	LED0.00
+Staaten	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q30	Q30	LED0.00
+sogar	O	O	O	O	O	O	_	_	_
+schwierig	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3096,2228,698,37/full/0/default.jpg
+so	O	O	O	O	O	O	_	_	_
+hohe	O	O	O	O	O	O	_	_	_
+Za	O	O	O	O	O	O	_	_	NoSpaceAfter
+>	O	O	O	O	O	O	_	_	_
+europäischer	O	O	O	O	O	O	_	_	_
+Divisionen	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3094,2257,700,45/full/0/default.jpg
+Rahmen	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+eventuellen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3095,2292,700,45/full/0/default.jpg
+Atlantik	B-loc	O	B-loc.phys.hydro	O	O	O	Q97	_	NoSpaceAfter|LED0.00
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Paktes	O	O	O	O	O	O	_	_	_
+auszurüsten	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Die	O	O	O	O	O	O	_	_	_
+Ausrüstung	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3096,2329,698,44/full/0/default.jpg
+modernen	O	O	O	O	O	O	_	_	_
+Division	O	O	O	O	O	O	_	_	_
+koste	O	O	O	O	O	O	_	_	_
+fast	O	O	O	O	O	O	_	_	_
+500	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3096,2363,698,45/full/0/default.jpg
+Millionen	O	O	O	O	O	O	_	_	_
+Dollars	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Man	O	O	O	O	O	O	_	_	_
+würde	O	O	O	O	O	O	_	_	_
+also	O	O	O	O	O	O	_	_	_
+10	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3096,2398,698,45/full/0/default.jpg
+Milliarden	O	O	O	O	O	O	_	_	_
+benötigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+20	O	O	O	O	O	O	_	_	_
+Divisionen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3096,2436,697,44/full/0/default.jpg
+auszurüsten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Betrag	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Militärhilfe	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3081,2472,712,49/full/0/default.jpg
+Europa	B-loc	O	B-loc.adm.sup	O	O	O	Q46	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+häufigsten	O	O	O	O	O	O	_	_	_
+genannt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3081,2507,713,101/full/0/default.jpg
+werde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+belaufe	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+3	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3096,2542,200,47/full/0/default.jpg
+Milliarden	O	O	O	O	O	O	_	_	_
+Dollars	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+

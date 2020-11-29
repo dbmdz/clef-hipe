@@ -1,0 +1,807 @@
+# language = de
+# newspaper = luxwort
+# date = 1868-12-18
+# document_id = luxwort-1868-12-18-a-i0004
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/172,3474,625,61/full/0/default.jpg
+Schlachthaus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Stadt	B-loc	O	B-loc.adm.town	O	O	O	Q1842	_	LED0.00
+Luxemburg	I-loc	O	I-loc.adm.town	O	B-comp.name	O	Q1842	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/133,3532,731,49/full/0/default.jpg
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+er	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Semetnberatl	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+tjnt	O	O	O	O	O	O	_	_	_
+foebcrt	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Snfor	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/943,66,789,54/full/0/default.jpg
+motion	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+bas	O	O	O	O	O	O	_	_	_
+Commode	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Ineominodo	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/946,108,787,50/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Errichtung	O	O	O	O	O	O	_	_	_
+cines	O	O	O	O	O	O	_	_	_
+Schlachthauses	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/942,147,792,51/full/0/default.jpg
+Stadt	O	O	O	O	O	O	_	_	_
+eingeleitet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Da	O	O	O	O	O	O	_	_	_
+kein	O	O	O	O	O	O	_	_	_
+offizieller	O	O	O	O	O	O	_	_	_
+Bericht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/943,189,791,55/full/0/default.jpg
+diese	O	O	O	O	O	O	_	_	_
+Bekan.ümachnng	O	O	O	O	O	O	_	_	_
+begleitete	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+fo	O	O	O	O	O	O	_	_	_
+hielten	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/943,230,791,56/full/0/default.jpg
+für	O	O	O	O	O	O	_	_	_
+nützlich	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Erkundigungen	O	O	O	O	O	O	_	_	_
+darüber	O	O	O	O	O	O	_	_	_
+einzuziehen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/944,276,785,47/full/0/default.jpg
+um	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Pnbliknm	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Stand	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+fetzen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/946,309,787,51/full/0/default.jpg
+mit	O	O	O	O	O	O	_	_	_
+voller	O	O	O	O	O	O	_	_	_
+Sachkenntnis	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+biefe	O	O	O	O	O	O	_	_	_
+wichtige	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/947,350,346,57/full/0/default.jpg
+Sache	O	O	O	O	O	O	_	_	_
+511	O	O	O	O	O	O	_	_	_
+entscheiden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/987,404,746,51/full/0/default.jpg
+Seit	O	O	O	O	O	O	_	_	_
+fahren	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+redet	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/947,446,784,57/full/0/default.jpg
+Errichtung	O	O	O	O	O	O	_	_	_
+cines	O	O	O	O	O	O	_	_	_
+Schlachthauses	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/948,485,783,57/full/0/default.jpg
+Bedürfnis	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+elften	O	O	O	O	O	O	_	_	_
+Wange	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Stadt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Die	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/947,526,786,50/full/0/default.jpg
+bei	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+jetzigen	O	O	O	O	O	O	_	_	_
+System	O	O	O	O	O	O	_	_	_
+obwaltenden	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/947,567,787,56/full/0/default.jpg
+Ucbelstände	O	O	O	O	O	O	_	_	_
+scheinen	O	O	O	O	O	O	_	_	_
+uns	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+fühlbar	O	O	O	O	O	O	_	_	_
+genug	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/948,608,785,51/full/0/default.jpg
+einem	O	O	O	O	O	O	_	_	_
+Jeden	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Singen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+fallen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/947,649,568,51/full/0/default.jpg
+beten	O	O	O	O	O	O	_	_	_
+Beseitigung	O	O	O	O	O	O	_	_	_
+bedacht	O	O	O	O	O	O	_	_	_
+511	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/988,700,747,50/full/0/default.jpg
+Wir	O	O	O	O	O	O	_	_	_
+trauen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+erster	O	O	O	O	O	O	_	_	_
+Neih	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+e	O	O	O	O	O	O	_	_	_
+Niemanden	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/948,739,787,57/full/0/default.jpg
+so	O	O	O	O	O	O	_	_	_
+verdorbenen	O	O	O	O	O	O	_	_	_
+Geruch	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+mit	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/948,790,786,48/full/0/default.jpg
+Ausdüustungen	O	O	O	O	O	O	_	_	_
+cines	O	O	O	O	O	O	_	_	_
+Metzgerkellers	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+Veilchendnft	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/947,831,788,47/full/0/default.jpg
+zu	O	O	O	O	O	O	_	_	_
+nehmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+fo	O	O	O	O	O	O	_	_	_
+verstopfte	O	O	O	O	O	O	_	_	_
+Ohren	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/947,865,789,47/full/0/default.jpg
+das	O	O	O	O	O	O	_	_	_
+uerueuerschütternde	O	O	O	O	O	O	_	_	_
+Gebrüll	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+blutenden	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/947,902,375,57/full/0/default.jpg
+Thiere	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+hören	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/988,955,747,51/full/0/default.jpg
+Aber	O	O	O	O	O	O	_	_	_
+außer	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	_
+Mißständen	O	O	O	O	O	O	_	_	_
+sprechen	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/948,995,787,53/full/0/default.jpg
+bedeutende	O	O	O	O	O	O	_	_	_
+Gründe	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+öffentlichen	O	O	O	O	O	O	_	_	_
+Gesundheit	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/947,1037,788,55/full/0/default.jpg
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Errichtung	O	O	O	O	O	O	_	_	_
+cines	O	O	O	O	O	O	_	_	_
+Schlachthauses	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/947,1078,788,57/full/0/default.jpg
+Unreinlichkeiten	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	_
+einfach	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/947,1118,788,51/full/0/default.jpg
+kellern	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Metzgern	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Dämmerlicht	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/947,1158,788,50/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+Strafte	O	O	O	O	O	O	_	_	_
+geworfen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ohne	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+die	O	O	O	O	O	O	_	_	_
+Polizei	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/948,1203,786,47/full/0/default.jpg
+etwas	O	O	O	O	O	O	_	_	_
+davon	O	O	O	O	O	O	_	_	_
+merkt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Diese	O	O	O	O	O	O	_	_	_
+thierischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/947,1240,788,54/full/0/default.jpg
+Bestandtheile	O	O	O	O	O	O	_	_	_
+bringen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Buden	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+sic	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/947,1281,785,58/full/0/default.jpg
+zersetzen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+besonders	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Sommer	O	O	O	O	O	O	_	_	_
+de	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	_
+Heerd	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/948,1322,787,55/full/0/default.jpg
+fortwährender	O	O	O	O	O	O	_	_	_
+Ausdünstungen	O	O	O	O	O	O	_	_	_
+bilden	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/947,1363,783,56/full/0/default.jpg
+Luft	O	O	O	O	O	O	_	_	_
+verpesten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dieser	O	O	O	O	O	O	_	_	_
+Ursache	O	O	O	O	O	O	_	_	_
+muß	O	O	O	O	O	O	_	_	_
+hauptsächlich	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/947,1406,788,48/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Gestank	O	O	O	O	O	O	_	_	_
+zugeschrieben	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welcher	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/948,1444,418,57/full/0/default.jpg
+einigen	O	O	O	O	O	O	_	_	_
+Strafen	O	O	O	O	O	O	_	_	_
+herrscht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/989,1507,746,58/full/0/default.jpg
+Endlich	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+ohne	O	O	O	O	O	O	_	_	_
+Ekel	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/949,1548,785,57/full/0/default.jpg
+geringe	O	O	O	O	O	O	_	_	_
+Sicherheit	O	O	O	O	O	O	_	_	_
+denken	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/948,1588,786,58/full/0/default.jpg
+jetzige	O	O	O	O	O	O	_	_	_
+System	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Hinsicht	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Gesundheit	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/948,1633,785,45/full/0/default.jpg
+des	O	O	O	O	O	O	_	_	_
+Viehes	O	O	O	O	O	O	_	_	_
+darbietet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wir	O	O	O	O	O	O	_	_	_
+trauen	O	O	O	O	O	O	_	_	_
+unfern	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/948,1678,786,50/full/0/default.jpg
+Metzgern	O	O	O	O	O	O	_	_	_
+zwar	O	O	O	O	O	O	_	_	_
+genug	O	O	O	O	O	O	_	_	_
+Gewissenhaftigkeit	O	O	O	O	O	O	_	_	_
+jiu	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/949,1711,784,56/full/0/default.jpg
+nicht	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Nässen	O	O	O	O	O	O	_	_	_
+«	O	O	O	O	O	O	_	_	NoSpaceAfter
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+gesundes	O	O	O	O	O	O	_	_	_
+Fleisch	O	O	O	O	O	O	_	_	_
+511	O	O	O	O	O	O	_	_	_
+kaufen	O	O	O	O	O	O	_	_	_
+;	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/950,1754,781,49/full/0/default.jpg
+aber	O	O	O	O	O	O	_	_	_
+eben	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+wohl	O	O	O	O	O	O	_	_	_
+glauben	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+^	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/950,1792,782,56/full/0/default.jpg
+Vieh	O	O	O	O	O	O	_	_	_
+einmal	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Unvorsichtigkeit	O	O	O	O	O	O	_	_	_
+augekauft	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/949,1841,785,44/full/0/default.jpg
+innere	O	O	O	O	O	O	_	_	_
+Metzger	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Gewissenhaftigkeit	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/950,1874,783,50/full/0/default.jpg
+foweit	O	O	O	O	O	O	_	_	_
+treiben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Verlust	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/950,1915,785,56/full/0/default.jpg
+aufzulegen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dagegen	O	O	O	O	O	O	_	_	_
+schützt	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Schlachthaus	O	O	O	O	O	O	_	_	_
+bac	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/950,1955,784,55/full/0/default.jpg
+Pnbllknm	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Gefahr	O	O	O	O	O	O	_	_	_
+tranken	O	O	O	O	O	O	_	_	_
+Fleisches	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/949,1996,784,51/full/0/default.jpg
+indem	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+speziell	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Gemeinde	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/949,2045,786,49/full/0/default.jpg
+hierzu	O	O	O	O	O	O	_	_	_
+ernannter	O	O	O	O	O	O	_	_	_
+Thierarst	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Uniersuchnng	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/949,2081,547,48/full/0/default.jpg
+des	O	O	O	O	O	O	_	_	_
+Schlachtviehes	O	O	O	O	O	O	_	_	_
+betraut	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/990,2130,743,51/full/0/default.jpg
+Man	O	O	O	O	O	O	_	_	_
+begreift	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Aussicht	O	O	O	O	O	O	_	_	_
+unfern	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/950,2170,786,61/full/0/default.jpg
+Metzgern	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+zulächelt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Deshalb	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/949,2212,783,55/full/0/default.jpg
+dieselben	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+■	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Noth	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+vendigkeit	O	O	O	O	O	O	_	_	_
+cines	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/951,2253,784,57/full/0/default.jpg
+Schlachthauses	O	O	O	O	O	O	_	_	_
+befragt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dasselbe	O	O	O	O	O	O	_	_	_
+antworten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/951,2298,784,45/full/0/default.jpg
+was	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Wasserträger	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Errichtung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/951,2335,784,60/full/0/default.jpg
+Wasserleitung	O	O	O	O	O	O	_	_	_
+geantwortet	O	O	O	O	O	O	_	_	_
+hätten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/950,2376,785,58/full/0/default.jpg
+jufälliger	O	O	O	O	O	O	_	_	_
+Weise	O	O	O	O	O	O	_	_	_
+bal	O	O	O	O	O	O	_	_	_
+Gutachten	O	O	O	O	O	O	_	_	_
+derselben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/950,2418,344,49/full/0/default.jpg
+hierüber	O	O	O	O	O	O	_	_	_
+eingeholt	O	O	O	O	O	O	_	_	_
+hätte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/993,2468,743,58/full/0/default.jpg
+Nach	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+erfahren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/951,2508,784,57/full/0/default.jpg
+Unternehmer	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Gemeinde	O	O	O	O	O	O	_	_	_
+jage	O	O	O	O	O	O	_	_	NoSpaceAfter
+*	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/953,2550,782,58/full/0/default.jpg
+hörigen	O	O	O	O	O	O	_	_	_
+Terrain	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+feine	O	O	O	O	O	O	_	_	_
+Kosten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/953,2590,782,57/full/0/default.jpg
+sämmtliche	O	O	O	O	O	O	_	_	_
+benötigte	O	O	O	O	O	O	_	_	_
+Gebäulichkeiten	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/953,2632,782,55/full/0/default.jpg
+Schlachthau	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Stalle	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Brühhaus	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Schweineställe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Futter	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/951,2672,784,50/full/0/default.jpg
+und	O	O	O	O	O	O	_	_	_
+Häute	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Magazin	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Mncherkammcrn	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Kellern	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/953,2713,782,57/full/0/default.jpg
+Unschlitt	O	O	O	O	O	O	_	_	_
+ober	O	O	O	O	O	O	_	_	_
+Talgsiedereien	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Eiskeller	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/953,2755,782,55/full/0/default.jpg
+Mistgruben	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Wohnhaus	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+errichten	O	O	O	O	O	O	_	_	_
+lassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/953,2794,781,58/full/0/default.jpg
+Metzger	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	_
+fämmtliche	O	O	O	O	O	O	_	_	_
+ihr	O	O	O	O	O	O	_	_	_
+Fach	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/951,2835,784,56/full/0/default.jpg
+betreffende	O	O	O	O	O	O	_	_	_
+Arbeiten	O	O	O	O	O	O	_	_	_
+ausführen	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sic	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/953,2878,781,49/full/0/default.jpg
+haben	O	O	O	O	O	O	_	_	_
+Recht	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+fdmintlicbî	O	O	O	O	O	O	_	_	_
+Abfälle	O	O	O	O	O	O	_	_	_
+ohne	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/951,2923,785,45/full/0/default.jpg
+jedwede	O	O	O	O	O	O	_	_	_
+Ausnahme	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Unternehmer	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+ihnen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/951,2957,784,58/full/0/default.jpg
+Wafser	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Eis	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+großem	O	O	O	O	O	O	_	_	_
+Echlnchtgeräthe	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/950,2998,786,54/full/0/default.jpg
+liefern	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Zweimal	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Tages	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/950,3040,784,57/full/0/default.jpg
+Metzgern	O	O	O	O	O	O	_	_	_
+i	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	_
+besonocrs	O	O	O	O	O	O	_	_	_
+hierzu	O	O	O	O	O	O	_	_	_
+eingerichteten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/949,3081,687,57/full/0/default.jpg
+Wagen	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Fleisch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Hans	O	O	O	O	O	O	_	_	_
+liefern	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/992,3133,742,51/full/0/default.jpg
+Als	O	O	O	O	O	O	_	_	_
+Entgelt	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Vortheile	O	O	O	O	O	O	_	_	_
+beansprucht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/948,3173,784,51/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Unternehmer	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Necht	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+,	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+>	O	O	O	O	O	O	_	_	_
+Centimes	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/948,3215,783,56/full/0/default.jpg
+für	O	O	O	O	O	O	_	_	_
+zwei	O	O	O	O	O	O	_	_	_
+Pfund	O	O	O	O	O	O	_	_	_
+fleisch	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Fuße	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/947,3257,785,49/full/0/default.jpg
+während	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+15	O	O	O	O	O	O	_	_	_
+ersten	O	O	O	O	O	O	_	_	_
+Jahre	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+21	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+i2	O	O	O	O	O	O	_	_	_
+l	O	O	O	O	O	O	_	_	_
+,	O	O	O	O	O	O	_	_	NoSpaceAfter
+i	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/951,3297,780,50/full/0/default.jpg
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Centimes	O	O	O	O	O	O	_	_	_
+während	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+:	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+>	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+>	O	O	O	O	O	O	_	_	_
+folgenden	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/947,3337,784,56/full/0/default.jpg
+Nach	O	O	O	O	O	O	_	_	_
+Ablauf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Frist	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+40	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	_
+tritt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/946,3379,751,50/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+Stadt	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Den	O	O	O	O	O	O	_	_	_
+Genuß	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Etablissements	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/987,3432,742,51/full/0/default.jpg
+Wenn	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Flenchuerzehr	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Luxemburg	B-loc	O	B-loc.adm.town	O	O	O	Q1842	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/947,3473,783,50/full/0/default.jpg
+eben	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+stark	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	LED0.00
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+verzehren	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/946,3513,784,50/full/0/default.jpg
+wir	O	O	O	O	O	O	_	_	_
+jährlich	O	O	O	O	O	O	_	_	_
+üOO	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	NoSpaceAfter
+OOO	O	O	O	O	O	O	_	_	_
+Kilogrammes	O	O	O	O	O	O	_	_	_
+Fleisch	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/1797,68,786,50/full/0/default.jpg
+dem	O	O	O	O	O	O	_	_	_
+Fuße	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+dies	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+3	O	O	O	O	O	O	_	_	_
+Centimes	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/1797,111,787,58/full/0/default.jpg
+multipliziren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+ergibt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+trie	O	O	O	O	O	O	_	_	_
+Summe	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/1802,152,782,55/full/0/default.jpg
+15,000	O	O	O	O	O	O	_	_	_
+Franken	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/1797,191,787,58/full/0/default.jpg
+Einwohnerzahl	O	O	O	O	O	O	_	_	_
+unserer	O	O	O	O	O	O	_	_	_
+>	O	O	O	O	O	O	_	_	NoSpaceAfter
+2tadt	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+13,000	O	O	O	O	O	O	_	_	_
+annehmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/1797,241,788,45/full/0/default.jpg
+per	O	O	O	O	O	O	_	_	_
+Kopf	O	O	O	O	O	O	_	_	_
+cine	O	O	O	O	O	O	_	_	_
+Mehrausgabe	O	O	O	O	O	O	_	_	_
+pan	O	O	O	O	O	O	_	_	_
+1	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+15	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/1798,272,384,51/full/0/default.jpg
+Cts	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+jährlich	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ausmacht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/1840,327,745,50/full/0/default.jpg
+Wir	O	O	O	O	O	O	_	_	_
+überlassen	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Gutachten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Leser	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/1797,368,789,51/full/0/default.jpg
+diese	O	O	O	O	O	O	_	_	_
+Thalsachen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bereu	O	O	O	O	O	O	_	_	_
+Richtigkeit	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f3jg9g1%2fpages%2f2/2525,380,61,41/full/0/default.jpg
+verdürb	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+
+

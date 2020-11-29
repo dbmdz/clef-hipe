@@ -1,0 +1,404 @@
+# language = de
+# newspaper = NZZ
+# date = 1848-01-21
+# document_id = NZZ-1848-01-21-a-p0005
+# segment_iiif_link = _
+1	O	O	O	O	O	O	_	_	_
+Schweizerische	B-org	O	B-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+National	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+-	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+Vorsichts	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+-	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+Kassa	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+Bern	B-loc	O	B-loc.adm.town	O	O	O	Q70	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+unterzeichnete	O	O	O	O	O	O	_	_	_
+Direktor	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schweiz	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+.	I-org	O	I-org.ent	O	O	O	NIL	_	LED0.00
+Nasional	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.00|Normalized-6
+#¬	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|LED0.00|Commented
+# segment_iiif_link = _|Commented
+#sional	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.00|Commented
+-	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+Vorsichtskassa	I-org	O	I-org.ent	O	O	O	NIL	_	LED0.00
+findet	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+veranlaßt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+diesem	O	O	O	O	O	O	_	_	_
+Blatte	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+9	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+dieß	O	O	O	O	O	O	_	_	_
+erschienenen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+mehreren	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#reren	O	O	O	O	O	O	_	_	_|Commented
+Beziehungen	O	O	O	O	O	O	_	_	_
+unrichtigen	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+hinlänglich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lich	O	O	O	O	O	O	_	_	_|Commented
+auseinandergesetzten	O	O	O	O	O	O	_	_	_
+Artikel	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Stellung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+derrn	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	LED0.00
+Oberst	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	LED0.00
+Brunner	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	LED0.00
+und	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Herrn	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	LED0.00
+Locher	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+bei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+betreffenden	O	O	O	O	O	O	_	_	_
+Kassa	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+berichtigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Herr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	LED0.00
+Oberst	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	LED0.00
+Brunner	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	LED0.00
+ist	O	O	O	O	O	O	_	_	_
+nämlich	O	O	O	O	O	O	_	_	_
+Hauptagent	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+für	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Kanton	B-loc	O	B-loc.adm.reg	O	O	O	Q11943	_	LED0.00
+Zürich	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q11943	_	LED0.00
+und	O	O	O	O	O	O	_	_	_
+korrespondirt	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Hinsicht	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Direktion	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Herr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	LED0.00
+Locher	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	LED0.00
+ist	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+selbstständiger	O	O	O	O	O	O	_	_	_
+Agent	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Kanton	B-loc	O	B-loc.adm.reg	O	O	O	Q11943	_	LED0.00
+Zürich	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q11943	_	LED0.00
+und	O	O	O	O	O	O	_	_	_
+Generalagent	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+östliche	B-loc	O	B-loc.adm.reg	O	O	O	Q31003	_	LED0.00
+Schweiz	I-loc	O	I-loc.adm.reg	O	O	B-loc.adm.nat	Q31003	_	LED0.00
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+deutschen	O	O	O	O	O	O	_	_	_
+Bundesstaaten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+korrespondirt	O	O	O	O	O	O	_	_	_
+seit	O	O	O	O	O	O	_	_	_
+einiger	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+ebenfalls	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+direkt	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kassa	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+derselbe	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Ermächtigung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tigung	O	O	O	O	O	O	_	_	_|Commented
+des	O	O	O	O	O	O	_	_	_
+Hrn	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	LED0.00
+Oberst	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	LED0.00
+Brunner	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	LED0.00
+zu	O	O	O	O	O	O	_	_	_
+Erlassung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+Beröffentlichungen	O	O	O	O	O	O	_	_	_
+gar	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+bedarf	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wohl	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aber	O	O	O	O	O	O	_	_	_
+derjenigen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Direktion	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Es	O	O	O	O	O	O	_	_	_
+folgt	O	O	O	O	O	O	_	_	_
+natürlich	O	O	O	O	O	O	_	_	_
+daraus	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Herren	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gegeneinander	O	O	O	O	O	O	_	_	_
+selbstständig	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+demnach	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+jeder	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+Unter	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Agenten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gegen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Direktion	O	O	O	O	O	O	_	_	_
+verantwortlich	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Aus	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+ersten	O	O	O	O	O	O	_	_	_
+Theil	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Ankündigung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Herrn	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	LED0.00
+Oberst	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	LED0.00
+Brunner	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	LED0.00
+könnte	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+schließen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+da	O	O	O	O	O	O	_	_	_
+nichts	O	O	O	O	O	O	_	_	_
+Räheres	O	O	O	O	O	O	_	_	_
+angegeben	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+derselbe	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+am	O	O	O	O	O	O	_	_	_
+1	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+dieß	O	O	O	O	O	O	_	_	_
+verfallenen	O	O	O	O	O	O	_	_	_
+Mandate	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ohne	O	O	O	O	O	O	_	_	_
+Ausnahme	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einzukassiren	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Verwirrungen	O	O	O	O	O	O	_	_	_
+Anlaß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+geben	O	O	O	O	O	O	_	_	_
+könnte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+dieß	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Seite	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Direktion	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tion	O	O	O	O	O	O	_	_	_|Commented
+nicht	O	O	O	O	O	O	_	_	_
+berichtigt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+würde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Dem	O	O	O	O	O	O	_	_	_
+Herrn	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	LED0.00
+Oberst	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	LED0.00
+Brunner	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	LED0.00
+wurde	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Einkasso	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kasso	O	O	O	O	O	O	_	_	_|Commented
+aller	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Kantonen	B-loc	O	B-loc.adm.reg	O	O	O	Q11943	_	LED0.00
+Zürich	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q11943	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+Schwyz	B-loc	O	B-loc.adm.reg	O	O	O	Q12433	_	LED0.00
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Appenzell	B-loc	O	B-loc.adm.reg	O	O	O	Q688257	_	LED0.00
+zu	O	O	O	O	O	O	_	_	_
+beziebenden	O	O	O	O	O	O	_	_	_
+Mandate	O	O	O	O	O	O	_	_	_
+übertragen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+andern	O	O	O	O	O	O	_	_	_
+Kantonen	O	O	O	O	O	O	_	_	_
+einzukassirenden	O	O	O	O	O	O	_	_	_
+Mandate	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#date	O	O	O	O	O	O	_	_	_|Commented
+sind	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+verschiedenen	O	O	O	O	O	O	_	_	_
+Lokalblättern	O	O	O	O	O	O	_	_	_
+angegebenen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gegebenen	O	O	O	O	O	O	_	_	_|Commented
+Lokal	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Agenten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+größern	O	O	O	O	O	O	_	_	_
+Bequemlichken	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ken	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Subskribenten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+übertragen	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+Unterzeichnete	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Hoffnung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+dergleichen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gleichen	O	O	O	O	O	O	_	_	_|Commented
+Berichtigungen	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Seite	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Direktion	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nicht	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+nothwendig	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+empfiehlt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bei	O	O	O	O	O	O	_	_	_
+diesem	O	O	O	O	O	O	_	_	_
+Anlaß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Anstalt	O	O	O	O	O	O	_	_	_
+bestens	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+verehrten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ten	O	O	O	O	O	O	_	_	_|Commented
+Publikum	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Bern	B-loc	O	B-loc.adm.town	O	O	O	Q70	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+den	B-time	O	B-time.date.abs	O	O	O	NIL	_	LED0.00
+14	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+.	I-time	O	I-time.date.abs	O	O	O	NIL	_	LED0.00
+Januar	I-time	O	I-time.date.abs	O	O	O	NIL	_	LED0.00
+1848	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+Direktor	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	LED0.00
+Schweiz	I-pers	O	I-pers.ind	O	I-comp.function	B-org.ent	NIL	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	NIL	_	LED0.00
+National	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	NIL	_	NoSpaceAfter|LED0.00
+-	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	NIL	_	NoSpaceAfter|LED0.00
+Vorsichts	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	NIL	_	NoSpaceAfter|LED0.00
+-	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	NIL	_	NoSpaceAfter|LED0.00
+Kassa	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	NIL	_	NoSpaceAfter|LED0.00
+:	I-pers	O	I-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+Cünier	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

@@ -1,0 +1,351 @@
+# language = de
+# newspaper = tageblatt
+# date = 1938-11-08
+# document_id = tageblatt-1938-11-08-a-i0056
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/1905,3709,744,110/full/0/default.jpg
+um	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Schicksal	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2235,3813,612,95/full/0/default.jpg
+Tschechoslowakei	B-loc	O	B-loc.adm.nat	O	O	O	Q33946	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/1927,3915,879,50/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+ungarisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+tschechischen	O	O	O	O	O	O	_	_	_
+Verhandlungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/1988,3956,817,55/full/0/default.jpg
+Prag	B-loc	O	B-loc.adm.town	O	O	O	Q1085	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+7	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+ungarisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+tschechischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/1911,3994,895,58/full/0/default.jpg
+Verhandlungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+deren	O	O	O	O	O	O	_	_	_
+Verlauf	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/1911,4035,895,55/full/0/default.jpg
+Einzelf	O	O	O	O	O	O	_	_	_
+ragen	O	O	O	O	O	O	_	_	_
+geregelt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+neue	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/1929,4072,876,58/full/0/default.jpg
+Grenzziehung	O	O	O	O	O	O	_	_	_
+beziehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+morgen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/1931,4113,476,54/full/0/default.jpg
+Budapest	B-loc	O	B-loc.adm.town	O	O	O	Q1781	_	LED0.00
+eingeleitet	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/1932,4159,654,49/full/0/default.jpg
+Vicomte	B-pers	O	B-pers.ind	O	B-comp.title	O	Q336483	_	LED0.00
+Rothermere	I-pers	O	I-pers.ind	O	B-comp.name	O	Q336483	_	LED0.00
+in	O	O	O	O	O	O	_	_	_
+Budapest	B-loc	O	B-loc.adm.town	O	O	O	Q1781	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/1988,4200,819,55/full/0/default.jpg
+London	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+7	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Vicomte	O	O	O	O	B-comp.title	O	_	_	_
+Rothermere	O	O	O	O	B-comp.name	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2838,69,868,54/full/0/default.jpg
+Besitzer	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+fasehisten	O	O	O	O	O	O	_	_	_
+freundlichen	O	O	O	O	O	O	_	_	_
+»	O	O	O	O	O	O	_	_	NoSpaceAfter
+Daily	B-org	O	B-org.ent.pressagency	O	O	O	Q210534	_	EndOfLine|LED0.40
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2838,73,868,90/full/0/default.jpg
+SS	I-org	O	I-org.ent.pressagency	O	O	O	Q210534	_	NoSpaceAfter|LED0.40
+«	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Budapest	B-loc	O	B-loc.adm.town	O	O	O	Q1781	_	LED0.00
+eintreffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+4	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2840,163,867,41/full/0/default.jpg
+er	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Einladung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+ungarischen	O	O	O	O	O	O	_	_	_
+Regiermig	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2840,167,868,75/full/0/default.jpg
+den	O	O	O	O	O	O	_	_	_
+Festlichkeiten	O	O	O	O	O	O	_	_	_
+anläßlich	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Besetzung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2840,205,868,81/full/0/default.jpg
+Ungarischen	O	O	O	O	O	O	_	_	_
+Gebiete	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Tschechoslowakei	B-loc	O	B-loc.adm.nat	O	O	O	Q33946	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2842,268,387,54/full/0/default.jpg
+beiwohnen	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2839,333,870,54/full/0/default.jpg
+Neuer	O	O	O	O	O	O	_	_	_
+polnisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+tschechischer	O	O	O	O	O	O	_	_	_
+Handelsvertrag	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2903,350,807,73/full/0/default.jpg
+Warschau	B-loc	O	B-loc.adm.town	O	O	O	Q270	_	LED0.00
+7	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+polnische	O	O	O	O	O	O	_	_	_
+Gesandte	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2842,418,868,49/full/0/default.jpg
+in	O	O	O	O	O	O	_	_	_
+Pra	B-loc	O	B-loc.adm.reg	O	O	O	Q1085	_	NoSpaceAfter|LED0.25
+"	I-loc	O	I-loc.adm.reg	O	O	O	Q1085	_	NoSpaceAfter|LED0.25
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+gegenwärtig	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Warschau	B-loc	O	B-loc.adm.town	O	O	O	Q270	_	LED0.00
+be	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2842,433,868,76/full/0/default.jpg
+findet	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Projekt	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+neuen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2844,481,867,66/full/0/default.jpg
+HandelsWi	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+trages	O	O	O	O	O	O	_	_	_
+zwischen	O	O	O	O	O	O	_	_	_
+Polen	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q36	Q36	LED0.00
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Tschecho	B-loc	B-loc	B-loc.adm.nat	B-loc.adm.nat	O	O	Q33946	Q33946	NoSpaceAfter|LED0.00
+.	I-loc	I-loc	I-loc.adm.nat	I-loc.adm.nat	O	O	Q33946	Q33946	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2842,532,411,56/full/0/default.jpg
+slowakei	I-loc	I-loc	I-loc.adm.nat	I-loc.adm.nat	O	O	Q33946	Q33946	LED0.00
+zurückkehren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2844,603,495,49/full/0/default.jpg
+In	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Tschechoslowakei	B-loc	O	B-loc.adm.nat	O	O	O	Q33946	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2901,635,812,58/full/0/default.jpg
+Fraq	B-loc	O	B-loc.adm.town	O	O	O	Q1085	_	LED0.50
+7	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Parlamentarier	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+früher	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2845,680,868,51/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Sudetendeutschen	B-org	O	B-org.ent	O	O	O	Q678584	_	LED0.00
+Partei	I-org	O	I-org.ent	O	O	O	Q678584	_	LED0.00
+angehört	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2845,721,868,50/full/0/default.jpg
+haben	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Sitzung	O	O	O	O	O	O	_	_	_
+abgehalten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+deren	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2845,758,868,51/full/0/default.jpg
+Verlauf	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Verlautbarung	O	O	O	O	O	O	_	_	_
+veröffentlich	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2842,805,871,51/full/0/default.jpg
+ten	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+erklärt	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Abgeordnete	B-pers	O	B-pers.ind	O	O	O	Q216084	_	LED0.00
+Kundt	I-pers	O	I-pers.ind	O	B-comp.name	O	Q216084	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2845,825,869,64/full/0/default.jpg
+habe	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Präsidenten	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Parlaments	O	O	O	O	O	O	_	_	_
+davon	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2846,877,869,53/full/0/default.jpg
+Kenntnis	O	O	O	O	O	O	_	_	_
+gesetzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+Senatoren	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Ab	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2846,900,869,77/full/0/default.jpg
+o	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+eordneten	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+sudetendeutschen	B-org	O	B-org.ent	O	O	O	Q678584	_	LED0.00
+Partei	I-org	O	I-org.ent	O	O	O	Q678584	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2844,948,870,62/full/0/default.jpg
+be.schlossen	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+parlamentarisehe	O	O	O	O	O	O	_	_	_
+Gruppe	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2845,998,869,51/full/0/default.jpg
+aufzulösen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+gleichzeitig	O	O	O	O	O	O	_	_	_
+beschlossen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2846,1040,869,50/full/0/default.jpg
+einen	O	O	O	O	O	O	_	_	_
+parlamentarischen	O	O	O	O	O	O	_	_	_
+Klub	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+deutschen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2845,1070,870,58/full/0/default.jpg
+nationalsozialistischen	O	O	O	O	O	O	_	_	_
+Abgeordneten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2845,1123,870,45/full/0/default.jpg
+Senatoren	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+tschechoslowakischen	O	O	O	O	O	O	_	_	_
+Republik	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2848,1158,821,53/full/0/default.jpg
+bilden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+i	O	O	O	O	O	O	_	_	_
+i	O	O	O	O	O	O	_	_	_
+i	O	O	O	O	O	O	_	_	_
+n	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2907,1195,808,50/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+8	O	O	O	O	O	O	_	_	_
+Parlamentarier	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Sitz	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2847,1247,869,45/full/0/default.jpg
+Uli	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+ihren	O	O	O	O	O	O	_	_	_
+Schwur	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Treue	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2846,1274,870,51/full/0/default.jpg
+tschechoslowakischen	O	O	O	O	O	O	_	_	_
+Republik	O	O	O	O	O	O	_	_	_
+erneuert	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Abgeordneten	B-pers	O	B-pers.ind	O	B-comp.function	O	Q12018548	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2847,1318,868,47/full/0/default.jpg
+Peters	I-pers	O	I-pers.ind	O	B-comp.name	O	Q12018548	_	LED0.00
+und	O	O	O	O	O	O	_	_	_
+Neuwirth	B-pers	O	B-pers.ind	O	O	O	Q12019026	_	LED0.00
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Senator	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	LED0.33
+Kröazot	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	EndOfLine|LED0.33
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2846,1357,869,48/full/0/default.jpg
+haben	O	O	O	O	O	O	_	_	_
+ihren	O	O	O	O	O	O	_	_	_
+Rücktritt	O	O	O	O	O	O	_	_	_
+gegeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2844,1396,871,49/full/0/default.jpg
+Ab.sicht	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ihren	O	O	O	O	O	O	_	_	_
+Wohnsitz	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Sudetengebiet	B-loc	O	B-loc.adm.reg	O	O	O	Q194242	_	EndOfLine|LED0.00
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fkn4p25%2fpages%2f2/2847,1432,253,55/full/0/default.jpg
+aufzuschlagen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

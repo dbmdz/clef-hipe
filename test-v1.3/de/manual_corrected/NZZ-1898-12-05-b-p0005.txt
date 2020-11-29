@@ -1,0 +1,1018 @@
+# language = de
+# newspaper = NZZ
+# date = 1898-12-05
+# document_id = NZZ-1898-12-05-b-p0005
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Stimme	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+jungen	O	O	O	O	O	O	_	_	_
+China	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q148	Q148	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Korresp	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+In	O	O	O	O	O	O	_	_	_
+Europa	B-loc	O	B-loc.adm.sup	O	O	O	Q46	_	LED0.00
+hat	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+äußeren	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Umständen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Regierungswechsel	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Peking	B-loc	O	B-loc.adm.town	O	O	O	Q956	_	LED0.00
+herbeiführten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Kenntnis	O	O	O	O	O	O	_	_	_
+erhalten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zudem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eine	O	O	O	O	O	O	_	_	_
+durchaus	O	O	O	O	O	O	_	_	_
+lückenhafte	O	O	O	O	O	O	_	_	_
+Kenntnis	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ueber	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+herrschende	O	O	O	O	O	O	_	_	_
+Stimmung	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+politischen	O	O	O	O	O	O	_	_	_
+Anschauungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schauungen	O	O	O	O	O	O	_	_	_|Commented
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Kaiser	O	O	O	O	O	O	_	_	_
+geführten	O	O	O	O	O	O	_	_	_
+Reformpartei	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#formpartei	O	O	O	O	O	O	_	_	_|Commented
+aber	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+d	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+h	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Partei	B-org	O	B-org.ent	O	O	O	NIL	_	LED0.00
+der	I-org	O	I-org.ent	O	O	O	NIL	_	LED0.00
+Jungchinesen	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.00|Normalized-8
+#¬	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|LED0.00|Commented
+# segment_iiif_link = _|Commented
+#chinesen	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|LED0.00|Commented
+,	O	O	O	O	O	O	_	_	_
+weiß	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+nichts	O	O	O	O	O	O	_	_	_
+näheres	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Kaiser	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wurde	O	O	O	O	O	O	_	_	_
+gestürzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+Mutter	O	O	O	O	O	O	_	_	_
+gelangte	O	O	O	O	O	O	_	_	_
+abermals	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Herrschaft	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+damit	O	O	O	O	O	O	_	_	_
+schien	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Reformwerk	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#werk	O	O	O	O	O	O	_	_	_|Commented
+auf	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+unbestimmte	O	O	O	O	O	O	_	_	_
+Zukunft	O	O	O	O	O	O	_	_	_
+vertagt	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+daher	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+doppeltem	O	O	O	O	O	O	_	_	_
+Interesse	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+wesentlichen	O	O	O	O	O	O	_	_	_
+Inhalt	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+politischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Denkschrift	O	O	O	O	O	O	_	_	_
+kennen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+lernen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+hervorragendsten	O	O	O	O	O	O	_	_	_
+Mitglieder	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Reformpartei	B-org	O	B-org.ent	O	O	O	Q1203735	_	NoSpaceAfter|LED0.00|Normalized-6
+#¬	I-org	O	I-org.ent	O	O	O	Q1203735	_	EndOfLine|NoSpaceAfter|LED0.00|Commented
+# segment_iiif_link = _|Commented
+#partei	I-org	O	I-org.ent	O	O	O	Q1203735	_	LED0.00|Commented
+dem	O	O	O	O	O	O	_	_	_
+Kaiser	O	O	O	O	O	O	_	_	_
+sechs	O	O	O	O	O	O	_	_	_
+Tage	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+dessen	O	O	O	O	O	O	_	_	_
+Sturz	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+überreichte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+Memorandum	O	O	O	O	O	O	_	_	_
+beginnt	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ueberblick	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Geschichte	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Staaten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+durch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Reformationsarbeit	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+genialen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Herrscher	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Wendepunkt	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Geschichte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+geleitet	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+hebt	O	O	O	O	O	O	_	_	_
+hervor	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+solche	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Wendepunkte	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+ohne	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Beistand	O	O	O	O	O	O	_	_	_
+fremder	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+weiter	O	O	O	O	O	O	_	_	_
+vorgeschrittener	O	O	O	O	O	O	_	_	_
+Völker	O	O	O	O	O	O	_	_	_
+herbeigeführt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+werden	O	O	O	O	O	O	_	_	_
+konnten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Chinas	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q148	Q148	LED0.00
+sozialer	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+politischer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Pädagoge	O	O	O	O	O	O	_	_	_
+solle	O	O	O	O	O	O	_	_	_
+nun	O	O	O	O	O	O	_	_	_
+Japan	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q17	Q17	LED0.00
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+nichts	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wäre	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+erstrebenswert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+engste	O	O	O	O	O	O	_	_	_
+Anschluß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+beiden	O	O	O	O	O	O	_	_	_
+ostasiatischen	O	O	O	O	O	O	_	_	_
+Mächte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Wenn	O	O	O	O	O	O	_	_	_
+Ew	B-pers	O	B-pers.ind	O	B-comp.title	O	Q174971	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q174971	_	LED0.00
+Majestät	I-pers	O	I-pers.ind	O	I-comp.title	O	Q174971	_	LED0.00
+den	I-pers	O	I-pers.ind	O	O	O	Q174971	_	LED0.00
+Marquis	I-pers	O	I-pers.ind	O	B-comp.title	O	Q174971	_	LED0.00
+Ito	I-pers	O	I-pers.ind	O	B-comp.name	O	Q174971	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Eigenschaft	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+nächsten	O	O	O	O	O	O	_	_	_
+Ratgebers	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+ziehen	O	O	O	O	O	O	_	_	_
+könnten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+würde	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ihnen	O	O	O	O	O	O	_	_	_
+unternommene	O	O	O	O	O	O	_	_	_
+Reformwerk	O	O	O	O	O	O	_	_	_
+bald	O	O	O	O	O	O	_	_	_
+verwirklichen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lichen	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+internationale	O	O	O	O	O	O	_	_	_
+Verhältnis	O	O	O	O	O	O	_	_	_
+Chinas	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q148	Q148	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+Japan	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q17	Q17	LED0.00
+noch	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+erstarken	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+widrigenfalls	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Durchführung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Reformen	O	O	O	O	O	O	_	_	_
+unmöglich	O	O	O	O	O	O	_	_	_
+erscheint	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+—	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Eifersüchtelei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Mandarine	O	O	O	O	O	O	_	_	_
+alles	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aufhalten	O	O	O	O	O	O	_	_	_
+würde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Dagegen	O	O	O	O	O	O	_	_	_
+hätte	O	O	O	O	O	O	_	_	_
+Graf	B-pers	O	B-pers.ind	O	B-comp.title	O	Q174971	_	LED0.00
+Ito	I-pers	O	I-pers.ind	O	B-comp.name	O	Q174971	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+verdiente	O	O	O	O	O	O	_	_	_
+Diplomat	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+fremden	O	O	O	O	O	O	_	_	_
+Staates	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eine	O	O	O	O	O	O	_	_	_
+Persönlichkeit	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+großem	O	O	O	O	O	O	_	_	_
+Ruf	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dem	O	O	O	O	O	O	_	_	_
+außerordentlichen	O	O	O	O	O	O	_	_	_
+Vertrauen	O	O	O	O	O	O	_	_	_
+Ew	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Majestät	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+getragen	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Durchführung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+innern	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Reformen	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+Intriguen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+fürchten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auswärtigen	O	O	O	O	O	O	_	_	_
+Mächte	O	O	O	O	O	O	_	_	_
+würden	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Führung	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Geschäfte	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+China	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q148	Q148	LED0.00
+zu	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ganz	O	O	O	O	O	O	_	_	_
+anders	O	O	O	O	O	O	_	_	_
+verhalten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Infolge	O	O	O	O	O	O	_	_	_
+dessen	O	O	O	O	O	O	_	_	_
+würden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+geheimen	O	O	O	O	O	O	_	_	_
+Gedanken	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Absichten	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wenig	O	O	O	O	O	O	_	_	_
+beruhigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+davon	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Verwandlung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Chinas	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q148	Q148	LED0.00
+aus	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+armen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+schwachen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Gefahren	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fahren	O	O	O	O	O	O	_	_	_|Commented
+umgebenen	O	O	O	O	O	O	_	_	_
+Staat	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+reichen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+starken	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+gesicherten	O	O	O	O	O	O	_	_	_
+Staat	O	O	O	O	O	O	_	_	_
+abhängig	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+Prinzip	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+chinesischen	O	O	O	O	O	O	_	_	_
+Politik	O	O	O	O	O	O	_	_	_
+bestand	O	O	O	O	O	O	_	_	_
+bisher	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Absonderung	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Flucht	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+übrigen	O	O	O	O	O	O	_	_	_
+Welt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+"	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+Verfasser	O	O	O	O	O	O	_	_	_
+zeigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+westlichen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nationen	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+umgekehrten	O	O	O	O	O	O	_	_	_
+Grundsatz	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mächtig	O	O	O	O	O	O	_	_	_
+geworden	O	O	O	O	O	O	_	_	_
+seien	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Natur	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+selbst	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Völker	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+einander	O	O	O	O	O	O	_	_	_
+geographisch	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Abstammung	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+nahe	O	O	O	O	O	O	_	_	_
+stehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Bündnissen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nötige	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Die	O	O	O	O	O	O	_	_	_
+Völker	O	O	O	O	O	O	_	_	_
+Europas	B-loc	O	B-loc.adm.sup	O	O	O	Q46	_	LED0.00
+und	O	O	O	O	O	O	_	_	_
+Amerikas	B-loc	O	B-loc.adm.sup	O	O	O	Q828	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+leben	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+andren	O	O	O	O	O	O	_	_	_
+Kontinenten	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+gehören	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+andern	O	O	O	O	O	O	_	_	_
+Rassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+unterscheiden	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+uns	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+durch	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Sprache	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+s	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+w	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Betracht	O	O	O	O	O	O	_	_	_
+solcher	O	O	O	O	O	O	_	_	_
+natürlichen	O	O	O	O	O	O	_	_	_
+Unterschiede	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+engere	O	O	O	O	O	O	_	_	_
+Verbindung	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+uns	O	O	O	O	O	O	_	_	_
+eingehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ganz	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+anders	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Japan	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q17	Q17	NoSpaceAfter|LED0.00
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Betrachtung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#trachtung	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+geographischen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+stammverwandtschaftlichen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-17
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wandtschaftlichen	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+schließlich	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+politischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Verhältnisse	O	O	O	O	O	O	_	_	_
+erläutert	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	_
+klar	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Japan	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q17	Q17	LED0.00
+und	O	O	O	O	O	O	_	_	_
+England	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q21	Q21	LED0.00
+einander	O	O	O	O	O	O	_	_	_
+suchten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+daß	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Rußland	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q34266	Q34266	LED0.00
+in	O	O	O	O	O	O	_	_	_
+Ostasien	B-loc	O	B-loc.adm.sup	O	O	O	Q27231	_	LED0.00
+zusammenstoßen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stoßen	O	O	O	O	O	O	_	_	_|Commented
+müßten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Wer	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+Sieger	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+diesem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kampfe	O	O	O	O	O	O	_	_	_
+bleibt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+doch	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Kräfteverhältnis	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#verhältnis	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Reiche	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+westlichen	O	O	O	O	O	O	_	_	_
+Halbkugel	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+unzweifelhaft	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+wesentlich	O	O	O	O	O	O	_	_	_
+verschieben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+England	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q21	Q21	NoSpaceAfter|LED0.00|Normalized-4
+#¬	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q21	Q21	EndOfLine|NoSpaceAfter|LED0.00|Commented
+# segment_iiif_link = _|Commented
+#land	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q21	Q21	LED0.00|Commented
+nähert	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+Japan	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q17	Q17	LED0.00
+nur	O	O	O	O	O	O	_	_	_
+wegen	O	O	O	O	O	O	_	_	_
+Rußlands	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q34266	Q34266	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+welches	O	O	O	O	O	O	_	_	_
+uns	O	O	O	O	O	O	_	_	_
+stammesfremd	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+fremd	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+unseren	O	O	O	O	O	O	_	_	_
+Gefühlen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wie	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+Japan	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q17	Q17	LED0.00
+unglücklicherweise	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-16
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#glücklicherweise	O	O	O	O	O	O	_	_	_|Commented
+ein	O	O	O	O	O	O	_	_	_
+Bündnis	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Rußland	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q34266	Q34266	LED0.00
+einginge	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ginge	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+?	O	O	O	O	O	O	_	_	_|EOS
+
+Dann	O	O	O	O	O	O	_	_	_
+dürfte	O	O	O	O	O	O	_	_	_
+Japan	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q17	Q17	LED0.00
+allein	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Grunde	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+richten	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	_|EOS
+
+Darum	O	O	O	O	O	O	_	_	_
+giebt	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+Japan	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q17	Q17	LED0.00
+keinen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+näheren	O	O	O	O	O	O	_	_	_
+Genossen	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+China	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q148	Q148	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wenn	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+ausgedehnte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gedehnte	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+dichtbevölkerte	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+natürlichen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Hilfsquellen	O	O	O	O	O	O	_	_	_
+mächtige	O	O	O	O	O	O	_	_	_
+China	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q148	Q148	LED0.00
+thatsächlich	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Abschlusse	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+Bündnisses	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Japan	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q17	Q17	LED0.00
+gelangt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wenn	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+neue	O	O	O	O	O	O	_	_	_
+Methoden	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Erziehung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ziehung	O	O	O	O	O	O	_	_	_|Commented
+seiner	O	O	O	O	O	O	_	_	_
+fähigen	O	O	O	O	O	O	_	_	_
+Leute	O	O	O	O	O	O	_	_	_
+aneignet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+beiden	O	O	O	O	O	O	_	_	_
+Staaten	O	O	O	O	O	O	_	_	_
+ihr	O	O	O	O	O	O	_	_	_
+Wissen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Können	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+austauschen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+einander	O	O	O	O	O	O	_	_	_
+unterstützen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+es	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+schwer	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Rußland	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q34266	Q34266	LED0.00
+zurückzuhalten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#halten	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+dauernden	O	O	O	O	O	O	_	_	_
+allgemeinen	O	O	O	O	O	O	_	_	_
+Frieden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+befestigen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Erbschaft	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+Ew	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Majestät	O	O	O	O	O	O	_	_	_
+Vorfahren	O	O	O	O	O	O	_	_	_
+hinterlassen	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+unerschütterliche	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-15
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#erschütterliche	O	O	O	O	O	O	_	_	_|Commented
+Grundlagen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+stellen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ein	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+enges	O	O	O	O	O	O	_	_	_
+Bündnis	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Japan	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q17	Q17	LED0.00
+ist	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+durchaus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nötig	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Rücksicht	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+gewaltigen	O	O	O	O	O	O	_	_	_
+Pläne	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Rußlands	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q34266	Q34266	LED0.00
+im	O	O	O	O	O	O	_	_	_
+asiatischen	O	O	O	O	O	O	_	_	_
+Osten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+denen	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mächtiges	O	O	O	O	O	O	_	_	_
+China	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q148	Q148	LED0.00
+widerstehen	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welches	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nur	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+Japans	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q17	Q17	LED0.00
+Beistand	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+solcher	O	O	O	O	O	O	_	_	_
+Macht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gelangen	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Was	O	O	O	O	O	O	_	_	_
+England	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q21	Q21	LED0.00
+betrifft	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welches	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+um	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Erhaltung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Ruhe	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Fortdauer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+seines	O	O	O	O	O	O	_	_	_
+Wohlstandes	O	O	O	O	O	O	_	_	_
+besorgt	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ansprüche	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Politik	O	O	O	O	O	O	_	_	_
+Rußlands	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q34266	Q34266	LED0.00
+hervorgerufen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gerufen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+Wirklichkeit	O	O	O	O	O	O	_	_	_
+verfolgt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+anderen	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+kommerzielle	O	O	O	O	O	O	_	_	_
+Interessen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wenn	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+chinesisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+japanesische	O	O	O	O	O	O	_	_	_
+Bündnis	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+stande	O	O	O	O	O	O	_	_	_
+kommt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wird	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+Rußland	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q34266	Q34266	LED0.00
+ernstlich	O	O	O	O	O	O	_	_	_
+damit	O	O	O	O	O	O	_	_	_
+beschäftigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+daß	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kongreß	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Weltfrieden	O	O	O	O	O	O	_	_	_
+ins	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Leben	O	O	O	O	O	O	_	_	_
+tritt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+alsdann	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+dauernd	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+friedlichen	O	O	O	O	O	O	_	_	_
+Beziehungen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+auswärtigen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Staaten	O	O	O	O	O	O	_	_	_
+stehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+China	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q148	Q148	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+Japan	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q17	Q17	LED0.00
+wünschenswert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+muß	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Gegenstand	O	O	O	O	O	O	_	_	_
+warmer	O	O	O	O	O	O	_	_	_
+Wünsche	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+ganzen	O	O	O	O	O	O	_	_	_
+Welt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+"	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Denkschrift	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+hiermit	O	O	O	O	O	O	_	_	_
+schließt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dann	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Kaiser	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+15	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Sept	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+überreicht	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+fortschrittlichen	O	O	O	O	O	O	_	_	_
+chinesischen	O	O	O	O	O	O	_	_	_
+Zeitung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Ho	B-prod	O	B-prod.media	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+-	I-prod	O	I-prod.media	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+Wen	I-prod	O	I-prod.media	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+-	I-prod	O	I-prod.media	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+Bao	I-prod	O	I-prod.media	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+"	O	O	O	O	O	O	_	_	_
+veröffentlicht	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

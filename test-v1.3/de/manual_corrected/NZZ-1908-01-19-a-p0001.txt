@@ -1,0 +1,3102 @@
+# language = de
+# newspaper = NZZ
+# date = 1908-01-19
+# document_id = NZZ-1908-01-19-a-p0001
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Zürcher	B-org	O	B-org.ent	O	O	O	Q20012503	_	LED0.00
+Handelskammer	I-org	O	I-org.ent	O	O	O	Q20012503	_	LED0.00
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Entwurf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+Bundesrates	B-org	O	B-org.adm	O	O	O	Q30917	_	LED0.00
+betr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Krauken	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Anfallversicherung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+F	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Eine	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+interessante	O	O	O	O	O	O	_	_	_
+Verhandlung	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+stranken	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Unfallversicherung	O	O	O	O	O	O	_	_	_
+fand	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Statistisch	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tistisch	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+volkswirtschaftlichen	O	O	O	O	O	O	_	_	_
+Gesellschaft	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schaft	O	O	O	O	O	O	_	_	_|Commented
+des	O	O	O	O	O	O	_	_	_
+Kantons	B-loc	O	B-loc.adm.reg	O	O	O	Q11943	_	LED0.00
+Zürich	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q11943	_	LED0.00
+am	O	O	O	O	O	O	_	_	_
+17	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+ds	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Schmidstube	B-loc	O	B-loc.oro	O	O	O	NIL	_	LED0.00
+statt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Oberst	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	LED0.00
+Richard	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter|LED0.00
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	LED0.00
+Sekretär	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	LED0.00
+Zürcher	I-pers	O	I-pers.ind	O	I-comp.function	B-org.ent	NIL	_	LED0.00
+Handelskammer	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	NIL	_	NoSpaceAfter|LED0.00
+,	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	LED0.00
+erlänterte	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einstündigem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vortrag	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Stellungnahme	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Zürcher	B-org	O	B-org.ent	O	O	O	Q20012503	_	LED0.00
+Handelskammer	I-org	O	I-org.ent	O	O	O	Q20012503	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Entwurf	O	O	O	O	O	O	_	_	_
+vom	B-time	O	B-time.date.abs	O	O	O	NIL	_	LED0.00
+Dezember	I-time	O	I-time.date.abs	O	O	O	NIL	_	LED0.00
+1906	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Zürcher	B-org	O	B-org.ent	O	O	O	Q20012503	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+Handelskammer	I-org	O	I-org.ent	O	O	O	Q20012503	_	LED0.00
+hat	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Vorlage	O	O	O	O	O	O	_	_	_
+gründlich	O	O	O	O	O	O	_	_	_
+geprüft	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kommission	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bestehend	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+HH	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	LED0.00
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	LED0.00
+Stoll	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+Ulrico	B-pers	O	B-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+Vollenweider	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+Schindler	B-pers	O	B-pers.ind	O	O	O	Q1224007	_	NoSpaceAfter|LED0.00
+-	I-pers	O	I-pers.ind	O	O	O	Q1224007	_	NoSpaceAfter|LED0.00
+Huber	I-pers	O	I-pers.ind	O	O	O	Q1224007	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+Müller	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+-	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+Jelmoli	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+Richard	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter|LED0.00|Normalized-5
+#¬	I-pers	O	I-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|LED0.00|Commented
+# segment_iiif_link = _|Commented
+#chard	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter|LED0.00|Commented
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	LED0.00
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	LED0.00
+Schärtlin	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q118222	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q118222	_	LED0.00
+Häberlin	I-pers	O	I-pers.ind	O	B-comp.name	O	Q118222	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	LED0.00
+G	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	LED0.00
+Bär	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+für	O	O	O	O	O	O	_	_	_
+allseitige	O	O	O	O	O	O	_	_	_
+Sachkenntnis	O	O	O	O	O	O	_	_	_
+bürgt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+arbeitete	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Entwurf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+fünfzehn	O	O	O	O	O	O	_	_	_
+Sitzungen	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Kritik	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Zürcher	B-org	O	B-org.ent	O	O	O	Q20012503	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+Handelskammer	I-org	O	I-org.ent	O	O	O	Q20012503	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+stattliche	O	O	O	O	O	O	_	_	_
+Broschüre	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+112	O	O	O	O	O	O	_	_	_
+Seiten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wird	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Hand	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Interessenten	O	O	O	O	O	O	_	_	_
+gelangt	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+manche	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Feststellungen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Anträge	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zweifellos	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Gang	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+parlamentarischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Behandlung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Vorlage	O	O	O	O	O	O	_	_	_
+beeinflussen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+direkt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sensation	O	O	O	O	O	O	_	_	_
+machen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Oberst	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	LED0.00
+Richard	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	LED0.00
+hat	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+Vortrag	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schmisstube	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+Wissende	O	O	O	O	O	O	_	_	_
+gehalten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+springenden	O	O	O	O	O	O	_	_	_
+Punkte	O	O	O	O	O	O	_	_	_
+berührt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Berichterstatter	O	O	O	O	O	O	_	_	_
+muß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+hinwieder	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Skizzierung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Vortrages	O	O	O	O	O	O	_	_	_
+beschränken	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schränken	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Studium	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Gutachtens	O	O	O	O	O	O	_	_	_
+anregen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#regen	O	O	O	O	O	O	_	_	_|Commented
+soll	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Krankenversicherung	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+heutigen	O	O	O	O	O	O	_	_	_
+Entwurf	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wurf	O	O	O	O	O	O	_	_	_|Commented
+stellt	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Obligatorium	O	O	O	O	O	O	_	_	_
+ab	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auf	O	O	O	O	O	O	_	_	_
+bloße	O	O	O	O	O	O	_	_	_
+Förderung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Versicherung	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+Krankheit	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Man	O	O	O	O	O	O	_	_	_
+glaubt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Obligatorium	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+ersten	O	O	O	O	O	O	_	_	_
+Entwurf	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wurf	O	O	O	O	O	O	_	_	_|Commented
+zur	O	O	O	O	O	O	_	_	_
+Niederlage	O	O	O	O	O	O	_	_	_
+verholfen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Zürcher	B-org	O	B-org.ent	O	O	O	Q20012503	_	LED0.00
+Handelskammer	I-org	O	I-org.ent	O	O	O	Q20012503	_	NoSpaceAfter|LED0.00|Normalized-6
+#¬	I-org	O	I-org.ent	O	O	O	Q20012503	_	EndOfLine|NoSpaceAfter|LED0.00|Commented
+# segment_iiif_link = _|Commented
+#kammer	I-org	O	I-org.ent	O	O	O	Q20012503	_	LED0.00|Commented
+bedauert	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Rückwärtsbewegung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+befürchten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fürchten	O	O	O	O	O	O	_	_	_|Commented
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Bedürftigsten	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Versicherung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sicherung	O	O	O	O	O	O	_	_	_|Commented
+herankommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Bundesrat	B-org	O	B-org.adm	O	O	O	Q30917	_	LED0.00
+sagt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+seinem	O	O	O	O	O	O	_	_	_
+System	O	O	O	O	O	O	_	_	_
+anderwärts	O	O	O	O	O	O	_	_	_
+immerhin	O	O	O	O	O	O	_	_	_
+17	O	O	O	O	O	O	_	_	NoSpaceAfter
+—	O	O	O	O	O	O	_	_	NoSpaceAfter
+18	O	O	O	O	O	O	_	_	_
+Prozent	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Bevölkerung	O	O	O	O	O	O	_	_	_
+herängezogen	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+seien	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Aber	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kann	O	O	O	O	O	O	_	_	_
+uns	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+genügen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+schon	O	O	O	O	O	O	_	_	_
+1903	B-time	O	B-time.date.abs	O	O	O	NIL	_	LED0.00
+waren	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+uns	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+freiwillig	O	O	O	O	O	O	_	_	_
+13½	O	O	O	O	O	O	_	_	_
+Prozent	O	O	O	O	O	O	_	_	_
+versichert	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+allerdings	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Kantone	O	O	O	O	O	O	_	_	_
+ermächtigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+ihr	O	O	O	O	O	O	_	_	_
+Gebiet	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Obligatorium	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#torium	O	O	O	O	O	O	_	_	_|Commented
+einzuführen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+aber	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Ermächtigung	O	O	O	O	O	O	_	_	_
+bedürfen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sie	O	O	O	O	O	O	_	_	_
+eigentlich	O	O	O	O	O	O	_	_	_
+gar	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+besaßen	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+längst	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+eigener	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Hoheit	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wünschbar	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Versicherung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sicherung	O	O	O	O	O	O	_	_	_|Commented
+im	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Kanton	O	O	O	O	O	O	_	_	_
+obligatorisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+andern	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+freiwillig	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+daraus	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+ungleiche	O	O	O	O	O	O	_	_	_
+wirtschaftliche	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#liche	O	O	O	O	O	O	_	_	_|Commented
+Belastung	O	O	O	O	O	O	_	_	_
+resultieren	O	O	O	O	O	O	_	_	_
+würde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+staatliche	O	O	O	O	O	O	_	_	_
+Unterstützung	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+Aufsicht	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bedingungen	O	O	O	O	O	O	_	_	_
+geknüpft	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+muß	O	O	O	O	O	O	_	_	_
+begrüßt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Zürcher	B-org	O	B-org.ent	O	O	O	Q20012503	_	LED0.00
+Handelskammer	I-org	O	I-org.ent	O	O	O	Q20012503	_	LED0.00
+fand	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+sollten	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bessere	O	O	O	O	O	O	_	_	_
+Garantien	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+Ueberversicherung	O	O	O	O	O	O	_	_	_
+z	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+B	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+geschaffen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schaffen	O	O	O	O	O	O	_	_	_|Commented
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	_
+einzige	O	O	O	O	O	O	_	_	_
+Form	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Krankenfürsorge	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+mißbräuchlich	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Geschäft	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Versicherten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sicherten	O	O	O	O	O	O	_	_	_|Commented
+gemacht	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+anerkennt	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Krankenpflegeversicherung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-18
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#pflegeversicherung	O	O	O	O	O	O	_	_	_|Commented
+in	O	O	O	O	O	O	_	_	_
+natura	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+möchte	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+lieber	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+weiter	O	O	O	O	O	O	_	_	_
+gehen	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Entwurf	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+steht	O	O	O	O	O	O	_	_	_
+grundsätzlich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Boden	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+obligatorischen	O	O	O	O	O	O	_	_	_
+allgemeinen	O	O	O	O	O	O	_	_	_
+Krankenpflegeversicherung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-18
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#pflegeversicherung	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+;	O	O	O	O	O	O	_	_	_|EOS
+
+namentlich	O	O	O	O	O	O	_	_	_
+möchte	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Kinderversicherung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sicherung	O	O	O	O	O	O	_	_	_|Commented
+gefördert	O	O	O	O	O	O	_	_	_
+wissen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+schlägt	O	O	O	O	O	O	_	_	_
+deshalb	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bundesbeitrag	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+1½	O	O	O	O	O	O	_	_	_
+Rp	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+erhöhen	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+Krankenkassen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kassen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+außer	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Krankenpflege	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+mindestens	O	O	O	O	O	O	_	_	_
+1	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Krankengeld	O	O	O	O	O	O	_	_	_
+gewähren	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Krankenpflege	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Leistungen	O	O	O	O	O	O	_	_	_
+aufweisen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+qualitativ	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+zeitlich	O	O	O	O	O	O	_	_	_
+erheblich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lich	O	O	O	O	O	O	_	_	_|Commented
+über	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+gesetzliche	O	O	O	O	O	O	_	_	_
+Minimum	O	O	O	O	O	O	_	_	_
+hinausgehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+jedes	O	O	O	O	O	O	_	_	_
+Kind	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+16	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Beitrag	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+1½e	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+2	O	O	O	O	O	O	_	_	_
+Rp	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+auszurichten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Kinderversicherung	O	O	O	O	O	O	_	_	_
+dürfte	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+allerdings	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Krankenpflege	O	O	O	O	O	O	_	_	_
+beschränken	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Kinderversicherung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#versicherung	O	O	O	O	O	O	_	_	_|Commented
+hat	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+bisherigen	O	O	O	O	O	O	_	_	_
+freien	O	O	O	O	O	O	_	_	_
+Krankenkassen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nicht	O	O	O	O	O	O	_	_	_
+recht	O	O	O	O	O	O	_	_	_
+aufzukommen	O	O	O	O	O	O	_	_	_
+vermocht	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+nach	O	O	O	O	O	O	_	_	_
+obigem	O	O	O	O	O	O	_	_	_
+Vorschlag	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schlag	O	O	O	O	O	O	_	_	_|Commented
+wäre	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Kassen	O	O	O	O	O	O	_	_	_
+möglich	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+minime	O	O	O	O	O	O	_	_	_
+Prämien	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+verlangen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Schweizerische	B-org	O	B-org.ent	O	B-comp.demonym	O	Q2256455	_	LED0.00
+Gemeinnützige	I-org	O	I-org.ent	O	O	O	Q2256455	_	NoSpaceAfter|LED0.00|Normalized-11
+#¬	I-org	O	I-org.ent	O	O	O	Q2256455	_	EndOfLine|NoSpaceAfter|LED0.00|Commented
+# segment_iiif_link = _|Commented
+#meinnützige	I-org	O	I-org.ent	O	O	O	Q2256455	_	LED0.00|Commented
+Gesellschaft	I-org	O	I-org.ent	O	O	O	Q2256455	_	LED0.00
+postuliert	O	O	O	O	O	O	_	_	_
+bekanntlich	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Einbeziehung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kinderversicherung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Natürlich	O	O	O	O	O	O	_	_	_
+würde	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Erweiterung	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+stärkere	O	O	O	O	O	O	_	_	_
+Belastung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Bundes	B-org	O	B-org.adm	O	O	O	Q675794	_	LED0.00
+bedenten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#denten	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+100,000	O	O	O	O	O	O	_	_	_
+Kinder	O	O	O	O	O	O	_	_	_
+würden	O	O	O	O	O	O	_	_	_
+ihn	O	O	O	O	O	O	_	_	_
+etwa	O	O	O	O	O	O	_	_	_
+730,000	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kesten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Statt	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+600,000	O	O	O	O	O	O	_	_	_
+Versicherten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+3,25	O	O	O	O	O	O	_	_	_
+Millionen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lionen	O	O	O	O	O	O	_	_	_|Commented
+Bundesbeuras	O	O	O	O	O	O	_	_	_
+mißte	O	O	O	O	O	O	_	_	_
+matt	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+800,000	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Versicherten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+5	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Millionen	O	O	O	O	O	O	_	_	_
+Bundesbeitrag	O	O	O	O	O	O	_	_	_
+bechnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Kommt	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Entwurf	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Bundesrates	B-org	O	B-org.adm	O	O	O	Q30917	_	LED0.00
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Krankenversicherung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#versicherung	O	O	O	O	O	O	_	_	_|Commented
+vor	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Zürcher	B-org	O	B-org.ent	O	O	O	Q20012503	_	LED0.00
+Handelskammer	I-org	O	I-org.ent	O	O	O	Q20012503	_	LED0.00
+verhältnismäßig	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mäßig	O	O	O	O	O	O	_	_	_|Commented
+gut	O	O	O	O	O	O	_	_	_
+weg	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Kritik	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+fast	O	O	O	O	O	O	_	_	_
+vernichtende	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gegenüber	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+vorgeschlagenen	O	O	O	O	O	O	_	_	_
+Unfallversicherung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rung	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Entwurf	O	O	O	O	O	O	_	_	_
+setzt	O	O	O	O	O	O	_	_	_
+richtigerweise	O	O	O	O	O	O	_	_	_
+au	O	O	O	O	O	O	_	_	_
+Stelle	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bisherigen	O	O	O	O	O	O	_	_	_
+bedingten	O	O	O	O	O	O	_	_	_
+Haftpflicht	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+absolute	O	O	O	O	O	O	_	_	_
+Verbindlichkeit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Arbeitgeber	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auch	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Ausmaß	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Entschädigungen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auf	O	O	O	O	O	O	_	_	_
+60	O	O	O	O	O	O	_	_	_
+Prozent	O	O	O	O	O	O	_	_	_
+resp	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+70	O	O	O	O	O	O	_	_	_
+Prozent	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Sonntag	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bezahlt	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+erscheint	O	O	O	O	O	O	_	_	_
+zweckdienlich	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dagegen	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Industrie	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Monopolanstalt	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Trägerin	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gerin	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Unfallversicherung	O	O	O	O	O	O	_	_	_
+befreunden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Man	O	O	O	O	O	O	_	_	_
+scheint	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Lösung	O	O	O	O	O	O	_	_	_
+gelangt	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Annahme	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+private	O	O	O	O	O	O	_	_	_
+Versicherungsgesellschaften	O	O	O	O	O	O	_	_	_
+würden	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Risiken	O	O	O	O	O	O	_	_	_
+ablehnen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+argumentiert	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Erfahrungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fahrungen	O	O	O	O	O	O	_	_	_|Commented
+anderer	O	O	O	O	O	O	_	_	_
+Länder	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Aber	O	O	O	O	O	O	_	_	_
+Deutschland	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q1206012	Q1206012	LED0.00
+hat	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Versicherung	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	_
+andere	O	O	O	O	O	O	_	_	_
+Basis	O	O	O	O	O	O	_	_	_
+gestellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sie	O	O	O	O	O	O	_	_	_
+wollen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+sieben	O	O	O	O	O	O	_	_	_
+österreichischen	O	O	O	O	O	O	_	_	_
+Monopolanstalten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ten	O	O	O	O	O	O	_	_	_|Commented
+haben	O	O	O	O	O	O	_	_	_
+vollständig	O	O	O	O	O	O	_	_	_
+Fiasko	O	O	O	O	O	O	_	_	_
+gemacht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Anstalt	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Niederösterreich	B-loc	O	B-loc.adm.reg	O	O	O	Q42497	_	LED0.00
+in	O	O	O	O	O	O	_	_	_
+Wien	B-loc	O	B-loc.adm.town	O	O	O	Q1741	_	LED0.00
+arbeitete	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Anfang	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Defiziten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+trotz	O	O	O	O	O	O	_	_	_
+mehrmaliger	O	O	O	O	O	O	_	_	_
+Erhöhung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Prämien	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bis	B-time	O	B-time.date.abs	O	O	O	NIL	_	LED0.00
+Ende	I-time	O	I-time.date.abs	O	O	O	NIL	_	LED0.00
+1906	I-time	O	I-time.date.abs	O	O	O	NIL	_	LED0.00
+auf	O	O	O	O	O	O	_	_	_
+25,550,000	O	O	O	O	O	O	_	_	_
+Kronen	O	O	O	O	O	O	_	_	_
+aufliefen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Anstalt	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+Böhmen	B-loc	O	B-loc.adm.reg	O	O	O	Q39193	_	LED0.00
+wirtschaftete	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+schlimmer	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einem	O	O	O	O	O	O	_	_	_
+Defizit	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+34	O	O	O	O	O	O	_	_	_
+Millionen	O	O	O	O	O	O	_	_	_
+Kronen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Alle	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sieben	O	O	O	O	O	O	_	_	_
+Anstalten	O	O	O	O	O	O	_	_	_
+Oesterreichs	B-loc	O	B-loc.adm.nat	O	O	B-org.adm	Q40	_	LED0.00
+weisen	O	O	O	O	O	O	_	_	_
+zusammen	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Defizit	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fizit	O	O	O	O	O	O	_	_	_|Commented
+von	O	O	O	O	O	O	_	_	_
+68	O	O	O	O	O	O	_	_	_
+Millionen	O	O	O	O	O	O	_	_	_
+Kronen	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+wurstelt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+weiter	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ohne	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+wissen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+helfen	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Aehnliche	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Erfahrungen	O	O	O	O	O	O	_	_	_
+machten	O	O	O	O	O	O	_	_	_
+Luxemburg	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q32	Q32	LED0.00
+und	O	O	O	O	O	O	_	_	_
+Holland	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q55	Q55	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+welch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+letzteres	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+vier	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Ausfall	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+10	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Millionen	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Staat	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Riß	O	O	O	O	O	O	_	_	_
+treten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mußte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q39	Q39	LED0.00
+würde	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Monopolanstalt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dieselben	O	O	O	O	O	O	_	_	_
+Erfahrungen	O	O	O	O	O	O	_	_	_
+machen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wer	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Defizite	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+begleichen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gleichen	O	O	O	O	O	O	_	_	_|Commented
+hätte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+darüber	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+nirgends	O	O	O	O	O	O	_	_	_
+etwas	O	O	O	O	O	O	_	_	_
+bestimmt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wahrscheinlich	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Staat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Folge	O	O	O	O	O	O	_	_	_
+würde	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+lange	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+hinaus	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+sozialer	O	O	O	O	O	O	_	_	_
+Fürsorge	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+lahmgelegt	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Man	O	O	O	O	O	O	_	_	_
+wirft	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+privaten	O	O	O	O	O	O	_	_	_
+Anstalten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+teure	O	O	O	O	O	O	_	_	_
+Verwaltung	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+mit	O	O	O	O	O	O	_	_	_
+Unrecht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+kostet	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+17,7	O	O	O	O	O	O	_	_	_
+Prozent	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Nettoprämie	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+5	O	O	O	O	O	O	_	_	_
+Prozent	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Steuern	O	O	O	O	O	O	_	_	_
+inbegriffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+.	O	O	O	O	O	O	_	_	_
+Die	O	O	O	O	O	O	_	_	_
+Konkurrenz	O	O	O	O	O	O	_	_	_
+drückt	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Prämien	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mien	O	O	O	O	O	O	_	_	_|Commented
+herunter	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Arbeiterversicherung	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Gesellschaften	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sellschaften	O	O	O	O	O	O	_	_	_|Commented
+kein	O	O	O	O	O	O	_	_	_
+gutes	O	O	O	O	O	O	_	_	_
+Geschäft	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Monopolanstalt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+könnte	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+billigern	O	O	O	O	O	O	_	_	_
+Prämien	O	O	O	O	O	O	_	_	_
+gewähren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Zürcher	B-org	O	B-org.ent	O	O	O	Q20012503	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+Handelskammer	I-org	O	I-org.ent	O	O	O	Q20012503	_	LED0.00
+gelaugt	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Anlehnung	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+französische	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+belgische	O	O	O	O	O	O	_	_	_
+Praxis	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Antrag	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+1	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Die	O	O	O	O	O	O	_	_	_
+Versicherung	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Anstalt	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Staats	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+konzessionierter	O	O	O	O	O	O	_	_	_
+Privatanstalt	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+gegenwärtig	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Haftpflicht	O	O	O	O	O	O	_	_	_
+unterstellten	O	O	O	O	O	O	_	_	_
+Arbeiter	O	O	O	O	O	O	_	_	_
+obligatorisch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erklärt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Selbstversicherung	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Arbeitgeber	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hat	O	O	O	O	O	O	_	_	_
+wegzufallen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+2	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Die	O	O	O	O	O	O	_	_	_
+Staatsaustalt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+konzessionierten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sionierten	O	O	O	O	O	O	_	_	_|Commented
+Privatanstalten	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+verpflichtet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+allen	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+Gesetz	O	O	O	O	O	O	_	_	_
+fallenden	O	O	O	O	O	O	_	_	_
+Betrieben	O	O	O	O	O	O	_	_	_
+Versicherung	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+gewähren	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+zwar	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+gemeinschaftlich	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+einzelne	O	O	O	O	O	O	_	_	_
+Anstalt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Deckung	O	O	O	O	O	O	_	_	_
+allein	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+sollte	O	O	O	O	O	O	_	_	_
+übernehmen	O	O	O	O	O	O	_	_	_
+wollen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+3	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+steuerfreien	O	O	O	O	O	O	_	_	_
+Staatsanstalt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+voraus	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Staatsbetriebe	O	O	O	O	O	O	_	_	_
+zugewiesen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+4	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Neben	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+Zulassung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zum	O	O	O	O	O	O	_	_	_
+Geschäftsbetrieb	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+erlegenden	O	O	O	O	O	O	_	_	_
+Kantion	O	O	O	O	O	O	_	_	_
+müssen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+konzessionierten	O	O	O	O	O	O	_	_	_
+Privatversicherungsgesellschaften	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Rentenreserven	O	O	O	O	O	O	_	_	_
+beim	O	O	O	O	O	O	_	_	_
+Staat	O	O	O	O	O	O	_	_	_
+deponieren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+Bundesrat	B-org	O	B-org.adm	O	O	O	Q30917	_	LED0.00
+will	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Bureauangestellten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+höhern	O	O	O	O	O	O	_	_	_
+technischen	O	O	O	O	O	O	_	_	_
+Beamten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Betriebe	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Versicherung	O	O	O	O	O	O	_	_	_
+einbesiehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Handelskammer	O	O	O	O	O	O	_	_	_
+findet	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+angezeigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+jedenfalls	O	O	O	O	O	O	_	_	_
+sollten	O	O	O	O	O	O	_	_	_
+bloß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Techniker	O	O	O	O	O	O	_	_	_
+mitgenommen	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+bloß	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Besoldung	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+5000	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ob	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Greuze	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+5	O	O	O	O	O	O	_	_	_
+Arbeitern	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eines	O	O	O	O	O	O	_	_	_
+Betriebes	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+ziehen	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+hängt	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+künftigen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gen	O	O	O	O	O	O	_	_	_|Commented
+Gestaltung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Fabrikgesetzes	O	O	O	O	O	O	_	_	_
+zusammen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Anmeldung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#meldung	O	O	O	O	O	O	_	_	_|Commented
+eines	O	O	O	O	O	O	_	_	_
+Todesfalles	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	_
+binnen	O	O	O	O	O	O	_	_	_
+24	O	O	O	O	O	O	_	_	_
+Stunden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erfolgen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+andere	O	O	O	O	O	O	_	_	_
+Unfälle	O	O	O	O	O	O	_	_	_
+binnen	O	O	O	O	O	O	_	_	_
+4	O	O	O	O	O	O	_	_	_
+Tagen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+privaten	O	O	O	O	O	O	_	_	_
+Gesellschaften	O	O	O	O	O	O	_	_	_
+geben	O	O	O	O	O	O	_	_	_
+acht	O	O	O	O	O	O	_	_	_
+Tage	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Agenten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Rückversicherer	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Unfallversicherung	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Krankenkassen	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+geeignet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Interessen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schneiden	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Teil	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Kompetenzen	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nicht	O	O	O	O	O	O	_	_	_
+klar	O	O	O	O	O	O	_	_	_
+ausgeschieden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Handelskammer	O	O	O	O	O	O	_	_	_
+möchte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Rente	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+60	O	O	O	O	O	O	_	_	_
+Prozent	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Jahresverdienstes	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#dienstes	O	O	O	O	O	O	_	_	_|Commented
+hinausgehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Spruchpraxis	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Bundesgerichts	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#desgerichts	O	O	O	O	O	O	_	_	_|Commented
+geht	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	_
+durchschnittlich	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+43	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Prozent	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dagegen	O	O	O	O	O	O	_	_	_
+sollte	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Rentenauskauf	O	O	O	O	O	O	_	_	_
+erleichtert	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Deutschland	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q1206012	Q1206012	LED0.00
+kannte	O	O	O	O	O	O	_	_	_
+diesen	O	O	O	O	O	O	_	_	_
+erst	O	O	O	O	O	O	_	_	_
+gar	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aber	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Folge	O	O	O	O	O	O	_	_	_
+dazu	O	O	O	O	O	O	_	_	_
+gelangt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Mit	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Kapitalauszahlung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#auszahlung	O	O	O	O	O	O	_	_	_|Commented
+ermöglicht	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Verunfallten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+öfter	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+regelmäßiger	O	O	O	O	O	O	_	_	_
+Arbeit	O	O	O	O	O	O	_	_	_
+hinzugeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eine	O	O	O	O	O	O	_	_	_
+50prozeutige	O	O	O	O	O	O	_	_	_
+Rente	O	O	O	O	O	O	_	_	_
+bezieht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+will	O	O	O	O	O	O	_	_	_
+manchmal	O	O	O	O	O	O	_	_	_
+gar	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nicht	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+arbeiten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+wer	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+geringere	O	O	O	O	O	O	_	_	_
+Rente	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bekommt	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+leicht	O	O	O	O	O	O	_	_	_
+Arbeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Daß	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Jahresverdienst	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+o	O	O	O	O	O	O	_	_	_
+berechnet	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+indem	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Tagesverdienst	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einfach	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+300	O	O	O	O	O	O	_	_	_
+multipliziert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Handelskammer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+unverständlich	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wie	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Saisongewerben	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gerecht	O	O	O	O	O	O	_	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	_|EOS
+
+Frankreich	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q70802	Q70802	LED0.00
+half	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+praktischer	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+indem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+es	O	O	O	O	O	O	_	_	_
+zwischen	O	O	O	O	O	O	_	_	_
+vorübergehender	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+dauernder	O	O	O	O	O	O	_	_	_
+Erwerbsunfähigkeit	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#unfähigkeit	O	O	O	O	O	O	_	_	_|Commented
+unterscheidet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+erstere	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+unmittelbar	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bar	O	O	O	O	O	O	_	_	_|Commented
+voraufgehenden	O	O	O	O	O	O	_	_	_
+Tagesverdienst	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+letztere	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+tatsächlichen	O	O	O	O	O	O	_	_	_
+Jahresverdienst	O	O	O	O	O	O	_	_	_
+abstellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ganz	O	O	O	O	O	O	_	_	_
+eigentümlich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tümlich	O	O	O	O	O	O	_	_	_|Commented
+ist	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Entwurf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Prämienberechnung	O	O	O	O	O	O	_	_	_
+konstruiert	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#struiert	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+basiert	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Annahme	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Arbeitgeber	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#beitgeber	O	O	O	O	O	O	_	_	_|Commented
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Unfallaustalt	O	O	O	O	O	O	_	_	_
+wege	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+jedes	O	O	O	O	O	O	_	_	_
+einzelnen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Arbeiters	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Kontalt	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+stehen	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+jeden	O	O	O	O	O	O	_	_	_
+Arbeiter	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+jeden	O	O	O	O	O	O	_	_	_
+Werktag	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Prämie	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+berechnen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+einzutragen	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bundesbeitrag	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+ja	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Lohnhöhe	O	O	O	O	O	O	_	_	_
+ändert	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Arbeit	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dann	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Ende	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Jahres	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Grund	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Gesamtbetrages	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#betrages	O	O	O	O	O	O	_	_	_|Commented
+des	O	O	O	O	O	O	_	_	_
+Tagesverdienstes	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+einmal	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+machen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zur	O	O	O	O	O	O	_	_	_
+Beratung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Restprämie	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ob	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Vorstellung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stellung	O	O	O	O	O	O	_	_	_|Commented
+gemacht	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+ungeheuerlichen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gänzlich	O	O	O	O	O	O	_	_	_
+nutzlosen	O	O	O	O	O	O	_	_	_
+Arbeitsverschwendung	O	O	O	O	O	O	_	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	_|EOS
+
+Größere	O	O	O	O	O	O	_	_	_
+Beteiebs	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#teiebs	O	O	O	O	O	O	_	_	_|Commented
+müßten	O	O	O	O	O	O	_	_	_
+dafür	O	O	O	O	O	O	_	_	_
+eigene	O	O	O	O	O	O	_	_	_
+Bureaus	O	O	O	O	O	O	_	_	_
+auftun	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Fabrik	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+3000	O	O	O	O	O	O	_	_	_
+Arbeitern	O	O	O	O	O	O	_	_	_
+hätte	O	O	O	O	O	O	_	_	_
+eim	O	O	O	O	O	O	_	_	_
+Mittion	O	O	O	O	O	O	_	_	_
+Rechnungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nungen	O	O	O	O	O	O	_	_	_|Commented
+im	O	O	O	O	O	O	_	_	_
+Jahr	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+bewältigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zentralaustalt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+müßte	O	O	O	O	O	O	_	_	_
+500,000	O	O	O	O	O	O	_	_	_
+Folioseiten	O	O	O	O	O	O	_	_	_
+eröffnen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Jahr	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+etwa	O	O	O	O	O	O	_	_	_
+300	O	O	O	O	O	O	_	_	_
+Millionen	O	O	O	O	O	O	_	_	_
+Rechnungen	O	O	O	O	O	O	_	_	_
+liquidieren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dazu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+käme	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Kontrolle	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ohne	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Buchhaltung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bedürfte	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Rechnerei	O	O	O	O	O	O	_	_	_
+mindestens	O	O	O	O	O	O	_	_	_
+2000	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Beamte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Eine	O	O	O	O	O	O	_	_	_
+solche	O	O	O	O	O	O	_	_	_
+Verwaltung	O	O	O	O	O	O	_	_	_
+würde	O	O	O	O	O	O	_	_	_
+doppelt	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+viel	O	O	O	O	O	O	_	_	_
+kosten	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+vorgesehene	O	O	O	O	O	O	_	_	_
+Bundesbeitrag	O	O	O	O	O	O	_	_	_
+beträgt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+also	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	_
+ausgeschlossen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+behelfen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#helfen	O	O	O	O	O	O	_	_	_|Commented
+könnte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Privatgesellschaften	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Geschäft	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schäft	O	O	O	O	O	O	_	_	_|Commented
+doch	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+verstehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+lassen	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+Jahre	O	O	O	O	O	O	_	_	_
+einmal	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mal	O	O	O	O	O	O	_	_	_|Commented
+das	O	O	O	O	O	O	_	_	_
+Lohnbuch	O	O	O	O	O	O	_	_	_
+gehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Staat	O	O	O	O	O	O	_	_	_
+könnte	O	O	O	O	O	O	_	_	_
+dasselbe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vielleicht	O	O	O	O	O	O	_	_	_
+viermal	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Jahre	O	O	O	O	O	O	_	_	_
+verlangen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+hätte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+er	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+bloß	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+paar	O	O	O	O	O	O	_	_	_
+tausend	O	O	O	O	O	O	_	_	_
+Kollektivversicherungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gen	O	O	O	O	O	O	_	_	_|Commented
+zu	O	O	O	O	O	O	_	_	_
+tun	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Natürlich	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Voraussetzung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Lohnlisten	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Betrieben	O	O	O	O	O	O	_	_	_
+richtig	O	O	O	O	O	O	_	_	_
+geführt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Berechnung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Bundesbeitrages	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sehr	O	O	O	O	O	O	_	_	_
+umständliche	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	_
+offenbar	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Aequivalent	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sein	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Einbeziehung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+außerberuflichen	O	O	O	O	O	O	_	_	_
+Unfälle	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Aber	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+kosten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+einmal	O	O	O	O	O	O	_	_	_
+angedeutet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Vorlage	O	O	O	O	O	O	_	_	_
+stellt	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Bundesbeitrag	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Prämien	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eine	O	O	O	O	O	O	_	_	_
+Summe	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+2,7	O	O	O	O	O	O	_	_	_
+Millionen	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Zürcher	B-org	O	B-org.ent	O	O	O	Q20012503	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+Handelskammer	I-org	O	I-org.ent	O	O	O	Q20012503	_	LED0.00
+rechnet	O	O	O	O	O	O	_	_	_
+5,4	O	O	O	O	O	O	_	_	_
+Millionen	O	O	O	O	O	O	_	_	_
+heraus	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eine	O	O	O	O	O	O	_	_	_
+Totalbelastung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Bundes	B-org	O	B-org.adm	O	O	O	Q675794	_	LED0.00
+mit	O	O	O	O	O	O	_	_	_
+jährlich	O	O	O	O	O	O	_	_	_
+7	O	O	O	O	O	O	_	_	_
+Mill	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+statt	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Bundesrat	B-org	O	B-org.adm	O	O	O	Q30917	_	LED0.00
+vorgesehenen	O	O	O	O	O	O	_	_	_
+3,650,000	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Und	O	O	O	O	O	O	_	_	_
+unsere	O	O	O	O	O	O	_	_	_
+Handelskammer	O	O	O	O	O	O	_	_	_
+versteht	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weshalb	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bund	B-org	O	B-org.adm	O	O	O	Q675794	_	LED0.00
+diese	O	O	O	O	O	O	_	_	_
+Last	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+dazu	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+jährlich	O	O	O	O	O	O	_	_	_
+drohenden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Defizite	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+nehmen	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+doch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Arbeitgeber	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#geber	O	O	O	O	O	O	_	_	_|Commented
+bereit	O	O	O	O	O	O	_	_	_
+wären	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Versicherungspflicht	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+Stelle	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Haftpflicht	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+nehmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+kommt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Anträgen	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+keine	O	O	O	O	O	O	_	_	_
+Monopolanstalt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Kollektivversicherung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sicherung	O	O	O	O	O	O	_	_	_|Commented
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+beruflichen	O	O	O	O	O	O	_	_	_
+Unfälle	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Lasten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Arbeitgeber	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+Verzichtleistung	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Beiträge	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Arbeiter	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Fallenlassen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Versicherung	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+außerordentliche	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ordentliche	O	O	O	O	O	O	_	_	_|Commented
+Unfälle	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+Verzichtleistung	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bundesbeiträge	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Damit	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+freiwillige	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Unfallversicherung	O	O	O	O	O	O	_	_	_
+verzichtet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Man	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	_
+Ausnahmegesetze	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nicht	O	O	O	O	O	O	_	_	_
+verallgemeinern	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Gegen	O	O	O	O	O	O	_	_	_
+außerberufliche	O	O	O	O	O	O	_	_	_
+Unfälle	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+stände	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Arbeitern	O	O	O	O	O	O	_	_	_
+frei	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+selber	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+versichern	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Gelde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+ihnen	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Entwurf	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Versicherung	O	O	O	O	O	O	_	_	_
+abnehmen	O	O	O	O	O	O	_	_	_
+will	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+freiwerdenden	O	O	O	O	O	O	_	_	_
+6	O	O	O	O	O	O	_	_	NoSpaceAfter
+—	O	O	O	O	O	O	_	_	NoSpaceAfter
+7	O	O	O	O	O	O	_	_	_
+Millionen	O	O	O	O	O	O	_	_	_
+Franken	O	O	O	O	O	O	_	_	_
+Bundesgelder	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#desgelder	O	O	O	O	O	O	_	_	_|Commented
+—	O	O	O	O	O	O	_	_	_
+meint	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Handelskammer	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+könnten	O	O	O	O	O	O	_	_	_
+Verwendung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wendung	O	O	O	O	O	O	_	_	_|Commented
+finden	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+weiteren	O	O	O	O	O	O	_	_	_
+Ausbau	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Krankenversicherung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#versicherung	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+später	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Invaliditätsversicherung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Altersversicherung	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+eventnell	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Todesversicherung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rung	O	O	O	O	O	O	_	_	_|Commented
+anzuschließen	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Etwa	O	O	O	O	O	O	_	_	_
+12	O	O	O	O	O	O	_	_	_
+Millionen	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Jahre	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dürfte	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bund	B-org	O	B-org.adm	O	O	O	Q675794	_	LED0.00
+dafür	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+Budget	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#get	O	O	O	O	O	O	_	_	_|Commented
+einstellen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+So	O	O	O	O	O	O	_	_	_
+ungefähr	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Skizze	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Vortragenden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Zürcher	B-org	O	B-org.ent	O	O	O	Q20012503	_	NoSpaceAfter|LED0.00|Normalized-4
+#¬	I-org	O	I-org.ent	O	O	O	Q20012503	_	EndOfLine|NoSpaceAfter|LED0.00|Commented
+# segment_iiif_link = _|Commented
+#cher	I-org	O	I-org.ent	O	O	O	Q20012503	_	LED0.00|Commented
+Handelskammer	I-org	O	I-org.ent	O	O	O	Q20012503	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+schließt	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Problem	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+engherzig	O	O	O	O	O	O	_	_	_
+angepackt	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+sie	O	O	O	O	O	O	_	_	_
+verlangt	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Krankenversicherung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rung	O	O	O	O	O	O	_	_	_|Commented
+auf	O	O	O	O	O	O	_	_	_
+breitester	O	O	O	O	O	O	_	_	_
+Grundlage	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+will	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Entwurf	O	O	O	O	O	O	_	_	_
+unmögliche	O	O	O	O	O	O	_	_	_
+Organisation	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Unfallversicherung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auf	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+praktischen	O	O	O	O	O	O	_	_	_
+Boden	O	O	O	O	O	O	_	_	_
+stellen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+Eindruck	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Vortrages	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+zahlreiche	O	O	O	O	O	O	_	_	_
+Versammlung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sammlung	O	O	O	O	O	O	_	_	_|Commented
+war	O	O	O	O	O	O	_	_	_
+angenscheinlich	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+tiefer	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+fast	O	O	O	O	O	O	_	_	_
+verblüffender	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fender	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Gegner	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Diskussion	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+interessanten	O	O	O	O	O	O	_	_	_
+Arbeit	O	O	O	O	O	O	_	_	_
+gerecht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Unfallversicherung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rung	O	O	O	O	O	O	_	_	_|Commented
+auf	O	O	O	O	O	O	_	_	_
+kollektive	O	O	O	O	O	O	_	_	_
+Grundlage	O	O	O	O	O	O	_	_	_
+gestellt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+müsse	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+darüber	O	O	O	O	O	O	_	_	_
+wenigstens	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+einig	O	O	O	O	O	O	_	_	_
+geworden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Natürlich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lich	O	O	O	O	O	O	_	_	_|Commented
+ließ	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Diskussion	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+überraschenden	O	O	O	O	O	O	_	_	_
+Anträge	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Handelskammer	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+deren	O	O	O	O	O	O	_	_	_
+Konseqnenzen	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Augenblick	O	O	O	O	O	O	_	_	_
+abzuschätzen	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+schwer	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	Q1336378	_	LED0.00
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	Q1336378	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q1336378	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+Klöti	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1336378	_	LED0.00
+eröffnete	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Reigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+indem	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Gründen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#den	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Defizite	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Oesterreich	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q40	Q40	LED0.00
+rc	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+fragte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+wollte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zwar	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+vornherein	O	O	O	O	O	O	_	_	_
+glauben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schweiz	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q39	Q39	LED0.00
+so	O	O	O	O	O	O	_	_	_
+schlecht	O	O	O	O	O	O	_	_	_
+wirtschaften	O	O	O	O	O	O	_	_	_
+würde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dann	O	O	O	O	O	O	_	_	_
+erklärte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+er	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Arbeiter	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+höhere	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+sechzigprozentige	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tige	O	O	O	O	O	O	_	_	_|Commented
+Entschädigung	O	O	O	O	O	O	_	_	_
+resp	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Rente	O	O	O	O	O	O	_	_	_
+wünschen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+fünfundsiebzig	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+achtzigprozentige	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Arbeitersekretär	B-pers	O	B-pers.ind	O	B-comp.function	O	Q91174	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+Greulich	I-pers	O	I-pers.ind	O	B-comp.name	O	Q91174	_	LED0.00
+gab	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Erklärung	O	O	O	O	O	O	_	_	_
+ab	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Arbeiter	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+als	O	O	O	O	O	O	_	_	_
+conditio	O	O	O	O	O	O	_	_	_
+sine	O	O	O	O	O	O	_	_	_
+qua	O	O	O	O	O	O	_	_	_
+non	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Mitbeteiligung	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Versicherungsverwaltung	O	O	O	O	O	O	_	_	_
+verlangen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Den	O	O	O	O	O	O	_	_	_
+eventuellen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Erlaß	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+Beitrages	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Prämien	O	O	O	O	O	O	_	_	_
+würden	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Arbeitgeber	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#beitgeber	O	O	O	O	O	O	_	_	_|Commented
+schon	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Lohne	O	O	O	O	O	O	_	_	_
+einbringen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Privatgesellschaften	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-14
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gesellschaften	O	O	O	O	O	O	_	_	_|Commented
+hätten	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Prämien	O	O	O	O	O	O	_	_	_
+weentlich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#entlich	O	O	O	O	O	O	_	_	_|Commented
+erhöht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+also	O	O	O	O	O	O	_	_	_
+müsse	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Monopolanstalt	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Etwas	O	O	O	O	O	O	_	_	_
+Mißtrauen	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Vorschläge	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Handelskammer	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kammer	O	O	O	O	O	O	_	_	_|Commented
+können	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Arbeiter	O	O	O	O	O	O	_	_	_
+überhaupt	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+unterdrücken	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#drücken	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Nationalrat	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	LED0.00
+A	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	LED0.00
+Frey	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	LED0.00
+orientierte	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Stand	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+parlamentarischen	O	O	O	O	O	O	_	_	_
+Beratung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Kommission	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nationalrates	B-org	O	B-org.adm	O	O	O	Q676078	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Geschäft	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Priorität	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sprach	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+einstimmig	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Monopolanstalt	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gerade	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Rücksicht	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+allseitige	O	O	O	O	O	O	_	_	_
+Kontrolle	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Greulich	B-pers	O	B-pers.ind	O	O	O	Q91174	_	LED0.00
+angetönt	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+private	O	O	O	O	O	O	_	_	_
+Gesellschaften	O	O	O	O	O	O	_	_	_
+würden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+natürlich	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Mitregieren	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Arbeiterschaft	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gefallen	O	O	O	O	O	O	_	_	_
+lassen	O	O	O	O	O	O	_	_	_
+wollen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+entschied	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+Einbezug	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bezug	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+außerberuflichen	O	O	O	O	O	O	_	_	_
+Unfälle	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wogegen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Arbeiter	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einen	O	O	O	O	O	O	_	_	_
+direkten	O	O	O	O	O	O	_	_	_
+Beitrag	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Prämie	O	O	O	O	O	O	_	_	_
+zahlen	O	O	O	O	O	O	_	_	_
+sollen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Für	O	O	O	O	O	O	_	_	_
+Franen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Kinder	O	O	O	O	O	O	_	_	_
+erhöhte	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Beiträge	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sinne	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Zürcher	B-org	O	B-org.ent	O	O	O	Q20012503	_	LED0.00
+Handelskammer	I-org	O	I-org.ent	O	O	O	Q20012503	_	NoSpaceAfter|LED0.00
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ueber	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Höhe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Entschädigungen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Renten	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+Beschluß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gefaßt	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+bekanntlich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	_
+Interessenverbände	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-16
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#teressenverbände	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Arbeiterbund	B-org	O	B-org.ent	O	O	O	Q1084142	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+Gewerbeverein	B-org	O	B-org.ent	O	O	O	Q693891	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+Bauernverband	B-org	O	B-org.ent	O	O	O	Q2256617	_	NoSpaceAfter|LED0.00|Normalized-7
+#¬	I-org	O	I-org.ent	O	O	O	Q2256617	_	EndOfLine|NoSpaceAfter|LED0.00|Commented
+# segment_iiif_link = _|Commented
+#verband	I-org	O	I-org.ent	O	O	O	Q2256617	_	LED0.00|Commented
+Eingaben	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Gestaltung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Vorlage	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gemacht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dazu	O	O	O	O	O	O	_	_	_
+kommt	O	O	O	O	O	O	_	_	_
+nun	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+bemerkenswerte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Zürcher	B-org	O	B-org.ent	O	O	O	Q20012503	_	LED0.00
+Handelskammer	I-org	O	I-org.ent	O	O	O	Q20012503	_	NoSpaceAfter|LED0.00
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+wohl	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+möglich	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+beabsichtigt	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Kommissionsarbeit	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#arbeit	O	O	O	O	O	O	_	_	_|Commented
+schon	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+nächste	O	O	O	O	O	O	_	_	_
+Session	O	O	O	O	O	O	_	_	_
+fertig	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+stellen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Eine	O	O	O	O	O	O	_	_	_
+Anfrage	O	O	O	O	O	O	_	_	_
+Prof	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	LED0.00
+Zürchers	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	LED0.00
+wie	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Betriebskrankheiten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-17
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#triebskrankheiten	O	O	O	O	O	O	_	_	_|Commented
+gehalten	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+solle	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+beantwortete	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Frey	B-pers	O	B-pers.ind	O	O	O	NIL	_	LED0.00
+dahin	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+nationalrätliche	O	O	O	O	O	O	_	_	_
+Kommission	O	O	O	O	O	O	_	_	_
+beschlossen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schlossen	O	O	O	O	O	O	_	_	_|Commented
+habe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Unfallversicherung	O	O	O	O	O	O	_	_	_
+einzubeziehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+ld	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter|LED0.00
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	LED0.00
+Verwalter	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	LED0.00
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	LED0.00
+Baugewerbekasse	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	NoSpaceAfter|LED0.00
+,	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	LED0.00
+Zürich	I-pers	O	I-pers.ind	O	I-comp.function	B-loc.adm.town	NIL	_	NoSpaceAfter|LED0.00
+,	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+orientierte	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+deren	O	O	O	O	O	O	_	_	_
+zwanzigjährige	O	O	O	O	O	O	_	_	_
+Gebaruug	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Erfahrung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fahrung	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Demnach	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Einbeziehung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+außerberuflichen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#beruflichen	O	O	O	O	O	O	_	_	_|Commented
+Unfälle	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+gefährlich	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+sie	O	O	O	O	O	O	_	_	_
+machten	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+3	O	O	O	O	O	O	_	_	NoSpaceAfter
+—	O	O	O	O	O	O	_	_	NoSpaceAfter
+6	O	O	O	O	O	O	_	_	_
+Prozent	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Vergütung	O	O	O	O	O	O	_	_	_
+erspare	O	O	O	O	O	O	_	_	_
+viele	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Umtriebe	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Scherereien	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Kasse	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+6	O	O	O	O	O	O	_	_	NoSpaceAfter
+—	O	O	O	O	O	O	_	_	NoSpaceAfter
+8	O	O	O	O	O	O	_	_	_
+Prozent	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Verwaltungskosten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+allerdings	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+System	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wie	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bundesrat	B-org	O	B-org.adm	O	O	O	Q30917	_	LED0.00
+es	O	O	O	O	O	O	_	_	_
+vorschlägt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Arbeiter	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+meint	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Berchtold	B-pers	O	B-pers.ind	O	O	O	NIL	_	LED0.00
+—	O	O	O	O	O	O	_	_	_
+müßten	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+allen	O	O	O	O	O	O	_	_	_
+Umständen	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+etwas	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Unfallprämien	O	O	O	O	O	O	_	_	_
+beitragen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Oberrichter	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	LED0.00
+Lang	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+denkt	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+Berchtold	B-pers	O	B-pers.ind	O	O	O	NIL	_	LED0.00
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+außerberuflichen	O	O	O	O	O	O	_	_	_
+Unfälle	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+In	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+kurzen	O	O	O	O	O	O	_	_	_
+Schlußwort	O	O	O	O	O	O	_	_	_
+gab	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Referent	B-pers	O	B-pers.ind	O	B-comp.function	O	Q91174	_	EndOfLine|NoSpaceAfter|LED0.00
+# segment_iiif_link = _
+Hrn	I-pers	O	I-pers.ind	O	B-comp.title	O	Q91174	_	NoSpaceAfter|LED0.00
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q91174	_	LED0.00
+Greulich	I-pers	O	I-pers.ind	O	B-comp.name	O	Q91174	_	LED0.00
+freimütig	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Handelskammer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+natürlich	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Standpunkt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Interessen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Industriellen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#dustriellen	O	O	O	O	O	O	_	_	_|Commented
+vertrete	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Zu	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+schlechten	O	O	O	O	O	O	_	_	_
+Resultaten	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Oesterreich	B-loc	O	B-loc.adm.nat	O	O	O	Q40	_	LED0.00
+habe	O	O	O	O	O	O	_	_	_
+vielleicht	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+mangelhafte	O	O	O	O	O	O	_	_	_
+Kontrolle	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Staates	O	O	O	O	O	O	_	_	_
+beigetragen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Oesterreich	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q40	Q40	LED0.00
+hätte	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Lehrjahre	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hinter	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Sache	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+seit	B-time	O	B-time.date.abs	O	O	O	NIL	_	LED0.00
+1889	I-time	O	I-time.date.abs	O	O	O	NIL	_	LED0.00
+praktiziert	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Greulich	B-pers	O	B-pers.ind	O	O	O	Q91174	_	LED0.00
+hatte	O	O	O	O	O	O	_	_	_
+beantragt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+heutigen	O	O	O	O	O	O	_	_	_
+Besprechung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+weitere	O	O	O	O	O	O	_	_	_
+folgen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+lassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+denen	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+anderen	O	O	O	O	O	O	_	_	_
+Interessentenkreise	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-17
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#teressentenkreise	O	O	O	O	O	O	_	_	_|Commented
+zum	O	O	O	O	O	O	_	_	_
+Worte	O	O	O	O	O	O	_	_	_
+kämen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auf	O	O	O	O	O	O	_	_	_
+Antrag	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Boos	B-pers	O	B-pers.ind	O	O	O	Q31271042	_	NoSpaceAfter|LED0.00
+-	I-pers	O	I-pers.ind	O	O	O	Q31271042	_	NoSpaceAfter|LED0.00
+Jegher	I-pers	O	I-pers.ind	O	O	O	Q31271042	_	LED0.00
+wurde	O	O	O	O	O	O	_	_	_
+wenigstens	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+nächsten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Monat	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Diskussionsabend	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Aussicht	O	O	O	O	O	O	_	_	_
+genommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Materie	O	O	O	O	O	O	_	_	_
+weiter	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+erdauern	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Kurze	O	O	O	O	O	O	_	_	_
+einleitende	O	O	O	O	O	O	_	_	_
+Voten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sagten	O	O	O	O	O	O	_	_	_
+Greulich	B-pers	O	B-pers.ind	O	O	O	Q91174	_	LED0.00
+und	O	O	O	O	O	O	_	_	_
+Boos	B-pers	O	B-pers.ind	O	O	O	Q31271042	_	NoSpaceAfter|LED0.00
+-	I-pers	O	I-pers.ind	O	O	O	Q31271042	_	NoSpaceAfter|LED0.00
+Jegher	I-pers	O	I-pers.ind	O	O	O	Q31271042	_	LED0.00
+zu	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+
