@@ -1,0 +1,356 @@
+# language = de
+# newspaper = luxwort
+# date = 1948-11-06
+# document_id = luxwort-1948-11-06-a-i0044
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3079,544,533,47/full/0/default.jpg
+12	O	O	O	O	O	O	_	_	_
+Stürmer	O	O	O	O	O	O	_	_	_
+schießen	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Goal	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3042,591,635,47/full/0/default.jpg
+Es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+beschämend	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zwölf	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3003,630,690,47/full/0/default.jpg
+österreichische	O	O	O	O	O	O	_	_	_
+Stürmer	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+A	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+B	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Team	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3003,678,692,45/full/0/default.jpg
+gegen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Tschechoslowakei	B-loc	B-org	B-loc.adm.nat	B-org.ent	O	O	Q33946	Q182072	_
+in	O	O	O	O	O	O	_	_	_
+Wien	B-loc	O	B-loc.adm.town	O	O	O	Q1741	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3003,709,693,47/full/0/default.jpg
+und	O	O	O	O	O	O	_	_	_
+Bratislava	B-loc	O	B-loc.adm.town	O	O	O	Q1780	_	_
+antraten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+schössen	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3004,748,691,47/full/0/default.jpg
+einen	O	O	O	O	O	O	_	_	_
+Treffer	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Mann	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3004,787,692,48/full/0/default.jpg
+Kunststück	O	O	O	O	O	O	_	_	_
+zuwege	O	O	O	O	O	O	_	_	_
+brachte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3005,826,691,48/full/0/default.jpg
+Nestor	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Dutzend	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+35jährige	B-pers	O	B-pers.ind	O	B-comp.qualifier	O	Q674892	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3007,867,689,54/full/0/default.jpg
+Pepi	I-pers	O	I-pers.ind	O	B-comp.name	O	Q674892	_	_
+Stroh	I-pers	O	I-pers.ind	O	I-comp.name	O	Q674892	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Wiener	B-org	O	B-org.ent	O	B-comp.demonym	O	Q131209	_	_
+Austria	I-org	O	I-org.ent	O	O	O	Q131209	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3007,914,672,40/full/0/default.jpg
+waren	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+zehn	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+zwölf	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3008,953,668,44/full/0/default.jpg
+Stürmer	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+je	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Mann	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+beiden	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3007,986,689,47/full/0/default.jpg
+Mannschaften	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Pause	O	O	O	O	O	O	_	_	_
+ausgetauscht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3009,1026,113,43/full/0/default.jpg
+wurde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3048,1063,652,48/full/0/default.jpg
+War	O	O	O	O	O	O	_	_	_
+bisher	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Stürmerreihe	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3009,1103,692,54/full/0/default.jpg
+Sorgenkind	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Verbandskapitäns	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3009,1150,692,40/full/0/default.jpg
+es	O	O	O	O	O	O	_	_	_
+nun	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Halfreihe	O	O	O	O	O	O	_	_	_
+geworden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+denn	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3010,1182,693,47/full/0/default.jpg
+außer	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Mittelläufer	B-pers	O	B-pers.ind	O	B-comp.function	O	Q697373	_	_
+Gewirk	I-pers	O	I-pers.ind	O	B-comp.name	O	Q697373	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3010,1222,695,47/full/0/default.jpg
+Austria	B-org	O	B-org.ent	O	O	O	Q131209	_	_
+zeigten	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+beiden	O	O	O	O	O	O	_	_	_
+Helfer	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3010,1261,694,48/full/0/default.jpg
+nicht	O	O	O	O	O	O	_	_	_
+viel	O	O	O	O	O	O	_	_	_
+erfreuliches	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Lediglich	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3010,1301,674,47/full/0/default.jpg
+Tormann	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Verteidigung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3010,1342,677,45/full/0/default.jpg
+konnten	O	O	O	O	O	O	_	_	_
+befriedigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Während	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3011,1380,674,47/full/0/default.jpg
+österreichische	O	O	O	O	O	O	_	_	_
+Nationalmannschaft	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3011,1419,693,47/full/0/default.jpg
+Bratislava	B-loc	O	B-loc.adm.town	O	O	O	Q1780	_	_
+3	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	NoSpaceAfter
+1	O	O	O	O	O	O	_	_	_
+besiegt	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+unterlag	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3011,1459,693,45/full/0/default.jpg
+das	O	O	O	O	O	O	_	_	_
+österreichische	O	O	O	O	O	O	_	_	_
+B	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Team	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Wien	B-loc	O	B-loc.adm.town	O	O	O	Q1741	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3011,1498,693,47/full/0/default.jpg
+bei	O	O	O	O	O	O	_	_	_
+strömendem	O	O	O	O	O	O	_	_	_
+Regen	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+35	O	O	O	O	O	O	_	_	_
+000	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3014,1537,307,45/full/0/default.jpg
+Zuschauern	O	O	O	O	O	O	_	_	_
+1	O	O	O	O	O	O	_	_	NoSpaceAfter
+—	O	O	O	O	O	O	_	_	NoSpaceAfter
+0	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3051,1578,641,45/full/0/default.jpg
+Der	O	O	O	O	O	O	_	_	_
+einzige	O	O	O	O	O	O	_	_	_
+Hoffnungsstrahl	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3012,1624,675,38/full/0/default.jpg
+diesem	O	O	O	O	O	O	_	_	_
+Unglück	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Wiener	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3014,1658,692,50/full/0/default.jpg
+Jugendteam	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+slovakische	O	O	O	O	O	O	_	_	_
+Jugend	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3014,1694,675,47/full/0/default.jpg
+in	O	O	O	O	O	O	_	_	_
+Bratislava	B-loc	O	B-loc.adm.town	O	O	O	Q1780	_	_
+antrat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3014,1738,524,43/full/0/default.jpg
+ausgezeichnet	O	O	O	O	O	O	_	_	_
+spielte	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+3	O	O	O	O	O	O	_	_	NoSpaceAfter
+—	O	O	O	O	O	O	_	_	NoSpaceAfter
+1	O	O	O	O	O	O	_	_	_
+gewann	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3054,1782,637,48/full/0/default.jpg
+Und	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Länderkampf	O	O	O	O	O	O	_	_	_
+ging	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3641,1790,50,40/full/0/default.jpg
+verlor	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3055,1862,655,47/full/0/default.jpg
+en	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Tischtennisspieler	O	O	O	O	O	O	_	_	_
+führten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3015,1902,695,47/full/0/default.jpg
+einen	O	O	O	O	O	O	_	_	_
+Länderkampf	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Ungarn	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3015,1948,695,40/full/0/default.jpg
+waren	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Wien	B-loc	O	B-loc.adm.town	O	O	O	Q1741	_	_
+zu	O	O	O	O	O	O	_	_	_
+Gast	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+setzten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3016,1981,694,45/full/0/default.jpg
+ihre	O	O	O	O	O	O	_	_	_
+Siegesserie	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+seit	O	O	O	O	O	O	_	_	_
+zehn	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3016,2020,678,47/full/0/default.jpg
+hat	O	O	O	O	O	O	_	_	_
+Oesterreich	B-loc	B-org	B-loc.adm.nat	B-org.ent	O	O	Q40	NIL	_
+noch	O	O	O	O	O	O	_	_	_
+keinen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3018,2059,693,54/full/0/default.jpg
+Länderkampf	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+Ungarn	B-loc	B-org	B-loc.adm.nat	B-org.ent	O	O	Q28	NIL	_
+gewonnen	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+fort	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3017,2100,696,47/full/0/default.jpg
+5	O	O	O	O	O	O	_	_	NoSpaceAfter
+—	O	O	O	O	O	O	_	_	NoSpaceAfter
+1	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+Oesterreich	B-loc	B-org	B-loc.adm.nat	B-org.ent	O	O	Q40	NIL	_
+geschlagen	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3018,2140,678,47/full/0/default.jpg
+auch	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+anschließenden	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3018,2180,696,47/full/0/default.jpg
+internationalen	O	O	O	O	O	O	_	_	_
+Meisterschaften	O	O	O	O	O	O	_	_	_
+kamen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3020,2219,693,48/full/0/default.jpg
+Gäste	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+CSR	B-loc	O	B-loc.adm.nat	O	O	O	Q33946	_	_
+und	O	O	O	O	O	O	_	_	_
+Ungarn	B-loc	O	B-loc.adm.nat	O	O	O	Q28	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3020,2259,676,53/full/0/default.jpg
+Siegen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Den	O	O	O	O	O	O	_	_	_
+einzigen	O	O	O	O	O	O	_	_	_
+Punkt	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3020,2299,673,45/full/0/default.jpg
+Oesterreich	B-loc	B-org	B-loc.adm.nat	B-org.ent	O	O	Q40	NIL	_
+erzielte	O	O	O	O	O	O	_	_	_
+Just	B-pers	O	B-pers.ind	O	O	O	Q1609902	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+besten	B-pers	O	B-pers.ind	O	B-comp.qualifier	O	Q925782	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3020,2346,486,44/full/0/default.jpg
+Ungarn	I-pers	O	I-pers.ind	O	B-comp.demonym	O	Q925782	_	_
+Sido	I-pers	O	I-pers.ind	O	B-comp.name	O	Q925782	_	_
+schlagen	O	O	O	O	O	O	_	_	_
+kannte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3767,542,647,47/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+ehemalige	B-pers	O	B-pers.ind	O	B-comp.function	O	Q174395	_	_
+Weltmeisterin	I-pers	O	I-pers.ind	O	I-comp.function	O	Q174395	_	_
+Pritzi	I-pers	O	I-pers.ind	O	B-comp.name	O	Q174395	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3731,582,684,47/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+heuer	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Monat	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Luxemburg	B-loc	O	B-loc.adm.town	O	O	O	Q1842	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3731,621,684,51/full/0/default.jpg
+weilte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+verlor	O	O	O	O	O	O	_	_	_
+knapp	O	O	O	O	O	O	_	_	_
+3	O	O	O	O	O	O	_	_	NoSpaceAfter
+—	O	O	O	O	O	O	_	_	NoSpaceAfter
+2	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fzjb2vq%2fpages%2f9/3731,660,574,51/full/0/default.jpg
+ausgezeichnete	B-pers	O	B-pers.ind	O	B-comp.qualifier	O	Q461223	_	_
+Ungarin	I-pers	O	I-pers.ind	O	B-comp.demonym	O	Q461223	_	_
+Farkas	I-pers	O	I-pers.ind	O	B-comp.name	O	Q461223	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

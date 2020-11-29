@@ -1,0 +1,2503 @@
+# language = de
+# newspaper = NZZ
+# date = 1898-06-10
+# document_id = NZZ-1898-06-10-c-p0001
+# segment_iiif_link = _
+Ueber	O	O	O	O	O	O	_	_	_
+spanische	O	O	O	O	O	O	_	_	_
+Seekämpfe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Serleute	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Seehäfen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Snre	O	O	O	O	O	O	_	_	_
+nhlte	O	O	O	O	O	O	_	_	_
+beriaen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+IV	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+So	O	O	O	O	O	O	_	_	_
+zahlreich	O	O	O	O	O	O	_	_	_
+nun	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+spanischen	O	O	O	O	O	O	_	_	_
+Seeleute	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#leute	O	O	O	O	O	O	_	_	_|Commented
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+läßt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+ihren	O	O	O	O	O	O	_	_	_
+Wert	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+streiten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Da	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+lange	O	O	O	O	O	O	_	_	_
+Küste	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Barcelona	B-loc	O	B-loc.adm.town	O	O	O	Q1492	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bis	O	O	O	O	O	O	_	_	_
+Tarifa	B-loc	O	B-loc.adm.town	O	O	O	Q222702	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+eine	O	O	O	O	O	O	_	_	_
+warme	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sturmfreie	O	O	O	O	O	O	_	_	_
+Küste	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Fortsetzung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Riviera	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Stürme	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Mittelmeer	B-loc	O	B-loc.phys.hydro	O	O	O	Q4918	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sind	O	O	O	O	O	O	_	_	_
+Altweiberstürme	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+mögen	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+nun	O	O	O	O	O	O	_	_	_
+spanische	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Levante	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+französischer	O	O	O	O	O	O	_	_	_
+Mistral	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+adriatische	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bora	O	O	O	O	O	O	_	_	_
+heißen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wenn	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Altertum	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schiffahrt	O	O	O	O	O	O	_	_	_
+gebotene	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+erlaubte	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+verbotene	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Jahreszeit	O	O	O	O	O	O	_	_	_
+gab	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+beweist	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+damals	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+Ahnung	O	O	O	O	O	O	_	_	_
+davon	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wirklicher	O	O	O	O	O	O	_	_	_
+Sturm	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+wenn	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+gewußt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hätte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+würde	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Schiffahrt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+weit	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+Mittelmeer	B-loc	O	B-loc.phys.hydro	O	O	O	Q4918	_	_
+betrifft	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+Jahreszeiten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gestattet	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Stürme	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Durchschlagskraft	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+besitzen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+denen	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+etwas	O	O	O	O	O	O	_	_	_
+sehen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hören	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+üben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+lernen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Seemann	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kann	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+giebt	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Ost	B-loc	O	B-loc.phys.hydro	O	O	O	Q545	_	NoSpaceAfter
+-	I-loc	O	I-loc.phys.hydro	O	O	O	Q545	_	_
+und	O	O	O	O	O	O	_	_	_
+Nordsee	B-loc	O	B-loc.phys.hydro	O	O	O	Q1693	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+was	O	O	O	O	O	O	_	_	_
+drum	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+dran	O	O	O	O	O	O	_	_	_
+hängt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+englischen	B-loc	O	B-loc.phys.hydro	O	O	O	Q34640	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kanal	I-loc	O	I-loc.phys.hydro	O	O	O	Q34640	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Nordatlantik	B-loc	O	B-loc.phys.hydro	O	O	O	Q350134	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Kap	B-loc	O	B-loc.phys.geo	O	O	O	Q4078	_	_
+Horn	I-loc	O	I-loc.phys.geo	O	O	O	Q4078	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kap	B-loc	O	B-loc.phys.geo	O	O	O	Q4092	_	_
+der	I-loc	O	I-loc.phys.geo	O	O	O	Q4092	_	_
+guten	I-loc	O	I-loc.phys.geo	O	O	O	Q4092	_	_
+Hoffnung	I-loc	O	I-loc.phys.geo	O	O	O	Q4092	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Nord	B-loc	O	B-loc.phys.geo	O	O	O	Q934	_	NoSpaceAfter
+-	I-loc	O	I-loc.phys.geo	O	O	O	Q934	_	_
+und	O	O	O	O	O	O	_	_	_
+Südpol	B-loc	O	B-loc.phys.geo	O	O	O	Q933	_	NoSpaceAfter|Normalized-3
+#¬	I-loc	O	I-loc.phys.geo	O	O	O	Q933	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#pol	I-loc	O	I-loc.phys.geo	O	O	O	Q933	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bai	B-loc	O	B-loc.phys.hydro	O	O	O	Q41573	_	_
+von	I-loc	O	I-loc.phys.hydro	O	O	O	Q41573	_	_
+Biscaja	I-loc	O	I-loc.phys.hydro	O	O	O	Q41573	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Alles	O	O	O	O	O	O	_	_	_
+andere	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ist	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+Tand	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+und	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+meisten	O	O	O	O	O	O	_	_	_
+Tand	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+warmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wohlriechenden	O	O	O	O	O	O	_	_	_
+Stürme	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Mittelmeeres	B-loc	O	B-loc.phys.hydro	O	O	O	Q4918	_	NoSpaceAfter|Normalized-6
+#¬	I-loc	O	I-loc.phys.hydro	O	O	O	Q4918	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#meeres	I-loc	O	I-loc.phys.hydro	O	O	O	Q4918	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+Wort	O	O	O	O	O	O	_	_	_
+Sturm	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Zusammenhang	O	O	O	O	O	O	_	_	_
+gedacht	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Schneetreiben	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#treiben	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+beeistem	O	O	O	O	O	O	_	_	_
+Tauwerk	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+nur	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Beigaben	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gaben	O	O	O	O	O	O	_	_	_|Commented
+schließen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Schulung	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Abhärtung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ein	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+und	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Beigaben	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Mittelmeer	B-loc	O	B-loc.phys.hydro	O	O	O	Q4918	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nicht	O	O	O	O	O	O	_	_	_
+gefunden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Eine	O	O	O	O	O	O	_	_	_
+höchst	O	O	O	O	O	O	_	_	_
+wunderbare	O	O	O	O	O	O	_	_	_
+Theorie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ist	O	O	O	O	O	O	_	_	_
+diejenige	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Nordpolfahrer	B-pers	O	B-pers.ind	O	B-comp.function	B-loc.phys.geo	Q223249	_	_
+Payer	I-pers	O	I-pers.ind	O	B-comp.name	O	Q223249	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aufgestellt	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+künftige	O	O	O	O	O	O	_	_	_
+Nordpolexpedition	B-loc	O	B-loc.phys.geo	O	O	O	Q934	_	NoSpaceAfter|Partial-0:7|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#dition	O	O	O	O	O	O	_	_	_|Commented
+nur	O	O	O	O	O	O	_	_	_
+deshalb	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dalmatinischen	O	O	O	O	O	O	_	_	_
+Matrosen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ausrüsten	O	O	O	O	O	O	_	_	_
+wollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+Oefen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sondern	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+frische	O	O	O	O	O	O	_	_	_
+Luft	O	O	O	O	O	O	_	_	_
+gewöhnt	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+frische	O	O	O	O	O	O	_	_	_
+Luft	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Mittelmeerküsten	B-loc	O	B-loc.phys.hydro	O	O	O	Q4918	_	NoSpaceAfter|Partial-0:10
+!	O	O	O	O	O	O	_	_	_|EOS
+
+Wenn	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Theorie	O	O	O	O	O	O	_	_	_
+Payers	B-pers	O	B-pers.ind	O	O	O	Q223249	_	_
+Glauben	O	O	O	O	O	O	_	_	_
+schenken	O	O	O	O	O	O	_	_	_
+wollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+so	O	O	O	O	O	O	_	_	_
+müßten	O	O	O	O	O	O	_	_	_
+also	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Leute	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+je	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Norden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+je	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+nächst	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Nordpol	B-loc	O	B-loc.phys.geo	O	O	O	Q934	_	_
+wohnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+Oefen	O	O	O	O	O	O	_	_	_
+anwenden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sogar	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Erdhöhlen	O	O	O	O	O	O	_	_	_
+verkriechen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+desto	O	O	O	O	O	O	_	_	_
+ungeeigneter	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#neter	O	O	O	O	O	O	_	_	_|Commented
+für	O	O	O	O	O	O	_	_	_
+Nordpolreisen	B-loc	O	B-loc.phys.geo	O	O	O	Q934	_	Partial-0:7
+sein	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+einschließlich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Eskimos	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ich	O	O	O	O	O	O	_	_	_
+ziehe	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mich	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Theorie	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+halten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+lieber	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+glauben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Mittelmeerseeleute	B-loc	O	B-loc.phys.hydro	O	O	O	Q4918	_	NoSpaceAfter|Partial-0:10
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+meisten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Spanier	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+langen	O	O	O	O	O	O	_	_	_
+spanischen	O	O	O	O	O	O	_	_	_
+Reviera	B-loc	O	B-loc.phys.geo	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wohl	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Mittelmeer	B-loc	O	B-loc.phys.hydro	O	O	O	Q4918	_	_
+genügendes	O	O	O	O	O	O	_	_	_
+leisten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kühleren	O	O	O	O	O	O	_	_	_
+Gegenden	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+weniger	O	O	O	O	O	O	_	_	_
+leisten	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+was	O	O	O	O	O	O	_	_	_
+bedeutet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+spanischen	O	O	O	O	O	O	_	_	_
+subjektiven	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tiven	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+objektiven	O	O	O	O	O	O	_	_	_
+Sinne	O	O	O	O	O	O	_	_	_
+Seeleute	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+genannt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+An	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Nordküste	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ich	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	_
+mich	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+spanischen	O	O	O	O	O	O	_	_	_
+Mittelmeerwie	B-loc	O	B-loc.phys.hydro	O	O	O	Q4918	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wie	O	O	O	O	O	O	_	_	_|Commented
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Nordküste	O	O	O	O	O	O	_	_	_
+je	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Jahr	O	O	O	O	O	O	_	_	_
+aufgehalten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+kenne	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+klimatischen	O	O	O	O	O	O	_	_	_
+Verhältnisse	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+allen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Jahreszeiten	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Leute	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+eigener	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Anschauung	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Nordküste	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Gelegenheit	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#heit	O	O	O	O	O	O	_	_	_|Commented
+zur	O	O	O	O	O	O	_	_	_
+Bildung	O	O	O	O	O	O	_	_	_
+tüchtiger	O	O	O	O	O	O	_	_	_
+Seeleute	O	O	O	O	O	O	_	_	_
+günstiger	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Aber	O	O	O	O	O	O	_	_	_
+vollkommen	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+giebt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dort	O	O	O	O	O	O	_	_	_
+schwere	O	O	O	O	O	O	_	_	_
+Nordstürme	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hohen	O	O	O	O	O	O	_	_	_
+Seegang	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Klippen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+allen	O	O	O	O	O	O	_	_	_
+Formen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+immerwährende	O	O	O	O	O	O	_	_	_
+prächtige	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Brandung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Aber	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+fehlt	O	O	O	O	O	O	_	_	_
+Schnee	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Eis	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nordküste	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+beinahe	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+warm	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Mittelmeerküste	B-loc	O	B-loc.phys.hydro	O	O	O	Q4918	_	NoSpaceAfter|Normalized-9
+#¬	I-loc	O	I-loc.phys.hydro	O	O	O	Q4918	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#meerküste	I-loc	O	I-loc.phys.hydro	O	O	O	Q4918	_	NoSpaceAfter|Partial--8:4|Commented
+;	O	O	O	O	O	O	_	_	_|EOS
+
+der	O	O	O	O	O	O	_	_	_
+Januar	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Kantabrien	B-loc	O	B-loc.adm.reg	O	O	O	Q3946	_	_
+noch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mehr	O	O	O	O	O	O	_	_	_
+Veilchenmonat	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Andalusien	B-loc	O	B-loc.adm.reg	O	O	O	Q5783	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+warmen	O	O	O	O	O	O	_	_	_
+Küsten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+denen	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+geboren	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+veranlaßt	O	O	O	O	O	O	_	_	_
+denn	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+spanischen	O	O	O	O	O	O	_	_	_
+Seeleute	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#leute	O	O	O	O	O	O	_	_	_|Commented
+folgerichtig	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Seefahrt	O	O	O	O	O	O	_	_	_
+ähnliche	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Himmelsstriche	O	O	O	O	O	O	_	_	_
+vorzuziehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schönwetterzonen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+finden	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+d	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+h	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Wege	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Westindien	B-loc	O	B-loc.adm.reg	O	O	O	Q1151567	_	_
+und	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Philippinen	B-loc	O	B-loc.adm.nat	O	O	O	Q928	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ich	O	O	O	O	O	O	_	_	_
+glaube	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+kein	O	O	O	O	O	O	_	_	_
+spanisches	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Handelsschiff	O	O	O	O	O	O	_	_	_
+giebt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+südlich	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Rio	B-loc	O	B-loc.phys.hydro	O	O	O	Q35827	_	_
+del	I-loc	O	I-loc.phys.hydro	O	O	O	Q35827	_	_
+la	I-loc	O	I-loc.phys.hydro	O	O	O	Q35827	_	_
+Plata	I-loc	O	I-loc.phys.hydro	O	O	O	Q35827	_	_
+hinausgeht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wenige	O	O	O	O	O	O	_	_	_
+giebt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+nördlich	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+New	B-loc	O	B-loc.adm.town	O	O	O	Q60	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.town	O	O	O	Q60	_	NoSpaceAfter
+York	I-loc	O	I-loc.adm.town	O	O	O	Q60	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+oder	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Nordsee	B-loc	O	B-loc.phys.hydro	O	O	O	Q1693	_	_
+hinauf	O	O	O	O	O	O	_	_	_
+wagen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wenn	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+wagen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+thun	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sommer	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+spanische	O	O	O	O	O	O	_	_	_
+Minister	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Aeußern	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hat	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+neulichen	O	O	O	O	O	O	_	_	_
+Ministerrate	O	O	O	O	O	O	_	_	_
+behauptet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+daß	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+Ressort	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+Ersparungen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+machen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+Posten	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+überflüssig	O	O	O	O	O	O	_	_	_
+einziehen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+könne	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Trotzdem	O	O	O	O	O	O	_	_	_
+sitzt	O	O	O	O	O	O	_	_	_
+oben	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Finnland	B-loc	O	B-loc.adm.nat	O	O	O	Q33	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Helsingford	B-loc	O	B-loc.adm.town	O	O	O	Q1757	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+spanischer	O	O	O	O	O	O	_	_	_
+Berufskonsul	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mir	O	O	O	O	O	O	_	_	_
+befreundete	O	O	O	O	O	O	_	_	_
+Schriftsteller	B-pers	O	B-pers.ind	O	B-comp.function	O	Q706889	_	_
+Ganivet	I-pers	O	I-pers.ind	O	B-comp.name	O	Q706889	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+während	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+vielen	O	O	O	O	O	O	_	_	_
+Jahre	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+dort	O	O	O	O	O	O	_	_	_
+oben	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Konsul	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+niemals	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+spanisches	O	O	O	O	O	O	_	_	_
+Schiff	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+überhaupt	O	O	O	O	O	O	_	_	_
+niemals	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Spanier	O	O	O	O	O	O	_	_	_
+gesehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+beantragt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+fortwährend	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+Konsulat	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+übrigen	O	O	O	O	O	O	_	_	_
+spanischen	O	O	O	O	O	O	_	_	_
+Ostseekonsulate	B-loc	O	B-loc.phys.hydro	O	O	O	Q545	_	Partial-0:6
+eingehen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gehen	O	O	O	O	O	O	_	_	_|Commented
+zu	O	O	O	O	O	O	_	_	_
+lassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+erhört	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Uebungsfeld	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+spanischen	O	O	O	O	O	O	_	_	_
+Seeleute	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+also	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hauptsächlich	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Spanien	B-org	O	B-org.adm	O	O	O	Q29	_	_
+ab	O	O	O	O	O	O	_	_	_
+westsüdwestlichen	B-loc	O	B-loc.phys.hydro	O	O	O	NIL	_	NoSpaceAfter|Normalized-10
+#¬	I-loc	O	I-loc.phys.hydro	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#westlichen	I-loc	O	I-loc.phys.hydro	O	O	O	NIL	_	_|Commented
+Atlantik	I-loc	O	I-loc.phys.hydro	O	O	O	NIL	_	_
+beschränkt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Golfo	B-loc	O	B-loc.phys.hydro	O	O	O	NIL	_	_
+de	I-loc	O	I-loc.phys.hydro	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+las	I-loc	O	I-loc.phys.hydro	O	O	O	NIL	_	_
+Damas	I-loc	O	I-loc.phys.hydro	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+heißt	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+deutsch	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+deine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schwester	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	_
+spazieren	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+lauteten	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Worte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+denen	O	O	O	O	O	O	_	_	_
+mir	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Steuermann	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dem	O	O	O	O	O	O	_	_	_
+ich	O	O	O	O	O	O	_	_	_
+meine	O	O	O	O	O	O	_	_	_
+Reise	O	O	O	O	O	O	_	_	_
+dort	O	O	O	O	O	O	_	_	_
+machte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+spanische	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Benennung	O	O	O	O	O	O	_	_	_
+übersetzte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Namen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Führer	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+deren	O	O	O	O	O	O	_	_	_
+Befehl	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Spanier	O	O	O	O	O	O	_	_	_
+ins	O	O	O	O	O	O	_	_	_
+Gefecht	O	O	O	O	O	O	_	_	_
+gehen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Vorgeschichte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#geschichte	O	O	O	O	O	O	_	_	_|Commented
+derselben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+ebenfalls	O	O	O	O	O	O	_	_	_
+schwerlich	O	O	O	O	O	O	_	_	_
+dazu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+angethan	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+irgend	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Zuversicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nicht	O	O	O	O	O	O	_	_	_
+gerade	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+spanische	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+schaffen	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+stärken	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Verhältnisse	O	O	O	O	O	O	_	_	_
+liegen	O	O	O	O	O	O	_	_	_
+ähnlich	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	_
+Marine	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+denn	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+spanischen	O	O	O	O	O	O	_	_	_
+vererben	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Admiralsfamilien	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kommando	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schiffe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Valcarcel	B-pers	O	B-pers.coll	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Chacon	B-pers	O	B-pers.coll	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Churrucca	B-pers	O	B-pers.coll	O	O	O	NIL	_	_
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+s	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+w	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+bekleiden	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+deshalb	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hohe	O	O	O	O	O	O	_	_	_
+Kommandos	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Häfen	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Marineministerium	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ministerium	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Vorfahren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auch	O	O	O	O	O	O	_	_	_
+gerade	O	O	O	O	O	O	_	_	_
+nichts	O	O	O	O	O	O	_	_	_
+nützliches	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+epochemachendes	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+so	O	O	O	O	O	O	_	_	_
+doch	O	O	O	O	O	O	_	_	_
+etwas	O	O	O	O	O	O	_	_	_
+klangreiches	O	O	O	O	O	O	_	_	_
+gethan	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Für	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Seehelden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hält	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+Volk	O	O	O	O	O	O	_	_	_
+gewisse	O	O	O	O	O	O	_	_	_
+Leute	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+ebensowenig	O	O	O	O	O	O	_	_	_
+gethan	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aber	O	O	O	O	O	O	_	_	_
+häufig	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Zeitungen	O	O	O	O	O	O	_	_	_
+gestanden	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Da	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+Concas	B-pers	O	B-pers.ind	O	O	O	Q6165647	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+1892	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+die	O	O	O	O	O	O	_	_	_
+Nachahmungen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Kolumbuskaravelen	B-pers	O	B-pers.ind	O	O	O	Q7322	_	Partial-0:8
+nach	O	O	O	O	O	O	_	_	_
+Amerika	B-loc	O	B-loc.adm.sup	O	O	O	Q828	_	_
+hinüberschaffte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schaffte	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+vielmehr	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+modernen	O	O	O	O	O	O	_	_	_
+Kriegsschiffen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schiffen	O	O	O	O	O	O	_	_	_|Commented
+dorthin	O	O	O	O	O	O	_	_	_
+bugsieren	O	O	O	O	O	O	_	_	_
+ließ	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+seitdem	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gelungen	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+besitzt	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+Ruf	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+gilt	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vielversprechenden	O	O	O	O	O	O	_	_	_
+Seemann	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dasselbe	O	O	O	O	O	O	_	_	_
+gilt	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Aunnen	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+Seeheldentum	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+armseligen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Thatsache	O	O	O	O	O	O	_	_	_
+verdankt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+einmal	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Kommandant	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#dant	O	O	O	O	O	O	_	_	_|Commented
+eines	O	O	O	O	O	O	_	_	_
+Kriegsschiffes	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Rio	B-loc	O	B-loc.phys.hydro	O	O	O	Q35827	_	_
+de	I-loc	O	I-loc.phys.hydro	O	O	O	Q35827	_	_
+la	I-loc	O	I-loc.phys.hydro	O	O	O	Q35827	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Plata	I-loc	O	I-loc.phys.hydro	O	O	O	Q35827	_	_
+lag	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Madrider	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schiff	O	O	O	O	O	O	_	_	_
+zurückrief	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Gehorsam	O	O	O	O	O	O	_	_	_
+verweigerte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Staatsangehörigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Revolution	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+Buenos	B-loc	O	B-loc.adm.town	O	O	O	Q1486	_	_
+Aires	I-loc	O	I-loc.adm.town	O	O	O	Q1486	_	_
+bedroht	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+schützen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Da	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+Villamil	B-pers	O	B-pers.ind	O	B-comp.name	O	Q5444959	_	_
+Kommandant	I-pers	O	I-pers.ind	O	B-comp.function	O	Q5444959	_	_
+eines	I-pers	O	I-pers.ind	O	I-comp.function	O	Q5444959	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Seekadettenschulschiffs	I-pers	O	I-pers.ind	O	I-comp.function	O	Q5444959	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	I-comp.function	O	Q5444959	_	_
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	Q5444959	_	_
+Segelfregatte	I-pers	O	I-pers.ind	O	I-comp.function	O	Q5444959	_	_
+Nautilus	I-pers	O	I-pers.ind	O	I-comp.function	O	Q5444959	_	NoSpaceAfter|Normalized-5
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	Q5444959	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tilus	I-pers	O	I-pers.ind	O	I-comp.function	O	Q5444959	_	NoSpaceAfter|Commented
+,	I-pers	O	I-pers.ind	O	O	O	Q5444959	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Reise	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Welt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+machte	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+dabei	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+antarktischen	O	O	O	O	O	O	_	_	_
+Eise	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Berührung	O	O	O	O	O	O	_	_	_
+kam	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Daß	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+weit	O	O	O	O	O	O	_	_	_
+südlich	O	O	O	O	O	O	_	_	_
+gelangte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#langte	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Welt	O	O	O	O	O	O	_	_	_
+herumgekommen	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kann	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Großthat	O	O	O	O	O	O	_	_	_
+angerechnet	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+derselben	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Vergleich	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Leistungen	O	O	O	O	O	O	_	_	_
+anderer	O	O	O	O	O	O	_	_	_
+spanischer	O	O	O	O	O	O	_	_	_
+Kapitäne	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Annahme	O	O	O	O	O	O	_	_	_
+enthalten	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Reisen	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Welt	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+eignen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	_
+Held	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Helden	O	O	O	O	O	O	_	_	_
+gilt	O	O	O	O	O	O	_	_	_
+jedoch	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Spamern	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kapitän	B-pers	O	B-pers.ind	O	B-comp.function	O	Q16492608	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Diaz	I-pers	O	I-pers.ind	O	B-comp.name	O	Q16492608	_	_
+Moreu	I-pers	O	I-pers.ind	O	I-comp.name	O	Q16492608	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Mann	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Lande	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+teuer	O	O	O	O	O	O	_	_	_
+genug	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+stehen	O	O	O	O	O	O	_	_	_
+gekommen	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+1893	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+vor	O	O	O	O	O	O	_	_	_
+Melilla	B-loc	O	B-loc.adm.town	O	O	O	Q5831	_	_
+den	O	O	O	O	O	O	_	_	_
+kleinen	O	O	O	O	O	O	_	_	_
+Kreuzer	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Conde	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+de	O	O	O	O	O	O	_	_	_
+Venadite	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+befehligte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Gelegenheit	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+weit	O	O	O	O	O	O	_	_	_
+brachte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+wochenlanges	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bombardement	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+unerhörte	O	O	O	O	O	O	_	_	_
+Munitionsverschwendung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schwendung	O	O	O	O	O	O	_	_	_|Commented
+eine	O	O	O	O	O	O	_	_	_
+kleine	O	O	O	O	O	O	_	_	_
+verfallene	O	O	O	O	O	O	_	_	_
+Moschee	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Trümmer	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+legen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Rifsarabern	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nicht	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+einzigen	O	O	O	O	O	O	_	_	_
+nachweisbaren	O	O	O	O	O	O	_	_	_
+Toten	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Verwundeten	O	O	O	O	O	O	_	_	_
+beizubringen	O	O	O	O	O	O	_	_	_
+vermochte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+selbstverständlich	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+zweifelhaften	O	O	O	O	O	O	_	_	_
+Helden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Lande	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+Spanien	B-loc	O	B-loc.adm.nat	O	O	O	Q29	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+welchem	O	O	O	O	O	O	_	_	_
+Ungehorsam	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gehorsam	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+Widerspruch	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+persönliches	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Verdienst	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Beweisführung	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Gunsten	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Wertes	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Individualität	O	O	O	O	O	O	_	_	_
+gehalten	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+welchem	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+wiederholte	O	O	O	O	O	O	_	_	_
+Erscheinen	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Namens	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Bestätigung	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Wert	O	O	O	O	O	O	_	_	_
+seines	O	O	O	O	O	O	_	_	_
+Besitzers	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sitzers	O	O	O	O	O	O	_	_	_|Commented
+gilt	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+diesen	O	O	O	O	O	O	_	_	_
+Gründen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+selbstverständlich	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+zweifelhaften	O	O	O	O	O	O	_	_	_
+Helden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sitze	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Parlamente	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+Kommandos	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+größerer	O	O	O	O	O	O	_	_	_
+Verantwortung	O	O	O	O	O	O	_	_	_
+erhalten	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Diaz	B-pers	O	B-pers.ind	O	O	O	Q16492608	_	_
+Moreu	I-pers	O	I-pers.ind	O	O	O	Q16492608	_	_
+kommandiert	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kreuzer	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Cristoval	O	O	O	O	O	O	_	_	_
+Calon	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+Bord	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dieses	O	O	O	O	O	O	_	_	_
+Schiffes	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Lande	O	O	O	O	O	O	_	_	_
+wahrscheinlich	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+teuerer	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+stehen	O	O	O	O	O	O	_	_	_
+kommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+Bord	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Venadito	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Wegen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Beschränktheit	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Raumes	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ich	O	O	O	O	O	O	_	_	_
+mich	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Besprechung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einzelnen	O	O	O	O	O	O	_	_	_
+Schiffe	O	O	O	O	O	O	_	_	_
+einlassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+genügt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wenn	O	O	O	O	O	O	_	_	_
+ich	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Vorhandene	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+Vorhandenen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#handenen	O	O	O	O	O	O	_	_	_|Commented
+unterscheide	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+darauf	O	O	O	O	O	O	_	_	_
+aufmerksam	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mache	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+letztere	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+weniger	O	O	O	O	O	O	_	_	_
+offiziell	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Listen	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Marineministeriums	O	O	O	O	O	O	_	_	_
+angemerkt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ist	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+erstere	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dort	O	O	O	O	O	O	_	_	_
+stehen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Kreuzer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Cataluna	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+Cardenal	O	O	O	O	O	O	_	_	_
+Cisneros	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Lepanto	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Reina	O	O	O	O	O	O	_	_	_
+Regente	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+neue	O	O	O	O	O	O	_	_	_
+Ausgabe	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Alfons	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+XIII	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+erst	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	_
+seeklar	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+können	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Spanier	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Ausländer	O	O	O	O	O	O	_	_	_
+rechnen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+diesen	O	O	O	O	O	O	_	_	_
+Schiffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+wirklich	O	O	O	O	O	O	_	_	_
+existierten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stierten	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Da	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Asturias	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Gerona	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Narvaez	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+stammen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+und	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+endlich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Villa	O	O	O	O	O	O	_	_	_
+de	O	O	O	O	O	O	_	_	_
+Bilbao	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+alter	O	O	O	O	O	O	_	_	_
+entmasteter	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#masteter	O	O	O	O	O	O	_	_	_|Commented
+Dreidecker	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Ferrol	B-loc	O	B-loc.adm.town	O	O	O	Q485329	_	_
+als	O	O	O	O	O	O	_	_	_
+Hulk	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+liegt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+trotzdem	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Marineministerium	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ministerium	O	O	O	O	O	O	_	_	_|Commented
+veröffentlichten	O	O	O	O	O	O	_	_	_
+Listen	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Kriegsschiff	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schiff	O	O	O	O	O	O	_	_	_|Commented
+aufgeführt	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ich	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	_
+mich	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Eigenschaften	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schiffe	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dienst	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+aussprechen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+spanischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Marineoffiziere	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Beobachter	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Gelegenheit	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#heit	O	O	O	O	O	O	_	_	_|Commented
+bieten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Dienst	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+sehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sauber	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hübsch	O	O	O	O	O	O	_	_	_
+gemalt	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Schiffe	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Arsenalen	O	O	O	O	O	O	_	_	_
+herrscht	O	O	O	O	O	O	_	_	_
+Ordnung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Aber	O	O	O	O	O	O	_	_	_
+ob	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Schiffe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gut	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+gut	O	O	O	O	O	O	_	_	_
+geführt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ob	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Arsenalen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Ordnung	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+oberflächlich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+nächster	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+herausstellen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Ich	O	O	O	O	O	O	_	_	_
+komme	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Schlußbetrachtung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+subjektiv	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#jektiv	O	O	O	O	O	O	_	_	_|Commented
+sein	O	O	O	O	O	O	_	_	_
+muß	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+mir	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+andere	O	O	O	O	O	O	_	_	_
+Ouelle	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+meine	O	O	O	O	O	O	_	_	_
+eigene	O	O	O	O	O	O	_	_	_
+Anschauung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Verfügung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+steht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wenn	O	O	O	O	O	O	_	_	_
+ich	O	O	O	O	O	O	_	_	_
+mich	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+meine	O	O	O	O	O	O	_	_	_
+Anschauung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+berufe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	_
+ich	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	_
+wiederholen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+ich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+an	O	O	O	O	O	O	_	_	_
+anderen	O	O	O	O	O	O	_	_	_
+Stellen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+älteren	O	O	O	O	O	O	_	_	_
+Arbeiten	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+spanische	O	O	O	O	O	O	_	_	_
+Marine	O	O	O	O	O	O	_	_	_
+angeführt	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Schmeichelhaft	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#haft	O	O	O	O	O	O	_	_	_|Commented
+ist	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Denn	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Wert	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+spanischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Seemannes	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+mir	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+feststehend	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stehend	O	O	O	O	O	O	_	_	_|Commented
+hingestellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Geltung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+entert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+d	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+h	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+Gelegenheit	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#legenheit	O	O	O	O	O	O	_	_	_|Commented
+geboten	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+Körper	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+Körper	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schlagen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Nahkampf	O	O	O	O	O	O	_	_	_
+gehört	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ebenso	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Bereich	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Landes	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+See	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Befähigung	O	O	O	O	O	O	_	_	_
+dazu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ein	O	O	O	O	O	O	_	_	_
+guter	O	O	O	O	O	O	_	_	_
+Seemann	O	O	O	O	O	O	_	_	_
+zurecht	O	O	O	O	O	O	_	_	_
+schneiden	O	O	O	O	O	O	_	_	_
+ließe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ueber	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Schwächen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Stärken	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+spanischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Marineoffiziere	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Navigateure	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	_
+ich	O	O	O	O	O	O	_	_	_
+eben	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+so	O	O	O	O	O	O	_	_	_
+viel	O	O	O	O	O	O	_	_	_
+gesprochen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Hervortreten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schwächen	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Stärken	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Leser	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+entgangen	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Ich	O	O	O	O	O	O	_	_	_
+bin	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Meinung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Stadt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+New	B-loc	O	B-loc.adm.town	O	O	O	Q60	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.town	O	O	O	Q60	_	NoSpaceAfter
+York	I-loc	O	I-loc.adm.town	O	O	O	Q60	_	_
+es	O	O	O	O	O	O	_	_	_
+getrost	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+ganzen	O	O	O	O	O	O	_	_	_
+Spanien	B-loc	O	B-loc.adm.nat	O	O	O	Q29	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hätte	O	O	O	O	O	O	_	_	_
+aufnehmen	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ich	O	O	O	O	O	O	_	_	_
+glaube	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Spanien	B-loc	B-org	B-loc.adm.nat	B-org.ent	O	O	Q29	Q29	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+dieselbe	O	O	O	O	O	O	_	_	_
+Bevölkerungszahl	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rungszahl	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+dieselben	O	O	O	O	O	O	_	_	_
+Hilfsquellen	O	O	O	O	O	O	_	_	_
+verfügte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fügte	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Vereinigten	B-loc	B-org	B-loc.adm.nat	B-org.ent	O	O	Q30	Q30	_
+Staaten	I-loc	I-org	I-loc.adm.nat	I-org.ent	O	O	Q30	Q30	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+trotzdem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Grund	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+spanischen	O	O	O	O	O	O	_	_	_
+Volkscharakters	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wie	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Vereinigten	B-loc	B-org	B-loc.adm.nat	B-org.ent	O	O	Q30	Q30	_
+Staaten	I-loc	I-org	I-loc.adm.nat	I-org.ent	O	O	Q30	Q30	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+geschlagen	O	O	O	O	O	O	_	_	_
+würde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wahrscheinlich	O	O	O	O	O	O	_	_	_
+könnte	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+heutige	O	O	O	O	O	O	_	_	_
+Spanien	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q29	Q29	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Dauer	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+Seemächten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mächten	O	O	O	O	O	O	_	_	_|Commented
+letzten	O	O	O	O	O	O	_	_	_
+Ranges	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+Dänemark	B-loc	B-org	B-loc.adm.nat	B-org.ent	O	O	Q35	Q35	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+gewachsen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wachsen	O	O	O	O	O	O	_	_	_|Commented
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Daß	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Amerikanern	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gewachsen	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+Flotte	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Flotte	O	O	O	O	O	O	_	_	_
+handelt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+angesichts	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+numerischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rischen	O	O	O	O	O	O	_	_	_|Commented
+Ueberlegenheit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Amerikaner	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vornherein	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Laien	O	O	O	O	O	O	_	_	_
+einleuchtend	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Aber	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eben	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+sicher	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+Schiff	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gegen	O	O	O	O	O	O	_	_	_
+Schiff	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Amerikanern	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+aufnehmen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nehmen	O	O	O	O	O	O	_	_	_|Commented
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nicht	O	O	O	O	O	O	_	_	_
+einmal	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+größere	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+spanische	O	O	O	O	O	O	_	_	_
+Schiff	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+kleineren	O	O	O	O	O	O	_	_	_
+amerikanischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schiff	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+irren	O	O	O	O	O	O	_	_	_
+müßte	O	O	O	O	O	O	_	_	_
+ich	O	O	O	O	O	O	_	_	_
+mich	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+gewisser	O	O	O	O	O	O	_	_	_
+Hinsicht	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+sogar	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+amerikanische	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Handelsschiff	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+spanischen	O	O	O	O	O	O	_	_	_
+Kriegsschiff	O	O	O	O	O	O	_	_	_
+gewachsen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wachsen	O	O	O	O	O	O	_	_	_|Commented
+wäre	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+nicht	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+Waffengewalt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wohl	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aber	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+Seemannskunst	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+mannigfachen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schabernack	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Barcos	O	O	O	O	O	O	_	_	_
+que	O	O	O	O	O	O	_	_	_
+vais	O	O	O	O	O	O	_	_	_
+por	O	O	O	O	O	O	_	_	_
+la	O	O	O	O	O	O	_	_	_
+mar	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Tvais	O	O	O	O	O	O	_	_	_
+meciendo	O	O	O	O	O	O	_	_	_
+en	O	O	O	O	O	O	_	_	_
+las	O	O	O	O	O	O	_	_	_
+olas	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Itusienes	O	O	O	O	O	O	_	_	_
+espannolas	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Que	O	O	O	O	O	O	_	_	_
+teneis	O	O	O	O	O	O	_	_	_
+que	O	O	O	O	O	O	_	_	_
+realizar	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Zr	O	O	O	O	O	O	_	_	_
+ie	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+ianteht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+i0	O	O	O	O	O	O	_	_	_
+gonanr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+No	O	O	O	O	O	O	_	_	_
+volvais	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+I	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Rin	O	O	O	O	O	O	_	_	_
+ant	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Beisen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+I	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+R	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+I	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+I	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sie	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+zurückkehren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Denn	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+haben	O	O	O	O	O	O	_	_	_
+außer	O	O	O	O	O	O	_	_	_
+Todesmut	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+ihnen	O	O	O	O	O	O	_	_	_
+niemand	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bestreiten	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+viel	O	O	O	O	O	O	_	_	_
+Unverstand	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Bequemlichkeit	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#quemlichkeit	O	O	O	O	O	O	_	_	_|Commented
+eingeschifft	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Admirale	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Offiziere	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ziere	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+Seekadetten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+jeder	O	O	O	O	O	O	_	_	_
+Jahreszeit	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zeit	O	O	O	O	O	O	_	_	_|Commented
+haufenweise	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Madrid	B-loc	O	B-loc.adm.town	O	O	O	Q2807	_	_
+herumtreiben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+obgleich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gleich	O	O	O	O	O	O	_	_	_|Commented
+am	O	O	O	O	O	O	_	_	_
+Manzameros	B-loc	O	B-loc.phys.hydro	O	O	O	NIL	_	_
+kein	O	O	O	O	O	O	_	_	_
+Kriegshafen	O	O	O	O	O	O	_	_	_
+liegt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+diese	O	O	O	O	O	O	_	_	_
+Schiffe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+sechs	O	O	O	O	O	O	_	_	_
+Wochen	O	O	O	O	O	O	_	_	_
+ins	O	O	O	O	O	O	_	_	_
+Trockendeck	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#deck	O	O	O	O	O	O	_	_	_|Commented
+holen	O	O	O	O	O	O	_	_	_
+müssen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Boden	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+reinigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+langes	O	O	O	O	O	O	_	_	_
+Stillliegen	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+stehenden	O	O	O	O	O	O	_	_	_
+Wasser	O	O	O	O	O	O	_	_	_
+seenntüchtig	O	O	O	O	O	O	_	_	_
+gemacht	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+endlich	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Seeleute	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+denen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Amerikaner	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+täglich	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+20	O	O	O	O	O	O	_	_	_
+Arbeitsstunden	O	O	O	O	O	O	_	_	_
+überlegen	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Kehrt	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+zurück	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Poet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vers	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+Schreibzimmer	O	O	O	O	O	O	_	_	_
+ausgedacht	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+konnte	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+Spanern	O	O	O	O	O	O	_	_	_
+keinen	O	O	O	O	O	O	_	_	_
+Rat	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Weg	O	O	O	O	O	O	_	_	_
+geben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+ernster	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+patriotischer	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aber	O	O	O	O	O	O	_	_	_
+leider	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+keinen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+leicht	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erfüllen	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

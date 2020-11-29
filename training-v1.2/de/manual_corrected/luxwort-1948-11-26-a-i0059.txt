@@ -1,0 +1,496 @@
+# language = de
+# newspaper = luxwort
+# date = 1948-11-26
+# document_id = luxwort-1948-11-26-a-i0059
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3081,931,1310,81/full/0/default.jpg
+Irland	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q27	Q27	_
+löst	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Commonwealth	B-org	O	B-org.adm	O	O	O	Q7785	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3044,1018,1377,81/full/0/default.jpg
+uns	O	O	O	O	O	O	_	_	_
+nimmt	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Statut	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Republik	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3060,1119,569,47/full/0/default.jpg
+London	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+26	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Im	O	O	O	O	O	O	_	_	_
+Unterhaus	B-org	O	B-org.adm	O	O	O	Q11007	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3028,1155,691,49/full/0/default.jpg
+Ministerpräsident	B-pers	O	B-pers.ind	O	B-comp.function	O	Q129006	_	_
+Attlee	I-pers	O	I-pers.ind	O	B-comp.name	O	Q129006	_	_
+bekannt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3027,1192,673,43/full/0/default.jpg
+Irland	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q27	Q27	_
+das	O	O	O	O	O	O	_	_	_
+Statut	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Republik	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3027,1233,692,38/full/0/default.jpg
+angenommen	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+Mitglied	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3029,1263,672,44/full/0/default.jpg
+des	O	O	O	O	O	O	_	_	_
+Commonwealth	B-org	O	B-org.adm	O	O	O	Q7785	_	_
+sei	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+neue	B-loc	B-org	B-loc.adm.nat	B-org.adm	B-comp.qualifier	O	Q27	Q27	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3028,1299,678,44/full/0/default.jpg
+Republik	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q27	Q27	_
+Eire	I-loc	I-org	I-loc.adm.nat	I-org.adm	B-comp.name	O	Q27	Q27	_
+werde	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+außerhalb	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3027,1335,692,43/full/0/default.jpg
+britischen	B-org	O	B-org.adm	O	B-comp.demonym	O	Q7785	_	_
+Commonwealth	I-org	O	I-org.adm	O	B-comp.name	O	Q7785	_	_
+stehender	O	O	O	O	O	O	_	_	_
+Staat	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3028,1371,676,45/full/0/default.jpg
+eine	O	O	O	O	O	O	_	_	_
+besondere	O	O	O	O	O	O	_	_	_
+Stellung	O	O	O	O	O	O	_	_	_
+einnehmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3029,1406,692,44/full/0/default.jpg
+erklärte	O	O	O	O	O	O	_	_	_
+Ministerpräsident	B-pers	O	B-pers.ind	O	B-comp.function	O	Q129006	_	_
+Attlee	I-pers	O	I-pers.ind	O	B-comp.name	O	Q129006	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3027,1442,692,44/full/0/default.jpg
+werde	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Ausland	O	O	O	O	O	O	_	_	_
+gelten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3027,1478,693,44/full/0/default.jpg
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Commonwealth	B-org	O	B-org.adm	O	O	O	Q7785	_	_
+auf	O	O	O	O	O	O	_	_	_
+gewis.e	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3028,1513,440,47/full/0/default.jpg
+Weise	O	O	O	O	O	O	_	_	_
+verbunden	O	O	O	O	O	O	_	_	_
+bleiben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3062,1557,659,45/full/0/default.jpg
+Attlee	B-pers	O	B-pers.ind	O	O	O	Q129006	_	_
+gab	O	O	O	O	O	O	_	_	_
+gleichzeitig	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Bedauern	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3027,1593,673,43/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Labour	B-org	O	B-org.ent	O	O	O	Q9630	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Regierung	O	O	O	O	O	O	_	_	_
+darüber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3028,1629,674,43/full/0/default.jpg
+Ausdru	O	O	O	O	O	O	_	_	_
+k	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+Eire	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q27	Q27	_
+fortan	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3028,1665,692,49/full/0/default.jpg
+Mitglied	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Commonwealth	B-org	O	B-org.adm	O	O	O	Q7785	_	_
+sein	O	O	O	O	O	O	_	_	_
+werde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3028,1702,694,44/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+irische	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	_
+jedoch	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3027,1738,695,43/full/0/default.jpg
+verstehen	O	O	O	O	O	O	_	_	_
+gegeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Bestehen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3027,1774,673,45/full/0/default.jpg
+besonders	O	O	O	O	O	O	_	_	_
+enger	O	O	O	O	O	O	_	_	_
+Beziehungen	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3029,1811,675,43/full/0/default.jpg
+Commonwealth	B-org	O	B-org.adm	O	O	O	Q7785	_	_
+anerkenne	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+deren	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3029,1846,410,49/full/0/default.jpg
+Aufrechterhaltung	O	O	O	O	O	O	_	_	_
+wünsche	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3063,1888,640,45/full/0/default.jpg
+Der	O	O	O	O	O	O	_	_	_
+Führer	B-pers	O	B-pers.ind	O	B-comp.function	O	Q8016	_	_
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	Q8016	_	_
+Konservativen	I-pers	O	I-pers.ind	O	I-comp.function	B-org.ent	Q8016	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q8016	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3029,1925,694,44/full/0/default.jpg
+Winsion	I-pers	O	I-pers.ind	O	B-comp.name	O	Q8016	_	_
+Churchill	I-pers	O	I-pers.ind	O	I-comp.name	O	Q8016	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+erklärte	O	O	O	O	O	O	_	_	_
+unverzüglich	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3029,1961,694,43/full/0/default.jpg
+seine	O	O	O	O	O	O	_	_	_
+Partei	O	O	O	O	O	O	_	_	_
+werde	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Art	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3028,1996,679,51/full/0/default.jpg
+Verbindung	O	O	O	O	O	O	_	_	_
+zwischen	O	O	O	O	O	O	_	_	_
+Eire	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q27	Q27	_
+und	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3028,2033,695,45/full/0/default.jpg
+britischen	B-org	O	B-org.adm	O	B-comp.demonym	O	Q7785	_	_
+Commonwealth	I-org	O	I-org.adm	O	B-comp.name	O	Q7785	_	_
+widersetzen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3029,2069,694,50/full/0/default.jpg
+Regierung	O	O	O	O	O	O	_	_	_
+füge	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Abmachungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3030,2104,693,45/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+neuen	O	O	O	O	O	O	_	_	_
+Republik	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+Vorteile	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3030,2141,693,45/full/0/default.jpg
+eines	O	O	O	O	O	O	_	_	_
+Mitglieds	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Commonwealth	B-org	O	B-org.adm	O	O	O	Q7785	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3031,2178,693,50/full/0/default.jpg
+sichere	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ohne	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+ihrerseits	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3029,2215,694,47/full/0/default.jpg
+irgendwelche	O	O	O	O	O	O	_	_	_
+Verpflichtungen	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3030,2250,404,47/full/0/default.jpg
+Commonwealth	B-org	O	B-org.adm	O	O	O	Q7785	_	_
+eingehe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3064,2287,643,45/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+Einstellung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+britischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3031,2330,693,43/full/0/default.jpg
+Regierung	O	O	O	O	O	O	_	_	_
+gegenüber	O	O	O	O	O	O	_	_	_
+d	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+r	O	O	O	O	O	O	_	_	_
+Republik	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q27	Q27	_
+Eire	I-loc	I-org	I-loc.adm.nat	I-org.adm	B-comp.name	O	Q27	Q27	_
+wurde	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3031,2365,693,37/full/0/default.jpg
+am	O	O	O	O	O	O	_	_	_
+gleichen	O	O	O	O	O	O	_	_	_
+Tage	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+brit	B-org	O	B-org.adm	O	O	O	Q11007	_	NoSpaceAfter
+'	I-org	O	I-org.adm	O	O	O	Q11007	_	NoSpaceAfter
+schen	I-org	O	I-org.adm	O	O	O	Q11007	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3033,2396,676,47/full/0/default.jpg
+Oberhaus	I-org	O	I-org.adm	O	O	O	Q11007	_	_
+bekanntgegeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Lord	B-pers	O	B-pers.ind	O	B-comp.title	O	Q333205	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3760,1118,670,49/full/0/default.jpg
+Salisbury	I-pers	O	I-pers.ind	O	B-comp.name	O	Q333205	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q333205	_	_
+der	I-pers	O	I-pers.ind	O	O	O	Q333205	_	_
+dortige	I-pers	O	I-pers.ind	O	B-comp.function	O	Q333205	_	_
+Führer	I-pers	O	I-pers.ind	O	I-comp.function	O	Q333205	_	_
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	Q333205	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3759,1155,688,47/full/0/default.jpg
+Konservativen	I-pers	O	I-pers.ind	O	I-comp.function	B-org.ent	Q333205	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+griff	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+offizielle	O	O	O	O	O	O	_	_	_
+britische	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3760,1190,687,48/full/0/default.jpg
+Haltung	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+schwere	O	O	O	O	O	O	_	_	_
+Verletzung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3760,1227,687,47/full/0/default.jpg
+gesamten	O	O	O	O	O	O	_	_	_
+Struktur	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Commonwealth	B-org	O	B-org.adm	O	O	O	Q7785	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3759,1267,44,37/full/0/default.jpg
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3863,1305,473,44/full/0/default.jpg
+Südafrika	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q193619	Q193619	_
+zur	O	O	O	O	O	O	_	_	_
+Republik	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q27	Q27	_
+Eire	I-loc	I-org	I-loc.adm.nat	I-org.adm	B-comp.name	O	Q27	Q27	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3793,1350,651,45/full/0/default.jpg
+Pretoria	B-loc	O	B-loc.adm.town	O	O	O	Q3926	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+26	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+südafrikanische	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3757,1381,687,50/full/0/default.jpg
+Regierung	O	O	O	O	O	O	_	_	_
+erklärte	O	O	O	O	O	O	_	_	_
+gestern	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+begrüße	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3755,1417,690,44/full/0/default.jpg
+das	O	O	O	O	O	O	_	_	_
+zwischen	O	O	O	O	O	O	_	_	_
+Eire	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q27	Q27	_
+und	O	O	O	O	O	O	_	_	_
+Großbritannien	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q145	Q145	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3757,1452,687,44/full/0/default.jpg
+erzielte	O	O	O	O	O	O	_	_	_
+Einvernehmen	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+künftigen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3757,1487,687,49/full/0/default.jpg
+Beziehungen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+neuen	O	O	O	O	O	O	_	_	_
+Republik	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3757,1522,673,45/full/0/default.jpg
+britischen	B-org	O	B-org.adm	O	O	O	Q7785	_	_
+Commonwealth	I-org	O	I-org.adm	O	B-comp.name	O	Q7785	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3757,1557,689,43/full/0/default.jpg
+besonders	O	O	O	O	O	O	_	_	_
+erfreulich	O	O	O	O	O	O	_	_	_
+hervorgehobr	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3757,1593,689,47/full/0/default.jpg
+Tatsache	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Erklärung	O	O	O	O	O	O	_	_	_
+Eires	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q27	Q27	_
+zur	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3757,1627,672,48/full/0/default.jpg
+Republik	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Entfremdung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3757,1663,673,44/full/0/default.jpg
+zwischen	O	O	O	O	O	O	_	_	_
+Großbritannien	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q145	Q145	_
+und	O	O	O	O	O	O	_	_	_
+Irland	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q27	Q27	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3757,1697,688,49/full/0/default.jpg
+bedeute	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+eher	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Annäherung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3757,1732,689,44/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+Regierungserklärung	O	O	O	O	O	O	_	_	_
+erfolgte	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3757,1767,673,45/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+entsprechenden	O	O	O	O	O	O	_	_	_
+Ankündigung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3757,1803,613,47/full/0/default.jpg
+Ministerpräsident	B-pers	O	B-pers.ind	O	B-comp.function	O	Q129006	_	_
+Attlees	I-pers	O	I-pers.ind	O	O	O	Q129006	_	_
+im	O	O	O	O	O	O	_	_	_
+Unterhaus	B-org	O	B-org.adm	O	O	O	Q11007	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3793,1839,655,44/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+Anerkennung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Republik	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q27	Q27	_
+Eire	I-loc	I-org	I-loc.adm.nat	I-org.adm	B-comp.name	O	Q27	Q27	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3757,1872,673,45/full/0/default.jpg
+bedarf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Zustimmung	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3758,1908,674,44/full/0/default.jpg
+südafrikanischen	O	O	O	O	O	O	_	_	_
+Parlaments	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+erfordert	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3757,1942,674,45/full/0/default.jpg
+außerdem	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+besondere	O	O	O	O	O	O	_	_	_
+Gesetzgebung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3758,1978,690,44/full/0/default.jpg
+Südafrika	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q193619	Q193619	_
+sei	O	O	O	O	O	O	_	_	_
+bereit	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+heißt	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3758,2012,691,50/full/0/default.jpg
+Grundlage	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+bisherigen	O	O	O	O	O	O	_	_	_
+Abmachungen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3758,2048,689,45/full/0/default.jpg
+mit	O	O	O	O	O	O	_	_	_
+England	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q21	Q21	_
+auch	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+neuen	O	O	O	O	O	O	_	_	_
+Republik	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3758,2084,688,49/full/0/default.jpg
+gegenüber	O	O	O	O	O	O	_	_	_
+Konzessionen	O	O	O	O	O	O	_	_	_
+hinsichtlich	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3758,2118,690,44/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Rechte	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+jeweiligen	O	O	O	O	O	O	_	_	_
+Staatsbürger	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3759,2154,674,43/full/0/default.jpg
+auf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Basis	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Gegenseitigkeit	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3758,2189,690,44/full/0/default.jpg
+einzuräumen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Diese	O	O	O	O	O	O	_	_	_
+Abmachungen	O	O	O	O	O	O	_	_	_
+müßten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3758,2224,689,49/full/0/default.jpg
+jedoch	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Sonderfall	O	O	O	O	O	O	_	_	_
+anerkannt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3758,2258,670,45/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Republik	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q27	Q27	_
+Eire	I-loc	I-org	I-loc.adm.nat	I-org.adm	B-comp.name	O	Q27	Q27	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3759,2294,689,49/full/0/default.jpg
+Anwendung	O	O	O	O	O	O	_	_	_
+findet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+ausdrücklich	O	O	O	O	O	O	_	_	_
+betont	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3759,2329,690,44/full/0/default.jpg
+Sie	O	O	O	O	O	O	_	_	_
+könnten	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+keinem	O	O	O	O	O	O	_	_	_
+Falle	O	O	O	O	O	O	_	_	_
+künftig	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3760,2365,688,48/full/0/default.jpg
+irgend	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+anderes	O	O	O	O	O	O	_	_	_
+Land	O	O	O	O	O	O	_	_	_
+außerhalb	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6206kh%2fpages%2f1/3759,2400,617,45/full/0/default.jpg
+britischen	B-org	O	B-org.adm	O	B-comp.demonym	O	Q7785	_	_
+Commonwealth	I-org	O	I-org.adm	O	B-comp.name	O	Q7785	_	_
+zutreffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+

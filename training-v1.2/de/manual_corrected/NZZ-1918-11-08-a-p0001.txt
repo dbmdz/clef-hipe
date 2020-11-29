@@ -1,0 +1,617 @@
+# language = de
+# newspaper = NZZ
+# date = 1918-11-08
+# document_id = NZZ-1918-11-08-a-p0001
+# segment_iiif_link = _
+Hüdskawische	O	O	O	O	O	O	_	_	_
+Konferenz	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Genf	B-loc	O	B-loc.adm.town	O	O	O	Q71	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Genf	B-loc	O	B-loc.adm.town	O	O	O	Q71	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+7	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+A	B-pers	O	B-pers.ind.articleauthor	O	O	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind.articleauthor	O	O	O	NIL	_	_
+Ch	I-pers	O	I-pers.ind.articleauthor	O	O	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind.articleauthor	O	O	O	NIL	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+heutige	O	O	O	O	O	O	_	_	_
+zweite	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Verhandlungstag	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+jugoslawischen	O	O	O	O	O	O	_	_	_
+Konferenz	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zeitigte	O	O	O	O	O	O	_	_	_
+äußerst	O	O	O	O	O	O	_	_	_
+wichtige	O	O	O	O	O	O	_	_	_
+Ergebnisse	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+zwei	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sitzungen	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+erhebliche	O	O	O	O	O	O	_	_	_
+Schwierigkeiten	O	O	O	O	O	O	_	_	_
+überwunden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wunden	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+gefaßt	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+konnte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Diese	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schwierigkeiten	O	O	O	O	O	O	_	_	_
+wurzeln	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+gipfeln	O	O	O	O	O	O	_	_	_
+darin	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ein	O	O	O	O	O	O	_	_	_
+serbischer	O	O	O	O	O	O	_	_	_
+Staat	O	O	O	O	O	O	_	_	_
+existiert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+während	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+jugoslawische	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+diesen	O	O	O	O	O	O	_	_	_
+umfassen	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+erst	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+errichtet	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Opposition	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Vertreter	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+serbischen	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einigen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gen	O	O	O	O	O	O	_	_	_|Commented
+Kreisen	O	O	O	O	O	O	_	_	_
+rechnete	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	_
+gewiß	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Eigenliebe	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Exklusivismus	O	O	O	O	O	O	_	_	_
+entsprungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+menschlich	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+politisch	O	O	O	O	O	O	_	_	_
+begreiflichen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#greiflichen	O	O	O	O	O	O	_	_	_|Commented
+Gewohntsein	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Status	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nur	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+revolutionären	O	O	O	O	O	O	_	_	_
+Ereignisse	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aus	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Fugen	O	O	O	O	O	O	_	_	_
+heben	O	O	O	O	O	O	_	_	_
+konnten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nun	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+heutige	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tige	O	O	O	O	O	O	_	_	_|Commented
+Verhandlungstag	O	O	O	O	O	O	_	_	_
+machte	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Befürchtungen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Pessimisten	O	O	O	O	O	O	_	_	_
+zuschanden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Eine	O	O	O	O	O	O	_	_	_
+vorbehaltlose	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Einigung	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+zwischen	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+vier	O	O	O	O	O	O	_	_	_
+Delegationen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erreicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Im	O	O	O	O	O	O	_	_	_
+Augenblick	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+ich	O	O	O	O	O	O	_	_	_
+telegraphiere	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+geht	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Konferenz	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Redaktion	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Resolution	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#solution	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ihren	O	O	O	O	O	O	_	_	_
+Inhalt	O	O	O	O	O	O	_	_	_
+bin	O	O	O	O	O	O	_	_	_
+ich	O	O	O	O	O	O	_	_	_
+indes	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Lage	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Ihnen	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+übermitteln	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Namen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+serbischen	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+nimmt	O	O	O	O	O	O	_	_	_
+Pasitsch	B-pers	O	B-pers.ind	O	O	O	Q313843	_	NoSpaceAfter|Normalized-6
+#¬	I-pers	O	I-pers.ind	O	O	O	Q313843	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sitsch	I-pers	O	I-pers.ind	O	O	O	Q313843	_	_|Commented
+zustimmend	O	O	O	O	O	O	_	_	_
+Kenntnis	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Erklärung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rung	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+drei	O	O	O	O	O	O	_	_	_
+Mitglieder	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Zagreber	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nationalrates	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+ersuchen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+diesen	O	O	O	O	O	O	_	_	_
+Nationalrat	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tionalrat	O	O	O	O	O	O	_	_	_|Commented
+als	O	O	O	O	O	O	_	_	_
+höchste	O	O	O	O	O	O	_	_	_
+Autorität	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+organisierten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+serbo-kroato-slowenischen	O	O	O	O	O	O	_	_	_
+Staates	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+vormals	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+habsburgischen	O	O	O	O	O	O	_	_	_
+Monarchie	O	O	O	O	O	O	_	_	_
+anzuerkennen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+ferner	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+jugoslawischen	O	O	O	O	O	O	_	_	_
+Streitkräfte	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Festland	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#land	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Meer	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+kriegführende	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+verbündete	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bündete	O	O	O	O	O	O	_	_	_|Commented
+Armee	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Flotte	O	O	O	O	O	O	_	_	_
+anzuerkennen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+ferner	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ner	O	O	O	O	O	O	_	_	_|Commented
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q571638	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q571638	_	_
+Anton	I-pers	O	I-pers.ind	O	B-comp.name	O	Q571638	_	_
+Trumbitsch	I-pers	O	I-pers.ind	O	I-comp.name	O	Q571638	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q571638	_	_
+Präsident	I-pers	O	I-pers.ind	O	B-comp.function	O	Q571638	_	_
+des	I-pers	O	I-pers.ind	O	I-comp.function	O	Q571638	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+jugoslawischen	I-pers	O	I-pers.ind	O	I-comp.function	O	Q571638	_	_
+Komitees	I-pers	O	I-pers.ind	O	I-comp.function	O	Q571638	_	_
+in	I-pers	O	I-pers.ind	O	I-comp.function	O	Q571638	_	_
+London	I-pers	O	I-pers.ind	O	I-comp.function	B-loc.adm.town	Q571638	_	_
+als	O	O	O	O	O	O	_	_	_
+offiziellen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ziellen	O	O	O	O	O	O	_	_	_|Commented
+Vertreter	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Zagreber	O	O	O	O	O	O	_	_	_
+Nationalrates	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bei	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+alliierten	O	O	O	O	O	O	_	_	_
+Regierungen	O	O	O	O	O	O	_	_	_
+anzuerkennen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bis	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+gemeinsames	O	O	O	O	O	O	_	_	_
+Organ	O	O	O	O	O	O	_	_	_
+geschaffen	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Serbien	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q403	Q403	_
+und	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+neuen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Zagreb	B-loc	O	B-loc.adm.town	O	O	O	Q1435	_	_
+konstituierten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Staat	O	O	O	O	O	O	_	_	_
+repräsentieren	O	O	O	O	O	O	_	_	_
+sollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Herr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q313843	_	_
+Pasitsch	I-pers	O	I-pers.ind	O	B-comp.name	O	Q313843	_	_
+erklärte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#klärte	O	O	O	O	O	O	_	_	_|Commented
+seine	O	O	O	O	O	O	_	_	_
+Bereitwilligkeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+verbündeten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Regierungen	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+diesen	O	O	O	O	O	O	_	_	_
+Wünschen	O	O	O	O	O	O	_	_	_
+offiziell	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kenntnis	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+setzen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+seinerseits	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+unterstützen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stützen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Einstimmig	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+größter	O	O	O	O	O	O	_	_	_
+Begeisterung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sterung	O	O	O	O	O	O	_	_	_|Commented
+beschloß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Konferenz	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Konstituierung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tuierung	O	O	O	O	O	O	_	_	_|Commented
+eines	O	O	O	O	O	O	_	_	_
+gemeinsamen	O	O	O	O	O	O	_	_	_
+Ministeriums	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#steriums	O	O	O	O	O	O	_	_	_|Commented
+des	O	O	O	O	O	O	_	_	_
+einheitlichen	O	O	O	O	O	O	_	_	_
+Staates	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Serbien	B-loc	O	B-loc.adm.nat	O	O	O	Q403	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+inbegriffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+erklärte	O	O	O	O	O	O	_	_	_
+ferner	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+irgendwelche	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#welche	O	O	O	O	O	O	_	_	_|Commented
+politische	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Zollgrenzen	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+ganzen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zen	O	O	O	O	O	O	_	_	_|Commented
+Gebiet	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Serben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Kroaten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Slowenen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nicht	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+bestehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Regierungen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Verwaltungsorgane	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+drei	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ländern	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+darunter	O	O	O	O	O	O	_	_	_
+Serbien	B-loc	O	B-loc.adm.nat	O	O	O	Q403	_	_
+existierten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bleiben	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vorläufig	O	O	O	O	O	O	_	_	_
+aufrechterhalten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Diese	O	O	O	O	O	O	_	_	_
+wichtigen	O	O	O	O	O	O	_	_	_
+Beschlüsse	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Konferenz	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+werden	O	O	O	O	O	O	_	_	_
+mir	O	O	O	O	O	O	_	_	_
+gegenüber	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+berufener	O	O	O	O	O	O	_	_	_
+Seite	O	O	O	O	O	O	_	_	_
+dahin	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#hin	O	O	O	O	O	O	_	_	_|Commented
+ausgelegt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+zwei	O	O	O	O	O	O	_	_	_
+Uebergangsstadien	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schaffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nämlich	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+gemeinsame	O	O	O	O	O	O	_	_	_
+Ministerium	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aus	O	O	O	O	O	O	_	_	_
+ungefähr	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Dutzend	O	O	O	O	O	O	_	_	_
+Mitgliedern	O	O	O	O	O	O	_	_	_
+bestehend	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stehend	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+gegenwärtigen	O	O	O	O	O	O	_	_	_
+Zustand	O	O	O	O	O	O	_	_	_
+sowohl	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wohl	O	O	O	O	O	O	_	_	_|Commented
+in	O	O	O	O	O	O	_	_	_
+Serbien	B-loc	O	B-loc.adm.nat	O	O	O	Q403	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+auswärtige	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vertretung	O	O	O	O	O	O	_	_	_
+Trumbitschs	B-pers	O	B-pers.ind	O	O	O	Q571638	_	_
+anlangt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ablösen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+diesem	O	O	O	O	O	O	_	_	_
+gemeinsamen	O	O	O	O	O	O	_	_	_
+Ministerium	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einem	O	O	O	O	O	O	_	_	_
+Staatssekretär	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Aufgabe	O	O	O	O	O	O	_	_	_
+obliegen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Einberufung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Konstituante	O	O	O	O	O	O	_	_	_
+vorzubereiten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#reiten	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Diese	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+nun	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+letzte	O	O	O	O	O	O	_	_	_
+Wort	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+drei	O	O	O	O	O	O	_	_	_
+Staaten	O	O	O	O	O	O	_	_	_
+beschließen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+bindend	O	O	O	O	O	O	_	_	_
+sprechen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+In	O	O	O	O	O	O	_	_	_
+jugoslawischen	O	O	O	O	O	O	_	_	_
+Kreisen	O	O	O	O	O	O	_	_	_
+herrscht	O	O	O	O	O	O	_	_	_
+Zufriedenheit	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#heit	O	O	O	O	O	O	_	_	_|Commented
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+heutigen	O	O	O	O	O	O	_	_	_
+Verhandlungstage	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+folgenden	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Beratung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Detailfragen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gen	O	O	O	O	O	O	_	_	_|Commented
+gewidmet	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

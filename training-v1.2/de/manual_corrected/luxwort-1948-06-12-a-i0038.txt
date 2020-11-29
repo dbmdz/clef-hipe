@@ -1,0 +1,1154 @@
+# language = de
+# newspaper = luxwort
+# date = 1948-06-12
+# document_id = luxwort-1948-06-12-a-i0038
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/351,226,1737,144/full/0/default.jpg
+Revolution	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+Dekorwechsel	O	O	O	O	O	O	_	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/314,382,1798,53/full/0/default.jpg
+DER	O	O	O	O	O	O	_	_	_
+JÜNGSTE	O	O	O	O	O	O	_	_	_
+STAATSSTREICH	O	O	O	O	O	O	_	_	_
+IN	O	O	O	O	O	O	_	_	_
+PARAGUAY	B-loc	O	B-loc.adm.nat	O	O	O	Q733	_	_
+/	O	O	O	O	O	O	_	_	_
+Von	O	O	O	O	O	O	_	_	_
+unserm	O	O	O	O	O	O	_	_	_
+Korrespondenten	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Brasilien	B-loc	O	B-loc.adm.nat	O	O	O	Q155	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/272,455,509,44/full/0/default.jpg
+h	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Buenos	B-loc	O	B-loc.adm.town	O	O	O	Q1486	_	_
+Aires	I-loc	O	I-loc.adm.town	O	O	O	Q1486	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+im	B-time	O	B-time.date.abs	O	O	O	Q16647394	_	_
+Juni	I-time	O	I-time.date.abs	O	O	O	Q16647394	_	_
+1948	I-time	O	I-time.date.abs	O	O	O	Q16647394	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/170,506,653,44/full/0/default.jpg
+Der	O	O	O	O	O	O	_	_	_
+paraguayische	B-pers	O	B-pers.ind	O	B-comp.function	O	Q887269	_	_
+Diktator	I-pers	O	I-pers.ind	O	I-comp.function	O	Q887269	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q887269	_	_
+General	I-pers	O	I-pers.ind	O	B-comp.title	O	Q887269	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/134,542,688,50/full/0/default.jpg
+Higinio	I-pers	O	I-pers.ind	O	B-comp.name	O	Q887269	_	_
+Morinigo	I-pers	O	I-pers.ind	O	I-comp.name	O	Q887269	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+fast	O	O	O	O	O	O	_	_	_
+acht	O	O	O	O	O	O	_	_	_
+Jahre	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/134,577,688,45/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+Geschicke	O	O	O	O	O	O	_	_	_
+Paraguays	B-loc	O	B-loc.adm.nat	O	O	O	Q733	_	_
+lenkte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/133,613,690,45/full/0/default.jpg
+diesen	O	O	O	O	O	O	_	_	_
+Tagen	O	O	O	O	O	O	_	_	_
+durah	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Staatsstreich	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/132,648,691,45/full/0/default.jpg
+seiner	O	O	O	O	O	O	_	_	_
+Offiziere	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+einzigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bisher	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/133,685,690,44/full/0/default.jpg
+seine	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+stützenden	O	O	O	O	O	O	_	_	_
+politischen	B-org	O	B-org.ent	O	O	O	NIL	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/133,720,689,51/full/0/default.jpg
+Gruppe	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+,	I-org	O	I-org.ent	O	O	O	NIL	_	_
+des	I-org	O	I-org.ent	O	O	O	NIL	_	_
+„	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+Guion	I-org	O	I-org.ent	O	B-comp.name	O	NIL	_	_
+Rojo	I-org	O	I-org.ent	O	I-comp.name	O	NIL	_	NoSpaceAfter
+"	I-org	O	I-org.ent	O	O	O	NIL	_	_
+(	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+„	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+Rote	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/132,757,672,48/full/0/default.jpg
+Standarte	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+"	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+)	I-org	O	I-org.ent	O	O	O	NIL	_	_
+genannten	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Sektors	I-org	O	I-org.ent	O	O	O	NIL	_	_
+der	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/131,792,690,50/full/0/default.jpg
+Coloradopartei	I-org	O	I-org.ent	O	O	B-org.ent	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Rücktritt	O	O	O	O	O	O	_	_	_
+gezwungen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/131,829,690,44/full/0/default.jpg
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Revolutionäre	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/131,863,691,51/full/0/default.jpg
+bisherigen	B-pers	O	B-pers.ind	O	B-comp.function	O	Q628530	_	_
+Präsidenten	I-pers	O	I-pers.ind	O	I-comp.function	O	Q628530	_	_
+des	I-pers	O	I-pers.ind	O	I-comp.function	O	Q628530	_	_
+Obersten	I-pers	O	I-pers.ind	O	I-comp.function	O	Q628530	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/131,900,670,51/full/0/default.jpg
+Staatsgerichtshofes	I-pers	O	I-pers.ind	O	I-comp.function	O	Q628530	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q628530	_	_
+J	I-pers	O	I-pers.ind	O	B-comp.name	O	Q628530	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	I-comp.name	O	Q628530	_	NoSpaceAfter
+uan	I-pers	O	I-pers.ind	O	I-comp.name	O	Q628530	_	_
+Manuel	I-pers	O	I-pers.ind	O	I-comp.name	O	Q628530	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/129,935,691,50/full/0/default.jpg
+Frutos	I-pers	O	I-pers.ind	O	I-comp.name	O	Q628530	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Amt	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Staatspräsidenten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/131,970,670,53/full/0/default.jpg
+eingesetzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+ausdrücklichen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/131,1007,688,50/full/0/default.jpg
+Auftrage	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+15	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+August	O	O	O	O	O	O	_	_	_
+d	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+J	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/128,1044,673,49/full/0/default.jpg
+verwalten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/128,1079,690,44/full/0/default.jpg
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+gewählten	B-pers	O	B-pers.ind	O	B-comp.qualifier	O	Q861023	_	NoSpaceAfter
+"	I-pers	O	I-pers.ind	O	O	O	Q861023	_	_
+Präsidenten	I-pers	O	I-pers.ind	O	B-comp.function	O	Q861023	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q861023	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	Q861023	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q861023	_	_
+Natalicio	I-pers	O	I-pers.ind	O	B-comp.name	O	Q861023	_	_
+Gonzalez	I-pers	O	I-pers.ind	O	I-comp.name	O	Q861023	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/126,1122,234,37/full/0/default.jpg
+zu	O	O	O	O	O	O	_	_	_
+übergeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/161,1167,640,47/full/0/default.jpg
+Inzwischen	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Vorgeschichte	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/125,1207,691,42/full/0/default.jpg
+dieses	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+Staatsstreiches	O	O	O	O	O	O	_	_	_
+bekannt	O	O	O	O	O	O	_	_	_
+geworden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/126,1240,673,44/full/0/default.jpg
+Man	O	O	O	O	O	O	_	_	_
+weiß	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+15	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Februar	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/125,1280,690,44/full/0/default.jpg
+Paraguay	B-loc	O	B-loc.adm.nat	O	O	O	Q733	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Präsidenten	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Wahlen	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+stattfanden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/125,1311,692,45/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+jedoch	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Wahlen	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+landläufigen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/125,1347,691,45/full/0/default.jpg
+Sinne	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+gemeinsam	O	O	O	O	O	O	_	_	_
+hatten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/125,1383,692,45/full/0/default.jpg
+daß	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+ihnen	O	O	O	O	O	O	_	_	_
+Stimmzettel	O	O	O	O	O	O	_	_	_
+abgegeben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/124,1418,692,45/full/0/default.jpg
+wurden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+gab	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Kandidaten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/124,1467,691,24/full/0/default.jpg
+—	O	O	O	O	O	O	_	_	_
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q861023	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q861023	_	_
+Natalicio	I-pers	O	I-pers.ind	O	B-comp.name	O	Q861023	_	_
+Gonzalez	I-pers	O	I-pers.ind	O	I-comp.name	O	Q861023	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q861023	_	_
+den	I-pers	O	I-pers.ind	O	O	O	Q861023	_	_
+Führer	I-pers	O	I-pers.ind	O	B-comp.function	O	Q861023	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/121,1490,694,45/full/0/default.jpg
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	Q861023	_	_
+rechtsextremistischen	I-pers	O	I-pers.ind	O	I-comp.function	B-org.ent	Q861023	_	_
+Gruppe	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q861023	_	_
+„	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q861023	_	NoSpaceAfter
+Guion	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q861023	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/122,1527,675,49/full/0/default.jpg
+Rojo	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q861023	_	NoSpaceAfter
+"	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q861023	_	_
+der	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q861023	_	_
+konservativen	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q861023	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/122,1562,693,44/full/0/default.jpg
+Colorado	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q861023	_	NoSpaceAfter
+-	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q861023	_	NoSpaceAfter
+Partei	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q861023	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Großteil	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+oppositionellen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/124,1599,691,45/full/0/default.jpg
+Wähler	O	O	O	O	O	O	_	_	_
+befand	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+gar	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/121,1634,694,51/full/0/default.jpg
+Lande	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+meisten	O	O	O	O	O	O	_	_	_
+Anhänger	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/121,1671,676,44/full/0/default.jpg
+den	O	O	O	O	O	O	_	_	_
+Bürgerkrieg	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+vergangenen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/121,1712,694,40/full/0/default.jpg
+Jahres	O	O	O	O	O	O	_	_	_
+verwickelten	O	O	O	O	O	O	_	_	_
+Parteien	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Liberalen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/121,1743,694,45/full/0/default.jpg
+Febreristen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Kommunisten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+flüchten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/121,1778,673,44/full/0/default.jpg
+mußten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Etwa	O	O	O	O	O	O	_	_	_
+50	O	O	O	O	O	O	_	_	_
+Prozent	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/120,1815,694,50/full/0/default.jpg
+Wahlberechtigten	O	O	O	O	O	O	_	_	_
+ging	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Wahlen	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/120,1850,670,50/full/0/default.jpg
+Februar	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+sogar	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+diesen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/121,1886,675,45/full/0/default.jpg
+Umständen	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+7	O	O	O	O	O	O	_	_	_
+Prozent	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/120,1922,693,50/full/0/default.jpg
+abgegebenen	O	O	O	O	O	O	_	_	_
+Stimmen	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+weißen	O	O	O	O	O	O	_	_	_
+Zetteln	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/119,1959,678,45/full/0/default.jpg
+also	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+Gonzalez	B-pers	O	B-pers.ind	O	O	O	Q861023	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+abgegeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/119,1994,695,50/full/0/default.jpg
+einziger	O	O	O	O	O	O	_	_	_
+Kandidat	O	O	O	O	O	O	_	_	_
+ging	O	O	O	O	O	O	_	_	_
+Gonzalez	B-pers	O	B-pers.ind	O	O	O	Q861023	_	_
+natürlich	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/119,2031,693,50/full/0/default.jpg
+siegreich	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Wahlen	O	O	O	O	O	O	_	_	_
+hervor	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Schon	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/119,2067,672,47/full/0/default.jpg
+damals	O	O	O	O	O	O	_	_	_
+scheint	O	O	O	O	O	O	_	_	_
+Gonzalez	B-pers	O	B-pers.ind	O	O	O	Q861023	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bisher	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/119,2103,693,50/full/0/default.jpg
+Anhänger	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+General	B-pers	O	B-pers.ind	O	B-comp.title	O	Q887269	_	_
+Morinigo	I-pers	O	I-pers.ind	O	B-comp.name	O	Q887269	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+gefürchtet	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/118,2146,694,38/full/0/default.jpg
+zu	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Morinigo	B-pers	O	B-pers.ind	O	O	O	Q887269	_	_
+werde	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+nichh	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/119,2175,697,44/full/0/default.jpg
+wie	O	O	O	O	O	O	_	_	_
+ursprünglich	O	O	O	O	O	O	_	_	_
+vorgesehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+15	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/118,2212,693,49/full/0/default.jpg
+August	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Jahres	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/118,2246,694,51/full/0/default.jpg
+übergeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+versuchte	O	O	O	O	O	O	_	_	_
+deshalb	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/118,2283,695,49/full/0/default.jpg
+jetzt	O	O	O	O	O	O	_	_	_
+möglichst	O	O	O	O	O	O	_	_	_
+viele	O	O	O	O	O	O	_	_	_
+Schlüsselstellungen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/118,2319,672,44/full/0/default.jpg
+in	O	O	O	O	O	O	_	_	_
+Armee	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Polizei	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/118,2356,693,51/full/0/default.jpg
+Anhängern	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+also	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Leuten	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Guion	B-org	O	B-org.ent	O	O	O	NIL	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/118,2389,694,55/full/0/default.jpg
+Rojo	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+besetzen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/118,2428,694,50/full/0/default.jpg
+gelungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+vermochte	O	O	O	O	O	O	_	_	_
+sogar	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/116,2463,695,50/full/0/default.jpg
+Parteifreund	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Liberato	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Rodriguez	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/118,2500,692,45/full/0/default.jpg
+Polizeichef	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Asuncion	B-loc	O	B-loc.adm.town	O	O	O	Q2933	_	_
+ernennen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/118,2537,693,45/full/0/default.jpg
+lassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Morinigo	B-pers	O	B-pers.ind	O	O	O	Q887269	_	_
+scheint	O	O	O	O	O	O	_	_	_
+tatsächlich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/118,2572,694,45/full/0/default.jpg
+Absicht	O	O	O	O	O	O	_	_	_
+gehegt	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Wahlen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/116,2616,675,37/full/0/default.jpg
+vom	O	O	O	O	O	O	_	_	_
+15	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Februar	O	O	O	O	O	O	_	_	_
+nachträglich	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/116,2644,693,51/full/0/default.jpg
+ungültig	O	O	O	O	O	O	_	_	_
+erklären	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+lassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/116,2681,693,45/full/0/default.jpg
+Macht	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+bleiben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+merkte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/116,2716,694,50/full/0/default.jpg
+Ernennung	O	O	O	O	O	O	_	_	_
+Rodriguez	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Polizeichef	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/118,2754,691,44/full/0/default.jpg
+ein	O	O	O	O	O	O	_	_	_
+Fehler	O	O	O	O	O	O	_	_	_
+gewesen	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+versuchte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/115,2789,695,44/full/0/default.jpg
+sie	O	O	O	O	O	O	_	_	_
+rückgängig	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+machen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/116,2825,693,45/full/0/default.jpg
+löste	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Staatsstreich	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Anhänger	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/118,2859,621,47/full/0/default.jpg
+Gonzalez	B-pers	O	B-pers.ind	O	O	O	Q861023	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Armee	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Polizei	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/151,2915,657,45/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+demokratischen	O	O	O	O	O	O	_	_	_
+Oppositionellen	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/116,2950,692,51/full/0/default.jpg
+Liberale	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Febreristen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/119,2987,672,47/full/0/default.jpg
+Gonzalez	B-pers	O	B-pers.ind	O	O	O	Q861023	_	_
+und	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Guion	B-org	O	B-org.ent	O	B-comp.name	O	NIL	_	_
+Rojo	I-org	O	I-org.ent	O	I-comp.name	O	NIL	_	NoSpaceAfter
+"	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/118,3023,670,47/full/0/default.jpg
+verfehdete	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Gruppe	I-org	O	I-org.ent	O	O	O	NIL	_	_
+der	I-org	O	I-org.ent	O	O	O	NIL	_	_
+sogenannten	I-org	O	I-org.ent	O	O	B-org.ent	NIL	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/118,3059,672,45/full/0/default.jpg
+demokratischen	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	_
+Colorados	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	_
+—	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/118,3095,690,44/full/0/default.jpg
+meistens	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Exil	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Argentinien	B-loc	O	B-loc.adm.nat	O	O	O	Q414	_	_
+und	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/116,3132,692,49/full/0/default.jpg
+Uruguay	B-loc	O	B-loc.adm.nat	O	O	O	Q77	_	_
+befinden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hatten	O	O	O	O	O	O	_	_	_
+zunächst	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/118,3167,690,45/full/0/default.jpg
+dem	O	O	O	O	O	O	_	_	_
+Staatsstreich	O	O	O	O	O	O	_	_	_
+gehofft	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+handele	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/116,3203,674,47/full/0/default.jpg
+sich	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Aufstand	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/118,3238,689,50/full/0/default.jpg
+paraguayischen	O	O	O	O	O	O	_	_	_
+Volkes	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Armee	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/118,3276,690,45/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+Gewaltherrschaft	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Morinigosj	B-pers	O	B-pers.ind	O	O	O	Q887269	_	Partial-0:9
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/118,3311,672,45/full/0/default.jpg
+ihnen	O	O	O	O	O	O	_	_	_
+selber	O	O	O	O	O	O	_	_	_
+werde	O	O	O	O	O	O	_	_	_
+nunmehr	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/866,458,671,44/full/0/default.jpg
+Gelegenheit	O	O	O	O	O	O	_	_	_
+gegeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Paraguay	B-loc	O	B-loc.adm.nat	O	O	O	Q733	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/866,492,689,45/full/0/default.jpg
+zurückzukehren	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+politischen	O	O	O	O	O	O	_	_	_
+Kampf	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/866,528,689,50/full/0/default.jpg
+einzugreifen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sollte	O	O	O	O	O	O	_	_	_
+jedoch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Tat	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/865,563,689,45/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+gegenwärtige	O	O	O	O	O	O	_	_	_
+vorläufige	O	O	O	O	O	O	_	_	_
+Präsident	B-pers	O	B-pers.ind	O	B-comp.function	O	Q628530	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/864,598,690,47/full/0/default.jpg
+Frutos	I-pers	O	I-pers.ind	O	B-comp.name	O	Q628530	_	_
+am	O	O	O	O	O	O	_	_	_
+15	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+August	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Präsidentenamt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/864,634,691,45/full/0/default.jpg
+dem	O	O	O	O	O	O	_	_	_
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q861023	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q861023	_	_
+Gonzalez	I-pers	O	I-pers.ind	O	B-comp.name	O	Q861023	_	_
+übergeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+besteht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/864,669,689,45/full/0/default.jpg
+kaum	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Hoffnung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Wünsche	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/863,706,691,44/full/0/default.jpg
+in	O	O	O	O	O	O	_	_	_
+Erfüllung	O	O	O	O	O	O	_	_	_
+gehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Immerhin	O	O	O	O	O	O	_	_	_
+gilt	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/864,742,672,44/full/0/default.jpg
+amtsführende	B-pers	O	B-pers.ind	O	B-comp.name	O	Q628530	_	_
+Präsident	I-pers	O	I-pers.ind	O	I-comp.name	O	Q628530	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q628530	_	_
+Frutos	I-pers	O	I-pers.ind	O	B-comp.name	O	Q628530	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/863,777,671,50/full/0/default.jpg
+gemäßigter	O	O	O	O	O	O	_	_	_
+Politiker	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/863,812,674,51/full/0/default.jpg
+Auseinandersetzung	O	O	O	O	O	O	_	_	_
+zwischen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/862,846,690,48/full/0/default.jpg
+,	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	NoSpaceAfter
+demokratischen	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	_
+Gruppe	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Guion	B-org	O	B-org.ent	O	O	O	NIL	_	_
+Rojo	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/862,883,691,45/full/0/default.jpg
+innerhalb	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Colorado	B-org	O	B-org.ent	O	O	O	Q928949	_	NoSpaceAfter
+-	I-org	O	I-org.ent	O	O	O	Q928949	_	NoSpaceAfter
+Partei	I-org	O	I-org.ent	O	O	O	Q928949	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/862,921,674,47/full/0/default.jpg
+stets	O	O	O	O	O	O	_	_	_
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+angehört	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+Stellung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/862,962,692,43/full/0/default.jpg
+genommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+früher	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/861,991,675,49/full/0/default.jpg
+wieder	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Uebernahme	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/862,1027,690,50/full/0/default.jpg
+Präsidentenamtes	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Versöhnung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/861,1063,691,45/full/0/default.jpg
+beiden	O	O	O	O	O	O	_	_	_
+Gruppen	O	O	O	O	O	O	_	_	_
+aufgefordert	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+würde	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/861,1098,692,47/full/0/default.jpg
+vielleicht	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+politischen	O	O	O	O	O	O	_	_	_
+Linie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/861,1135,690,49/full/0/default.jpg
+liegen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Heimberufung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/861,1170,689,45/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+exilierten	O	O	O	O	O	O	_	_	_
+politischen	O	O	O	O	O	O	_	_	_
+Gegner	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/859,1205,691,44/full/0/default.jpg
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Aufhebung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Verbote	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/859,1242,692,49/full/0/default.jpg
+übrigen	O	O	O	O	O	O	_	_	_
+Parteien	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+einzusetzen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/859,1278,678,44/full/0/default.jpg
+hat	O	O	O	O	O	O	_	_	_
+kaum	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Anschein	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+ob	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/858,1313,676,45/full/0/default.jpg
+tatsächliche	O	O	O	O	O	O	_	_	_
+Macht	O	O	O	O	O	O	_	_	_
+hinter	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+stehe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/856,1348,676,45/full/0/default.jpg
+sondern	O	O	O	O	O	O	_	_	_
+vielmehr	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/857,1385,675,49/full/0/default.jpg
+vorübergehende	O	O	O	O	O	O	_	_	_
+Betreuung	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/858,1422,676,44/full/0/default.jpg
+Präsidentenamt	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+geschehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/857,1457,693,45/full/0/default.jpg
+Staatsstreich	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Berufung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Obersten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/857,1489,694,49/full/0/default.jpg
+Richters	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Präsidentenstuhl	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/856,1529,694,49/full/0/default.jpg
+legalen	O	O	O	O	O	O	_	_	_
+Anstrich	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+geben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/857,1565,675,44/full/0/default.jpg
+öffentliche	O	O	O	O	O	O	_	_	_
+Meinung	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/857,1606,693,44/full/0/default.jpg
+Betrauung	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+gemäßigten	O	O	O	O	O	O	_	_	_
+Politikers	O	O	O	O	O	O	_	_	_
+zugleich	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/856,1637,408,48/full/0/default.jpg
+günstig	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+beeinflussen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/891,1672,657,45/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+wahren	O	O	O	O	O	O	_	_	_
+Machthaber	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Paraguay	B-loc	O	B-loc.adm.nat	O	O	O	Q733	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/857,1709,692,45/full/0/default.jpg
+sind	O	O	O	O	O	O	_	_	_
+gegenwärtig	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Anhänger	O	O	O	O	O	O	_	_	_
+Natalicio	B-pers	O	B-pers.ind	O	O	O	Q861023	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1598,455,688,48/full/0/default.jpg
+Gonzalez	I-pers	O	I-pers.ind	O	O	O	Q861023	_	NoSpaceAfter|Partial--10:7
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Guion	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter
+,	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Rojo	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1596,491,690,45/full/0/default.jpg
+Freunde	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Armee	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+'	O	O	O	O	O	O	_	_	_
+Polizei	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1595,528,673,44/full/0/default.jpg
+haben	O	O	O	O	O	O	_	_	_
+während	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+vorjährigen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1596,563,690,49/full/0/default.jpg
+Bürgerkrieges	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+demokratischen	O	O	O	O	O	O	_	_	_
+Kräfte	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1595,598,672,44/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+paraguayischen	O	O	O	O	O	O	_	_	_
+Armee	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1595,635,690,49/full/0/default.jpg
+Bürgertum	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Sturz	O	O	O	O	O	O	_	_	_
+Morinigos	B-pers	O	B-pers.ind	O	O	O	Q887269	_	_
+versuchten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1596,669,689,45/full/0/default.jpg
+auf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Seite	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Diktators	O	O	O	O	O	O	_	_	_
+gestanden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1596,705,690,44/full/0/default.jpg
+und	O	O	O	O	O	O	_	_	_
+ihn	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	_
+erst	O	O	O	O	O	O	_	_	_
+davon	O	O	O	O	O	O	_	_	_
+gejagt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1594,741,691,50/full/0/default.jpg
+befürchteten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+werde	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+.	O	O	O	O	O	O	_	_	_|EOS
+
+überlisten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1595,776,690,45/full/0/default.jpg
+und	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+entgegen	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+Versprechen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1595,812,673,44/full/0/default.jpg
+selbst	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Macht	O	O	O	O	O	O	_	_	_
+halten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Darum	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1595,846,676,45/full/0/default.jpg
+bedeutet	O	O	O	O	O	O	_	_	_
+jedoch	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+paraguayische	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1595,883,690,44/full/0/default.jpg
+Staatsstreich	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+längst	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+Rückkehr	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1593,918,692,51/full/0/default.jpg
+verfassungsmäßigen	O	O	O	O	O	O	_	_	_
+Verhältnissen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1594,954,673,45/full/0/default.jpg
+demokratischen	O	O	O	O	O	O	_	_	_
+Spielregeln	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1593,991,693,50/full/0/default.jpg
+Kabinett	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Frutos	B-pers	O	B-pers.ind	O	O	O	Q628530	_	_
+ernannt	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+enthält	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1593,1026,693,47/full/0/default.jpg
+bezeichnenderweise	O	O	O	O	O	O	_	_	_
+außer	O	O	O	O	O	O	_	_	_
+Anhängern	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1594,1061,691,45/full/0/default.jpg
+des	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Guion	B-org	O	B-org.ent	O	O	O	NIL	_	_
+Rojo	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+drei	O	O	O	O	O	O	_	_	_
+Minister	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1594,1097,691,45/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+bereits	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+Morinigo	B-pers	O	B-pers.ind	O	O	O	Q887269	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Aemter	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1593,1132,693,51/full/0/default.jpg
+innehatten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+darunter	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Namensvetter	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1593,1169,674,45/full/0/default.jpg
+des	O	O	O	O	O	O	_	_	_
+Gestürzten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Victor	B-pers	O	B-pers.ind	O	O	O	Q21995449	_	_
+Morinigo	I-pers	O	I-pers.ind	O	O	O	Q21995449	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1593,1205,676,44/full/0/default.jpg
+unter	O	O	O	O	O	O	_	_	_
+General	B-pers	O	B-pers.ind	O	B-comp.title	O	Q887269	_	_
+Morinigo	I-pers	O	I-pers.ind	O	B-comp.name	O	Q887269	_	_
+das	O	O	O	O	O	O	_	_	_
+wichtige	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1593,1240,693,47/full/0/default.jpg
+Innenministerium	O	O	O	O	O	O	_	_	_
+verwaltete	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1592,1278,693,49/full/0/default.jpg
+paraguayischer	O	O	O	O	O	O	_	_	_
+Außenminister	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1592,1313,693,47/full/0/default.jpg
+Das	O	O	O	O	O	O	_	_	_
+alles	O	O	O	O	O	O	_	_	_
+sieht	O	O	O	O	O	O	_	_	_
+keinesfalls	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1592,1350,693,49/full/0/default.jpg
+Richtungswechsel	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+höchstens	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1592,1385,691,44/full/0/default.jpg
+nach	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+changement	O	O	O	O	O	O	_	_	_
+de	O	O	O	O	O	O	_	_	_
+décor	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1592,1420,694,45/full/0/default.jpg
+Eine	O	O	O	O	O	O	_	_	_
+andere	O	O	O	O	O	O	_	_	_
+Frage	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+freilich	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ob	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1592,1456,694,49/full/0/default.jpg
+jetzt	O	O	O	O	O	O	_	_	_
+durchexerzierte	O	O	O	O	O	O	_	_	_
+Beispiel	O	O	O	O	O	O	_	_	_
+.	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1593,1492,691,45/full/0/default.jpg
+Staatsstreiches	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Paraguay	B-loc	O	B-loc.adm.nat	O	O	O	Q733	_	_
+nicht	O	O	O	O	O	O	_	_	_
+weiter	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1592,1529,694,43/full/0/default.jpg
+Schule	O	O	O	O	O	O	_	_	_
+machen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ob	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+erfolgreiche	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1592,1565,692,44/full/0/default.jpg
+Putsch	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Anfang	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+Reihe	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1590,1600,694,44/full/0/default.jpg
+weiterer	O	O	O	O	O	O	_	_	_
+Vorgänge	O	O	O	O	O	O	_	_	_
+ähnlicher	O	O	O	O	O	O	_	_	_
+Art	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1590,1635,693,50/full/0/default.jpg
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wobei	O	O	O	O	O	O	_	_	_
+zwar	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Ausgangspunkt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1592,1672,675,44/full/0/default.jpg
+aber	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Ende	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+lange	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fhb7r6d%2fpages%2f8/1592,1707,157,45/full/0/default.jpg
+abzusehen	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

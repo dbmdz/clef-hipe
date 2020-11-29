@@ -1,0 +1,1034 @@
+# language = de
+# newspaper = NZZ
+# date = 1898-05-10
+# document_id = NZZ-1898-05-10-b-p0002
+# segment_iiif_link = _
+Lokales	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+—	O	O	O	O	O	O	_	_	_
+Aus	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Stadtratsverhandlungen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vom	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+7	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+Mai	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1898	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Der	O	O	O	O	O	O	_	_	_
+Große	B-org	O	B-org.adm	O	O	O	Q20012728	_	_
+Stadtrat	I-org	O	I-org.adm	O	O	O	Q20012728	_	_
+wird	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+21	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Mai	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Konstituierung	O	O	O	O	O	O	_	_	_
+einberufen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Dem	O	O	O	O	O	O	_	_	_
+Waisenhausfonds	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#hausfonds	O	O	O	O	O	O	_	_	_|Commented
+ist	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Vermächtnis	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Herrn	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+Karl	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+JosKunz	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter|Normalized-4
+#¬	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#Kunz	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_|Commented
+im	O	O	O	O	O	O	_	_	_
+Betrage	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+1170	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+zugekommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Pläne	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Privatstraße	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Genossenschaft	B-org	O	B-org.ent	O	O	O	NIL	_	_
+Eigenheim	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zwischen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Eidmattstraße	B-loc	O	B-loc.oro	O	O	O	NIL	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Verlängerung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Grünenhofstraße	B-loc	O	B-loc.oro	O	O	O	NIL	_	_
+werden	O	O	O	O	O	O	_	_	_
+festgesetzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Gegenüber	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Aenderungen	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Aufnahmegebäude	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Hauptbahnhofes	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wird	O	O	O	O	O	O	_	_	_
+Beseitigung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+feuergefährlichen	O	O	O	O	O	O	_	_	_
+Einrichtungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+insbesondere	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#besondere	O	O	O	O	O	O	_	_	_|Commented
+Ersatz	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+hölzernen	O	O	O	O	O	O	_	_	_
+Wände	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Gepäckbureaus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+durch	O	O	O	O	O	O	_	_	_
+solche	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+feuersicherem	O	O	O	O	O	O	_	_	_
+Material	O	O	O	O	O	O	_	_	_
+verlangt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Anerbieten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kuratel	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Friesschen	O	O	O	O	O	O	_	_	_
+Legates	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Anschaffung	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+Baumwagens	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+beim	O	O	O	O	O	O	_	_	_
+Verpflanzen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+größerer	O	O	O	O	O	O	_	_	_
+Bäume	O	O	O	O	O	O	_	_	_
+dienen	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+500	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+beizutragen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+angenommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Neue	O	O	O	O	O	O	_	_	_
+Pissoirs	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Stadthausanlage	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#hausanlage	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Sihlhölzchen	B-loc	O	B-loc.phys.geo	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Mythenquai	B-loc	O	B-loc.oro	O	O	O	Q27325709	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Utobrücke	B-loc	O	B-loc.oro	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Dammstraße	B-loc	O	B-loc.oro	O	O	O	Q27329886	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Nordstraße	B-loc	O	B-loc.oro	O	O	O	Q27331740	_	_
+beim	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Eisenbahneinschnitt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+obern	B-loc	O	B-loc.oro	O	O	O	Q27330508	_	_
+Höschgasse	I-loc	O	I-loc.oro	O	B-comp.name	O	Q27330508	_	_
+und	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Fuße	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Gloriastraße	B-loc	O	B-loc.oro	O	O	O	Q27329432	_	_
+errichtet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Als	O	O	O	O	O	O	_	_	_
+neunter	O	O	O	O	O	O	_	_	_
+Fleischschauer	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schauer	O	O	O	O	O	O	_	_	_|Commented
+wird	O	O	O	O	O	O	_	_	_
+Tierarzt	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Schüepp	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	_
+Flawyl	B-loc	O	B-loc.adm.town	O	O	O	Q65506	_	_
+gewählt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Abordnungen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Stadt	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Korporationen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+außerhalb	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Stadtverwaltung	O	O	O	O	O	O	_	_	_
+stehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+folgendermaßen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#maßen	O	O	O	O	O	O	_	_	_|Commented
+bestellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Aufsichtskommission	B-org	O	B-org.ent	O	O	O	NIL	_	_
+der	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Seidenwebschule	I-org	O	I-org.ent	O	O	B-org.ent	NIL	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Fritschi	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	Q1493750	_	_
+Billeter	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1493750	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Kaspar	B-pers	O	B-pers.ind	O	O	O	Q1048029	_	_
+Schindler	I-pers	O	I-pers.ind	O	O	O	Q1048029	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Konsistorium	B-org	O	B-org.ent	O	O	O	NIL	_	_
+der	I-org	O	I-org.ent	O	O	O	NIL	_	_
+französischen	I-org	O	I-org.ent	O	O	B-org.ent	NIL	_	_
+Kirche	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Grob	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Hasler	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Verwaltungskommission	B-org	O	B-org.ent	O	O	O	NIL	_	_
+des	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Pestalozzianums	I-org	O	I-org.ent	O	O	B-org.ent	NIL	_	NoSpaceAfter|Normalized-10
+#¬	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lozzianums	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	NoSpaceAfter|Commented
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Fritschi	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Unterrichtskommission	B-org	O	B-org.ent	O	O	O	NIL	_	_
+der	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Handelsschule	I-org	O	I-org.ent	O	O	B-org.ent	NIL	_	_
+des	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	_
+Kaufmännischen	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	_
+Vereins	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Fritschi	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Landesmuseumskommission	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Professor	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Rudolf	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Rahn	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Aufsichtskommission	B-org	O	B-org.ent	O	O	O	NIL	_	_
+des	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Belvoirparkes	I-org	O	I-org.ent	O	O	B-loc.oro	NIL	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Stadtpräsident	B-pers	O	B-pers.ind	O	B-comp.function	O	Q117727	_	_
+Pestalozzi	I-pers	O	I-pers.ind	O	B-comp.name	O	Q117727	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Hasler	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Müller	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Baumeister	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Albert	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Gull	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Forstmeister	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Gottlieb	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kramer	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Friedrich	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	_
+Meyer	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Direktor	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	_
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+Versicherungsgesellschaft	I-pers	O	I-pers.ind	O	I-comp.function	B-org.ent	NIL	_	NoSpaceAfter|Normalized-12
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gesellschaft	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	NIL	_	_|Commented
+„	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	NIL	_	NoSpaceAfter
+Zürich	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	NIL	_	NoSpaceAfter
+"	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Aufsichtskommission	B-org	O	B-org.ent	O	O	O	NIL	_	_
+der	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Fachschule	I-org	O	I-org.ent	O	O	B-org.ent	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+für	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	_
+Damenschneiderei	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	_
+und	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	_
+Lingerie	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Grob	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Hasler	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Kantonsschulverwalter	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Julius	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Pfister	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Gottlieb	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Schärtlin	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Direktor	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	_
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+Volksversicherungsund	I-pers	O	I-pers.ind	O	I-comp.function	B-org.ent	NIL	_	NoSpaceAfter|Normalized-3
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#und	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	NIL	_	_|Commented
+Rentenanstalt	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Aufsichtskommission	B-org	O	B-org.ent	O	O	O	NIL	_	_
+des	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Geßnerschen	I-org	O	I-org.ent	O	O	B-org.ent	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kunstkabinetts	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Fritschi	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Aufsichtskommission	B-org	O	B-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	I-org	O	I-org.ent	O	O	O	NIL	_	_
+naturwissenschaftlichen	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Sammlungen	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Fritschi	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Komitee	B-org	O	B-org.ent	O	O	O	NIL	_	_
+des	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Kinderspitals	I-org	O	I-org.ent	O	O	B-org.ent	NIL	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Kantonsapotheker	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Karl	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Keller	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Kuratel	B-org	O	B-org.ent	O	O	O	NIL	_	_
+des	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Prediger	I-org	O	I-org.ent	O	O	B-org.ent	NIL	_	NoSpaceAfter
+-	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	NoSpaceAfter
+Witwen	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	NoSpaceAfter
+-	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	_
+und	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Waisensonds	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	Q2553756	_	_
+Lutz	I-pers	O	I-pers.ind	O	B-comp.name	O	Q2553756	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Grob	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Konvent	B-org	O	B-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Stadtbibliothek	I-org	O	I-org.ent	O	O	B-org.ent	NIL	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Stadtpräsident	B-pers	O	B-pers.ind	O	B-comp.function	O	Q117727	_	_
+Pestalozzi	I-pers	O	I-pers.ind	O	B-comp.name	O	Q117727	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Grob	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Centralvorstand	B-org	O	B-org.ent	O	O	O	NIL	_	_
+der	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Freiwilligen	I-org	O	I-org.ent	O	O	B-org.ent	NIL	_	_
+und	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	_
+EinwohnerArmenpflege	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	NoSpaceAfter|Normalized-11
+#¬	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#Armenpflege	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	NoSpaceAfter|Commented
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Stadtpräsident	B-pers	O	B-pers.ind	O	B-comp.function	O	Q117727	_	_
+Pestalozzi	I-pers	O	I-pers.ind	O	B-comp.name	O	Q117727	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Verkehrskommission	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter|Normalized-7
+#¬	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mission	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|Commented
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	Q1493750	_	_
+Billeter	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1493750	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Müller	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Stadtarzt	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Leuch	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Verwaltungskommission	B-org	O	B-org.ent	O	O	O	NIL	_	_
+für	I-org	O	I-org.ent	O	O	O	NIL	_	_
+den	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Fonds	I-org	O	I-org.ent	O	O	O	NIL	_	_
+zur	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Errichtung	I-org	O	I-org.ent	O	O	O	NIL	_	_
+eines	I-org	O	I-org.ent	O	O	O	NIL	_	_
+permanenten	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Ausstellungsgebäudes	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Stadtpräsident	B-pers	O	B-pers.ind	O	B-comp.function	O	Q117727	_	_
+Pestalozzi	I-pers	O	I-pers.ind	O	B-comp.name	O	Q117727	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Kommission	B-org	O	B-org.ent	O	O	O	NIL	_	_
+für	I-org	O	I-org.ent	O	O	O	NIL	_	_
+die	I-org	O	I-org.ent	O	O	O	NIL	_	_
+kaufmännischen	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|Normalized-10
+#¬	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#männischen	I-org	O	I-org.ent	O	O	O	NIL	_	_|Commented
+Lehrlingsprüfungen	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	Q1493750	_	_
+Billeter	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1493750	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Vorstand	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stand	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Pestalozzigesellschaft	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Grob	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Vorstand	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Kunstgesellschaft	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Stadtpräsident	B-pers	O	B-pers.ind	O	B-comp.function	O	Q117727	_	_
+Pestalozzi	I-pers	O	I-pers.ind	O	B-comp.name	O	Q117727	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Aufsichtskommission	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter|Normalized-16
+#¬	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sichtskommission	I-org	O	I-org.ent	O	O	O	NIL	_	_|Commented
+der	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Textilzeichenschule	I-org	O	I-org.ent	O	O	B-org.ent	NIL	_	NoSpaceAfter
+:	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Fritschi	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dietrich	B-pers	O	B-pers.ind	O	O	O	Q1224007	_	_
+Schindler	I-pers	O	I-pers.ind	O	O	O	Q1224007	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	_
+Vertreter	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Stadt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zur	O	O	O	O	O	O	_	_	_
+Wahl	O	O	O	O	O	O	_	_	_
+vorgeschlagen	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Verwaltungsrat	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Straßenbahn	B-org	O	B-org.ent	O	O	O	Q1622716	_	NoSpaceAfter|Normalized-4
+#¬	I-org	O	I-org.ent	O	O	O	Q1622716	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bahn	I-org	O	I-org.ent	O	O	O	Q1622716	_	_|Commented
+Zürich	I-org	O	I-org.ent	O	O	O	Q1622716	_	NoSpaceAfter
+-	I-org	O	I-org.ent	O	O	O	Q1622716	_	NoSpaceAfter
+Oerlikon	I-org	O	I-org.ent	O	O	O	Q1622716	_	NoSpaceAfter
+-	I-org	O	I-org.ent	O	O	O	Q1622716	_	NoSpaceAfter
+Seebach	I-org	O	I-org.ent	O	O	O	Q1622716	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	Q2553756	_	_
+Lutz	I-pers	O	I-pers.ind	O	B-comp.name	O	Q2553756	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+Verwaltungsrat	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tungsrat	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Straßenbahn	B-org	O	B-org.ent	O	O	O	Q17123721	_	_
+Industriequartier	I-org	O	I-org.ent	O	O	O	Q17123721	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	Q2553756	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Lutz	I-pers	O	I-pers.ind	O	B-comp.name	O	Q2553756	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+Verwaltungsrat	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Straßenbahn	B-org	O	B-org.ent	O	O	O	Q17127569	_	_
+Zürich	I-org	O	I-org.ent	O	O	O	Q17127569	_	NoSpaceAfter
+-	I-org	O	I-org.ent	O	O	O	Q17127569	_	NoSpaceAfter
+Höngg	I-org	O	I-org.ent	O	O	O	Q17127569	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	Q2553756	_	_
+Lutz	I-pers	O	I-pers.ind	O	B-comp.name	O	Q2553756	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+Verwaltungsrat	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Theateraktiengesellschaft	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter|Normalized-6
+#¬	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schaft	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|Commented
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	Q1493750	_	_
+Billeter	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1493750	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Stadtschreiber	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Wyß	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+Verwaltungsausschuß	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter|Normalized-13
+#¬	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tungsausschuß	I-org	O	I-org.ent	O	O	O	NIL	_	_|Commented
+der	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Neuen	I-org	O	I-org.ent	O	O	B-org.ent	NIL	_	_
+Tonhallegesellschaft	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Stadtpräsident	B-pers	O	B-pers.ind	O	B-comp.function	O	Q117727	_	NoSpaceAfter|Normalized-9
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	Q117727	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#präsident	I-pers	O	I-pers.ind	O	I-comp.function	O	Q117727	_	_|Commented
+Pestalozzi	I-pers	O	I-pers.ind	O	B-comp.name	O	Q117727	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Stadtrat	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Grob	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	_
+Mitglieder	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schießplatzkommission	B-org	O	B-org.ent	O	O	O	NIL	_	_
+werden	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Amtsdauer	O	O	O	O	O	O	_	_	_
+1898	B-time	O	B-time.date.abs	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bis	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1901	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+unter	O	O	O	O	O	O	_	_	_
+Berücksichtigung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Rücktrittserklärungen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Herren	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+Keyser	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Stoll	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Trüb	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+gewählt	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Müller	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	_
+Ernst	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Hermann	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Stadtrat	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	_
+(	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	NoSpaceAfter
+Präsident	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	NoSpaceAfter
+)	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+Altorfer	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	_
+Gustav	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Kaufmann	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter|Normalized-4
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mann	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	NoSpaceAfter|Commented
+;	O	O	O	O	O	O	_	_	_|EOS
+
+Ammann	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	_
+Johannes	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Sekundarlehrer	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+Arzethauser	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter|Normalized-6
+#¬	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#hauser	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_|Commented
+Fridolin	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Seidenfabrikant	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+Bär	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	_
+Albert	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Sekundarlehrer	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter|Normalized-6
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lehrer	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	NoSpaceAfter|Commented
+;	O	O	O	O	O	O	_	_	_|EOS
+
+Fluck	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	_
+Jakob	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Lehrer	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	_
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+kantonalen	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+landwirtschaftlichen	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	NoSpaceAfter|Normalized-12
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schaftlichen	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_|Commented
+Schule	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+Gugolz	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	_
+Johannes	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Kaufmann	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Hämig	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	_
+Heinrich	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Kaufmann	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+Huber	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	_
+Heinrich	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Glaswarenfabrikant	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter|Normalized-9
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fabrikant	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	NoSpaceAfter|Commented
+;	O	O	O	O	O	O	_	_	_|EOS
+
+Kleinert	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	_
+Heinrich	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Bankrat	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+Kundert	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	_
+Rudolf	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Polizeiinspektor	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+Meister	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	_
+Ulrich	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Forstmeister	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+Trüb	B-pers	O	B-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Heinrich	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Sohn	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Forchstraße	B-loc	O	B-loc.add.phys	O	O	O	Q27329914	_	_
+169	I-loc	O	I-loc.add.phys	O	O	O	Q27329914	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Als	O	O	O	O	O	O	_	_	_
+Mitglieder	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Feuerwehrkommission	B-org	O	B-org.ent	O	O	O	NIL	_	_
+werden	O	O	O	O	O	O	_	_	_
+außer	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Polizeivorstande	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dem	O	O	O	O	O	O	_	_	_
+Feuerwehrinspektor	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Polizeiinspektor	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ihr	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Amtes	O	O	O	O	O	O	_	_	_
+wegen	O	O	O	O	O	O	_	_	_
+angehören	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Amtsdauer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+1898	B-time	O	B-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+—	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+1901	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+die	O	O	O	O	O	O	_	_	_
+bisherigen	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+gewählt	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Herren	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Beerli	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Hermann	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Born	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+Emil	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Haupt	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+Albert	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Hausheer	B-pers	O	B-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Robert	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Hegetschweiler	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+Heinrich	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Raths	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+Eduard	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Mitglieder	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Gesundheitsrates	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+gewählt	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Herren	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+Baumann	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Ludwig	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Apotheker	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Custer	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	_
+Gustav	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+med	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Heim	B-pers	O	B-pers.ind	O	B-comp.name	O	Q123898	_	_
+Albert	I-pers	O	I-pers.ind	O	I-comp.name	O	Q123898	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q123898	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	Q123898	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q123898	_	_
+Prof	I-pers	O	I-pers.ind	O	B-comp.title	O	Q123898	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q123898	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Hirzel	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	_
+J	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+H	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Profeffor	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter|Normalized-6
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#feffor	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_|Commented
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+Tierarzneischule	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Lunge	B-pers	O	B-pers.ind	O	B-comp.name	O	Q69872	_	_
+Georg	I-pers	O	I-pers.ind	O	I-comp.name	O	Q69872	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q69872	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	Q69872	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q69872	_	_
+Prof	I-pers	O	I-pers.ind	O	B-comp.title	O	Q69872	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q69872	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Lutz	B-pers	O	B-pers.ind	O	B-comp.name	O	Q2553756	_	_
+Jakob	I-pers	O	I-pers.ind	O	I-comp.name	O	Q2553756	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q2553756	_	_
+Stadtrat	I-pers	O	I-pers.ind	O	B-comp.function	O	Q2553756	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+v	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+Muralt	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+Karl	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+med	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Roth	B-pers	O	B-pers.ind	O	B-comp.name	O	Q18412050	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Otto	I-pers	O	I-pers.ind	O	I-comp.name	O	Q18412050	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q18412050	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	Q18412050	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q18412050	_	_
+Prof	I-pers	O	I-pers.ind	O	B-comp.title	O	Q18412050	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q18412050	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Saager	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	_
+Friedrich	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Metzgermeister	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schmid	B-pers	O	B-pers.ind	O	B-comp.name	O	Q1336811	_	_
+Emil	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1336811	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q1336811	_	_
+Architekt	I-pers	O	I-pers.ind	O	B-comp.function	O	Q1336811	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Schuler	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	_
+Heinrich	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Bäckermeister	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vaterlaus	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	_
+Leonhard	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Gärtner	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Wyß	B-pers	O	B-pers.ind	O	B-comp.name	O	Q55908754	_	_
+Oskar	I-pers	O	I-pers.ind	O	I-comp.name	O	Q55908754	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q55908754	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	Q55908754	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q55908754	_	_
+Prof	I-pers	O	I-pers.ind	O	B-comp.title	O	Q55908754	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q55908754	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Als	O	O	O	O	O	O	_	_	_
+Mitglieder	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Baukollegiums	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+außer	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+drei	O	O	O	O	O	O	_	_	_
+Mitgliedern	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bausektion	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Amtes	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wegen	O	O	O	O	O	O	_	_	_
+angehören	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+Berücksichtigung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Herrn	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+Schreck	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+gestellten	O	O	O	O	O	O	_	_	_
+Entlassungsbegehrens	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Amtsdauer	O	O	O	O	O	O	_	_	_
+1899	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+bis	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1901	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+gewählt	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Herren	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Blum	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Emil	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Ingenieur	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Bluntschli	B-pers	O	B-pers.ind	O	B-comp.name	O	Q118948	_	_
+Friedrich	I-pers	O	I-pers.ind	O	I-comp.name	O	Q118948	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q118948	_	_
+Prof	I-pers	O	I-pers.ind	O	B-comp.title	O	Q118948	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q118948	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Burkhard	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Werner	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Ingenieur	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Denzler	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	_
+Albert	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Moser	B-pers	O	B-pers.ind	O	B-comp.name	O	Q1455355	_	_
+Robert	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1455355	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ingenieur	I-pers	O	I-pers.ind	O	B-comp.function	O	Q1455355	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Ritter	B-pers	O	B-pers.ind	O	B-comp.name	O	Q122696	_	_
+Wilhelm	I-pers	O	I-pers.ind	O	I-comp.name	O	Q122696	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q122696	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	Q122696	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q122696	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q122696	_	_
+Prof	I-pers	O	I-pers.ind	O	B-comp.title	O	Q122696	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q122696	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Vögeli	B-pers	O	B-pers.ind	O	O	O	Q55683785	_	_
+Arnold	I-pers	O	I-pers.ind	O	O	O	Q55683785	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Wehrli	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	_
+Friedrich	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Architekt	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

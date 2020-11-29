@@ -1,0 +1,928 @@
+# language = de
+# newspaper = luxwort
+# date = 1938-10-03
+# document_id = luxwort-1938-10-03-a-i0001
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/47,826,1770,155/full/0/default.jpg
+Das	O	O	O	O	O	O	_	_	_
+russische	O	O	O	O	O	O	_	_	_
+Fragezeichen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/80,1011,823,56/full/0/default.jpg
+Währenb	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Laufe	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	_
+Woche	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/41,1055,837,57/full/0/default.jpg
+Europa	B-loc	O	B-loc.adm.sup	O	O	O	Q46	_	_
+fieberhaft	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+Krieg	O	O	O	O	O	O	_	_	_
+ober	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/40,1099,863,51/full/0/default.jpg
+Frieben	O	O	O	O	O	O	_	_	_
+gewürfelt	O	O	O	O	O	O	_	_	_
+würbe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hielt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+Nußlanb	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q15180	Q15180	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/40,1143,841,60/full/0/default.jpg
+giemlid	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+abseits	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+biplomatifchen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/38,1187,862,60/full/0/default.jpg
+Geschäftigkeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wir	O	O	O	O	O	O	_	_	_
+hörten	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bah	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/37,1233,864,58/full/0/default.jpg
+gemäß	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+eingegangenen	O	O	O	O	O	O	_	_	_
+Verträgen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/38,1273,862,61/full/0/default.jpg
+Tschechoslowakei	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q33946	Q33946	_
+Hilfe	O	O	O	O	O	O	_	_	_
+bringen	O	O	O	O	O	O	_	_	_
+roolle	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/37,1320,863,60/full/0/default.jpg
+für	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+Fall	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+Frankreich	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q142	Q142	_
+feinen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/38,1364,837,60/full/0/default.jpg
+Bünbnispflichten	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Treue	O	O	O	O	O	O	_	_	_
+hielte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/37,1417,864,44/full/0/default.jpg
+Litwinow	B-pers	O	B-pers.ind	O	O	O	Q310100	_	_
+hat	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+beim	O	O	O	O	O	O	_	_	_
+Völkerbunb	B-org	O	B-org.adm	O	O	O	Q38130	_	_
+in	O	O	O	O	O	O	_	_	_
+©	B-loc	O	B-loc.adm.town	O	O	O	Q71	_	NoSpaceAfter
+enf	I-loc	O	I-loc.adm.town	O	O	O	Q71	_	_
+bie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/38,1454,862,58/full/0/default.jpg
+Gelegenheit	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+verpatzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+rohmächten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/38,1498,863,50/full/0/default.jpg
+bas	O	O	O	O	O	O	_	_	_
+Gewissen	O	O	O	O	O	O	_	_	_
+bafür	O	O	O	O	O	O	_	_	_
+gu	O	O	O	O	O	O	_	_	_
+erforfchen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/38,1542,861,57/full/0/default.jpg
+baß	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+all	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+Fällen	O	O	O	O	O	O	_	_	_
+glatt	O	O	O	O	O	O	_	_	_
+verfagt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/38,1585,843,58/full/0/default.jpg
+hätten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Waffengewalt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/37,1637,863,43/full/0/default.jpg
+angegriffenen	O	O	O	O	O	O	_	_	_
+schwächeren	O	O	O	O	O	O	_	_	_
+Staaten	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+glaubten	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/35,1672,386,56/full/0/default.jpg
+verlassen	O	O	O	O	O	O	_	_	_
+gu	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/75,1733,824,56/full/0/default.jpg
+Im	O	O	O	O	O	O	_	_	_
+Uebrigen	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+russische	O	O	O	O	O	O	_	_	_
+Rolle	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/35,1775,486,61/full/0/default.jpg
+ziemlich	O	O	O	O	O	O	_	_	_
+verwaschene	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/75,1839,824,57/full/0/default.jpg
+Für	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+Ernstfall	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+Weltkrieges	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/34,1882,865,50/full/0/default.jpg
+ober	O	O	O	O	O	O	_	_	_
+aud	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+kriegerischer	O	O	O	O	O	O	_	_	_
+Verwicklungen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/34,1925,841,57/full/0/default.jpg
+zwischen	O	O	O	O	O	O	_	_	_
+Polen	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q36	Q36	_
+unb	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,1970,868,55/full/0/default.jpg
+Tschechoslowakei	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q33946	Q33946	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+rechnete	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+natürlich	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,2013,868,57/full/0/default.jpg
+russischen	O	O	O	O	O	O	_	_	_
+Intervention	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/33,2057,866,51/full/0/default.jpg
+eskontierte	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+Waffeneinsatz	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,2101,866,51/full/0/default.jpg
+in	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+Möglichkeiten	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+Auswirkung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,2146,850,53/full/0/default.jpg
+Vorteile	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+Nachteile	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,2191,867,58/full/0/default.jpg
+militärisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+technischen	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+geographisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+strategischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,2234,848,58/full/0/default.jpg
+Gegebenheiten	O	O	O	O	O	O	_	_	_
+würben	O	O	O	O	O	O	_	_	_
+ausgewogen	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,2287,851,41/full/0/default.jpg
+baraus	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Wahrscheinlichkeiten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/848,2289,34,51/full/0/default.jpg
+geschlußfolger	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/74,2384,823,53/full/0/default.jpg
+t	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Akut	O	O	O	O	O	O	_	_	_
+rourbe	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Frage	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Ruhlanb	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q15180	Q15180	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,2428,866,50/full/0/default.jpg
+Miene	O	O	O	O	O	O	_	_	_
+machte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Polen	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q36	Q36	_
+geschlossenen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,2472,867,61/full/0/default.jpg
+Nichtangriffspakt	O	O	O	O	O	O	_	_	_
+aufgukünbigen	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,2517,866,51/full/0/default.jpg
+den	O	O	O	O	O	O	_	_	_
+Fall	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+roo	O	O	O	O	O	O	_	_	_
+Polen	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q36	Q36	_
+seine	O	O	O	O	O	O	_	_	_
+bebrohliche	O	O	O	O	O	O	_	_	_
+Haltung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,2563,867,56/full/0/default.jpg
+gegenüber	O	O	O	O	O	O	_	_	_
+bem	O	O	O	O	O	O	_	_	_
+Teschengebiet	B-loc	O	B-loc.adm.reg	O	O	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Tat	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/34,2606,839,57/full/0/default.jpg
+umsetzen	O	O	O	O	O	O	_	_	_
+sollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Da	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/34,2649,861,57/full/0/default.jpg
+polnisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+tschechoslowakische	O	O	O	O	O	O	_	_	_
+Frage	O	O	O	O	O	O	_	_	_
+hinsichtlich	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,2692,862,58/full/0/default.jpg
+polnischen	O	O	O	O	O	O	_	_	_
+Minberheit	O	O	O	O	O	O	_	_	_
+gur	O	O	O	O	O	O	_	_	_
+Stunbe	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,2737,861,58/full/0/default.jpg
+durch	O	O	O	O	O	O	_	_	_
+bas	O	O	O	O	O	O	_	_	_
+Einrücken	O	O	O	O	O	O	_	_	_
+polnischer	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/30,2780,862,51/full/0/default.jpg
+das	O	O	O	O	O	O	_	_	_
+Wolgagebiet	B-loc	O	B-loc.adm.reg	O	O	B-loc.phys.hydro	Q1634214	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+gelöst	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+verlieren	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/29,2824,862,53/full/0/default.jpg
+das	O	O	O	O	O	O	_	_	_
+Olsagebiet	B-loc	O	B-loc.adm.reg	O	O	B-loc.phys.hydro	Q1811448	_	_
+gelöst	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+verliert	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/29,2870,862,58/full/0/default.jpg
+Diskussion	O	O	O	O	O	O	_	_	_
+darüber	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Aktualität	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,2915,860,57/full/0/default.jpg
+auf	O	O	O	O	O	O	_	_	_
+Polen	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q36	Q36	_
+nur	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+retrospektiven	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,2958,860,56/full/0/default.jpg
+Wert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Allgemeinen	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,3003,841,61/full/0/default.jpg
+europäisll	O	O	O	O	O	O	_	_	NoSpaceAfter
+>	O	O	O	O	O	O	_	_	NoSpaceAfter
+politischen	O	O	O	O	O	O	_	_	_
+Standpunkte	O	O	O	O	O	O	_	_	_
+ihr	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/30,3047,280,57/full/0/default.jpg
+Interesse	O	O	O	O	O	O	_	_	_
+wahren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/70,3108,821,57/full/0/default.jpg
+In	O	O	O	O	O	O	_	_	_
+erster	O	O	O	O	O	O	_	_	_
+Linie	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+gu	O	O	O	O	O	O	_	_	_
+bemerken	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/30,3152,861,60/full/0/default.jpg
+Weiträumigkeit	O	O	O	O	O	O	_	_	_
+Rußlands	B-loc	O	B-loc.adm.nat	O	O	O	Q15180	_	_
+große	O	O	O	O	O	O	_	_	_
+Vorteile	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,3196,861,51/full/0/default.jpg
+aber	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+Nachteile	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+bringt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/33,3238,842,53/full/0/default.jpg
+Vorteile	O	O	O	O	O	O	_	_	_
+liegen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+militärischer	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/33,3292,860,42/full/0/default.jpg
+Fachmann	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+frangösischen	O	O	O	O	O	O	_	_	_
+Blatte	O	O	O	O	O	O	_	_	_
+erklärt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/33,3329,861,55/full/0/default.jpg
+barin	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+baß	O	O	O	O	O	O	_	_	_
+Moskau	B-loc	O	B-loc.adm.town	O	O	O	Q649	_	_
+sowie	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+militär	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+ober	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/33,3373,861,60/full/0/default.jpg
+lebenswichtigen	O	O	O	O	O	O	_	_	_
+Zentralen	O	O	O	O	O	O	_	_	_
+giemlich	O	O	O	O	O	O	_	_	_
+weit	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/33,3418,863,50/full/0/default.jpg
+ben	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+rengen	O	O	O	O	O	O	_	_	_
+entfernt	O	O	O	O	O	O	_	_	_
+finb	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+baß	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+baher	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/34,3463,862,56/full/0/default.jpg
+so	O	O	O	O	O	O	_	_	_
+schnell	O	O	O	O	O	O	_	_	_
+gerstört	O	O	O	O	O	O	_	_	_
+werben	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+roie	O	O	O	O	O	O	_	_	_
+jene	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/34,3506,861,51/full/0/default.jpg
+anberer	O	O	O	O	O	O	_	_	_
+Klein	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+rotzstaaten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Rückgüge	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,3551,862,49/full/0/default.jpg
+ober	O	O	O	O	O	O	_	_	_
+Nieberlagen	O	O	O	O	O	O	_	_	_
+russischer	O	O	O	O	O	O	_	_	_
+Heere	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/35,3595,855,57/full/0/default.jpg
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+rengen	O	O	O	O	O	O	_	_	_
+ermöglichen	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+Kämpfenben	O	O	O	O	O	O	_	_	_
+Ein	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,3639,842,58/full/0/default.jpg
+heiten	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Anklammerung	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,3685,864,50/full/0/default.jpg
+rückwärts	O	O	O	O	O	O	_	_	_
+gelegenen	O	O	O	O	O	O	_	_	_
+militärifch	O	O	O	O	O	O	_	_	_
+-	O	O	O	O	O	O	_	_	_
+strategischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,3729,842,57/full/0/default.jpg
+Punkte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Von	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	NoSpaceAfter
+biesen	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+lassen	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+Wib	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/31,3773,844,57/full/0/default.jpg
+erst	O	O	O	O	O	O	_	_	_
+a	O	O	O	O	O	O	_	_	_
+n	O	O	O	O	O	O	_	_	_
+b	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+erneute	O	O	O	O	O	O	_	_	_
+Vorstöße	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/33,3826,846,49/full/0/default.jpg
+rengen	O	O	O	O	O	O	_	_	_
+insofern	O	O	O	O	O	O	_	_	_
+ermöglichen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/34,3863,862,56/full/0/default.jpg
+Zentralquellen	O	O	O	O	O	O	_	_	_
+bes	O	O	O	O	O	O	_	_	_
+militärischen	O	O	O	O	O	O	_	_	_
+Nachschubs	O	O	O	O	O	O	_	_	_
+sowie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/34,3907,861,51/full/0/default.jpg
+bie	O	O	O	O	O	O	_	_	_
+Neuaufstellung	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Truppenkörpern	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/34,3952,844,58/full/0/default.jpg
+ungehinbert	O	O	O	O	O	O	_	_	_
+non	O	O	O	O	O	O	_	_	_
+feinblichen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/35,3998,604,57/full/0/default.jpg
+Fliegerangriffen	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+durchführen	O	O	O	O	O	O	_	_	_
+lassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/72,4059,804,51/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+Nachteile	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+russischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/35,4103,861,60/full/0/default.jpg
+Weiträumigkeit	O	O	O	O	O	O	_	_	_
+liegen	O	O	O	O	O	O	_	_	_
+barin	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+baß	O	O	O	O	O	O	_	_	_
+sogusagen	O	O	O	O	O	O	_	_	_
+alles	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/35,4148,840,58/full/0/default.jpg
+verlangsamt	O	O	O	O	O	O	_	_	_
+ober	O	O	O	O	O	O	_	_	_
+behinbert	O	O	O	O	O	O	_	_	_
+wirb	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/38,4192,858,60/full/0/default.jpg
+Mobilisierung	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+Aufmarsch	O	O	O	O	O	O	_	_	_
+russischer	O	O	O	O	O	O	_	_	_
+Heere	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/36,4239,861,50/full/0/default.jpg
+ber	O	O	O	O	O	O	_	_	_
+westlichen	O	O	O	O	O	O	_	_	_
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+renge	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Rekrutierung	O	O	O	O	O	O	_	_	_
+währenb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/38,4282,838,51/full/0/default.jpg
+bes	O	O	O	O	O	O	_	_	_
+Krieges	O	O	O	O	O	O	_	_	_
+sowie	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Munitions	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/960,1006,844,60/full/0/default.jpg
+Nahrungsmittel	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Nachfchub	O	O	O	O	O	O	_	_	_
+gehören	O	O	O	O	O	O	_	_	_
+gu	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/959,1052,848,56/full/0/default.jpg
+schwersten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+russischen	O	O	O	O	O	O	_	_	_
+Heeresleitung	O	O	O	O	O	O	_	_	_
+gu	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/960,1096,327,58/full/0/default.jpg
+lösenben	O	O	O	O	O	O	_	_	_
+Aufgaben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/999,1148,821,51/full/0/default.jpg
+Sie	O	O	O	O	O	O	_	_	_
+sinb	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+unlösbar	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+jeber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/959,1192,840,57/full/0/default.jpg
+Nachschub	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+weitab	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+Zentren	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/957,1237,840,55/full/0/default.jpg
+Kämpfenben	O	O	O	O	O	O	_	_	_
+Armeen	O	O	O	O	O	O	_	_	_
+heutigentags	O	O	O	O	O	O	_	_	_
+burch	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/957,1280,840,57/full/0/default.jpg
+Massenaufgebot	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Fluggeugen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/957,1324,862,58/full/0/default.jpg
+bewerkstelligt	O	O	O	O	O	O	_	_	_
+werben	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Eine	O	O	O	O	O	O	_	_	_
+Staffel	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+100	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/956,1368,844,57/full/0/default.jpg
+breimotorigen	O	O	O	O	O	O	_	_	_
+Fluggeugen	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/957,1412,861,56/full/0/default.jpg
+Nutztragkraft	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+je	O	O	O	O	O	O	_	_	_
+20	O	O	O	O	O	O	_	_	_
+Tonnen	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	_
+innerhalb	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/957,1456,861,50/full/0/default.jpg
+Etunbe	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Moskau	B-loc	O	B-loc.adm.town	O	O	O	Q649	_	_
+aus	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+westliche	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/956,1500,838,58/full/0/default.jpg
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+renge	O	O	O	O	O	O	_	_	_
+2000	O	O	O	O	O	O	_	_	_
+Tonnen	O	O	O	O	O	O	_	_	_
+Munition	O	O	O	O	O	O	_	_	_
+ober	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/956,1543,862,63/full/0/default.jpg
+Lebensmittel	O	O	O	O	O	O	_	_	_
+beförbern	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wieberholt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/956,1587,863,51/full/0/default.jpg
+ein	O	O	O	O	O	O	_	_	_
+solcher	O	O	O	O	O	O	_	_	_
+Vorgang	O	O	O	O	O	O	_	_	_
+fünfmal	O	O	O	O	O	O	_	_	_
+pro	O	O	O	O	O	O	_	_	_
+Tag	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+fo	O	O	O	O	O	O	_	_	_
+macht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/956,1631,840,51/full/0/default.jpg
+bas	O	O	O	O	O	O	_	_	_
+10	O	O	O	O	O	O	_	_	_
+000	O	O	O	O	O	O	_	_	_
+Tonnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Monat	O	O	O	O	O	O	_	_	_
+300	O	O	O	O	O	O	_	_	_
+000	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/955,1684,862,42/full/0/default.jpg
+Tonnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nach	O	O	O	O	O	O	_	_	_
+Abgug	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+V	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+r	O	O	O	O	O	O	_	_	_
+l	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	_
+st	O	O	O	O	O	O	_	_	_
+q	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	_
+o	O	O	O	O	O	O	_	_	_
+t	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/956,1720,846,48/full/0/default.jpg
+10	O	O	O	O	O	O	_	_	_
+Progent	O	O	O	O	O	O	_	_	_
+burch	O	O	O	O	O	O	_	_	_
+Abschuß	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Abfturg	O	O	O	O	O	O	_	_	_
+ober	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/954,1764,864,57/full/0/default.jpg
+sonstige	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+unberechenbare	O	O	O	O	O	O	_	_	_
+Ursachen	O	O	O	O	O	O	_	_	_
+verbleiben	O	O	O	O	O	O	_	_	_
+pro	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/955,1808,863,50/full/0/default.jpg
+Monat	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+270	O	O	O	O	O	O	_	_	_
+000	O	O	O	O	O	O	_	_	_
+Tonnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+handelt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/954,1852,864,58/full/0/default.jpg
+jedoch	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Nachschub	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Organisation	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/954,1896,467,56/full/0/default.jpg
+für	O	O	O	O	O	O	_	_	_
+äußerste	O	O	O	O	O	O	_	_	_
+Fälle	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/996,1940,822,56/full/0/default.jpg
+Nad	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Richtung	O	O	O	O	O	O	_	_	_
+hin	O	O	O	O	O	O	_	_	_
+gibt	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+daher	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/955,1984,648,50/full/0/default.jpg
+keine	O	O	O	O	O	O	_	_	_
+besonberen	O	O	O	O	O	O	_	_	_
+Schwierigkeiten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1919,816,819,50/full/0/default.jpg
+Anbers	O	O	O	O	O	O	_	_	_
+verhält	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+fich	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+bem	O	O	O	O	O	O	_	_	_
+Nachschub	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1877,868,862,41/full/0/default.jpg
+von	O	O	O	O	O	O	_	_	_
+Waffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+schwere	O	O	O	O	O	O	_	_	_
+Artillerie	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Tanks	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1879,903,839,57/full/0/default.jpg
+großer	O	O	O	O	O	O	_	_	_
+Lastwagen	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+bergl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Mit	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1879,947,862,58/full/0/default.jpg
+Ausnahme	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+gan3	O	O	O	O	O	O	_	_	_
+wenigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+vielleicht	O	O	O	O	O	O	_	_	_
+höchst	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1879,992,859,57/full/0/default.jpg
+bringenben	O	O	O	O	O	O	_	_	_
+Fällen	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Nachschub	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1879,1035,860,57/full/0/default.jpg
+ein3elner	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+besonbers	O	O	O	O	O	O	_	_	_
+schwerer	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+zerlegbarer	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1879,1078,858,58/full/0/default.jpg
+Fernartillerie	O	O	O	O	O	O	_	_	_
+burch	O	O	O	O	O	O	_	_	_
+Flugzeuge	O	O	O	O	O	O	_	_	_
+z	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+B	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1877,1124,844,57/full/0/default.jpg
+für	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+allgemeine	O	O	O	O	O	O	_	_	_
+Heeresreserve	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1879,1168,839,58/full/0/default.jpg
+bewerkstelligt	O	O	O	O	O	O	_	_	_
+werben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Für	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Divisions	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1877,1213,861,56/full/0/default.jpg
+Korpsreserue	O	O	O	O	O	O	_	_	_
+wirb	O	O	O	O	O	O	_	_	_
+jeboch	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Heranbringen	O	O	O	O	O	O	_	_	_
+solcher	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1876,1256,863,57/full/0/default.jpg
+wichtiger	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+notwenbiger	O	O	O	O	O	O	_	_	_
+Artillerie	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+trotz	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1876,1299,836,51/full/0/default.jpg
+aller	O	O	O	O	O	O	_	_	_
+Vombarbierungsstaffeln	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+ihren	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1879,1344,859,58/full/0/default.jpg
+Beschuh	O	O	O	O	O	O	_	_	_
+m	O	O	O	O	O	O	_	_	_
+ö	O	O	O	O	O	O	_	_	_
+g	O	O	O	O	O	O	_	_	_
+l	O	O	O	O	O	O	_	_	_
+i	O	O	O	O	O	O	_	_	_
+ch	O	O	O	O	O	O	_	_	_
+k	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+i	O	O	O	O	O	O	_	_	_
+t	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+n	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+vielen	O	O	O	O	O	O	_	_	_
+Fällen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1877,1389,861,57/full/0/default.jpg
+entscheibenb	O	O	O	O	O	O	_	_	_
+bleibt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+kaum	O	O	O	O	O	O	_	_	_
+ermöglicht	O	O	O	O	O	O	_	_	_
+werben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1876,1431,833,56/full/0/default.jpg
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ba	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+gegnerische	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1877,1476,861,57/full/0/default.jpg
+Feuerwirkung	O	O	O	O	O	O	_	_	_
+weit	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Lanbungsfelber	O	O	O	O	O	O	_	_	_
+solcher	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1876,1520,862,58/full/0/default.jpg
+Transporte	O	O	O	O	O	O	_	_	_
+hinausgreift	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+L	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	_
+stb	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+-	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1875,1573,863,41/full/0/default.jpg
+o	O	O	O	O	O	O	_	_	_
+b	O	O	O	O	O	O	_	_	_
+a	O	O	O	O	O	O	_	_	_
+cht	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	_
+n	O	O	O	O	O	O	_	_	_
+y	O	O	O	O	O	O	_	_	_
+erkannte	O	O	O	O	O	O	_	_	_
+Transporte	O	O	O	O	O	O	_	_	_
+vernichten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1875,1608,92,50/full/0/default.jpg
+wirb	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1916,1679,803,56/full/0/default.jpg
+Nach	O	O	O	O	O	O	_	_	_
+bem	O	O	O	O	O	O	_	_	_
+Gesagten	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+schwer	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1876,1733,862,48/full/0/default.jpg
+erkennen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ob	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+kommenben	O	O	O	O	O	O	_	_	_
+Kriege	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1875,1769,840,57/full/0/default.jpg
+Nachteile	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Weiträumigkeit	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1875,1814,861,50/full/0/default.jpg
+Ruhlanbs	B-loc	O	B-loc.adm.nat	O	O	O	Q15180	_	_
+größer	O	O	O	O	O	O	_	_	_
+ober	O	O	O	O	O	O	_	_	_
+geringer	O	O	O	O	O	O	_	_	_
+fein	O	O	O	O	O	O	_	_	_
+werben	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1875,1859,230,50/full/0/default.jpg
+bie	O	O	O	O	O	O	_	_	_
+Vorteile	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1915,1938,820,58/full/0/default.jpg
+Rufzlanb	B-loc	O	B-loc.adm.nat	O	O	O	Q15180	_	_
+bleibt	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+bieser	O	O	O	O	O	O	_	_	_
+Hinsicht	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2ffjr627%2fpages%2f1/1874,1980,341,61/full/0/default.jpg
+Fragezeichen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

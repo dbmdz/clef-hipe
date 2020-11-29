@@ -1,0 +1,225 @@
+# language = de
+# newspaper = luxwort
+# date = 1938-07-15
+# document_id = luxwort-1938-07-15-a-i0015
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/2957,5743,316,56/full/0/default.jpg
+Im	O	O	O	O	O	O	_	_	_
+Königspalast	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/2737,5792,796,57/full/0/default.jpg
+Brüssel	B-loc	O	B-loc.adm.town	O	O	O	Q239	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+15	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Juli	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+König	O	O	O	O	O	O	_	_	_
+empfing	O	O	O	O	O	O	_	_	_
+gestern	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/2678,5852,855,25/full/0/default.jpg
+•	O	O	O	O	O	O	_	_	_
+Ministerpräsident	B-pers	O	B-pers.ind	O	B-comp.function	O	Q155691	_	_
+Spaak	I-pers	O	I-pers.ind	O	B-comp.name	O	Q155691	_	_
+in	O	O	O	O	O	O	_	_	_
+Audienz	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dann	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/2698,5878,835,57/full/0/default.jpg
+empfingen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+König	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Königin	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Mutter	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/2698,5919,835,49/full/0/default.jpg
+im	O	O	O	O	O	O	_	_	_
+Schlosse	B-loc	O	B-loc.fac	O	O	O	Q1542585	_	_
+Zu	I-loc	O	I-loc.fac	O	O	O	Q1542585	_	_
+Laeken	I-loc	O	I-loc.fac	O	B-comp.name	O	Q1542585	_	_
+eine	O	O	O	O	O	O	_	_	_
+Abordnung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/2698,5962,835,56/full/0/default.jpg
+Universität	B-org	O	B-org.ent	O	O	O	Q20754971	_	_
+Brüssel	I-org	O	I-org.ent	O	O	B-loc.adm.town	Q20754971	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+ihnen	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Titel	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/2699,6004,834,53/full/0/default.jpg
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Toctor	O	O	O	O	O	O	_	_	_
+honoris	O	O	O	O	O	O	_	_	_
+causa	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+überbrachten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Am	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/2697,6046,819,49/full/0/default.jpg
+31	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Juli	O	O	O	O	O	O	_	_	_
+begibt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+König	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/2698,6088,832,56/full/0/default.jpg
+Königlichen	O	O	O	O	O	O	_	_	_
+Kindern	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Mecheln	B-loc	O	B-loc.adm.town	O	O	O	Q162022	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/2697,6132,818,58/full/0/default.jpg
+marianifchen	O	O	O	O	O	O	_	_	_
+Festlichkeiten	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+U	B-loc	O	B-loc.fac	O	O	O	Q2267045	_	NoSpaceAfter
+^	I-loc	O	I-loc.fac	O	O	O	Q2267045	_	NoSpaceAfter
+erer	I-loc	O	I-loc.fac	O	O	O	Q2267045	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/3590,159,840,49/full/0/default.jpg
+Lieben	I-loc	O	I-loc.fac	O	O	O	Q2267045	_	_
+Frau	I-loc	O	I-loc.fac	O	O	O	Q2267045	_	_
+von	I-loc	O	I-loc.fac	O	O	O	Q2267045	_	_
+Hanswijck	I-loc	O	I-loc.fac	O	O	O	Q2267045	_	_
+tei	O	O	O	O	O	O	_	_	_
+nehmen	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/3590,199,841,53/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+höhen	O	O	O	O	O	O	_	_	_
+Gäste	O	O	O	O	O	O	_	_	_
+wohnen	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Gelegew	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/3590,244,842,56/full/0/default.jpg
+heit	O	O	O	O	O	O	_	_	_
+ebenfalls	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+historischen	O	O	O	O	O	O	_	_	_
+Umzüge	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/3591,285,841,50/full/0/default.jpg
+und	O	O	O	O	O	O	_	_	_
+besuchen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Earillon	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Ausstellung	O	O	O	O	O	O	_	_	_
+Im	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/3590,327,842,56/full/0/default.jpg
+Heiligtum	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+U	B-loc	O	B-loc.fac	O	O	O	Q2267045	_	NoSpaceAfter
+.	I-loc	O	I-loc.fac	O	O	O	Q2267045	_	_
+L	I-loc	O	I-loc.fac	O	O	O	Q2267045	_	NoSpaceAfter
+.	I-loc	O	I-loc.fac	O	O	O	Q2267045	_	_
+F	I-loc	O	I-loc.fac	O	O	O	Q2267045	_	NoSpaceAfter
+.	I-loc	O	I-loc.fac	O	O	O	Q2267045	_	_
+oon	I-loc	O	I-loc.fac	O	O	O	Q2267045	_	_
+Hanswi	I-loc	O	I-loc.fac	O	O	O	Q2267045	_	NoSpaceAfter
+,	I-loc	O	I-loc.fac	O	O	O	Q2267045	_	NoSpaceAfter
+ck	I-loc	O	I-loc.fac	O	O	O	Q2267045	_	_
+wird	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/3591,373,841,48/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Kardinal	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Künigsgäste	O	O	O	O	O	O	_	_	_
+empfangen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/3591,414,842,49/full/0/default.jpg
+den	O	O	O	O	O	O	_	_	_
+Kindern	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+diefer	O	O	O	O	O	O	_	_	_
+Gelegenheit	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/3592,457,841,49/full/0/default.jpg
+eine	O	O	O	O	O	O	_	_	_
+Abbildung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Gnadenbildes	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+drei	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/3591,498,842,49/full/0/default.jpg
+kleine	O	O	O	O	O	O	_	_	_
+Glocken	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Miniatur	O	O	O	O	O	O	_	_	_
+überreicht	O	O	O	O	O	O	_	_	_
+-	O	O	O	O	O	O	_	_	_
+In	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/3590,539,843,50/full/0/default.jpg
+aller	O	O	O	O	O	O	_	_	_
+Stille	O	O	O	O	O	O	_	_	_
+kamen	O	O	O	O	O	O	_	_	_
+gestern	O	O	O	O	O	O	_	_	_
+Prinzesiln	B-pers	O	B-pers.ind	O	B-comp.title	O	Q154946	_	_
+Julian	I-pers	O	I-pers.ind	O	B-comp.name	O	Q154946	_	NoSpaceAfter
+«	I-pers	O	I-pers.ind	O	I-comp.name	O	Q154946	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/3591,583,821,49/full/0/default.jpg
+und	O	O	O	O	O	O	_	_	_
+Prinz	B-pers	O	B-pers.ind	O	B-comp.title	O	Q57304	_	_
+Bernard	I-pers	O	I-pers.ind	O	B-comp.name	O	Q57304	_	_
+von	I-pers	O	I-pers.ind	O	O	O	Q57304	_	_
+Holland	I-pers	O	I-pers.ind	O	O	B-loc.adm.nat	Q57304	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/3592,623,841,57/full/0/default.jpg
+Komgspalaste	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+wo	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+König	B-pers	O	B-pers.ind	O	B-comp.title	O	Q12967	_	_
+Leopold	I-pers	O	I-pers.ind	O	B-comp.name	O	Q12967	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/3592,667,841,53/full/0/default.jpg
+trafen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nachmittags	O	O	O	O	O	O	_	_	_
+kehrten	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+hollandischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/3591,708,830,55/full/0/default.jpg
+Gäste	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Holland	B-loc	O	B-loc.adm.nat	O	O	O	Q55	_	_
+zurück	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+baten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb1bm5f%2fpages%2f2/3592,751,747,54/full/0/default.jpg
+jedoch	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+möge	O	O	O	O	O	O	_	_	_
+ihr	O	O	O	O	O	O	_	_	_
+Inkognito	O	O	O	O	O	O	_	_	_
+wahren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

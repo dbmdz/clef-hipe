@@ -1,0 +1,392 @@
+# language = de
+# newspaper = NZZ
+# date = 1838-08-01
+# document_id = NZZ-1838-08-01-a-p0003
+# segment_iiif_link = _
+do	O	O	O	O	O	O	_	_	_
+on	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nle	O	O	O	O	O	O	_	_	_
+ie	O	O	O	O	O	O	_	_	_
+feneien	O	O	O	O	O	O	_	_	_
+eheung	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+le	O	O	O	O	O	O	_	_	_
+ene	O	O	O	O	O	O	_	_	_
+eiese	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+ungleicher	O	O	O	O	O	O	_	_	_
+Stimmenzahl	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Tagsatzung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+ganDie	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#Die	O	O	O	O	O	O	_	_	_|Commented
+verschiedenen	O	O	O	O	O	O	_	_	_
+Glieder	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+altern	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+fand	O	O	O	O	O	O	_	_	_
+daselbst	O	O	O	O	O	O	_	_	_
+mehrere	O	O	O	O	O	O	_	_	_
+Personen	O	O	O	O	O	O	_	_	_
+beschäftigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Patronen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+machen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Fürst	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Perigueux	B-loc	O	B-loc.adm.town	O	O	O	Q6588	_	_
+und	O	O	O	O	O	O	_	_	_
+Perigord	B-loc	O	B-loc.adm.reg	O	O	O	Q850620	_	_
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+Nachkommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+Munition	O	O	O	O	O	O	_	_	_
+jeder	O	O	O	O	O	O	_	_	_
+Art	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Polizei	O	O	O	O	O	O	_	_	_
+verkündet	O	O	O	O	O	O	_	_	_
+dieß	O	O	O	O	O	O	_	_	_
+Mal	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+l	O	O	O	O	O	O	_	_	_
+men	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Wie	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	_
+Blätter	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sei	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+lange	O	O	O	O	O	O	_	_	_
+davon	O	O	O	O	O	O	_	_	_
+unterrichtet	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Mitglieder	O	O	O	O	O	O	_	_	_
+geheimer	O	O	O	O	O	O	_	_	_
+Gesellschaften	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Anrie	O	O	O	O	O	O	_	_	_
+Aeseies	O	O	O	O	O	O	_	_	_
+eie	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+ise	O	O	O	O	O	O	_	_	_
+pestenengeue	O	O	O	O	O	O	_	_	_
+ie	O	O	O	O	O	O	_	_	_
+Besteiten	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+eneien	O	O	O	O	O	O	_	_	_
+Aestrhie	O	O	O	O	O	O	_	_	_
+Keriche	O	O	O	O	O	O	_	_	_
+rnich	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+tage	O	O	O	O	O	O	_	_	_
+stellt	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Verschüttung	O	O	O	O	O	O	_	_	_
+Pompeiis	B-loc	O	B-loc.adm.town	O	O	O	Q43332	_	_
+vor	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+In	O	O	O	O	O	O	_	_	_
+Straßburg	B-loc	O	B-loc.adm.town	O	O	O	Q6602	_	_
+ist	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bruder	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+großen	B-pers	O	B-pers.ind	O	B-comp.qualifier	O	Q171969	_	_
+Cuvier	I-pers	O	I-pers.ind	O	B-comp.name	O	Q171969	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+Naturforscher	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#forscher	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+Generalinspektor	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Studien	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Inspektionsreise	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gestorben	O	O	O	O	O	O	_	_	_
+84	O	O	O	O	O	O	_	_	_
+1	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+französische	O	O	O	O	O	O	_	_	_
+Administrationsgeist	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+nun	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+Anwendung	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+litterarischen	O	O	O	O	O	O	_	_	_
+Hülfsmittel	O	O	O	O	O	O	_	_	_
+Frankreichs	B-loc	O	B-loc.adm.nat	O	O	O	Q142	_	_
+gefunden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Im	O	O	O	O	O	O	_	_	_
+Ministerium	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Hauptstadt	O	O	O	O	O	O	_	_	_
+Moskau	B-loc	O	B-loc.adm.town	O	O	O	Q649	_	_
+eine	O	O	O	O	O	O	_	_	_
+mäßige	O	O	O	O	O	O	_	_	_
+Monarchie	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Hause	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Czars	O	O	O	O	O	O	_	_	_
+fiele	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sibirien	B-loc	O	B-loc.adm.reg	O	O	O	Q5428	_	_
+zu	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Berufe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Civilisation	O	O	O	O	O	O	_	_	_
+auszubreiten	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+gleich	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nach	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+russischen	O	O	O	O	O	O	_	_	_
+Plane	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+bereicherten	O	O	O	O	O	O	_	_	_
+deutschen	O	O	O	O	O	O	_	_	_
+Fürsten	O	O	O	O	O	O	_	_	_
+freie	O	O	O	O	O	O	_	_	_
+Einrichtungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#richtungen	O	O	O	O	O	O	_	_	_|Commented
+in	O	O	O	O	O	O	_	_	_
+ihren	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	_
+Ländern	O	O	O	O	O	O	_	_	_
+verbreiten	O	O	O	O	O	O	_	_	_
+sollten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Plan	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wie	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+letzte	O	O	O	O	O	O	_	_	_
+Punkt	O	O	O	O	O	O	_	_	_
+zeigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+natürlich	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Gelegenheitsscherz	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+.	O	O	O	O	O	O	_	_	_|EOS
+
+De	O	O	O	O	O	O	_	_	_
+genlund	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Gesegeie	O	O	O	O	O	O	_	_	_
+giet	O	O	O	O	O	O	_	_	_
+inte	O	O	O	O	O	O	_	_	_
+dan	O	O	O	O	O	O	_	_	_
+Berie	O	O	O	O	O	O	_	_	_
+erie	O	O	O	O	O	O	_	_	_
+1e	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bibliotheken	O	O	O	O	O	O	_	_	_
+Frankreichs	B-loc	O	B-loc.adm.nat	O	O	O	Q142	_	_
+errichtet	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wenn	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Schatz	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+laus	O	O	O	O	O	O	_	_	_
+alten	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	_
+Kirchen	O	O	O	O	O	O	_	_	_
+heraus	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Aeufnung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Günstlingsregimentes	O	O	O	O	O	O	_	_	_
+mißbraucht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Frei	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	_|EOS
+
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q332508	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q332508	_	_
+Bowring	I-pers	O	I-pers.ind	O	B-comp.name	O	Q332508	_	_
+ist	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+einigen	O	O	O	O	O	O	_	_	_
+Tagen	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+München	B-loc	O	B-loc.adm.town	O	O	O	Q1726	_	_
+gereist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Rün	O	O	O	O	O	O	_	_	_
+enen	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+et	O	O	O	O	O	O	_	_	_
+esteine	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+Aere	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+eteie	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+erise	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	_
+Journale	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+englischen	O	O	O	O	O	O	_	_	_
+Presse	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+A	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+tück	O	O	O	O	O	O	_	_	_
+hingeworfen	O	O	O	O	O	O	_	_	_
+bekommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wovon	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+wissen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ob	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+S	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Ergst	O	O	O	O	O	O	_	_	_
+nehmen	O	O	O	O	O	O	_	_	_
+sollen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+nämlich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Konie	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+Entwur	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+f	O	O	O	O	O	O	_	_	_
+Tag	O	O	O	O	O	O	_	_	_
+sorelen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+halb	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+scherzend	O	O	O	O	O	O	_	_	_
+darüber	O	O	O	O	O	O	_	_	_
+weggehen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+dürfen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+schließen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+ununterbrochenen	O	O	O	O	O	O	_	_	_
+Siege	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+unerschrockenen	O	O	O	O	O	O	_	_	_
+Armee	O	O	O	O	O	O	_	_	_
+hervorhob	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+se	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

@@ -1,0 +1,336 @@
+# language = de
+# newspaper = luxwort
+# date = 1938-08-18
+# document_id = luxwort-1938-08-18-a-i0003
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/363,1644,242,58/full/0/default.jpg
+Enthüllungen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/125,1686,720,50/full/0/default.jpg
+über	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+deutschen	O	O	O	O	O	O	_	_	_
+Geheimplan	O	O	O	O	O	O	_	_	_
+B	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/105,1744,799,56/full/0/default.jpg
+London	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+17	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Aug	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Fournier	B-org	O	B-org.ent.pressagency	O	O	O	NIL	_	NoSpaceAfter
+.	I-org	O	I-org.ent.pressagency	O	O	O	NIL	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Dem	O	O	O	O	O	O	_	_	_
+englischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/63,1787,841,60/full/0/default.jpg
+Spionagedienst	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+gelungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Kenntnis	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/63,1831,840,50/full/0/default.jpg
+dem	O	O	O	O	O	O	_	_	_
+deutschen	O	O	O	O	O	O	_	_	_
+Geheimplan	O	O	O	O	O	O	_	_	_
+B	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+ein	O	O	O	O	O	O	_	_	_
+Nebenstück	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/63,1882,821,49/full/0/default.jpg
+zum	O	O	O	O	O	O	_	_	_
+berühmten	O	O	O	O	O	O	_	_	_
+Schlieffon	B-pers	O	B-pers.ind	O	O	O	Q28938	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Plan	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/63,1918,821,58/full/0/default.jpg
+Vorkriegszeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+erhalten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+deutschen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,1960,841,57/full/0/default.jpg
+Generalstad	O	O	O	O	O	O	_	_	_
+ausgearbeitet	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2003,842,58/full/0/default.jpg
+deutsche	O	O	O	O	O	O	_	_	_
+Expansion	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Donaubecken	B-loc	O	B-loc.phys.hydro	O	O	O	Q12046593	_	_
+bis	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2048,828,57/full/0/default.jpg
+Schwarzen	B-loc	O	B-loc.phys.hydro	O	O	O	Q166	_	_
+Meer	I-loc	O	I-loc.phys.hydro	O	O	O	Q166	_	_
+hinzielt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+englischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2089,840,60/full/0/default.jpg
+volitischen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+militärischen	O	O	O	O	O	O	_	_	_
+Kreisen	O	O	O	O	O	O	_	_	_
+mißt	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2133,842,58/full/0/default.jpg
+diesen	O	O	O	O	O	O	_	_	_
+Enthüllungen	O	O	O	O	O	O	_	_	_
+große	O	O	O	O	O	O	_	_	_
+Bedeutung	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/63,2175,819,58/full/0/default.jpg
+Journalist	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+„	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+Argus	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+veröffentlicht	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2219,842,58/full/0/default.jpg
+Hauptpunkte	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Geheimplans	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+wahre	O	O	O	O	O	O	_	_	_
+Ziel	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/63,2263,841,51/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+deutschen	O	O	O	O	O	O	_	_	_
+Politik	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+schreibt	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+besteht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2305,821,56/full/0/default.jpg
+darin	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Frankreich	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q142	Q142	_
+aus	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Donau	B-loc	O	B-loc.adm.reg	O	O	B-loc.phys.hydro	NIL	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.reg	O	O	O	NIL	_	NoSpaceAfter
+Raum	I-loc	O	I-loc.adm.reg	O	O	O	NIL	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2348,841,58/full/0/default.jpg
+auszuschalten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Annexion	O	O	O	O	O	O	_	_	_
+Österreichs	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q40	Q695599	_
+hat	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2391,825,51/full/0/default.jpg
+eine	O	O	O	O	O	O	_	_	_
+ausgezeichnete	O	O	O	O	O	O	_	_	_
+Operationsbafis	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2435,839,56/full/0/default.jpg
+geschaffen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+erleichtert	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Einkreisung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2478,823,60/full/0/default.jpg
+Tschechoslowakei	B-loc	O	B-loc.adm.nat	O	O	O	Q33946	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Plan	O	O	O	O	O	O	_	_	_
+B	O	O	O	O	O	O	_	_	_
+schlagt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2520,838,58/full/0/default.jpg
+infolgedessen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+moralische	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+wirtschaftliche	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2563,838,60/full/0/default.jpg
+Beherrschung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Tschechoslowakei	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q33946	Q33946	_
+vor	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2615,838,50/full/0/default.jpg
+gegen	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Zerstörung	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Staates	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2649,838,58/full/0/default.jpg
+Plan	O	O	O	O	O	O	_	_	_
+stützt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Gedanken	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2683,838,69/full/0/default.jpg
+fianzMch	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+tsche	O	O	O	O	O	O	_	_	NoSpaceAfter
+^	O	O	O	O	O	O	_	_	NoSpaceAfter
+slowakische	O	O	O	O	O	O	_	_	_
+Pakt	O	O	O	O	O	O	_	_	_
+bereits	O	O	O	O	O	O	_	_	_
+tot	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2736,837,57/full/0/default.jpg
+kst	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Plan	O	O	O	O	O	O	_	_	_
+B	O	O	O	O	O	O	_	_	_
+lehnt	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Gedanken	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2779,837,60/full/0/default.jpg
+Kriegserklärung	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+Frankreich	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q142	Q142	_
+ab	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2821,818,60/full/0/default.jpg
+empfiehlt	O	O	O	O	O	O	_	_	_
+sogar	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+keinen	O	O	O	O	O	O	_	_	_
+Angriff	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2864,840,58/full/0/default.jpg
+Frankreich	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q142	Q142	_
+zu	O	O	O	O	O	O	_	_	_
+unternehmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+handelt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2909,841,58/full/0/default.jpg
+Deutschland	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q7318	Q7318	_
+darum	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Frankreich	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q142	Q142	_
+die	O	O	O	O	O	O	_	_	_
+Initiative	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,2950,841,51/full/0/default.jpg
+und	O	O	O	O	O	O	_	_	_
+dfe	O	O	O	O	O	O	_	_	_
+Verantwortung	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+Angriffs	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/63,2994,819,58/full/0/default.jpg
+üverlafsen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+«	O	O	O	O	O	O	_	_	NoSpaceAfter
+m	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Welt	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/66,3035,841,58/full/0/default.jpg
+Angrrilfei	O	O	O	O	O	O	_	_	_
+hinzustellen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+falls	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+versuchen	O	O	O	O	O	O	_	_	_
+sollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/66,3079,841,58/full/0/default.jpg
+Prag	B-loc	B-org	B-loc.adm.town	B-org.adm	O	O	Q1085	Q1085	_
+zu	O	O	O	O	O	O	_	_	_
+Hilfe	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+kommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Geheimplan	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/67,3120,822,58/full/0/default.jpg
+ist	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+sofortigen	O	O	O	O	O	O	_	_	_
+Krieg	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+er	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/64,3164,843,49/full/0/default.jpg
+befürwortet	O	O	O	O	O	O	_	_	_
+dagegen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zweckmäßigkeit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Er	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/63,3212,841,51/full/0/default.jpg
+Zeugung	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Panikstimmung	O	O	O	O	O	O	_	_	_
+beim	O	O	O	O	O	O	_	_	_
+Feinde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,3248,844,51/full/0/default.jpg
+Der	O	O	O	O	O	O	_	_	_
+deutsche	O	O	O	O	O	O	_	_	_
+Plan	O	O	O	O	O	O	_	_	_
+zieht	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Kriegsdrohung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,3290,841,51/full/0/default.jpg
+dem	O	O	O	O	O	O	_	_	_
+Kriege	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+bedeutet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,3333,843,53/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Krieg	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+letztes	O	O	O	O	O	O	_	_	_
+Argument	O	O	O	O	O	O	_	_	_
+ausgeschaltet	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxqt4cc%2fpages%2f2/62,3378,213,51/full/0/default.jpg
+weiden	O	O	O	O	O	O	_	_	_
+foll	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

@@ -1,0 +1,460 @@
+# language = de
+# newspaper = NZZ
+# date = 1798-01-20
+# document_id = NZZ-1798-01-20-a-p0001
+# segment_iiif_link = _
+Frankreich	B-loc	O	B-loc.adm.nat	O	O	O	Q142	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Gesetzgeber	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Den	O	O	O	O	O	O	_	_	_
+19	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Niv	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+8	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Jän	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+ward	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Staatskleidung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Sekretär	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Redacteurs	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Staatsbothen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Thorwächter	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+beyde	O	O	O	O	O	O	_	_	_
+Räthe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bestimmt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auf	O	O	O	O	O	O	_	_	_
+Talot	B-pers	O	B-pers.ind	O	O	O	Q3308788	_	NoSpaceAfter
+'	I-pers	O	I-pers.ind	O	O	O	Q3308788	_	NoSpaceAfter
+s	I-pers	O	I-pers.ind	O	O	O	Q3308788	_	_
+Vorschlag	O	O	O	O	O	O	_	_	_
+beschloß	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+über	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+constitutionellen	O	O	O	O	O	O	_	_	_
+Umkreis	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welchen	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gesetzgebende	O	O	O	O	O	O	_	_	_
+Corps	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Zukunft	O	O	O	O	O	O	_	_	_
+inne	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+folgendes	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gendes	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Vom	O	O	O	O	O	O	_	_	_
+Tage	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Rath	B-org	O	B-org.adm	O	O	O	Q617290	_	_
+der	I-org	O	I-org.adm	O	O	O	Q617290	_	_
+500	I-org	O	I-org.adm	O	O	O	Q617290	_	_
+in	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nen	O	O	O	O	O	O	_	_	_|Commented
+neuen	O	O	O	O	O	O	_	_	_
+Pallast	O	O	O	O	O	O	_	_	_
+installirt	O	O	O	O	O	O	_	_	_
+seyn	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+äußerlichen	O	O	O	O	O	O	_	_	_
+Bezirke	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+beyde	O	O	O	O	O	O	_	_	_
+Räthe	O	O	O	O	O	O	_	_	_
+folgendermassen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sen	O	O	O	O	O	O	_	_	_|Commented
+firir	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Rarh	B-org	O	B-org.adm	O	O	O	Q2325988	_	_
+der	I-org	O	I-org.adm	O	O	O	Q2325988	_	_
+Alten	I-org	O	I-org.adm	O	O	O	Q2325988	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Umfang	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Nationalpallastes	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-15
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tionalpallastes	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Alten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Tuillerien	B-loc	O	B-loc.fac	O	O	O	Q234364	_	_
+situirt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+enhält	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+Westen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Straße	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Platz	B-loc	O	B-loc.oro	O	O	O	Q2723969	_	_
+des	I-loc	O	I-loc.oro	O	O	O	Q2723969	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Carrousel	I-loc	O	I-loc.oro	O	B-comp.name	O	Q2723969	_	_
+bis	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Eintritt	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Straße	B-loc	O	B-loc.oro	O	O	O	Q3449938	_	_
+Nicaise	I-loc	O	I-loc.oro	O	B-comp.name	O	Q3449938	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+am	O	O	O	O	O	O	_	_	_
+Hause	B-loc	O	B-loc.fac	O	O	O	Q3278669	_	_
+Coigny	I-loc	O	I-loc.fac	O	B-comp.name	B-pers.ind	Q3278669	_	_
+vorbey	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Straße	B-loc	O	B-loc.oro	O	O	O	NIL	_	_
+des	I-loc	O	I-loc.oro	O	O	O	NIL	_	_
+Orties	I-loc	O	I-loc.oro	O	B-comp.name	O	NIL	_	NoSpaceAfter|Normalized-4
+#¬	I-loc	O	I-loc.oro	O	I-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ties	I-loc	O	I-loc.oro	O	I-comp.name	O	NIL	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Passage	B-loc	O	B-loc.oro	O	O	O	Q2873923	_	_
+de	I-loc	O	I-loc.oro	O	O	O	Q2873923	_	_
+Marigny	I-loc	O	I-loc.oro	O	B-comp.name	B-pers.ind	Q2873923	_	_
+mit	O	O	O	O	O	O	_	_	_
+einbegriffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+gegen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gen	O	O	O	O	O	O	_	_	_|Commented
+Suden	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Theil	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Quai	B-loc	O	B-loc.oro	O	O	O	Q3412735	_	_
+der	I-loc	O	I-loc.oro	O	O	O	Q3412735	_	_
+Gallerien	I-loc	O	I-loc.oro	O	B-comp.name	O	Q3412735	_	_
+des	I-loc	O	I-loc.oro	O	I-comp.name	O	Q3412735	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Louvre	I-loc	O	I-loc.oro	O	I-comp.name	B-loc.fac	Q3412735	_	NoSpaceAfter
+'	I-loc	O	I-loc.oro	O	I-comp.name	I-loc.fac	Q3412735	_	NoSpaceAfter
+s	I-loc	O	I-loc.oro	O	I-comp.name	I-loc.fac	Q3412735	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Passage	B-loc	O	B-loc.oro	O	O	O	Q2873923	_	_
+de	I-loc	O	I-loc.oro	O	O	O	Q2873923	_	_
+Marigny	I-loc	O	I-loc.oro	O	B-comp.name	O	Q2873923	_	_
+am	O	O	O	O	O	O	_	_	_
+rechten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ufer	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Seine	B-loc	O	B-loc.phys.hydro	O	O	O	Q1471	_	_
+hinab	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Quai	B-loc	O	B-loc.oro	O	O	O	Q3110160	_	_
+der	I-loc	O	I-loc.oro	O	O	O	Q3110160	_	_
+Tuilerien	I-loc	O	I-loc.oro	O	B-comp.name	B-loc.fac	Q3110160	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vom	O	O	O	O	O	O	_	_	_
+rechten	O	O	O	O	O	O	_	_	_
+Winkel	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Parapets	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Nationalbrucke	B-loc	O	B-loc.oro	O	O	O	Q2307685	_	NoSpaceAfter|Normalized-6
+#¬	I-loc	O	I-loc.oro	O	O	O	Q2307685	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#brucke	I-loc	O	I-loc.oro	O	O	O	Q2307685	_	_|Commented
+bis	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Eingang	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Platze	B-loc	O	B-loc.oro	O	O	O	Q189503	_	_
+de	I-loc	O	I-loc.oro	O	O	O	Q189503	_	_
+la	I-loc	O	I-loc.oro	O	O	O	Q189503	_	_
+Coneorde	I-loc	O	I-loc.oro	O	B-comp.name	O	Q189503	_	NoSpaceAfter|Normalized-5
+#¬	I-loc	O	I-loc.oro	O	I-comp.name	O	Q189503	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#eorde	I-loc	O	I-loc.oro	O	I-comp.name	O	Q189503	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Nationalbrücke	B-loc	O	B-loc.oro	O	O	O	Q2307685	_	_
+bis	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Quai	B-loc	O	B-loc.oro	O	O	O	Q3090472	_	_
+Voltaire	I-loc	O	I-loc.oro	O	B-comp.name	B-pers.ind	Q3090472	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+einbegriffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+gegen	O	O	O	O	O	O	_	_	_
+Osten	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Platz	B-loc	O	B-loc.oro	O	O	O	Q189503	_	_
+de	I-loc	O	I-loc.oro	O	O	O	Q189503	_	_
+la	I-loc	O	I-loc.oro	O	O	O	Q189503	_	_
+Concorde	I-loc	O	I-loc.oro	O	B-comp.name	O	Q189503	_	NoSpaceAfter|Normalized-5
+#¬	I-loc	O	I-loc.oro	O	I-comp.name	O	Q189503	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#corde	I-loc	O	I-loc.oro	O	I-comp.name	O	Q189503	_	_|Commented
+in	O	O	O	O	O	O	_	_	_
+Gemeinschaft	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Rathe	B-org	O	B-org.adm	O	O	O	Q617290	_	_
+der	I-org	O	I-org.adm	O	O	O	Q617290	_	_
+500	I-org	O	I-org.adm	O	O	O	Q617290	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+gegen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gen	O	O	O	O	O	O	_	_	_|Commented
+Norden	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Hof	B-loc	O	B-loc.fac	O	O	O	Q726781	_	_
+der	I-loc	O	I-loc.fac	O	O	O	Q726781	_	_
+Orangerie	I-loc	O	I-loc.fac	O	B-comp.name	O	Q726781	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Passage	B-loc	O	B-loc.oro	O	O	O	Q3451810	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	I-loc	O	I-loc.oro	O	O	O	Q3451810	_	_
+Feuillans	I-loc	O	I-loc.oro	O	B-comp.name	B-org.ent	Q3451810	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Casernen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Grenadiers	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gesetzg	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Corps	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Zubehörden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+jetzigen	O	O	O	O	O	O	_	_	_
+Saal	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+500	O	O	O	O	O	O	_	_	_
+nebst	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+dazu	O	O	O	O	O	O	_	_	_
+gehörigen	O	O	O	O	O	O	_	_	_
+Garten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Gebäuden	B-loc	O	B-loc.fac	O	O	O	Q22924407	_	NoSpaceAfter|Normalized-6
+#¬	I-loc	O	I-loc.fac	O	O	O	Q22924407	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bäuden	I-loc	O	I-loc.fac	O	O	O	Q22924407	_	_|Commented
+des	I-loc	O	I-loc.fac	O	O	O	Q22924407	_	_
+Feuillans	I-loc	O	I-loc.fac	O	B-comp.name	B-org.ent	Q22924407	_	_
+rc	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Rath	B-org	O	B-org.adm	O	O	O	Q617290	_	_
+der	I-org	O	I-org.adm	O	O	O	Q617290	_	_
+500	I-org	O	I-org.adm	O	O	O	Q617290	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Umkreis	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kreis	O	O	O	O	O	O	_	_	_|Commented
+des	O	O	O	O	O	O	_	_	_
+neuen	O	O	O	O	O	O	_	_	_
+Nationalpallasies	B-loc	O	B-loc.fac	O	O	O	Q936633	_	_
+der	O	O	O	O	O	O	_	_	_
+500	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Antritt	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Revolutionsbrücke	B-loc	O	B-loc.oro	O	O	O	Q644398	_	_
+gegenüber	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Seineufer	B-loc	O	B-loc.phys.hydro	O	O	O	Q2233532	_	NoSpaceAfter|Normalized-6
+#¬	I-loc	O	I-loc.phys.hydro	O	O	O	Q2233532	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#neufer	I-loc	O	I-loc.phys.hydro	O	O	O	Q2233532	_	_|Commented
+gelegen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+enthält	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+Norden	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Quai	B-loc	O	B-loc.oro	O	O	O	Q1146988	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+d	I-loc	O	I-loc.oro	O	O	O	Q1146988	_	NoSpaceAfter
+'	I-loc	O	I-loc.oro	O	O	O	Q1146988	_	NoSpaceAfter
+Orsai	I-loc	O	I-loc.oro	O	B-comp.name	O	Q1146988	_	_
+bis	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Nationalbrücke	B-loc	O	B-loc.oro	O	O	O	Q2307685	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Platz	B-loc	O	B-loc.oro	O	O	O	Q189503	_	_
+dela	I-loc	O	I-loc.oro	O	O	O	Q189503	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Concorde	I-loc	O	I-loc.oro	O	B-comp.name	O	Q189503	_	_
+bis	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Orangerie	B-loc	O	B-loc.fac	O	O	O	Q726781	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+längs	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Gebäude	B-loc	O	B-loc.fac	O	O	O	Q2059518	_	_
+du	I-loc	O	I-loc.fac	O	O	O	Q2059518	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Gardemeuble	I-loc	O	I-loc.fac	O	B-comp.name	O	Q2059518	_	_
+an	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+elyseischen	O	O	O	O	O	O	_	_	_
+Feldern	O	O	O	O	O	O	_	_	_
+hin	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zum	O	O	O	O	O	O	_	_	_
+Anfange	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Straße	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Versailles	B-loc	O	B-loc.fac	O	O	B-loc.adm.town	Q621	_	_
+und	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Esplanade	B-loc	O	B-loc.oro	O	O	O	Q3058455	_	_
+der	I-loc	O	I-loc.oro	O	O	O	Q3058455	_	_
+Invaliden	I-loc	O	I-loc.oro	O	B-comp.name	O	Q3058455	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Mauer	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Garten	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Raths	B-org	O	B-org.adm	O	O	O	Q617290	_	_
+der	I-org	O	I-org.adm	O	O	O	Q617290	_	_
+500	I-org	O	I-org.adm	O	O	O	Q617290	_	_
+scheidet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Quai	B-loc	O	B-loc.oro	O	O	O	Q1146988	_	_
+d	I-loc	O	I-loc.oro	O	O	O	Q1146988	_	NoSpaceAfter
+'	I-loc	O	I-loc.oro	O	O	O	Q1146988	_	NoSpaceAfter
+Orsai	I-loc	O	I-loc.oro	O	B-comp.name	O	Q1146988	_	_
+bis	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Universitätsgasse	B-loc	O	B-loc.oro	O	O	O	Q3451302	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+gegen	O	O	O	O	O	O	_	_	_
+Süden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#den	O	O	O	O	O	O	_	_	_|Commented
+diese	O	O	O	O	O	O	_	_	_
+Gasse	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Straße	B-loc	O	B-loc.oro	O	O	O	Q3450692	_	_
+Courty	I-loc	O	I-loc.oro	O	B-comp.name	B-pers.ind	Q3450692	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+gegen	O	O	O	O	O	O	_	_	_
+Osten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Straße	B-loc	O	B-loc.oro	O	O	O	Q3450591	_	_
+Bourgogne	I-loc	O	I-loc.oro	O	B-comp.name	B-pers.ind	Q3450591	_	_
+bis	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Quai	B-loc	O	B-loc.oro	O	O	O	Q1146988	_	_
+d	I-loc	O	I-loc.oro	O	O	O	Q1146988	_	NoSpaceAfter
+'	I-loc	O	I-loc.oro	O	O	O	Q1146988	_	NoSpaceAfter
+Orsai	I-loc	O	I-loc.oro	O	B-comp.name	O	Q1146988	_	_
+In	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+diesem	O	O	O	O	O	O	_	_	_
+Bezirke	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Saalinspectoren	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Polizeyaufsicht	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zeyaufsicht	O	O	O	O	O	O	_	_	_|Commented
+allein	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+doch	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+allgemeine	O	O	O	O	O	O	_	_	_
+Polizey	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dee	O	O	O	O	O	O	_	_	EndOfLine
+
+

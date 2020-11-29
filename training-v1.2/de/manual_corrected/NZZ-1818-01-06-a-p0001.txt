@@ -1,0 +1,380 @@
+# language = de
+# newspaper = NZZ
+# date = 1818-01-06
+# document_id = NZZ-1818-01-06-a-p0001
+# segment_iiif_link = _
+Großbritannien	B-loc	O	B-loc.adm.nat	O	O	O	Q23666	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+Prinz	B-pers	O	B-pers.ind	O	B-comp.title	O	Q12971	_	_
+Leopold	I-pers	O	I-pers.ind	O	B-comp.name	O	Q12971	_	_
+von	I-pers	O	I-pers.ind	O	I-comp.name	O	Q12971	_	_
+Koburg	I-pers	O	I-pers.ind	O	I-comp.name	B-loc.adm.town	Q12971	_	_
+wurde	O	O	O	O	O	O	_	_	_
+fortwährend	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+durch	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+übeln	O	O	O	O	O	O	_	_	_
+Gesundheitszustand	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Claremont	B-loc	O	B-loc.fac	O	O	O	Q1095337	_	_
+zurückgehalten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rückgehalten	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+empfing	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+wenige	O	O	O	O	O	O	_	_	_
+Personen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schien	O	O	O	O	O	O	_	_	_
+immer	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Schmerz	O	O	O	O	O	O	_	_	_
+versunken	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Bekanntlich	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Parlament	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Comité	O	O	O	O	O	O	_	_	_
+niedergesetzt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#setzt	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Entscheidung	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Plane	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Brittischen	O	O	O	O	O	O	_	_	_
+Nationaldenkmälern	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	_
+Siege	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Wasser	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ser	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Lande	O	O	O	O	O	O	_	_	_
+beauftragt	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Plane	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = _
+Baukünstler	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Smirke	B-pers	O	B-pers.ind	O	O	O	Q983719	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Seemacht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Wilkins	B-pers	O	B-pers.ind	O	O	O	Q676998	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Landmacht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eingereicht	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+genehmigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Waterloo	B-loc	O	B-loc.adm.town	O	O	O	Q179034	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Monument	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+200,000	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Pf	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Sterl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+kosten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Ende	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Portlands	B-loc	O	B-loc.oro	O	B-comp.name	O	Q7231999	_	NoSpaceAfter
+-	I-loc	O	I-loc.oro	O	O	O	Q7231999	_	NoSpaceAfter
+Platzes	I-loc	O	I-loc.oro	O	O	O	Q7231999	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nahe	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Park	B-loc	O	B-loc.oro	O	O	O	Q739341	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	I-loc	O	I-loc.oro	O	O	O	Q739341	_	_
+Prinzen	I-loc	O	I-loc.oro	O	O	O	Q739341	_	_
+Regenten	I-loc	O	I-loc.oro	O	O	O	Q739341	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+errichtet	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nem	O	O	O	O	O	O	_	_	_|Commented
+antiken	O	O	O	O	O	O	_	_	_
+Thurm	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+drey	O	O	O	O	O	O	_	_	_
+Säulenordnungen	O	O	O	O	O	O	_	_	_
+besteh	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+um	O	O	O	O	O	O	_	_	_
+dessen	O	O	O	O	O	O	_	_	_
+Basis	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+runde	O	O	O	O	O	O	_	_	_
+Kolonnade	O	O	O	O	O	O	_	_	_
+zieht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ähnlich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einem	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+bewundertsten	O	O	O	O	O	O	_	_	_
+Reste	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Alterthums	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Sybillen	B-loc	O	B-loc.fac	O	O	B-pers.ind	Q784000	_	NoSpaceAfter|Normalized-6
+#¬	I-loc	O	I-loc.fac	O	O	I-pers.ind	Q784000	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#billen	I-loc	O	I-loc.fac	O	O	I-pers.ind	Q784000	_	NoSpaceAfter|Commented
+-	I-loc	O	I-loc.fac	O	O	O	Q784000	_	NoSpaceAfter
+Tempel	I-loc	O	I-loc.fac	O	O	O	Q784000	_	_
+zu	O	O	O	O	O	O	_	_	_
+Tivoli	B-loc	O	B-loc.adm.town	O	O	O	Q159605	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Trafalgar	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Säule	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+100,000	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Pfund	O	O	O	O	O	O	_	_	_
+kosten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Greenwich	B-loc	O	B-loc.adm.town	O	O	O	Q179385	_	_
+errichtet	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#den	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+besteht	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+einfachen	O	O	O	O	O	O	_	_	_
+Oktogon	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+angemessenen	O	O	O	O	O	O	_	_	_
+Basis	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Schiffskrone	O	O	O	O	O	O	_	_	_
+bedeckt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+welcher	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#cher	O	O	O	O	O	O	_	_	_|Commented
+kolossale	O	O	O	O	O	O	_	_	_
+Stufen	O	O	O	O	O	O	_	_	_
+führen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+An	O	O	O	O	O	O	_	_	_
+beyden	O	O	O	O	O	O	_	_	_
+Monumenten	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gearbeitet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Außerdem	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Ehren	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Herzogs	B-pers	O	B-pers.ind	O	B-comp.title	O	Q131691	_	_
+von	I-pers	O	I-pers.ind	O	B-comp.name	O	Q131691	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Wellington	I-pers	O	I-pers.ind	O	I-comp.name	B-loc.adm.town	Q131691	_	_
+ein	O	O	O	O	O	O	_	_	_
+Denkmal	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Blakdownhill	B-loc	O	B-loc.phys.geo	O	O	O	Q8521328	_	_
+errichtet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welches	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ches	O	O	O	O	O	O	_	_	_|Commented
+die	O	O	O	O	O	O	_	_	_
+Gestalt	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+Dreyecks	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Höhe	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+150	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Fuß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zossen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auf	O	O	O	O	O	O	_	_	_
+20,000	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Pf	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Sterl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+angeschlagen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+erste	O	O	O	O	O	O	_	_	_
+Stein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+soll	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Lord	B-pers	O	B-pers.ind	O	B-comp.title	O	Q18819532	_	_
+Somerville	I-pers	O	I-pers.ind	O	B-comp.name	B-loc.adm.town	Q18819532	_	_
+im	O	O	O	O	O	O	_	_	_
+nächsten	O	O	O	O	O	O	_	_	_
+Jahre	O	O	O	O	O	O	_	_	_
+dazu	O	O	O	O	O	O	_	_	_
+gelegt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Times	B-prod	O	B-prod.media	O	O	O	Q50008	_	_
+beharren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ungeachtet	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Widerspruchs	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Couriers	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Behauptung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+Frankreich	B-loc	O	B-loc.adm.nat	O	O	O	Q142	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+künftigen	O	O	O	O	O	O	_	_	_
+Frühjahr	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+verbündeten	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	_
+geräumt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+werden	O	O	O	O	O	O	_	_	_
+dürfte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Inzwischen	O	O	O	O	O	O	_	_	_
+gestehn	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Nacherhält	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#erhält	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+20	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Fuß	O	O	O	O	O	O	_	_	_
+hohen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Eisen	O	O	O	O	O	O	_	_	_
+gegossenen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Statüe	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Herzogs	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Spitze	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Kosten	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+
+

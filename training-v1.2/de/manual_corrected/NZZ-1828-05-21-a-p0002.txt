@@ -1,0 +1,817 @@
+# language = de
+# newspaper = NZZ
+# date = 1828-05-21
+# document_id = NZZ-1828-05-21-a-p0002
+# segment_iiif_link = _
+Mit	O	O	O	O	O	O	_	_	_
+Kreisschreiben	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+17	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+April	O	O	O	O	O	O	_	_	_
+ersucht	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Standes	B-loc	O	B-loc.adm.reg	O	O	O	Q11933	_	NoSpaceAfter|Normalized-3
+#¬	I-loc	O	I-loc.adm.reg	O	O	O	Q11933	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#des	I-loc	O	I-loc.adm.reg	O	O	O	Q11933	_	_|Commented
+Zug	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q11933	_	_
+die	O	O	O	O	O	O	_	_	_
+Mitstände	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Gesandten	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+dießjährigen	O	O	O	O	O	O	_	_	_
+Tagsatzung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dem	O	O	O	O	O	O	_	_	_
+Begehren	O	O	O	O	O	O	_	_	_
+beyzupflichten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+zehnjährige	O	O	O	O	O	O	_	_	_
+Erneuerung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bewilligung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ligung	O	O	O	O	O	O	_	_	_|Commented
+zum	O	O	O	O	O	O	_	_	_
+Bezug	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Reußbrückenzolls	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+Sins	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+jährliche	O	O	O	O	O	O	_	_	_
+Ertrag	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#trag	O	O	O	O	O	O	_	_	_|Commented
+desselben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Unterstützung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Begehrens	O	O	O	O	O	O	_	_	_
+bemerkt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+steigt	O	O	O	O	O	O	_	_	_
+kaum	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auf	O	O	O	O	O	O	_	_	_
+500	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+reicht	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Unterhalt	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Brücke	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Zubehörden	O	O	O	O	O	O	_	_	_
+erforderlichen	O	O	O	O	O	O	_	_	_
+Kosten	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+hin	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+Frühlingskongreß	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Gesellschaft	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Aerzte	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Kantons	B-loc	O	B-loc.adm.reg	O	O	O	Q11943	_	_
+Zürich	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q11943	_	NoSpaceAfter|Normalized-4
+#¬	I-loc	O	I-loc.adm.reg	O	I-comp.name	O	Q11943	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rich	I-loc	O	I-loc.adm.reg	O	I-comp.name	O	Q11943	_	_|Commented
+wird	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+2	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Junius	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Winterthur	B-loc	O	B-loc.adm.town	O	O	O	Q9125	_	_
+statt	O	O	O	O	O	O	_	_	_
+finden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Auch	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Regierungen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kantone	B-loc	O	B-loc.adm.reg	O	O	O	Q11911	_	_
+Bern	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q11911	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Luzern	B-loc	O	B-loc.adm.reg	O	O	O	Q12121	_	_
+und	O	O	O	O	O	O	_	_	_
+Solothurn	B-loc	O	B-loc.adm.reg	O	O	O	Q11929	_	NoSpaceAfter|Normalized-7
+#¬	I-loc	O	I-loc.adm.reg	O	O	O	Q11929	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lothurn	I-loc	O	I-loc.adm.reg	O	O	O	Q11929	_	_|Commented
+sind	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+früher	O	O	O	O	O	O	_	_	_
+erlassenen	O	O	O	O	O	O	_	_	_
+Verordnungen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Vertilgung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Maykäfer	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+dieß	O	O	O	O	O	O	_	_	_
+Jahr	O	O	O	O	O	O	_	_	_
+erneuert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+kleinen	O	O	O	O	O	O	_	_	_
+Rath	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Kantons	B-loc	O	B-loc.adm.reg	O	O	O	Q12746	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+St	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q12746	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.reg	O	I-comp.name	O	Q12746	_	_
+Gallen	I-loc	O	I-loc.adm.reg	O	I-comp.name	O	Q12746	_	_
+ist	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+solche	O	O	O	O	O	O	_	_	_
+unterm	O	O	O	O	O	O	_	_	_
+14	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+April	O	O	O	O	O	O	_	_	_
+erlassen	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Am	O	O	O	O	O	O	_	_	_
+12	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+May	O	O	O	O	O	O	_	_	_
+ward	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Verordnung	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Solothurn	O	O	O	O	O	O	_	_	_
+zurückgenommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gar	O	O	O	O	O	O	_	_	_
+wenige	O	O	O	O	O	O	_	_	_
+Maykäfer	O	O	O	O	O	O	_	_	_
+erschienen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+amtlich	O	O	O	O	O	O	_	_	_
+bekannt	O	O	O	O	O	O	_	_	_
+gemachte	O	O	O	O	O	O	_	_	_
+Uebersicht	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+im	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+Jahr	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1828	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+im	O	O	O	O	O	O	_	_	_
+Kanton	B-loc	O	B-loc.adm.reg	O	O	O	Q12121	_	NoSpaceAfter|Normalized-3
+#¬	I-loc	O	I-loc.adm.reg	O	O	O	Q12121	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ton	I-loc	O	I-loc.adm.reg	O	O	O	Q12121	_	_|Commented
+Luzern	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q12121	_	_
+für	O	O	O	O	O	O	_	_	_
+Zuchtthiere	O	O	O	O	O	O	_	_	_
+ertheilten	O	O	O	O	O	O	_	_	_
+Prämien	O	O	O	O	O	O	_	_	_
+zeigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+fur	O	O	O	O	O	O	_	_	_
+Pferde	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+15	O	O	O	O	O	O	_	_	_
+Prämien	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+28	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+80	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+;	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+Stiere	O	O	O	O	O	O	_	_	_
+118	O	O	O	O	O	O	_	_	_
+Prämien	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+4	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+24	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+Kühe	O	O	O	O	O	O	_	_	_
+deren	O	O	O	O	O	O	_	_	_
+56	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+8	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+26	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+ausgetheilt	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+bernische	B-prod	O	B-prod.media	O	O	O	NIL	_	_
+Schweizerfreund	I-prod	O	I-prod.media	O	O	O	NIL	_	_
+versichert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+14	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+April	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Bern	B-loc	O	B-loc.adm.town	O	O	O	Q70	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+versammelten	O	O	O	O	O	O	_	_	_
+Zentral	O	O	O	O	B-comp.name	O	_	_	NoSpaceAfter
+-	O	O	O	O	I-comp.name	O	_	_	NoSpaceAfter
+Münzaufsichtskommission	O	O	O	O	I-comp.name	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Münzkonkordat	O	O	O	O	O	O	_	_	_
+befindlichen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#findlichen	O	O	O	O	O	O	_	_	_|Commented
+Stände	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+wohlthätige	O	O	O	O	O	O	_	_	_
+Folgen	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Konkordats	O	O	O	O	O	O	_	_	_
+gezeigt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zeigt	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Vorurtheile	O	O	O	O	O	O	_	_	_
+dagegen	O	O	O	O	O	O	_	_	_
+mindern	O	O	O	O	O	O	_	_	_
+sollten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+diesem	O	O	O	O	O	O	_	_	_
+Berichte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+liest	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Freylich	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+vorjährigen	O	O	O	O	O	O	_	_	_
+Beschwerden	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Stände	B-loc	B-org	B-loc.adm.reg	B-org.adm	O	O	Q11929	Q11929	_
+Solothurn	I-loc	I-org	I-loc.adm.reg	I-org.adm	B-comp.name	O	Q11929	Q11929	_
+und	O	O	O	O	O	O	_	_	_
+Basel	B-loc	B-org	B-loc.adm.reg	B-org.adm	O	O	Q660776	Q660776	_
+gegen	O	O	O	O	O	O	_	_	_
+Aargau	B-loc	B-org	B-loc.adm.reg	B-org.adm	O	O	Q11972	Q11972	_
+erneuert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+vermöge	O	O	O	O	O	O	_	_	_
+welchen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+durch	O	O	O	O	O	O	_	_	_
+Fabrikherren	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Handelskeute	O	O	O	O	O	O	_	_	_
+verrufene	O	O	O	O	O	O	_	_	_
+Luzerner	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Münze	O	O	O	O	O	O	_	_	_
+heimlich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Kantone	O	O	O	O	O	O	_	_	_
+eingeschwärzt	O	O	O	O	O	O	_	_	_
+würde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+jedoch	O	O	O	O	O	O	_	_	_
+ohne	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Kurs	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+kommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Grenzen	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Konkordats	O	O	O	O	O	O	_	_	_
+hinaus	O	O	O	O	O	O	_	_	_
+spedirt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+werde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nicht	O	O	O	O	O	O	_	_	_
+minder	O	O	O	O	O	O	_	_	_
+erfreulich	O	O	O	O	O	O	_	_	_
+erzeigte	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Resultat	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Einschmelzungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schmelzungen	O	O	O	O	O	O	_	_	_|Commented
+des	O	O	O	O	O	O	_	_	_
+helvetischen	O	O	O	O	O	O	_	_	_
+Kantonal	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Münzguts	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Konkordatsvorschrift	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#vorschrift	O	O	O	O	O	O	_	_	_|Commented
+sollte	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+sämmtlichen	O	O	O	O	O	O	_	_	_
+löbl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Ständen	O	O	O	O	O	O	_	_	_
+im	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+Jahr	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1827	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+die	O	O	O	O	O	O	_	_	_
+Summe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+180,715	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+zurückgezogen	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dagegen	O	O	O	O	O	O	_	_	_
+ergab	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Prüfung	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Zusammenstellung	O	O	O	O	O	O	_	_	_
+sämmtlicher	O	O	O	O	O	O	_	_	_
+Verbalprozesse	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Herren	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kantonalkommissarien	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Summe	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+452,555	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+18	O	O	O	O	O	O	_	_	_
+Rpp	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sequestrirt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+eingezogen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mithin	O	O	O	O	O	O	_	_	_
+271,840	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+18	O	O	O	O	O	O	_	_	_
+Rpp	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kurs	O	O	O	O	O	O	_	_	_
+gezogen	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Eben	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Umprägung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+alten	O	O	O	O	O	O	_	_	_
+Kantonal	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nal	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Münzguts	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+diesem	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	_
+Jahre	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+fünf	O	O	O	O	O	O	_	_	_
+Kantonen	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+wirksame	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Anwendung	O	O	O	O	O	O	_	_	_
+gefunden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+laut	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Protokollen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Münzstätten	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+652,460	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+3	O	O	O	O	O	O	_	_	_
+Rpp	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+umgeprägt	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Société	B-org	O	B-org.ent	O	O	O	NIL	_	_
+d	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+’	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+emulation	I-org	O	I-org.ent	O	O	O	NIL	_	_
+patriotique	I-org	O	I-org.ent	O	O	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	_
+Neuenburg	B-loc	O	B-loc.adm.town	O	O	O	Q69345	_	_
+ist	O	O	O	O	O	O	_	_	_
+kürzlich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lich	O	O	O	O	O	O	_	_	_|Commented
+dem	O	O	O	O	O	O	_	_	_
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q3302780	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q3302780	_	_
+Ludwig	I-pers	O	I-pers.ind	O	B-comp.name	O	Q3302780	_	_
+de	I-pers	O	I-pers.ind	O	I-comp.name	O	Q3302780	_	_
+Meuron	I-pers	O	I-pers.ind	O	I-comp.name	O	Q3302780	_	_
+ein	O	O	O	O	O	O	_	_	_
+Ehrenpreis	O	O	O	O	O	O	_	_	_
+ertheilt	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+topographische	O	O	O	O	O	O	_	_	_
+Beschreibung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Gerichtsbezirks	O	O	O	O	O	O	_	_	_
+Landeron	B-loc	O	B-loc.adm.town	O	O	O	Q70204	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+neues	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Programm	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Vereines	O	O	O	O	O	O	_	_	_
+macht	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+anderm	O	O	O	O	O	O	_	_	_
+folgende	O	O	O	O	O	O	_	_	_
+Preisaufgaben	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bekannt	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+1	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Ein	O	O	O	O	O	O	_	_	_
+Preis	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+20	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Aczessit	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+10	O	O	O	O	O	O	_	_	_
+Dukaten	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Verfassern	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+zwey	O	O	O	O	O	O	_	_	_
+vollständigsten	O	O	O	O	O	O	_	_	_
+Katalogen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Fürstenthum	B-loc	O	B-loc.adm.reg	O	O	O	Q12738	_	NoSpaceAfter|Normalized-4
+#¬	I-loc	O	I-loc.adm.reg	O	O	O	Q12738	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#thum	I-loc	O	I-loc.adm.reg	O	O	O	Q12738	_	_|Commented
+Neuenburg	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q12738	_	_
+Bezug	O	O	O	O	O	O	_	_	_
+habenden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Neuenburgern	O	O	O	O	O	O	_	_	_
+herrührenden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Druckschriften	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Landkarten	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+s	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+w	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+verheißen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+2	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Ein	O	O	O	O	O	O	_	_	_
+Preis	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+12	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dukaten	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Verfasser	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+besten	O	O	O	O	O	O	_	_	_
+Abhandlung	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Theil	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Ursachen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+häufigen	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Neuenburgersee	B-loc	O	B-loc.phys.hydro	O	O	O	Q14375	_	_
+sich	O	O	O	O	O	O	_	_	_
+ereignenden	O	O	O	O	O	O	_	_	_
+Schiffbrüche	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#brüche	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+füraus	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Bau	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Fahrzeuge	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Behandlung	O	O	O	O	O	O	_	_	_
+liegenden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+Angabe	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+zuverläßigsten	O	O	O	O	O	O	_	_	_
+Vorbeugungsmittel	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+zweckmäßigsten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Hülfreichungen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Rettungsanstalten	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+ereignenden	O	O	O	O	O	O	_	_	_
+Unglücksfällen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+3	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Eine	O	O	O	O	O	O	_	_	_
+Ehrenmünze	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+zwölf	O	O	O	O	O	O	_	_	_
+Dukaten	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+besten	O	O	O	O	O	O	_	_	_
+topographischen	O	O	O	O	O	O	_	_	_
+Beschreibung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schreibung	O	O	O	O	O	O	_	_	_|Commented
+eines	O	O	O	O	O	O	_	_	_
+neuenburgischen	O	O	O	O	O	O	_	_	_
+Gerichtsbezirks	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+solche	O	O	O	O	O	O	_	_	_
+Beschreibung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schreibung	O	O	O	O	O	O	_	_	_|Commented
+noch	O	O	O	O	O	O	_	_	_
+mangelt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zugesichert	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Endlich	O	O	O	O	O	O	_	_	_
+setzt	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Gesellschaft	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Preis	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+12	O	O	O	O	O	O	_	_	_
+Dukaten	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Vervollkommnung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Spitzenfabrikation	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tion	O	O	O	O	O	O	_	_	_|Commented
+*	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+In	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Nacht	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+11	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+12	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+April	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+unbekannter	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ter	O	O	O	O	O	O	_	_	_|Commented
+Ursache	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Gemeinde	B-loc	O	B-loc.adm.town	O	O	O	Q869534	_	_
+Wahleren	I-loc	O	I-loc.adm.town	O	B-comp.name	O	Q869534	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+bernischen	O	O	O	O	O	O	_	_	_
+Amtes	O	O	O	O	O	O	_	_	_
+Schwarzenburg	B-loc	O	B-loc.adm.town	O	O	O	Q70708	_	NoSpaceAfter|Normalized-7
+#¬	I-loc	O	I-loc.adm.town	O	O	O	Q70708	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zenburg	I-loc	O	I-loc.adm.town	O	O	O	Q70708	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+zwey	O	O	O	O	O	O	_	_	_
+Häuser	O	O	O	O	O	O	_	_	_
+abgebrannt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+drittes	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Feuer	O	O	O	O	O	O	_	_	_
+wesentlich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+beschädigt	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nur	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+abgebrannten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+29	O	O	O	O	O	O	_	_	_
+Personen	O	O	O	O	O	O	_	_	_
+bewohnten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wohnten	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+Häuser	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+assekurirt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Eine	O	O	O	O	O	O	_	_	_
+volle	O	O	O	O	O	O	_	_	_
+Scheune	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Nähe	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Aarburg	B-loc	O	B-loc.adm.town	O	O	O	Q64165	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Kanton	B-loc	O	B-loc.adm.reg	O	O	O	Q11972	_	_
+Aargau	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q11972	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+26	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+April	O	O	O	O	O	O	_	_	_
+Nachmittags	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Blitz	O	O	O	O	O	O	_	_	_
+entzündet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+abgebrannt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

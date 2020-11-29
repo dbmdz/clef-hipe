@@ -1,0 +1,466 @@
+# language = de
+# newspaper = NZZ
+# date = 1808-03-01
+# document_id = NZZ-1808-03-01-a-p0015
+# segment_iiif_link = _
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+In	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	_
+Blättern	O	O	O	O	O	O	_	_	_
+liest	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+widersprechenden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#den	O	O	O	O	O	O	_	_	_|Commented
+Nachrichten	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Aus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Trieste	B-loc	O	B-loc.adm.town	O	O	O	Q546	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+12	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Febr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Einige	O	O	O	O	O	O	_	_	_
+englische	O	O	O	O	O	O	_	_	_
+Schiffe	O	O	O	O	O	O	_	_	_
+kreutzen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+neuerdings	O	O	O	O	O	O	_	_	_
+nächst	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+unserm	O	O	O	O	O	O	_	_	_
+Hafen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Da	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+östreichische	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sche	O	O	O	O	O	O	_	_	_|Commented
+Flagge	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+schonen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+beschränkt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+unser	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Seeverkehr	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Küstenhandel	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+s	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+f	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Auch	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mehrere	O	O	O	O	O	O	_	_	_
+unsrer	O	O	O	O	O	O	_	_	_
+Handelsleute	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Bombardement	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ment	O	O	O	O	O	O	_	_	_|Commented
+fürchten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Theil	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Waaren	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Kärnthen	B-loc	O	B-loc.adm.reg	O	O	O	Q37985	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+Steyermark	B-loc	O	B-loc.adm.reg	O	O	O	Q2347951	_	_
+geflüchtet	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+dagegen	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Aus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Venedig	B-loc	O	B-loc.adm.town	O	O	O	Q641	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+18	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Febr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Unsre	O	O	O	O	O	O	_	_	_
+Handelschaft	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Triest	B-loc	B-org	B-loc.adm.town	B-org.adm	O	O	Q546	Q546	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ist	O	O	O	O	O	O	_	_	_
+immer	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+thätig	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Vom	O	O	O	O	O	O	_	_	_
+4	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	NoSpaceAfter
+9	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+dies	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+32	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Fahrzeuge	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zeuge	O	O	O	O	O	O	_	_	_|Commented
+von	O	O	O	O	O	O	_	_	_
+Triest	B-loc	O	B-loc.adm.town	O	O	O	Q546	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Häfen	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Istrien	B-loc	O	B-loc.adm.reg	O	O	O	Q639912	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Dalmatien	B-loc	O	B-loc.adm.reg	O	O	O	Q528042	_	NoSpaceAfter|Normalized-4
+#¬	I-loc	O	I-loc.adm.reg	O	O	O	Q528042	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tien	I-loc	O	I-loc.adm.reg	O	O	O	Q528042	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+Ankona	B-loc	O	B-loc.adm.reg	O	O	O	Q16114	_	_
+angelangt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Bis	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+5	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Febr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+weder	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Päpstlicher	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Französischer	O	O	O	O	O	O	_	_	_
+Seite	O	O	O	O	O	O	_	_	_
+etwas	O	O	O	O	O	O	_	_	_
+Offizielles	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Bezug	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Einmarsch	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Rom	B-loc	O	B-loc.adm.town	O	O	O	Q220	_	_
+erschienen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+und	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+wartete	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Ungeduld	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#geduld	O	O	O	O	O	O	_	_	_|Commented
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zurückkunft	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Couriere	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Papst	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+General	B-pers	O	B-pers.ind	O	B-comp.title	O	Q607694	_	_
+Miollis	I-pers	O	I-pers.ind	O	B-comp.name	O	Q607694	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Senator	B-pers	O	B-pers.ind	O	B-comp.title	O	Q151098	_	_
+Luzian	I-pers	O	I-pers.ind	O	B-comp.name	O	Q151098	_	_
+Bonaparte	I-pers	O	I-pers.ind	O	I-comp.name	O	Q151098	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nach	O	O	O	O	O	O	_	_	_
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	_
+geschickt	O	O	O	O	O	O	_	_	_
+hatten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+beobachteten	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+strengste	O	O	O	O	O	O	_	_	_
+Mannszucht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Niemand	O	O	O	O	O	O	_	_	_
+erinnerte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nerte	O	O	O	O	O	O	_	_	_|Commented
+sich	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Rom	B-loc	O	B-loc.adm.town	O	O	O	Q220	_	_
+ein	O	O	O	O	O	O	_	_	_
+stilleres	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+bescheideneres	O	O	O	O	O	O	_	_	_
+Militär	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gesehen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Offiziere	O	O	O	O	O	O	_	_	_
+lagen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Privathäusern	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wo	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+bloß	O	O	O	O	O	O	_	_	_
+Betten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Holz	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Licht	O	O	O	O	O	O	_	_	_
+erhielten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Gemeinen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nen	O	O	O	O	O	O	_	_	_|Commented
+in	O	O	O	O	O	O	_	_	_
+Klöstern	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+andern	O	O	O	O	O	O	_	_	_
+öffentlichen	O	O	O	O	O	O	_	_	_
+Gebäuden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Einige	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hatten	O	O	O	O	O	O	_	_	_
+ihren	O	O	O	O	O	O	_	_	_
+Marsch	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Neapel	B-loc	O	B-loc.adm.town	O	O	O	Q2634	_	_
+weiter	O	O	O	O	O	O	_	_	_
+fortgesetzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Am	O	O	O	O	O	O	_	_	_
+14	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+heißt	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+französischen	B-prod	O	B-prod.media	O	O	O	Q2565164	_	_
+Journal	I-prod	O	I-prod.media	O	B-comp.name	O	Q2565164	_	_
+de	I-prod	O	I-prod.media	O	I-comp.name	O	Q2565164	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+l	I-prod	O	I-prod.media	O	I-comp.name	O	Q2565164	_	NoSpaceAfter
+'	I-prod	O	I-prod.media	O	I-comp.name	O	Q2565164	_	NoSpaceAfter
+Empire	I-prod	O	I-prod.media	O	I-comp.name	O	Q2565164	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+hatte	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+französische	O	O	O	O	O	O	_	_	_
+Truppendivision	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+unter	O	O	O	O	O	O	_	_	_
+General	B-pers	O	B-pers.ind	O	B-comp.title	O	Q607694	_	_
+Miollis	I-pers	O	I-pers.ind	O	B-comp.name	O	Q607694	_	_
+die	O	O	O	O	O	O	_	_	_
+Besatzung	O	O	O	O	O	O	_	_	_
+bildet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Platze	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vor	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Peters	B-loc	O	B-loc.fac	O	O	O	Q3900977	_	NoSpaceAfter
+-	I-loc	O	I-loc.fac	O	O	O	Q3900977	_	NoSpaceAfter
+Kirche	I-loc	O	I-loc.fac	O	O	O	Q3900977	_	_
+Musterung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+prächtige	O	O	O	O	O	O	_	_	_
+Haltung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	_
+bezauberte	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+Welt	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+Rom	B-loc	B-org	B-loc.adm.town	B-org.adm	O	O	Q220	Q220	_
+glaubte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+alten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ten	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Europa	B-loc	O	B-loc.adm.sup	O	O	O	Q46	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Asien	B-loc	O	B-loc.adm.sup	O	O	O	Q48	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Afrika	B-loc	O	B-loc.adm.sup	O	O	O	Q15	_	_
+siegreichen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Legionen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nen	O	O	O	O	O	O	_	_	_|Commented
+wieder	O	O	O	O	O	O	_	_	_
+auferstanden	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+sehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+"	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ein	O	O	O	O	O	O	_	_	_
+Mailänder	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Zeitungsartikel	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Rom	B-loc	O	B-loc.adm.town	O	O	O	Q220	_	_
+vom	O	O	O	O	O	O	_	_	_
+18	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Febr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+drückt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+dermalige	O	O	O	O	O	O	_	_	_
+dortige	O	O	O	O	O	O	_	_	_
+Lage	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Dinge	O	O	O	O	O	O	_	_	_
+also	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Seitdem	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+französisches	O	O	O	O	O	O	_	_	_
+Armeecorps	O	O	O	O	O	O	_	_	_
+inner	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+unsern	O	O	O	O	O	O	_	_	_
+Mauern	O	O	O	O	O	O	_	_	_
+befindet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wächst	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Mehrern	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Hoffnung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nung	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Wenigern	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Furcht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Jene	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+Jedem	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Größe	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Römischen	O	O	O	O	O	O	_	_	_
+Namens	O	O	O	O	O	O	_	_	_
+erinnert	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+diese	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bey	O	O	O	O	O	O	_	_	_
+denen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+Rom	B-loc	O	B-loc.adm.town	O	O	O	Q220	_	_
+weiterhin	O	O	O	O	O	O	_	_	_
+abschätzig	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+entvölkert	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+öde	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+möchten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+"	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+
+

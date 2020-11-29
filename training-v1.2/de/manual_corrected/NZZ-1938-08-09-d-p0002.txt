@@ -1,0 +1,2817 @@
+# language = de
+# newspaper = NZZ
+# date = 1938-08-09
+# document_id = NZZ-1938-08-09-d-p0002
+# segment_iiif_link = _
+6	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Tour	O	O	O	O	O	O	_	_	_
+de	O	O	O	O	O	O	_	_	_
+Suisse	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+3	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Stappe	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Chur	B-loc	O	B-loc.adm.town	O	O	O	Q69007	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Bellinzona	B-loc	O	B-loc.adm.town	O	O	O	Q64044	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+127	O	O	O	O	O	O	_	_	_
+lemn	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Lel	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Berichte	O	O	O	O	O	O	_	_	_
+unseres	O	O	O	O	O	O	_	_	_
+Sonderberichterstatters	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bb	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+64	O	O	O	O	O	O	_	_	_
+Fahrer	O	O	O	O	O	O	_	_	_
+entläßt	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Starter	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Dumont	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+nachmittags	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mittags	O	O	O	O	O	O	_	_	_|Commented
+3	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	_
+mitten	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Stadt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Erfreulicherweise	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ist	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Franzose	B-pers	O	B-pers.ind	O	B-comp.demonym	O	Q1954791	_	_
+Gallien	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1954791	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+gestern	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+brandschwarzen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schwarzen	O	O	O	O	O	O	_	_	_|Commented
+ag	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+dreimaligem	O	O	O	O	O	O	_	_	_
+Raddefelt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+über	O	O	O	O	O	O	_	_	_
+200	O	O	O	O	O	O	_	_	_
+Kilometer	O	O	O	O	O	O	_	_	_
+allein	O	O	O	O	O	O	_	_	_
+fahren	O	O	O	O	O	O	_	_	_
+mußte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+dabei	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Er	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+maximale	O	O	O	O	O	O	_	_	_
+Fahrzeit	O	O	O	O	O	O	_	_	_
+dadurch	O	O	O	O	O	O	_	_	_
+überschritten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ten	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+;	O	O	O	O	O	O	_	_	_|EOS
+
+die	O	O	O	O	O	O	_	_	_
+Jury	O	O	O	O	O	O	_	_	_
+fand	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Recht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Eliminierung	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Platze	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+erklärte	O	O	O	O	O	O	_	_	_
+ihn	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+als	O	O	O	O	O	O	_	_	_
+startberechtigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Mit	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+drei	O	O	O	O	O	O	_	_	_
+Franzosen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+im	O	O	O	O	O	O	_	_	_
+Rennen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+nachdem	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+zwei	O	O	O	O	O	O	_	_	_
+Mann	O	O	O	O	O	O	_	_	_
+verloren	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+darf	O	O	O	O	O	O	_	_	_
+keiner	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+aufgeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+sonst	O	O	O	O	O	O	_	_	_
+Frankreich	B-loc	B-org	B-loc.adm.nat	B-org.ent	O	O	Q142	Q3590019	NoSpaceAfter|Normalized-5
+#¬	I-loc	I-org	I-loc.adm.nat	I-org.ent	O	O	Q142	Q3590019	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#reich	I-loc	I-org	I-loc.adm.nat	I-org.ent	O	O	Q142	Q3590019	_|Commented
+aus	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Mannschaftsklassement	O	O	O	O	O	O	_	_	_
+ausscheiden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mütte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Komplett	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Sechsermannschalten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+Belgien	B-loc	O	B-loc.adm.nat	O	O	O	Q31	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Deutschland	B-loc	O	B-loc.adm.nat	O	O	O	Q183	_	_
+und	O	O	O	O	O	O	_	_	_
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+auch	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Luxemburger	O	O	O	O	O	O	_	_	_
+Quartett	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+Lücke	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Himmel	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+bewölkt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+doch	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+drückend	O	O	O	O	O	O	_	_	_
+schwül	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Gleich	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Start	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+Umbenhauer	B-pers	O	B-pers.ind	O	O	O	Q1332003	_	_
+Kettendefekt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#defekt	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Im	O	O	O	O	O	O	_	_	_
+40	O	O	O	O	O	O	_	_	_
+Kilometer	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Lempo	O	O	O	O	O	O	_	_	_
+geht	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+San	B-loc	O	B-loc.oro	O	O	O	Q629324	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bernardinopaß	I-loc	O	I-loc.oro	O	O	O	Q629324	_	_
+entgegen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Heute	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Fürzeste	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Etappe	O	O	O	O	O	O	_	_	_
+gefahren	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+sie	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+San	B-loc	O	B-loc.oro	O	O	O	Q629324	_	_
+Bernardinopaß	I-loc	O	I-loc.oro	O	O	O	Q629324	_	NoSpaceAfter|Normalized-3
+#¬	I-loc	O	I-loc.oro	O	O	O	Q629324	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#paß	I-loc	O	I-loc.oro	O	O	O	Q629324	_	_|Commented
+als	O	O	O	O	O	O	_	_	_
+besondere	O	O	O	O	O	O	_	_	_
+Enacknuß	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+Anstieg	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+2069	O	O	O	O	O	O	_	_	_
+Meter	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Ablahrt	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+232	O	O	O	O	O	O	_	_	_
+Meter	O	O	O	O	O	O	_	_	_
+hinunter	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dürfte	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Feld	O	O	O	O	O	O	_	_	_
+kräftig	O	O	O	O	O	O	_	_	_
+durcheinander	O	O	O	O	O	O	_	_	_
+würfeln	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Schon	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Ems	B-loc	O	B-loc.adm.town	O	O	O	Q1648	_	_
+setzt	O	O	O	O	O	O	_	_	_
+Regen	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Trüpplein	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lein	O	O	O	O	O	O	_	_	_|Commented
+Fahrer	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+verfehlten	O	O	O	O	O	O	_	_	_
+Durchbrennerversuch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auswertet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+erste	O	O	O	O	O	O	_	_	_
+Steigung	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+Bonaduz	B-loc	O	B-loc.adm.town	O	O	O	Q64473	_	_
+bringt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schon	O	O	O	O	O	O	_	_	_
+einige	O	O	O	O	O	O	_	_	_
+Fahrer	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Nöte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+schauderhafter	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ddeselt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wir	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+Mühe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+uns	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Staub	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Fahrern	O	O	O	O	O	O	_	_	_
+durchzuarbeiten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Erst	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Realta	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Stand	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Rennens	O	O	O	O	O	O	_	_	_
+feststellen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stellen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+beiden	B-pers	O	B-pers.ind	O	B-comp.qualifier	O	Q169100	_	_
+Schweizer	I-pers	O	I-pers.ind	O	B-comp.demonym	O	Q169100	_	_
+Nievergelt	I-pers	O	I-pers.ind	O	B-comp.name	O	Q169100	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Macstranzi	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+liegen	O	O	O	O	O	O	_	_	_
+etwa	O	O	O	O	O	O	_	_	_
+150	O	O	O	O	O	O	_	_	_
+Meter	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+Del	B-pers	O	B-pers.ind	O	O	O	Q1056822	_	_
+Cancia	I-pers	O	I-pers.ind	O	O	O	Q1056822	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+Simmermann	B-pers	O	B-pers.ind	O	O	O	Q1386692	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+200	O	O	O	O	O	O	_	_	_
+Meter	O	O	O	O	O	O	_	_	_
+zurück	O	O	O	O	O	O	_	_	_
+folgen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+übrigen	O	O	O	O	O	O	_	_	_
+Fahrer	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Gänsemarsch	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Viamala	B-loc	O	B-loc.oro	O	O	O	Q666865	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+emplängt	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schulreisli	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Lehrer	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Fahrer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+Huronengebrüll	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+großer	O	O	O	O	O	O	_	_	_
+Schweizerflagge	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Da	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kolonne	O	O	O	O	O	O	_	_	_
+vorgefahren	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schöne	O	O	O	O	O	O	_	_	_
+Gelegenheit	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Muße	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+artigem	O	O	O	O	O	O	_	_	_
+Tempo	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Wunderwerke	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+betrachten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Hinterthein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+im	O	O	O	O	O	O	_	_	_
+Verlaufe	O	O	O	O	O	O	_	_	_
+langer	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schlucht	O	O	O	O	O	O	_	_	_
+geschaffen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+i	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Mitte	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schlucht	O	O	O	O	O	O	_	_	_
+erwarten	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Grasc	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Uegend	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Fahrer	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+alles	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mehr	O	O	O	O	O	O	_	_	_
+beicinander	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+höchstens	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+kleinen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Grüppchen	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+fünf	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+sechs	O	O	O	O	O	O	_	_	_
+Mann	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+führen	O	O	O	O	O	O	_	_	_
+Del	B-pers	O	B-pers.ind	O	O	O	Q1056822	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Cancia	I-pers	O	I-pers.ind	O	O	O	Q1056822	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Zimmermann	B-pers	O	B-pers.ind	O	O	O	Q1386692	_	_
+und	O	O	O	O	O	O	_	_	_
+Macstranzi	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+100	O	O	O	O	O	O	_	_	_
+Meter	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zurück	O	O	O	O	O	O	_	_	_
+liegen	O	O	O	O	O	O	_	_	_
+Valetti	B-pers	O	B-pers.ind	O	O	O	Q722278	_	_
+und	O	O	O	O	O	O	_	_	_
+Nievergelt	B-pers	O	B-pers.ind	O	O	O	Q169100	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+300	O	O	O	O	O	O	_	_	_
+Meter	O	O	O	O	O	O	_	_	_
+zurück	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rück	O	O	O	O	O	O	_	_	_|Commented
+Amberg	B-pers	O	B-pers.ind	O	O	O	Q672998	_	_
+und	O	O	O	O	O	O	_	_	_
+Canavesi	B-pers	O	B-pers.ind	O	O	O	Q3480824	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+hinterher	O	O	O	O	O	O	_	_	_
+marschieren	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ren	O	O	O	O	O	O	_	_	_|Commented
+die	O	O	O	O	O	O	_	_	_
+andern	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+darunter	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+gelbe	O	O	O	O	O	O	_	_	_
+Trikot	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Valetti	B-pers	O	B-pers.ind	O	O	O	Q722278	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sagt	O	O	O	O	O	O	_	_	_
+Nievergelt	B-pers	O	B-pers.ind	O	O	O	Q169100	_	_
+Valet	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+schließt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Zillis	B-loc	O	B-loc.adm.town	O	O	O	Q64890	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dem	O	O	O	O	O	O	_	_	_
+führenden	O	O	O	O	O	O	_	_	_
+Trio	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Aufsteigende	O	O	O	O	O	O	_	_	_
+Passtraßen	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+Rennpisten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Im	O	O	O	O	O	O	_	_	_
+15	O	O	O	O	O	O	_	_	_
+Kilometertempo	O	O	O	O	O	O	_	_	_
+klettern	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Fahrer	O	O	O	O	O	O	_	_	_
+hinauf	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auch	O	O	O	O	O	O	_	_	_
+Amberg	B-pers	O	B-pers.ind	O	O	O	Q672998	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+letztes	O	O	O	O	O	O	_	_	_
+fahr	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Paß	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+erster	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bezwang	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+zeigen	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+wirkelich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Spezialist	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Berg	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Und	O	O	O	O	O	O	_	_	_
+doch	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Klettern	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tern	O	O	O	O	O	O	_	_	_|Commented
+nach	O	O	O	O	O	O	_	_	_
+Splügen	B-loc	O	B-loc.adm.town	O	O	O	Q64195	_	_
+hinauf	O	O	O	O	O	O	_	_	_
+erst	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+erste	O	O	O	O	O	O	_	_	_
+Gang	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+heutigen	O	O	O	O	O	O	_	_	_
+strengen	O	O	O	O	O	O	_	_	_
+Etappe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ueber	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Rosklapaßhaus	B-loc	O	B-loc.fac	O	O	O	NIL	_	NoSpaceAfter|Normalized-4
+#¬	I-loc	O	I-loc.fac	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#haus	I-loc	O	I-loc.fac	O	O	O	NIL	_	_|Commented
+schauen	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+zurück	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+führende	O	O	O	O	O	O	_	_	_
+Quartett	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+muß	O	O	O	O	O	O	_	_	_
+bald	O	O	O	O	O	O	_	_	_
+flinkere	O	O	O	O	O	O	_	_	_
+Beine	O	O	O	O	O	O	_	_	_
+bekommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eingefangen	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+will	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+denn	O	O	O	O	O	O	_	_	_
+Mersch	B-pers	O	B-pers.ind	O	O	O	Q705242	_	_
+und	O	O	O	O	O	O	_	_	_
+Amberg	B-pers	O	B-pers.ind	O	O	O	Q672998	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+führen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Verfolger	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+slinker	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vorderleute	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Diese	O	O	O	O	O	O	_	_	_
+scheinen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Gefahr	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+wittern	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+während	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Tempo	O	O	O	O	O	O	_	_	_
+heben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+Macstranzi	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+abgehängt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gehängt	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Kurz	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+Splügen	B-loc	O	B-loc.adm.town	O	B-comp.name	O	Q64195	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.town	O	O	O	Q64195	_	NoSpaceAfter
+Dorf	I-loc	O	I-loc.adm.town	O	O	O	Q64195	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+53	O	O	O	O	O	O	_	_	_
+km	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+kommt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auch	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Jahr	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+schlechte	O	O	O	O	O	O	_	_	_
+Wetter	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Regentropfen	O	O	O	O	O	O	_	_	_
+klopfen	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Scheiben	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+die	O	O	O	O	O	O	_	_	_
+Rücken	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+führenden	O	O	O	O	O	O	_	_	_
+Trios	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Kot	O	O	O	O	O	O	_	_	_
+bespritzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Gesichter	O	O	O	O	O	O	_	_	_
+bekommen	O	O	O	O	O	O	_	_	_
+andern	O	O	O	O	O	O	_	_	_
+Teint	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Vor	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Posthotel	B-loc	O	B-loc.fac	O	O	O	NIL	_	_
+„	I-loc	O	I-loc.fac	O	O	O	NIL	_	NoSpaceAfter
+Bodenhaus	I-loc	O	I-loc.fac	O	B-comp.name	O	NIL	_	NoSpaceAfter
+"	I-loc	O	I-loc.fac	O	O	O	NIL	_	_
+im	O	O	O	O	O	O	_	_	_
+Dorf	B-loc	O	B-loc.adm.town	O	O	O	Q64195	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Splügen	I-loc	O	I-loc.adm.town	O	B-comp.name	O	Q64195	_	_
+nehmen	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+erste	O	O	O	O	O	O	_	_	_
+Parade	O	O	O	O	O	O	_	_	_
+ab	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+4	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	_
+40	O	O	O	O	O	O	_	_	_
+passiert	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Trio	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+40	O	O	O	O	O	O	_	_	_
+Sekunden	O	O	O	O	O	O	_	_	_
+später	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Maestrann	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+zweite	O	O	O	O	O	O	_	_	_
+Gruppe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+etwa	O	O	O	O	O	O	_	_	_
+20	O	O	O	O	O	O	_	_	_
+Fahrer	O	O	O	O	O	O	_	_	_
+umsassend	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sassend	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+führt	O	O	O	O	O	O	_	_	_
+Mersch	B-pers	O	B-pers.ind	O	O	O	Q705242	_	_
+im	O	O	O	O	O	O	_	_	_
+gelben	O	O	O	O	O	O	_	_	_
+Trilot	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Egli	B-pers	O	B-pers.ind	O	O	O	Q166529	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+belindet	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+dabei	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Amberg	B-pers	O	B-pers.ind	O	O	O	Q672998	_	_
+aber	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+er	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kommt	O	O	O	O	O	O	_	_	_
+erst	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+weiteren	O	O	O	O	O	O	_	_	_
+Minute	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Fahrer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schen	O	O	O	O	O	O	_	_	_
+übel	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+wohl	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Regenhaut	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+kurze	O	O	O	O	O	O	_	_	_
+Regen	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Straße	O	O	O	O	O	O	_	_	_
+rasch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zugesetzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Schon	O	O	O	O	O	O	_	_	_
+Pelolahren	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+diesem	O	O	O	O	O	O	_	_	_
+Wetter	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kein	O	O	O	O	O	O	_	_	_
+Vergnügen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+viel	O	O	O	O	O	O	_	_	_
+weniger	O	O	O	O	O	O	_	_	_
+Velorennen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Perge	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+tief	O	O	O	O	O	O	_	_	_
+verhängt	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+das	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	_
+gut	O	O	O	O	O	O	_	_	_
+verden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wir	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Ueberklettern	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Passes	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Süden	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Für	O	O	O	O	O	O	_	_	_
+Schlechtwetterfahrer	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+natürlich	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Wetter	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ein	O	O	O	O	O	O	_	_	_
+besonderes	O	O	O	O	O	O	_	_	_
+Vergnügen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Willi	B-pers	O	B-pers.ind	O	B-comp.name	O	Q11955169	_	_
+Kern	I-pers	O	I-pers.ind	O	I-comp.name	O	Q11955169	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q11955169	_	_
+die	I-pers	O	I-pers.ind	O	O	O	Q11955169	_	_
+Ueberraschung	I-pers	O	I-pers.ind	O	B-comp.function	O	Q11955169	_	NoSpaceAfter|Normalized-8
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	Q11955169	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#raschung	I-pers	O	I-pers.ind	O	I-comp.function	O	Q11955169	_	_|Commented
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	Q11955169	_	_
+ersten	I-pers	O	I-pers.ind	O	I-comp.function	O	Q11955169	_	_
+Etappe	I-pers	O	I-pers.ind	O	I-comp.function	O	Q11955169	_	_
+und	I-pers	O	I-pers.ind	O	O	O	Q11955169	_	_
+zweiter	I-pers	O	I-pers.ind	O	B-comp.function	O	Q11955169	_	_
+im	I-pers	O	I-pers.ind	O	I-comp.function	O	Q11955169	_	_
+GesamtRlassement	I-pers	O	I-pers.ind	O	I-comp.function	O	Q11955169	_	NoSpaceAfter|Normalized-10
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	Q11955169	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#Rlassement	I-pers	O	I-pers.ind	O	I-comp.function	O	Q11955169	_	NoSpaceAfter|Commented
+,	I-pers	O	I-pers.ind	O	O	O	Q11955169	_	_
+liegt	O	O	O	O	O	O	_	_	_
+weit	O	O	O	O	O	O	_	_	_
+zürück	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+dürfte	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Platz	O	O	O	O	O	O	_	_	_
+kaum	O	O	O	O	O	O	_	_	_
+halten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Große	O	O	O	O	O	O	_	_	_
+hinterrheinische	O	O	O	O	O	O	_	_	_
+Regendächer	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#dächer	O	O	O	O	O	O	_	_	_|Commented
+stehen	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Straße	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Bauersleute	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+darunter	O	O	O	O	O	O	_	_	_
+schen	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+erstaunt	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Schmutzteusel	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+dreckspritzend	O	O	O	O	O	O	_	_	_
+vorüberklitzen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Weit	O	O	O	O	O	O	_	_	_
+vorn	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ersten	O	O	O	O	O	O	_	_	_
+Bernardinokehren	B-loc	O	B-loc.phys.geo	O	O	O	Q629324	_	NoSpaceAfter|Partial-0:10
+,	O	O	O	O	O	O	_	_	_
+liegen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Führenden	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+Amberg	B-pers	O	B-pers.ind	O	O	O	Q672998	_	NoSpaceAfter|Normalized-4
+#¬	I-pers	O	I-pers.ind	O	O	O	Q672998	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#berg	I-pers	O	I-pers.ind	O	O	O	Q672998	_	_|Commented
+ist	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+lange	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+ihnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Nach	O	O	O	O	O	O	_	_	_
+Hinterrhein	B-loc	O	B-loc.adm.town	O	O	O	Q64886	_	_
+gehen	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Paß	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Leibe	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+kurven	O	O	O	O	O	O	_	_	_
+uns	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+vollständig	O	O	O	O	O	O	_	_	_
+zerrissenes	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#senes	O	O	O	O	O	O	_	_	_|Commented
+Feld	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Hlöhe	O	O	O	O	O	O	_	_	_
+hinauf	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Drei	O	O	O	O	O	O	_	_	_
+Kilometer	O	O	O	O	O	O	_	_	_
+unterhalb	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#halb	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Paßhöhe	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Situation	O	O	O	O	O	O	_	_	_
+folgende	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Valetti	B-pers	O	B-pers.ind	O	O	O	Q722278	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+führt	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+etwa	O	O	O	O	O	O	_	_	_
+200	O	O	O	O	O	O	_	_	_
+Meter	O	O	O	O	O	O	_	_	_
+Vorsprung	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+dann	O	O	O	O	O	O	_	_	_
+kommt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Schweizer	B-pers	O	B-pers.ind	O	B-comp.demonym	O	Q1386692	_	_
+Simmermann	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1386692	_	_
+400	O	O	O	O	O	O	_	_	_
+Meter	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+Del	B-pers	O	B-pers.ind	O	O	O	Q1056822	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Cancia	I-pers	O	I-pers.ind	O	O	O	Q1056822	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+weitere	O	O	O	O	O	O	_	_	_
+300	O	O	O	O	O	O	_	_	_
+Meter	O	O	O	O	O	O	_	_	_
+liegt	O	O	O	O	O	O	_	_	_
+Macstranzi	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+zurück	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rück	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+etwa	O	O	O	O	O	O	_	_	_
+300	O	O	O	O	O	O	_	_	_
+Meter	O	O	O	O	O	O	_	_	_
+hinten	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Achtergruppe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+Mersch	B-pers	O	B-pers.ind	O	O	O	Q705242	_	_
+und	O	O	O	O	O	O	_	_	_
+drei	O	O	O	O	O	O	_	_	_
+Belgiern	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Diesen	O	O	O	O	O	O	_	_	_
+folgt	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sechsergruppe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+erst	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+Egli	B-pers	O	B-pers.ind	O	O	O	Q166529	_	_
+zu	O	O	O	O	O	O	_	_	_
+erkennen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+Amberg	B-pers	O	B-pers.ind	O	O	O	Q672998	_	_
+die	O	O	O	O	O	O	_	_	_
+Paßhöhe	O	O	O	O	O	O	_	_	_
+erreichen	O	O	O	O	O	O	_	_	_
+dürfte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+5	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	_
+29	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+Valetti	B-pers	O	B-pers.ind	O	O	O	Q722278	_	_
+den	O	O	O	O	O	O	_	_	_
+Bergpreis	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erobert	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+saust	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+wild	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Südlen	O	O	O	O	O	O	_	_	_
+hinunter	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#unter	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+schlechte	O	O	O	O	O	O	_	_	_
+Wetter	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Patzhöhe	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+allzu	O	O	O	O	O	O	_	_	_
+viel	O	O	O	O	O	O	_	_	_
+Besucher	O	O	O	O	O	O	_	_	_
+gebracht	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+unter	O	O	O	O	O	O	_	_	_
+ihnen	O	O	O	O	O	O	_	_	_
+befindet	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+starke	O	O	O	O	O	O	_	_	_
+italienische	O	O	O	O	O	O	_	_	_
+Gruppe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Fimmermann	B-pers	O	B-pers.ind	O	O	O	Q1386692	_	NoSpaceAfter|Normalized-4
+#¬	I-pers	O	I-pers.ind	O	O	O	Q1386692	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mann	I-pers	O	I-pers.ind	O	O	O	Q1386692	_	_|Commented
+macht	O	O	O	O	O	O	_	_	_
+jagd	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Valetti	B-pers	O	B-pers.ind	O	O	O	Q722278	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Del	B-pers	O	B-pers.ind	O	O	O	Q1056822	_	_
+Cancia	I-pers	O	I-pers.ind	O	O	O	Q1056822	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+beide	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+wirklich	O	O	O	O	O	O	_	_	_
+aufregend	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+tollen	O	O	O	O	O	O	_	_	_
+Talfahrten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fahrten	O	O	O	O	O	O	_	_	_|Commented
+mit	O	O	O	O	O	O	_	_	_
+anzuschen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+denen	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Sturx	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Leben	O	O	O	O	O	O	_	_	_
+Kosten	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Del	B-pers	O	B-pers.ind	O	O	O	Q1056822	_	_
+Cancia	I-pers	O	I-pers.ind	O	O	O	Q1056822	_	_
+geht	O	O	O	O	O	O	_	_	_
+trotz	O	O	O	O	O	O	_	_	_
+dervielen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#vielen	O	O	O	O	O	O	_	_	_|Commented
+Löcher	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Straße	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+tutti	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Zimmermann	B-pers	O	B-pers.ind	O	O	O	Q1386692	_	NoSpaceAfter|Normalized-4
+#¬	I-pers	O	I-pers.ind	O	O	O	Q1386692	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mann	I-pers	O	I-pers.ind	O	O	O	Q1386692	_	_|Commented
+ist	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Geraden	O	O	O	O	O	O	_	_	_
+schneller	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nimmt	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kurven	O	O	O	O	O	O	_	_	_
+außerordentlich	O	O	O	O	O	O	_	_	_
+vorsichtig	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+mögen	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dorf	B-loc	O	B-loc.adm.town	O	O	O	Q687945	_	_
+San	I-loc	O	I-loc.adm.town	O	B-comp.name	O	Q687945	_	_
+Bernardino	I-loc	O	I-loc.adm.town	O	I-comp.name	O	Q687945	_	_
+vielleicht	O	O	O	O	O	O	_	_	_
+500	O	O	O	O	O	O	_	_	_
+Meter	O	O	O	O	O	O	_	_	_
+auseinander	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ander	O	O	O	O	O	O	_	_	_|Commented
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Taltempo	O	O	O	O	O	O	_	_	_
+kaum	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+halbe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Minute	O	O	O	O	O	O	_	_	_
+Diserenz	O	O	O	O	O	O	_	_	_
+bedeutet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Bremsen	O	O	O	O	O	O	_	_	_
+pleilen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Kurven	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Gummi	O	O	O	O	O	O	_	_	_
+stinket	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+hinter	O	O	O	O	O	O	_	_	_
+uns	O	O	O	O	O	O	_	_	_
+tobenden	O	O	O	O	O	O	_	_	_
+Schlacht	O	O	O	O	O	O	_	_	_
+wissen	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+natürlich	O	O	O	O	O	O	_	_	_
+nichts	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+sogleich	O	O	O	O	O	O	_	_	_
+erfahren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+da	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+San	B-loc	O	B-loc.adm.town	O	O	O	Q687945	_	_
+Bernardino	I-loc	O	I-loc.adm.town	O	O	O	Q687945	_	_
+Benzin	O	O	O	O	O	O	_	_	_
+fassen	O	O	O	O	O	O	_	_	_
+müssen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+was	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Renner	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+nötig	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Anderthalb	O	O	O	O	O	O	_	_	_
+Minuten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nuten	O	O	O	O	O	O	_	_	_|Commented
+nach	O	O	O	O	O	O	_	_	_
+Zimmermann	B-pers	O	B-pers.ind	O	O	O	Q1386692	_	_
+geht	O	O	O	O	O	O	_	_	_
+Del	B-pers	O	B-pers.ind	O	O	O	Q1056822	_	_
+Cancia	I-pers	O	I-pers.ind	O	O	O	Q1056822	_	_
+an	O	O	O	O	O	O	_	_	_
+uns	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vorbei	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ein	O	O	O	O	O	O	_	_	_
+Blick	O	O	O	O	O	O	_	_	_
+zurück	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+obern	O	O	O	O	O	O	_	_	_
+Kurven	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zeigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+hinten	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Sieg	O	O	O	O	O	O	_	_	_
+gekämpft	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wird	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Führenden	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Plätze	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+durchaus	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+TFasche	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+denn	O	O	O	O	O	O	_	_	_
+Egli	B-pers	O	B-pers.ind	O	O	O	Q166529	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ein	O	O	O	O	O	O	_	_	_
+gefürchteter	O	O	O	O	O	O	_	_	_
+Schuß	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Spezialist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Ausländern	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+mancher	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Absanien	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+besser	O	O	O	O	O	O	_	_	_
+liegt	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Berglelettern	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Südseite	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+scheint	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+geregnet	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Gefahr	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fahr	O	O	O	O	O	O	_	_	_|Commented
+des	O	O	O	O	O	O	_	_	_
+Ausglitschens	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+besteht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+Misox	B-loc	O	B-loc.adm.town	O	O	O	Q64617	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+punkt	O	O	O	O	O	O	_	_	_
+6	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	_
+erreichen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+Valetti	B-pers	O	B-pers.ind	O	O	O	Q722278	_	_
+immer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+noch	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Spitze	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+halbe	O	O	O	O	O	O	_	_	_
+Minute	O	O	O	O	O	O	_	_	_
+später	O	O	O	O	O	O	_	_	_
+spenden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#den	O	O	O	O	O	O	_	_	_|Commented
+die	O	O	O	O	O	O	_	_	_
+Misozer	O	O	O	O	O	O	_	_	_
+Zimmermann	B-pers	O	B-pers.ind	O	O	O	Q1386692	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+unverminderter	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ter	O	O	O	O	O	O	_	_	_|Commented
+Verbissenheit	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+sagd	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+italienischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Konkurrenz	O	O	O	O	O	O	_	_	_
+fortsetzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+verdienten	O	O	O	O	O	O	_	_	_
+Beifall	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Immer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+noch	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Südseite	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Passes	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+60	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Kilometertempo	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tempo	O	O	O	O	O	O	_	_	_|Commented
+genommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Was	O	O	O	O	O	O	_	_	_
+treibt	O	O	O	O	O	O	_	_	_
+Valetti	B-pers	O	B-pers.ind	O	O	O	Q722278	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Gerechtigkeit	O	O	O	O	O	O	_	_	_
+verlangt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+daß	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+uns	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+einmal	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+umsehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+So	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+trennen	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+uns	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Kimmermann	B-pers	O	B-pers.ind	O	O	O	Q1386692	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Unterhalb	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Soazza	B-loc	O	B-loc.adm.town	O	O	O	Q65711	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+30	O	O	O	O	O	O	_	_	_
+Kilometer	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Ziel	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+uns	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+an	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Italiener	O	O	O	O	O	O	_	_	_
+herangespurtet	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+chronometrieren	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+seinen	O	O	O	O	O	O	_	_	_
+Vorsprung	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+er	O	O	O	O	O	O	_	_	_
+beträgt	O	O	O	O	O	O	_	_	_
+gegenüher	O	O	O	O	O	O	_	_	_
+Timmermann	B-pers	O	B-pers.ind	O	O	O	Q1386692	_	NoSpaceAfter|Normalized-4
+#¬	I-pers	O	I-pers.ind	O	O	O	Q1386692	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mann	I-pers	O	I-pers.ind	O	O	O	Q1386692	_	_|Commented
+56	O	O	O	O	O	O	_	_	_
+Sekunden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+gegenüber	O	O	O	O	O	O	_	_	_
+Del	B-pers	O	B-pers.ind	O	O	O	Q1056822	_	_
+Cancia	I-pers	O	I-pers.ind	O	O	O	Q1056822	_	_
+2106	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gegenüber	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+beiden	O	O	O	O	O	O	_	_	_
+Landsleuten	O	O	O	O	O	O	_	_	_
+Cecchi	B-pers	O	B-pers.ind	O	O	O	Q1165640	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Canavesi	B-pers	O	B-pers.ind	O	O	O	Q3480824	_	_
+2146	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Der	O	O	O	O	O	O	_	_	_
+wackere	B-pers	O	B-pers.ind	O	B-comp.qualifier	O	NIL	_	_
+Tessiner	I-pers	O	I-pers.ind	O	B-comp.demonym	O	NIL	_	_
+Macstranzi	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dem	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+hätte	O	O	O	O	O	O	_	_	_
+gönnen	O	O	O	O	O	O	_	_	_
+mögen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+HeimatKanton	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#Kanton	O	O	O	O	O	O	_	_	_|Commented
+als	O	O	O	O	O	O	_	_	_
+Sieger	O	O	O	O	O	O	_	_	_
+einzuziehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+sechstenPlatz	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#Platz	O	O	O	O	O	O	_	_	_|Commented
+zurückgefallen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Noch	O	O	O	O	O	O	_	_	_
+13	O	O	O	O	O	O	_	_	_
+Kilometer	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+näher	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ist	O	O	O	O	O	O	_	_	_
+Limmermann	B-pers	O	B-pers.ind	O	O	O	Q1386692	_	_
+Valetti	B-pers	O	B-pers.ind	O	O	O	Q722278	_	_
+gekommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Beide	O	O	O	O	O	O	_	_	_
+geben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+was	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+beide	O	O	O	O	O	O	_	_	_
+greifen	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Lorbeeren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Valetti	B-pers	O	B-pers.ind	O	O	O	Q722278	_	_
+ist	O	O	O	O	O	O	_	_	_
+etwas	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Vorteil	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+vorn	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+liegt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+Reihe	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Begleitwagen	O	O	O	O	O	O	_	_	_
+passieren	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mus	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+Zimmermann	B-pers	O	B-pers.ind	O	O	O	Q1386692	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Aher	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+könnte	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+Del	B-pers	O	B-pers.ind	O	O	O	Q1056822	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Cancia	I-pers	O	I-pers.ind	O	O	O	Q1056822	_	_
+Spielverderber	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sechs	O	O	O	O	O	O	_	_	_
+Kilometer	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bellinzona	B-loc	O	B-loc.adm.town	O	O	O	Q64044	_	_
+bekommt	O	O	O	O	O	O	_	_	_
+Fimmermann	B-pers	O	B-pers.ind	O	O	O	Q1386692	_	_
+Flügel	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+holt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sichtbar	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+Valetti	B-pers	O	B-pers.ind	O	O	O	Q722278	_	_
+auf	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Gefahr	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+merkt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ein	O	O	O	O	O	O	_	_	_
+unverschämter	O	O	O	O	O	O	_	_	_
+Tessiner	O	O	O	O	O	O	_	_	_
+Automobilist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bringt	O	O	O	O	O	O	_	_	_
+großes	O	O	O	O	O	O	_	_	_
+Uebel	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Verfolgungskampf	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+uns	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Zimmermann	B-pers	O	B-pers.ind	O	O	O	Q1386692	_	_
+in	O	O	O	O	O	O	_	_	_
+Gelahr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Tessiner	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+brave	O	O	O	O	O	O	_	_	_
+Schweizer	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+feuern	O	O	O	O	O	O	_	_	_
+Jimmermann	B-pers	O	B-pers.ind	O	O	O	Q1386692	_	_
+zum	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+allerletzten	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Wir	O	O	O	O	O	O	_	_	_
+jagen	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Ziel	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Alle	O	O	O	O	O	O	_	_	_
+Austrengung	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+Limmermann	B-pers	O	B-pers.ind	O	O	O	Q1386692	_	NoSpaceAfter|Normalized-7
+#¬	I-pers	O	I-pers.ind	O	O	O	Q1386692	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mermann	I-pers	O	I-pers.ind	O	O	O	Q1386692	_	_|Commented
+nichts	O	O	O	O	O	O	_	_	_
+genütet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Valetti	B-pers	O	B-pers.ind	O	O	O	Q722278	_	_
+ist	O	O	O	O	O	O	_	_	_
+Etappensieger	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sieger	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+passiert	O	O	O	O	O	O	_	_	_
+6	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	_
+45	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Zielband	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+35	O	O	O	O	O	O	_	_	_
+Sekunden	O	O	O	O	O	O	_	_	_
+später	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+Fimmermann	B-pers	O	B-pers.ind	O	O	O	Q1386692	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dritte	O	O	O	O	O	O	_	_	_
+Etappe	O	O	O	O	O	O	_	_	_
+erledigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+viel	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+halbe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Minute	O	O	O	O	O	O	_	_	_
+trennt	O	O	O	O	O	O	_	_	_
+ihn	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Sieger	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Aber	O	O	O	O	O	O	_	_	_
+verspielt	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+verspielt	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	_|EOS
+
+314341	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+Valettis	B-pers	O	B-pers.ind	O	O	O	Q722278	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+3144116	O	O	O	O	O	O	_	_	_
+diejenige	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#jenige	O	O	O	O	O	O	_	_	_|Commented
+Zimmermanns	B-pers	O	B-pers.ind	O	O	O	Q1386692	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+drei	O	O	O	O	O	O	_	_	_
+Italiener	O	O	O	O	O	O	_	_	_
+lielern	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einen	O	O	O	O	O	O	_	_	_
+scharfen	O	O	O	O	O	O	_	_	_
+Endkampf	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Del	B-pers	O	B-pers.ind	O	O	O	Q1056822	_	_
+Cancia	I-pers	O	I-pers.ind	O	O	O	Q1056822	_	_
+erspurtet	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dritten	O	O	O	O	O	O	_	_	_
+Platz	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Cecchi	B-pers	O	B-pers.ind	O	O	O	Q1165640	_	_
+den	O	O	O	O	O	O	_	_	_
+vierten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Canavesi	B-pers	O	B-pers.ind	O	O	O	Q3480824	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+fünkten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Klassement	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Etappe	O	O	O	O	O	O	_	_	_
+Chur	B-loc	O	B-loc.adm.town	O	O	O	Q69007	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Bellinzona	B-loc	O	B-loc.adm.town	O	O	O	Q64044	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+1	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Paletti	B-pers	O	B-pers.ind	O	O	O	Q722278	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+3143141	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+2	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Jummermann	B-pers	O	B-pers.ind	O	O	O	Q1386692	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+3144116	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+3	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Del	B-pers	O	B-pers.ind	O	O	O	Q1056822	_	_
+Cancia	I-pers	O	I-pers.ind	O	O	O	Q1056822	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+3148115	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_
+4	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Cecchi	B-pers	O	B-pers.ind	O	O	O	Q1165640	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+5	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Canavesi	B-pers	O	B-pers.ind	O	O	O	Q3480824	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Italicn	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+beide	O	O	O	O	O	O	_	_	_
+gleiche	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+6	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Hendrickx	B-pers	O	B-pers.ind	O	O	O	Q2831236	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Belaien	B-loc	O	B-loc.adm.nat	O	O	O	Q31	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+3148156	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+7	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Macstranzi	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+egleiche	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+8	O	O	O	O	O	O	_	_	_
+Besana	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schwciz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+3250123	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+9	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Blattmann	B-pers	O	B-pers.ind	O	O	O	Q2089548	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gleiche	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+10	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Edgar	B-pers	O	B-pers.ind	O	O	O	Q667847	_	_
+Buchwalder	I-pers	O	I-pers.ind	O	O	O	Q667847	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+315046	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+11	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Romanatti	B-pers	O	B-pers.ind	O	O	O	Q3659793	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+gleiche	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+12	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Storme	B-pers	O	B-pers.ind	O	O	O	Q605085	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Belgien	B-loc	O	B-loc.adm.nat	O	O	O	Q31	_	NoSpaceAfter|Normalized-4
+#¬	I-loc	O	I-loc.adm.nat	O	O	O	Q31	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gien	I-loc	O	I-loc.adm.nat	O	O	O	Q31	_	NoSpaceAfter|Commented
+)	O	O	O	O	O	O	_	_	_
+3152233	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+13	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Neuens	B-pers	O	B-pers.ind	O	O	O	Q2364114	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Luxemburg	B-loc	O	B-loc.adm.nat	O	O	O	Q32	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+14	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Demondlt	B-pers	O	B-pers.ind	O	O	O	Q28653225	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Belgien	B-loc	O	B-loc.adm.nat	O	O	O	Q31	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+15	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Hartmann	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+16	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Mersch	B-pers	O	B-pers.ind	O	O	O	Q705242	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Luxemburg	B-loc	O	B-loc.adm.nat	O	O	O	Q32	_	NoSpaceAfter|Normalized-4
+#¬	I-loc	O	I-loc.adm.nat	O	O	O	Q32	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#burg	I-loc	O	I-loc.adm.nat	O	O	O	Q32	_	NoSpaceAfter|Commented
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+gleiche	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+17	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Werner	B-pers	O	B-pers.ind	O	O	O	Q14518521	_	_
+Buchwalder	I-pers	O	I-pers.ind	O	O	O	Q14518521	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sehweie	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+35321	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_
+18	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Perret	B-pers	O	B-pers.ind	O	O	O	Q59772018	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+19	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Soldati	B-pers	O	B-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+20	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Weber	B-pers	O	B-pers.ind	O	O	O	Q16549997	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+21	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Amberg	B-pers	O	B-pers.ind	O	O	O	Q672998	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+alle	O	O	O	O	O	O	_	_	_
+gleiche	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+22	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nievergelt	B-pers	O	B-pers.ind	O	O	O	Q169100	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+3157115	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_
+23	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Loncke	B-pers	O	B-pers.ind	O	O	O	Q2290811	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Belgien	B-loc	O	B-loc.adm.nat	O	O	O	Q31	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+24	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Wolkensberger	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schw	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+25	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Speichinger	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter|Normalized-7
+#¬	I-pers	O	I-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#chinger	I-pers	O	I-pers.ind	O	O	O	NIL	_	_|Commented
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schw	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+26	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Lambrichts	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Iolland	B-loc	O	B-loc.adm.nat	O	O	O	Q55	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+27	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Vicquéri	B-pers	O	B-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schw	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+28	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+H	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Martin	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schw	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+29	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+P	B-pers	O	B-pers.ind	O	O	O	Q166529	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	O	O	Q166529	_	_
+Egli	I-pers	O	I-pers.ind	O	O	O	Q166529	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schw	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gleiche	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+80	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Gallien	B-pers	O	B-pers.ind	O	O	O	Q1954791	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Frankreich	B-loc	O	B-loc.adm.nat	O	O	O	Q142	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+4,2336	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+31	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Gros	B-pers	O	B-pers.ind	O	O	O	Q57696613	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schw	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+4,03142	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+32	O	O	O	O	O	O	_	_	_
+Vlacmpnek	B-pers	O	B-pers.ind	O	O	O	Q1943588	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Belgien	B-loc	O	B-loc.adm.nat	O	O	O	Q31	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+33	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Schaad	B-pers	O	B-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schw	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+34	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Bula	B-pers	O	B-pers.ind	O	O	O	Q57694586	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schw	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+35	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Weckerling	B-pers	O	B-pers.ind	O	O	O	Q442629	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Deutschland	B-loc	O	B-loc.adm.nat	O	O	O	Q183	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+36	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Wettstein	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schi	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+37	O	O	O	O	O	O	_	_	_
+Victio	B-org	O	B-org.ent	O	O	O	Q1357762	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Frankr	B-loc	O	B-loc.adm.nat	O	O	O	Q142	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q142	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+38	O	O	O	O	O	O	_	_	_
+Geyer	B-pers	O	B-pers.ind	O	O	O	Q469829	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Deutschl	B-loc	O	B-loc.adm.nat	O	O	O	Q183	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q183	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+gleiche	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+39	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Kijewski	B-pers	O	B-pers.ind	O	O	O	Q71968	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Deutschl	B-loc	O	B-loc.adm.nat	O	O	O	Q183	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q183	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+4108148	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_
+40	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Pautz	B-pers	O	B-pers.ind	O	O	O	Q77721	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Deutschl	B-loc	O	B-loc.adm.nat	O	O	O	Q183	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q183	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+41	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Wys	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schw	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+42	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Stettler	B-pers	O	B-pers.ind	O	O	O	Q1794139	_	NoSpaceAfter|Normalized-3
+#¬	I-pers	O	I-pers.ind	O	O	O	Q1794139	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ler	I-pers	O	I-pers.ind	O	O	O	Q1794139	_	_|Commented
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schw	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+43	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Didier	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Lux	B-loc	O	B-loc.adm.nat	O	O	O	Q32	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q32	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+44	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Verveer	B-pers	O	B-pers.ind	O	O	O	Q19282476	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+IIoll	B-loc	O	B-loc.adm.nat	O	O	O	Q55	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q55	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+4	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Benas	B-pers	O	B-pers.ind	O	O	O	Q2839365	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+inre	B-loc	O	B-loc.adm.nat	O	O	O	Q32	_	_
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+46	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+feat	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+Gelte	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+47	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+nanunt	B-pers	O	B-pers.ind	O	O	O	Q2630774	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Amerika	B-loc	O	B-loc.adm.nat	O	O	O	Q30	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+48	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Erne	B-pers	O	B-pers.ind	O	O	O	Q761194	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+49	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Meier	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+alle	O	O	O	O	O	O	_	_	_
+gleiche	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+50	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Knutti	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schw	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+4110220	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_
+51	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Bettini	B-pers	O	B-pers.ind	O	O	O	Q298886	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Frankr	B-loc	O	B-loc.adm.nat	O	O	O	Q142	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q142	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+4114140	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+52	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Ott	B-pers	O	B-pers.ind	O	O	O	Q168958	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schwe	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+53	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Cuénod	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schw	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+54	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Kern	B-pers	O	B-pers.ind	O	O	O	Q11955169	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schw	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+gleiche	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+55	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Bolliger	B-pers	O	B-pers.ind	O	O	O	Q24239809	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schw	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+4116111	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_
+56	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Gilgen	B-pers	O	B-pers.ind	O	O	O	Q1579828	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schw	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+57	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Brun	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schw	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+58	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Wagner	B-pers	O	B-pers.ind	O	O	O	Q1705972	_	NoSpaceAfter|Normalized-3
+#¬	I-pers	O	I-pers.ind	O	O	O	Q1705972	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ner	I-pers	O	I-pers.ind	O	O	O	Q1705972	_	_|Commented
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schw	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+gleiche	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+59	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Heimann	B-pers	O	B-pers.ind	O	O	O	Q2416893	_	_
+E	I-pers	O	I-pers.ind	O	O	O	Q2416893	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	O	O	Q2416893	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schw	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+4125335	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_
+60	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Umbenhauer	B-pers	O	B-pers.ind	O	O	O	Q1332003	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Deutschl	B-loc	O	B-loc.adm.nat	O	O	O	Q183	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q183	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+4125153	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_
+61	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Oberbeck	B-pers	O	B-pers.ind	O	O	O	Q324821	_	NoSpaceAfter|Normalized-4
+#¬	I-pers	O	I-pers.ind	O	O	O	Q324821	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#beck	I-pers	O	I-pers.ind	O	O	O	Q324821	_	_|Commented
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Deutschl	B-loc	O	B-loc.adm.nat	O	O	O	Q183	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q183	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+4128220	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+62	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+René	B-pers	O	B-pers.ind	O	O	O	Q63646284	_	_
+Martin	I-pers	O	I-pers.ind	O	O	O	Q63646284	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Bei	O	O	O	O	O	O	_	_	_
+Kontrollschluß	O	O	O	O	O	O	_	_	_
+fehlten	O	O	O	O	O	O	_	_	_
+Deltour	B-pers	O	B-pers.ind	O	O	O	Q39522783	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Belgien	B-loc	O	B-loc.adm.nat	O	O	O	Q31	_	NoSpaceAfter|Normalized-4
+#¬	I-loc	O	I-loc.adm.nat	O	O	O	Q31	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gien	I-loc	O	I-loc.adm.nat	O	O	O	Q31	_	NoSpaceAfter|Commented
+)	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Camusso	B-pers	O	B-pers.ind	O	O	O	Q495508	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+GesamtElassement	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+dritten	O	O	O	O	O	O	_	_	_
+Etappe	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+1	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Canavesi	B-pers	O	B-pers.ind	O	O	O	Q3480824	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+17138229	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+2	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Mersch	B-pers	O	B-pers.ind	O	O	O	Q705242	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Luxemburg	B-loc	O	B-loc.adm.nat	O	O	O	Q32	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+17339104	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+3	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Cecchi	B-pers	O	B-pers.ind	O	O	O	Q1165640	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+17142339	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+4	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Paletti	B-pers	O	B-pers.ind	O	O	O	Q722278	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+17143154	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_
+5	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+W	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Buchwalder	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+17146446	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+6	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Del	B-pers	O	B-pers.ind	O	O	O	Q1056822	_	_
+Cancia	I-pers	O	I-pers.ind	O	O	O	Q1056822	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+17147154	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+7	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Hendrickx	B-pers	O	B-pers.ind	O	O	O	Q2831236	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Belgien	B-loc	O	B-loc.adm.nat	O	O	O	Q31	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+17350114	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_
+8	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Perret	B-pers	O	B-pers.ind	O	O	O	Q59772018	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schwciz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+17153128	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+9	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Demondt	B-pers	O	B-pers.ind	O	O	O	Q28653225	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Belgien	B-loc	O	B-loc.adm.nat	O	O	O	Q31	_	NoSpaceAfter|Normalized-4
+#¬	I-loc	O	I-loc.adm.nat	O	O	O	Q31	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gien	I-loc	O	I-loc.adm.nat	O	O	O	Q31	_	NoSpaceAfter|Commented
+)	O	O	O	O	O	O	_	_	_
+17153153	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+10	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Romanatti	B-pers	O	B-pers.ind	O	O	O	Q3659793	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+17253158	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_
+11	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Wollensberger	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+17254138	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+12	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Weckerling	B-pers	O	B-pers.ind	O	O	O	Q442629	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Deutschland	B-loc	O	B-loc.adm.nat	O	O	O	Q183	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+17154142	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+13	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Amberg	B-pers	O	B-pers.ind	O	O	O	Q672998	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+17254144	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+14	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nievergelt	B-pers	O	B-pers.ind	O	O	O	Q169100	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+17255101	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+15	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Egli	B-pers	O	B-pers.ind	O	O	O	Q166529	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vergpreis	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+San	B-loc	O	B-loc.oro	O	O	O	Q629324	_	_
+Vernardino	I-loc	O	I-loc.oro	O	O	O	Q629324	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+1	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Valetti	B-pers	O	B-pers.ind	O	O	O	Q722278	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+10	O	O	O	O	O	O	_	_	_
+Pankte	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+2	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Zimmermann	B-pers	O	B-pers.ind	O	O	O	Q1386692	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+9	O	O	O	O	O	O	_	_	_
+P	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+3	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Macstranzi	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter|Normalized-7
+#¬	I-pers	O	I-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stranzi	I-pers	O	I-pers.ind	O	O	O	NIL	_	_|Commented
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+8	O	O	O	O	O	O	_	_	_
+P	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+4	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Del	B-pers	O	B-pers.ind	O	O	O	Q1056822	_	_
+Cancia	I-pers	O	I-pers.ind	O	O	O	Q1056822	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+7	O	O	O	O	O	O	_	_	_
+P	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+5	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Mersch	B-pers	O	B-pers.ind	O	O	O	Q705242	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Luxemburg	B-loc	O	B-loc.adm.nat	O	O	O	Q32	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+6	O	O	O	O	O	O	_	_	_
+P	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_
+6	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Canavesi	B-pers	O	B-pers.ind	O	O	O	Q3480824	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+5	O	O	O	O	O	O	_	_	_
+P	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+7	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Hendrickx	B-pers	O	B-pers.ind	O	O	O	Q2831236	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Belgien	B-loc	O	B-loc.adm.nat	O	O	O	Q31	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+4	O	O	O	O	O	O	_	_	_
+P	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_
+8	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Hartmann	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+3	O	O	O	O	O	O	_	_	_
+P	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+9	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Cecchi	B-pers	O	B-pers.ind	O	O	O	Q1165640	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+2	O	O	O	O	O	O	_	_	_
+P	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+10	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Deltour	B-pers	O	B-pers.ind	O	O	O	Q39522783	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Belgien	B-loc	O	B-loc.adm.nat	O	O	O	Q31	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+1	O	O	O	O	O	O	_	_	_
+P	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Gesamtlelassement	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Bergpreises	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+dritten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Etappe	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+1	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Valetti	B-pers	O	B-pers.ind	O	O	O	Q722278	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+20	O	O	O	O	O	O	_	_	_
+Punkte	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+2	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+acquo	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Del	B-pers	O	B-pers.ind	O	O	O	Q1056822	_	_
+Cancia	I-pers	O	I-pers.ind	O	O	O	Q1056822	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Italicn	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Fimmermann	B-pers	O	B-pers.ind	O	O	O	Q1386692	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+16	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Punkte	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+4	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+acquo	O	O	O	O	O	O	_	_	_
+Canavesi	B-pers	O	B-pers.ind	O	O	O	Q3480824	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Deltour	B-pers	O	B-pers.ind	O	O	O	Q39522783	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Belgien	B-loc	O	B-loc.adm.nat	O	O	O	Q31	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+13	O	O	O	O	O	O	_	_	_
+Punkte	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+6	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+acquo	O	O	O	O	O	O	_	_	_
+Egli	B-pers	O	B-pers.ind	O	O	O	Q166529	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nersch	B-pers	O	B-pers.ind	O	O	O	Q705242	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Luxemburg	B-loc	O	B-loc.adm.nat	O	O	O	Q32	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+10	O	O	O	O	O	O	_	_	_
+Punkte	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+8	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+acquo	O	O	O	O	O	O	_	_	_
+Litschi	B-pers	O	B-pers.ind	O	O	O	Q17180739	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+H	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Martin	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+9	O	O	O	O	O	O	_	_	_
+Punkte	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+10	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Maestranzi	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter|Normalized-7
+#¬	I-pers	O	I-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stranzi	I-pers	O	I-pers.ind	O	O	O	NIL	_	_|Commented
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	_
+8	O	O	O	O	O	O	_	_	_
+Punkte	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+11	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+ex	O	O	O	O	O	O	_	_	_
+acquo	O	O	O	O	O	O	_	_	_
+Umbenhauer	B-pers	O	B-pers.ind	O	O	O	Q1332003	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Deutschland	B-loc	O	B-loc.adm.nat	O	O	O	Q183	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Hartmann	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+7	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Punkte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

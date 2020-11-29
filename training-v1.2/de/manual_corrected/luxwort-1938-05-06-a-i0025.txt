@@ -1,0 +1,391 @@
+# language = de
+# newspaper = luxwort
+# date = 1938-05-06
+# document_id = luxwort-1938-05-06-a-i0025
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1954,4363,669,119/full/0/default.jpg
+Außenpolitischer	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/2103,4468,373,115/full/0/default.jpg
+Nachtrag	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1905,4586,802,55/full/0/default.jpg
+London	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+5	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Mai	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+König	B-pers	O	B-pers.ind	O	B-comp.title	O	Q280856	_	_
+Georg	I-pers	O	I-pers.ind	O	B-comp.name	O	Q280856	_	_
+VI	I-pers	O	I-pers.ind	O	B-comp.title	O	Q280856	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q280856	_	_
+empfing	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1866,4637,842,44/full/0/default.jpg
+am	O	O	O	O	O	O	_	_	_
+Donnerstag	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Buckinghampalast	B-loc	O	B-loc.fac	O	O	O	Q42182	_	_
+ben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1866,4680,840,42/full/0/default.jpg
+neuen	B-pers	O	B-pers.ind	O	B-comp.qualifier	O	Q213954	_	_
+deutschen	I-pers	O	I-pers.ind	O	B-comp.function	O	Q213954	_	_
+Botschafter	I-pers	O	I-pers.ind	O	I-comp.function	O	Q213954	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q213954	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	Q213954	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q213954	_	_
+Herbert	I-pers	O	I-pers.ind	O	B-comp.name	O	Q213954	_	_
+von	I-pers	O	I-pers.ind	O	I-comp.name	O	Q213954	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1864,4716,842,57/full/0/default.jpg
+Dirksen	I-pers	O	I-pers.ind	O	I-comp.name	O	Q213954	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+Beglaubigungsschreiben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1866,4758,841,50/full/0/default.jpg
+unb	O	O	O	O	O	O	_	_	_
+bas	O	O	O	O	O	O	_	_	_
+Abberufungsschreiben	O	O	O	O	O	O	_	_	_
+bes	O	O	O	O	O	O	_	_	_
+früher	B-pers	O	B-pers.ind	O	B-comp.qualifier	O	Q101886	_	NoSpaceAfter
+«	I-pers	O	I-pers.ind	O	I-comp.qualifier	O	Q101886	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1864,4802,826,57/full/0/default.jpg
+beutschen	I-pers	O	I-pers.ind	O	B-comp.function	O	Q101886	_	_
+Botschafters	I-pers	O	I-pers.ind	O	I-comp.function	O	Q101886	_	_
+von	I-pers	O	I-pers.ind	O	O	O	Q101886	_	_
+Ribbentrop	I-pers	O	I-pers.ind	O	B-comp.name	O	Q101886	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1864,4844,843,58/full/0/default.jpg
+überreichte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Außenminister	B-pers	O	B-pers.ind	O	B-comp.function	O	Q333426	_	_
+Lorb	I-pers	O	I-pers.ind	O	B-comp.title	O	Q333426	_	_
+Halifax	I-pers	O	I-pers.ind	O	B-comp.name	O	Q333426	_	_
+wohnte	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1866,4888,841,50/full/0/default.jpg
+bem	O	O	O	O	O	O	_	_	_
+Empfang	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Weiter	O	O	O	O	O	O	_	_	_
+empfing	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+König	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1866,4939,840,43/full/0/default.jpg
+am	O	O	O	O	O	O	_	_	_
+Donnerstag	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+neuen	O	O	O	O	O	O	_	_	_
+ungarischen	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1866,4974,822,50/full/0/default.jpg
+ben	O	O	O	O	O	O	_	_	_
+neuen	O	O	O	O	O	O	_	_	_
+bolivianischen	O	O	O	O	O	O	_	_	_
+Gesandten	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1864,5017,804,57/full/0/default.jpg
+Entgegennahme	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Beglaubigungsschreiben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1907,5059,777,57/full/0/default.jpg
+Berlin	B-loc	O	B-loc.adm.town	O	O	O	Q64	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+4	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Mai	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+B	B-org	O	B-org.ent.pressagency	O	O	O	NIL	_	NoSpaceAfter
+.	I-org	O	I-org.ent.pressagency	O	O	O	NIL	_	_
+N	I-org	O	I-org.ent.pressagency	O	O	O	NIL	_	NoSpaceAfter
+.	I-org	O	I-org.ent.pressagency	O	O	O	NIL	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Unter	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1869,5104,835,51/full/0/default.jpg
+Kandidaten	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+neu	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+besetzenden	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1867,5147,838,58/full/0/default.jpg
+Botschafter	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Posten	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Rom	B-loc	O	B-loc.adm.town	O	O	O	Q220	_	_
+figuriert	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1867,5191,838,58/full/0/default.jpg
+französische	B-pers	O	B-pers.ind	O	B-comp.function	O	Q518576	_	_
+Botschafter	I-pers	O	I-pers.ind	O	I-comp.function	O	Q518576	_	_
+in	I-pers	O	I-pers.ind	O	I-comp.function	O	Q518576	_	_
+Berlin	I-pers	O	I-pers.ind	O	I-comp.function	B-loc.adm.town	Q518576	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q518576	_	_
+Franyois	I-pers	O	I-pers.ind	O	B-comp.name	O	Q518576	_	NoSpaceAfter
+-	I-pers	O	I-pers.ind	O	I-comp.name	O	Q518576	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1867,5233,838,57/full/0/default.jpg
+Poncet	I-pers	O	I-pers.ind	O	I-comp.name	O	Q518576	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+erster	O	O	O	O	O	O	_	_	_
+Stelle	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Eine	O	O	O	O	O	O	_	_	_
+Entscheidung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1868,5277,836,53/full/0/default.jpg
+darüber	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+kaum	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+Ende	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1868,5320,268,51/full/0/default.jpg
+Monats	O	O	O	O	O	O	_	_	_
+fallen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1905,5363,802,58/full/0/default.jpg
+Jerusalem	B-loc	O	B-loc.adm.town	O	O	O	Q1218	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+5	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Mai	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Durch	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Verordnung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1866,5407,821,49/full/0/default.jpg
+des	O	O	O	O	O	O	_	_	_
+Oberkommissars	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1867,5449,839,58/full/0/default.jpg
+Einwanderungskontingent	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+Juden	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+April	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1866,5493,841,50/full/0/default.jpg
+bis	O	O	O	O	O	O	_	_	_
+September	O	O	O	O	O	O	_	_	_
+festgesetzt	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Gegenüber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1866,5535,842,50/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	_
+Periode	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zahl	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+200N	O	O	O	O	O	O	_	_	_
+Per	O	O	O	O	O	O	_	_	NoSpaceAfter
+»	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1866,5578,488,56/full/0/default.jpg
+sonen	O	O	O	O	O	O	_	_	_
+herabgesetzt	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1905,5620,803,57/full/0/default.jpg
+Haifa	B-loc	O	B-loc.adm.town	O	O	O	Q41621	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+5	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Mai	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+arabische	B-pers	O	B-pers.ind	O	B-comp.demonym	O	NIL	_	_
+Terrorist	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	_
+Mu	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+»	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1867,5664,840,57/full/0/default.jpg
+stapha	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+Hindanyeh	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+wurde	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Mittwoch	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1866,5708,802,56/full/0/default.jpg
+Gefängnis	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Et	B-loc	O	B-loc.adm.town	O	O	O	Q126084	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.town	O	O	O	Q126084	_	NoSpaceAfter
+Iean	I-loc	O	I-loc.adm.town	O	O	O	Q126084	_	_
+d	I-loc	O	I-loc.adm.town	O	O	O	Q126084	_	NoSpaceAfter
+'	I-loc	O	I-loc.adm.town	O	O	O	Q126084	_	NoSpaceAfter
+Acre	I-loc	O	I-loc.adm.town	O	O	O	Q126084	_	_
+hingerichtet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1909,5750,795,56/full/0/default.jpg
+Warschau	B-loc	O	B-loc.adm.town	O	O	O	Q270	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+4	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Mai	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Hanas	B-org	O	B-org.ent.pressagency	O	O	O	Q516033	_	NoSpaceAfter
+.	I-org	O	I-org.ent.pressagency	O	O	O	Q516033	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+General	B-pers	O	B-pers.ind	O	B-comp.title	O	Q9342427	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1872,5793,833,58/full/0/default.jpg
+Kwasniewski	I-pers	O	I-pers.ind	O	B-comp.name	O	Q9342427	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q9342427	_	_
+Präsident	I-pers	O	I-pers.ind	O	B-comp.function	O	Q9342427	_	_
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	Q9342427	_	_
+Liga	I-pers	O	I-pers.ind	O	I-comp.function	B-org.ent	Q9342427	_	_
+für	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q9342427	_	_
+eine	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q9342427	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1870,5837,834,58/full/0/default.jpg
+Kolonialmarine	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q9342427	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+erklärte	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Ansprache	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1870,5889,835,42/full/0/default.jpg
+vor	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Danziger	O	O	O	O	O	O	_	_	_
+polnischen	O	O	O	O	O	O	_	_	_
+Kolonie	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1872,5923,814,60/full/0/default.jpg
+Anlaß	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+3	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Mai	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+a	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Danzig	B-loc	O	B-loc.adm.town	O	O	O	Q1792	_	_
+kann	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1870,5967,835,60/full/0/default.jpg
+unmöglich	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Polen	B-loc	O	B-loc.adm.nat	O	O	O	Q36	_	_
+abgetrennt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wir	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1870,6010,835,57/full/0/default.jpg
+sind	O	O	O	O	O	O	_	_	_
+entschlossen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Weichselmündung	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1870,6054,835,58/full/0/default.jpg
+unserer	O	O	O	O	O	O	_	_	_
+ganzen	O	O	O	O	O	O	_	_	_
+Kraft	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+verteidigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+denn	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1872,6099,833,51/full/0/default.jpg
+das	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+unser	O	O	O	O	O	O	_	_	_
+Land	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Frage	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1872,6142,172,56/full/0/default.jpg
+Existenz	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+"	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/1911,6185,776,58/full/0/default.jpg
+Nwshln	B-loc	O	B-loc.adm.town	O	O	O	Q61	_	NoSpaceAfter
+^	I-loc	O	I-loc.adm.town	O	O	O	Q61	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.town	O	O	O	Q61	_	NoSpaceAfter
+"	I-loc	O	I-loc.adm.town	O	O	O	Q61	_	NoSpaceAfter
+'	I-loc	O	I-loc.adm.town	O	O	O	Q61	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+'	O	O	O	O	O	O	_	_	_
+V	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+F	B-org	O	B-org.ent.pressagency	O	O	O	NIL	_	NoSpaceAfter
+>	I-org	O	I-org.ent.pressagency	O	O	O	NIL	_	NoSpaceAfter
+,	I-org	O	I-org.ent.pressagency	O	O	O	NIL	_	NoSpaceAfter
+"	I-org	O	I-org.ent.pressagency	O	O	O	NIL	_	NoSpaceAfter
+,	I-org	O	I-org.ent.pressagency	O	O	O	NIL	_	NoSpaceAfter
+!	I-org	O	I-org.ent.pressagency	O	O	O	NIL	_	NoSpaceAfter
+nm	I-org	O	I-org.ent.pressagency	O	O	O	NIL	_	NoSpaceAfter
+>	I-org	O	I-org.ent.pressagency	O	O	O	NIL	_	NoSpaceAfter
+r	I-org	O	I-org.ent.pressagency	O	O	O	NIL	_	NoSpaceAfter
+.	I-org	O	I-org.ent.pressagency	O	O	O	NIL	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/2770,178,810,56/full/0/default.jpg
+Staatssekretär	B-pers	O	B-pers.ind	O	B-comp.function	O	Q202979	_	_
+Cordell	I-pers	O	I-pers.ind	O	B-comp.name	O	Q202979	_	_
+Hüll	I-pers	O	I-pers.ind	O	I-comp.name	O	Q202979	_	_
+hatte	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+längere	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/2770,220,829,58/full/0/default.jpg
+Besprechung	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+bem	O	O	O	O	O	O	_	_	_
+Chef	B-pers	O	B-pers.ind	O	B-comp.function	O	Q433328	_	_
+bes	I-pers	O	I-pers.ind	O	I-comp.function	O	Q433328	_	_
+amerikanischen	I-pers	O	I-pers.ind	O	I-comp.function	B-org.ent	Q433328	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/2770,264,829,49/full/0/default.jpg
+Komitees	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q433328	_	_
+für	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q433328	_	_
+inbustrielle	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q433328	_	_
+Organisation	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q433328	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q433328	_	_
+John	I-pers	O	I-pers.ind	O	B-comp.name	O	Q433328	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/2770,307,829,50/full/0/default.jpg
+Lewis	I-pers	O	I-pers.ind	O	I-comp.name	O	Q433328	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Besprechung	O	O	O	O	O	O	_	_	_
+bezog	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/2770,349,807,57/full/0/default.jpg
+Abschluß	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+englisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+amerikanischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjkbhm%2fpages%2f6/3514,352,63,56/full/0/default.jpg
+Hanbelsabkomme	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+
+

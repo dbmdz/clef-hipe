@@ -1,0 +1,1118 @@
+# language = de
+# newspaper = NZZ
+# date = 1878-08-18
+# document_id = NZZ-1878-08-18-a-p0002
+# segment_iiif_link = _
+Handel	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Verkehr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Ergebnisse	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+dießjährigen	O	O	O	O	O	O	_	_	_
+Ernte	O	O	O	O	O	O	_	_	_
+verschiedener	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eurspäischer	O	O	O	O	O	O	_	_	_
+Getreideländer	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Getreideernte	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Hauptproduktionsländern	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ländern	O	O	O	O	O	O	_	_	_|Commented
+nunmehr	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+beendigt	O	O	O	O	O	O	_	_	_
+betrachtet	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+läßt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+bereits	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+ziemlich	O	O	O	O	O	O	_	_	_
+richtiger	O	O	O	O	O	O	_	_	_
+Schluß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Resultate	O	O	O	O	O	O	_	_	_
+derselben	O	O	O	O	O	O	_	_	_
+ziehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aus	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+verschiedenen	O	O	O	O	O	O	_	_	_
+Gebieten	O	O	O	O	O	O	_	_	_
+eingelaufenen	O	O	O	O	O	O	_	_	_
+Berichte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#richte	O	O	O	O	O	O	_	_	_|Commented
+zusammenstellt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+einander	O	O	O	O	O	O	_	_	_
+abwägt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Im	O	O	O	O	O	O	_	_	_
+Allgemeinen	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+konstatiren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+daß	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Gesammtergebniß	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+europäischen	O	O	O	O	O	O	_	_	_
+Ernten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hinter	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+gehegten	O	O	O	O	O	O	_	_	_
+Erwartungen	O	O	O	O	O	O	_	_	_
+zurückgeblieben	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+denn	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Durchschnitt	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+dasselbe	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+mittelmäßig	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mäßig	O	O	O	O	O	O	_	_	_|Commented
+ausgefallen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Vielleicht	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Oesterreich	B-loc	O	B-loc.adm.nat	O	O	O	Q28513	_	NoSpaceAfter|Normalized-5
+#¬	I-loc	O	I-loc.adm.nat	O	O	O	Q28513	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#reich	I-loc	O	I-loc.adm.nat	O	O	O	Q28513	_	NoSpaceAfter|Commented
+-	I-loc	O	I-loc.adm.nat	O	O	O	Q28513	_	NoSpaceAfter
+Ungarn	I-loc	O	I-loc.adm.nat	O	O	O	Q28513	_	_
+haben	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Ernten	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+10	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+jährigen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Durchschnitt	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+geringe	O	O	O	O	O	O	_	_	_
+Prozentsätze	O	O	O	O	O	O	_	_	_
+überholt	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+anderen	O	O	O	O	O	O	_	_	_
+Ländern	O	O	O	O	O	O	_	_	_
+dagegen	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Ergebniß	O	O	O	O	O	O	_	_	_
+weit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+unter	O	O	O	O	O	O	_	_	_
+demselben	O	O	O	O	O	O	_	_	_
+geblieben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Was	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+ziemlich	O	O	O	O	O	O	_	_	_
+befriedigende	O	O	O	O	O	O	_	_	_
+Resultat	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+österreichischungarischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ungarischen	O	O	O	O	O	O	_	_	_|Commented
+Ernten	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+quantitativer	O	O	O	O	O	O	_	_	_
+Beziehung	O	O	O	O	O	O	_	_	_
+berichten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#richten	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+leider	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+schlechtere	O	O	O	O	O	O	_	_	_
+Qualität	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tät	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Produkte	O	O	O	O	O	O	_	_	_
+paralysirt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Folge	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+während	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Erntearbeiten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Ausdrusches	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eingetretenen	O	O	O	O	O	O	_	_	_
+lange	O	O	O	O	O	O	_	_	_
+andauernden	O	O	O	O	O	O	_	_	_
+Regenwetters	O	O	O	O	O	O	_	_	_
+bedeutend	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#deutend	O	O	O	O	O	O	_	_	_|Commented
+gelitten	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+In	O	O	O	O	O	O	_	_	_
+Süddeutschland	B-loc	O	B-loc.adm.reg	O	O	O	Q46519	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+namentlich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Bayern	B-loc	O	B-loc.adm.reg	O	O	O	Q980	_	NoSpaceAfter|Normalized-3
+#¬	I-loc	O	I-loc.adm.reg	O	O	O	Q980	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ern	I-loc	O	I-loc.adm.reg	O	O	O	Q980	_	_|Commented
+hat	O	O	O	O	O	O	_	_	_
+zwar	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Weizen	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+häufige	O	O	O	O	O	O	_	_	_
+Gewitterregen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#regen	O	O	O	O	O	O	_	_	_|Commented
+hie	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+gleichfalls	O	O	O	O	O	O	_	_	_
+Schaden	O	O	O	O	O	O	_	_	_
+genommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+allein	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Wesentlichen	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Ernte	O	O	O	O	O	O	_	_	_
+gut	O	O	O	O	O	O	_	_	_
+eingebracht	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bracht	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Gesammterträgniß	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+gute	O	O	O	O	O	O	_	_	_
+Mittelernte	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+bezeichnet	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+Norddeutschland	B-loc	O	B-loc.adm.reg	O	O	O	Q46613	_	NoSpaceAfter|Normalized-11
+#¬	I-loc	O	I-loc.adm.reg	O	O	O	Q46613	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#deutschland	I-loc	O	I-loc.adm.reg	O	O	O	Q46613	_	_|Commented
+ist	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Roggenernte	O	O	O	O	O	O	_	_	_
+zufrieden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#frieden	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Weizen	O	O	O	O	O	O	_	_	_
+steht	O	O	O	O	O	O	_	_	_
+jedoch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+manchen	O	O	O	O	O	O	_	_	_
+Gegenden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#genden	O	O	O	O	O	O	_	_	_|Commented
+noch	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Halme	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Wetter	O	O	O	O	O	O	_	_	_
+abhängen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ob	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Hoffnungen	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Mittelernte	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+alterirt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Aus	O	O	O	O	O	O	_	_	_
+Frankreich	B-loc	O	B-loc.adm.nat	O	O	O	Q70802	_	_
+lauten	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Nachrichten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+weniger	O	O	O	O	O	O	_	_	_
+befriedigend	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+nordöstlichen	O	O	O	O	O	O	_	_	_
+Departements	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#partements	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+Roggen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Hauptfaktor	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+man	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	_
+mißrathene	O	O	O	O	O	O	_	_	_
+Roggenernte	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+beklagen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+fast	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+ganze	O	O	O	O	O	O	_	_	_
+Bedarf	O	O	O	O	O	O	_	_	_
+muß	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Auslande	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bezogen	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Allein	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Weizenernte	O	O	O	O	O	O	_	_	_
+ergab	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gab	O	O	O	O	O	O	_	_	_|Commented
+im	O	O	O	O	O	O	_	_	_
+ganzen	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Ertrag	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+zirka	O	O	O	O	O	O	_	_	_
+95	O	O	O	O	O	O	_	_	_
+Millionen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lionen	O	O	O	O	O	O	_	_	_|Commented
+Hektolitern	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+hinreicht	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+eigenen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bedarf	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+decken	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Export	O	O	O	O	O	O	_	_	_
+also	O	O	O	O	O	O	_	_	_
+gar	O	O	O	O	O	O	_	_	_
+nichts	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+übrig	O	O	O	O	O	O	_	_	_
+läßt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Auch	O	O	O	O	O	O	_	_	_
+Rußland	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q34266	Q34266	_
+hat	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Dürre	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+welcher	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+wichtigsten	O	O	O	O	O	O	_	_	_
+Gouvernements	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+lange	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+heimgesucht	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+namhaftes	O	O	O	O	O	O	_	_	_
+Defizit	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Gesammtresultate	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+verzeichnen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+letztere	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+stellt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+keinesfalls	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Ertrag	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+10	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+jährigen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rigen	O	O	O	O	O	O	_	_	_|Commented
+Durchschnittes	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Aus	O	O	O	O	O	O	_	_	_
+diesen	O	O	O	O	O	O	_	_	_
+Berichten	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+wichtigsten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Produktionsländern	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+namentlich	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Getreideversorgung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	_
+von	O	O	O	O	O	O	_	_	_
+Bedeutung	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sollte	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+schließen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Export	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Ungarn	B-loc	O	B-loc.adm.nat	O	O	O	Q171150	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bei	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+quantitativ	O	O	O	O	O	O	_	_	_
+besseren	O	O	O	O	O	O	_	_	_
+Resultate	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+dortigen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dießjährigen	O	O	O	O	O	O	_	_	_
+Ernten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Folge	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Umstandes	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+daß	O	O	O	O	O	O	_	_	_
+Frankreich	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q70802	Q70802	_
+statt	O	O	O	O	O	O	_	_	_
+exportiren	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Marseiller	O	O	O	O	O	O	_	_	_
+Docks	O	O	O	O	O	O	_	_	_
+liegenden	O	O	O	O	O	O	_	_	_
+Vorräthe	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+russischem	O	O	O	O	O	O	_	_	_
+Getreide	O	O	O	O	O	O	_	_	_
+angewiesen	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+besten	O	O	O	O	O	O	_	_	_
+Chancen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#cen	O	O	O	O	O	O	_	_	_|Commented
+hätte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Allein	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+oben	O	O	O	O	O	O	_	_	_
+gesagt	O	O	O	O	O	O	_	_	_
+hält	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+theilweise	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#weise	O	O	O	O	O	O	_	_	_|Commented
+mindere	O	O	O	O	O	O	_	_	_
+Oualität	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+neuen	O	O	O	O	O	O	_	_	_
+Waare	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+größeren	O	O	O	O	O	O	_	_	_
+Quantität	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Gegengewicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+noch	O	O	O	O	O	O	_	_	_
+große	O	O	O	O	O	O	_	_	_
+Bestände	O	O	O	O	O	O	_	_	_
+alter	O	O	O	O	O	O	_	_	_
+russischer	O	O	O	O	O	O	_	_	_
+Waare	O	O	O	O	O	O	_	_	_
+vorhanden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#handen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Beendigung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+russisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+türkischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kischen	O	O	O	O	O	O	_	_	_|Commented
+Krieges	O	O	O	O	O	O	_	_	_
+exportfähig	O	O	O	O	O	O	_	_	_
+geworden	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ihren	O	O	O	O	O	O	_	_	_
+Weg	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	_
+Häfen	O	O	O	O	O	O	_	_	_
+nehmen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+endlich	O	O	O	O	O	O	_	_	_
+engen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+schwankenden	O	O	O	O	O	O	_	_	_
+Valutasätze	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+höheren	O	O	O	O	O	O	_	_	_
+Frachtraten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+österreichisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+ungarischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Transportanstalten	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Exportverkehr	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	_
+fühlbar	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Konjunktur	O	O	O	O	O	O	_	_	_
+drängt	O	O	O	O	O	O	_	_	_
+daher	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+billige	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Preise	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+billigere	O	O	O	O	O	O	_	_	_
+Frachtsätze	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Beziehung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ziehung	O	O	O	O	O	O	_	_	_|Commented
+hat	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+nennenswerthe	O	O	O	O	O	O	_	_	_
+Anstrengungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gungen	O	O	O	O	O	O	_	_	_|Commented
+gemacht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+ermäßigte	O	O	O	O	O	O	_	_	_
+Tarife	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+Getreidefrachten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-14
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#treidefrachten	O	O	O	O	O	O	_	_	_|Commented
+herbeizuführen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+dieß	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einzige	O	O	O	O	O	O	_	_	_
+Mittel	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welches	O	O	O	O	O	O	_	_	_
+Ungarn	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q171150	Q171150	_
+befähigen	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Konkurrenzstreit	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Rußland	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q34266	Q34266	_
+und	O	O	O	O	O	O	_	_	_
+Amerika	B-loc	B-org	B-loc.adm.sup	B-org.adm	O	O	Q30	Q30	_
+ferner	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+fortzusetzen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+bereits	O	O	O	O	O	O	_	_	_
+gewonnenes	O	O	O	O	O	O	_	_	_
+Absatz	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Exportterrain	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+namentlich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q39	Q39	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+verlieren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Eine	O	O	O	O	O	O	_	_	_
+zweite	O	O	O	O	O	O	_	_	_
+Erwägung	O	O	O	O	O	O	_	_	_
+drängt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Betrachtung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tung	O	O	O	O	O	O	_	_	_|Commented
+dieser	O	O	O	O	O	O	_	_	_
+Erntenachrichten	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nämlich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+es	O	O	O	O	O	O	_	_	_
+komme	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+trotz	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+mittelmäßigen	O	O	O	O	O	O	_	_	_
+Ertrages	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#trages	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Ernten	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Getreidepreise	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+nirgends	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gends	O	O	O	O	O	O	_	_	_|Commented
+steigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+überallher	O	O	O	O	O	O	_	_	_
+anhaltende	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tende	O	O	O	O	O	O	_	_	_|Commented
+Geschäftsflauheit	O	O	O	O	O	O	_	_	_
+gemeldet	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mehrere	O	O	O	O	O	O	_	_	_
+Faktoren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Erscheinung	O	O	O	O	O	O	_	_	_
+bewirken	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Hauptsächlich	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Ernte	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Nordamerika	B-loc	O	B-loc.adm.sup	O	O	O	Q49	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ein	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+Erwartung	O	O	O	O	O	O	_	_	_
+günstiges	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+reichliches	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#liches	O	O	O	O	O	O	_	_	_|Commented
+Ergebniß	O	O	O	O	O	O	_	_	_
+lieferte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+dorther	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+außerordentlicher	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ordentlicher	O	O	O	O	O	O	_	_	_|Commented
+Export	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+zwar	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+niedrigen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Preisen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+erwarten	O	O	O	O	O	O	_	_	_
+steht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Rother	O	O	O	O	O	O	_	_	_
+Frühlingsweizen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zen	O	O	O	O	O	O	_	_	_|Commented
+z	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+B	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+New	B-loc	O	B-loc.adm.town	O	O	O	Q60	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.town	O	O	O	Q60	_	NoSpaceAfter
+York	I-loc	O	I-loc.adm.town	O	O	O	Q60	_	_
+Ende	O	O	O	O	O	O	_	_	_
+April	O	O	O	O	O	O	_	_	_
+138	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+stand	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+112	O	O	O	O	O	O	_	_	_
+notirt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Preisabschlag	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schlag	O	O	O	O	O	O	_	_	_|Commented
+wird	O	O	O	O	O	O	_	_	_
+wahrscheinlich	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+weitere	O	O	O	O	O	O	_	_	_
+Fortschritte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+machen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Zweitens	O	O	O	O	O	O	_	_	_
+lagern	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Marseille	B-loc	O	B-loc.adm.town	O	O	O	Q23482	_	_
+und	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+anderen	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	_
+Häfen	O	O	O	O	O	O	_	_	_
+Unmassen	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Waare	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+Marseille	B-loc	O	B-loc.adm.town	O	O	O	Q23482	_	_
+allein	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Vorrath	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Docks	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+27	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+April	O	O	O	O	O	O	_	_	_
+10,932	O	O	O	O	O	O	_	_	_
+metr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Zentner	O	O	O	O	O	O	_	_	_
+betrug	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bis	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+10	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+d	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Mts	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+487,318	O	O	O	O	O	O	_	_	_
+metrische	O	O	O	O	O	O	_	_	_
+Zentner	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ner	O	O	O	O	O	O	_	_	_|Commented
+angewachsen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+also	O	O	O	O	O	O	_	_	_
+fast	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Fünfzigfache	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zigfache	O	O	O	O	O	O	_	_	_|Commented
+vermehrt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ferner	O	O	O	O	O	O	_	_	_
+gleichen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+seit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+letzten	O	O	O	O	O	O	_	_	_
+Friedensschlusse	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+flott	O	O	O	O	O	O	_	_	_
+gewordenen	O	O	O	O	O	O	_	_	_
+Vorräthe	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#räthe	O	O	O	O	O	O	_	_	_|Commented
+an	O	O	O	O	O	O	_	_	_
+alter	O	O	O	O	O	O	_	_	_
+Waare	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+russischen	O	O	O	O	O	O	_	_	_
+Häfen	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Defizit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+heurigen	O	O	O	O	O	O	_	_	_
+Ernte	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Rußland	B-loc	O	B-loc.adm.nat	O	O	O	Q34266	_	_
+so	O	O	O	O	O	O	_	_	_
+ziemlich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aus	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+fließen	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Westen	B-loc	O	B-loc.adm.sup	O	O	O	Q27496	_	_
+Europa	I-loc	O	I-loc.adm.sup	O	O	O	Q27496	_	NoSpaceAfter
+'	I-loc	O	I-loc.adm.sup	O	O	O	Q27496	_	NoSpaceAfter
+s	I-loc	O	I-loc.adm.sup	O	O	O	Q27496	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ab	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+fühlbaren	O	O	O	O	O	O	_	_	_
+Druck	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Märkte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Frankreich	B-loc	O	B-loc.adm.nat	O	O	O	Q70802	_	NoSpaceAfter
+'	I-loc	O	I-loc.adm.nat	O	O	O	Q70802	_	NoSpaceAfter
+s	I-loc	O	I-loc.adm.nat	O	O	O	Q70802	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	_
+und	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+südlichen	B-loc	O	B-loc.adm.nat	O	O	O	Q46519	_	_
+Deutschlands	I-loc	O	I-loc.adm.nat	O	O	O	Q46519	_	NoSpaceAfter|Normalized-5
+#¬	I-loc	O	I-loc.adm.nat	O	O	O	Q46519	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lands	I-loc	O	I-loc.adm.nat	O	O	O	Q46519	_	_|Commented
+ausüben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Rechnet	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+hinzu	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+letztere	O	O	O	O	O	O	_	_	_
+kaum	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Lage	O	O	O	O	O	O	_	_	_
+kommen	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+diesem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Jahre	O	O	O	O	O	O	_	_	_
+allzu	O	O	O	O	O	O	_	_	_
+namhafte	O	O	O	O	O	O	_	_	_
+Quantitäten	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Getreide	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vom	O	O	O	O	O	O	_	_	_
+Auslande	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+beziehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+leicht	O	O	O	O	O	O	_	_	_
+erklärlich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#klärlich	O	O	O	O	O	O	_	_	_|Commented
+finden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+warum	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Konsum	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+zurückhaltend	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#haltend	O	O	O	O	O	O	_	_	_|Commented
+ist	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+weshalb	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+fast	O	O	O	O	O	O	_	_	_
+unmöglich	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ergiebige	O	O	O	O	O	O	_	_	_
+Preisbesserung	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+erzielen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Ueber	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+letztere	O	O	O	O	O	O	_	_	_
+Frage	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nämlich	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Ursachen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sachen	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+niedrigen	O	O	O	O	O	O	_	_	_
+Getreidepreise	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Flauheit	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#heit	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Märkte	O	O	O	O	O	O	_	_	_
+behalten	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+uns	O	O	O	O	O	O	_	_	_
+übrigens	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+nächsten	O	O	O	O	O	O	_	_	_
+Artikel	O	O	O	O	O	O	_	_	_
+uns	O	O	O	O	O	O	_	_	_
+eingehender	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+verbreiten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

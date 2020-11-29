@@ -1,0 +1,705 @@
+# language = de
+# newspaper = NZZ
+# date = 1888-10-15
+# document_id = NZZ-1888-10-15-b-p0001
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Gseihefeier	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Stäfa	B-loc	O	B-loc.adm.town	O	O	O	Q69774	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Stäfa	B-loc	O	B-loc.adm.town	O	O	O	Q69774	_	_
+hat	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	_
+Sonntag	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+ebenso	O	O	O	O	O	O	_	_	_
+seltenes	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+erhebendes	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#hebendes	O	O	O	O	O	O	_	_	_|Commented
+Fest	O	O	O	O	O	O	_	_	_
+gefeiert	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Zur	O	O	O	O	O	O	_	_	_
+Erinnerung	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Weimarer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dichterfürsten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+im	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+Herbste	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1797	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+den	O	O	O	O	O	O	_	_	_
+freundlich	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+idyllischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schen	O	O	O	O	O	O	_	_	_|Commented
+Ort	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Zürchersee	B-loc	O	B-loc.phys.hydro	O	O	O	Q14407	_	_
+zu	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+mehrwöchentlichen	O	O	O	O	O	O	_	_	_
+Aufenthalte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#enthalte	O	O	O	O	O	O	_	_	_|Commented
+erkoren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Gedenktafel	O	O	O	O	O	O	_	_	_
+enthüllt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+damit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wieder	O	O	O	O	O	O	_	_	_
+einmal	O	O	O	O	O	O	_	_	_
+Goethes	B-pers	O	B-pers.ind	O	O	O	Q5879	_	_
+Wort	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Tasso	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	_
+ant	O	O	O	O	O	O	_	_	_
+enge	O	O	O	O	O	O	_	_	_
+ente	O	O	O	O	O	O	_	_	_
+erich	O	O	O	O	O	O	_	_	_
+rn	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Ist	O	O	O	O	O	O	_	_	_
+eingeweiht	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+nach	O	O	O	O	O	O	_	_	_
+hundert	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	_
+klingt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sein	O	O	O	O	O	O	_	_	_
+Wort	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+That	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Enkel	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zur	O	O	O	O	O	O	_	_	_
+vollen	O	O	O	O	O	O	_	_	_
+Wahrheit	O	O	O	O	O	O	_	_	_
+geworden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Es	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+sehr	O	O	O	O	O	O	_	_	_
+regnichter	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+Morgen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+gerade	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+am	B-time	O	B-time.date.abs	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+14	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+Oktober	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1797	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Goethe	B-pers	O	B-pers.ind	O	O	O	Q5879	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Stäfener	O	O	O	O	O	O	_	_	_
+Eindrücke	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#drücke	O	O	O	O	O	O	_	_	_|Commented
+an	O	O	O	O	O	O	_	_	_
+Schiller	B-pers	O	B-pers.ind	O	O	O	Q22670	_	_
+berichtete	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Aber	O	O	O	O	O	O	_	_	_
+trotz	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+unfreundlichen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lichen	O	O	O	O	O	O	_	_	_|Commented
+Spätherbststimmung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+See	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Gebirge	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+lagerte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+schöne	O	O	O	O	O	O	_	_	_
+Zahl	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Verehrern	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dichters	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Behörden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Gelehrte	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Litteraten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Mitglieder	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+Komites	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Spinner	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Weber	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Zwirnervereins	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Lesegesellschaft	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Turnvereins	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+s	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+w	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+beim	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Rößli	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+Stäfa	B-loc	O	B-loc.adm.town	O	O	O	Q69774	_	_
+eingefunden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Vormittags	O	O	O	O	O	O	_	_	_
+11	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Uhr	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Begleitung	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Musik	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Fahnen	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Oberhausen	B-loc	O	B-loc.adm.town	O	O	O	NIL	_	NoSpaceAfter|Normalized-6
+#¬	I-loc	O	I-loc.adm.town	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#hausen	I-loc	O	I-loc.adm.town	O	O	O	NIL	_	NoSpaceAfter|Commented
+"	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+marschiren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+alte	B-loc	O	B-loc.fac	O	O	O	NIL	_	_
+Krone	I-loc	O	I-loc.fac	O	O	O	NIL	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+steht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+alte	O	O	O	O	O	O	_	_	_
+Haus	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Feststaat	O	O	O	O	O	O	_	_	_
+geworfen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Bunte	O	O	O	O	O	O	_	_	_
+Fahnen	O	O	O	O	O	O	_	_	_
+flatterten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Kränze	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+grünem	O	O	O	O	O	O	_	_	_
+Laubwerk	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+Blumen	O	O	O	O	O	O	_	_	_
+schmückten	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Fenster	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+dichtgedrängt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schauten	O	O	O	O	O	O	_	_	_
+neugierige	O	O	O	O	O	O	_	_	_
+Köpfe	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Szene	O	O	O	O	O	O	_	_	_
+herab	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Straße	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+abspielen	O	O	O	O	O	O	_	_	_
+sollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Diese	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einer	O	O	O	O	O	O	_	_	_
+Unzahl	O	O	O	O	O	O	_	_	_
+Neugieriger	O	O	O	O	O	O	_	_	_
+belagert	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Vor	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Hause	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eine	O	O	O	O	O	O	_	_	_
+Rednerbühne	O	O	O	O	O	O	_	_	_
+errichtet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Goethes	B-pers	O	B-pers.ind	O	O	O	Q5879	_	_
+Büste	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bronzirtem	O	O	O	O	O	O	_	_	_
+Gyps	O	O	O	O	O	O	_	_	_
+weithin	O	O	O	O	O	O	_	_	_
+leuchtete	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sobald	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Zug	O	O	O	O	O	O	_	_	_
+Halt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gemacht	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Halbkreis	O	O	O	O	O	O	_	_	_
+gebildet	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Männerchor	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einen	O	O	O	O	O	O	_	_	_
+weihevollen	O	O	O	O	O	O	_	_	_
+Gesang	O	O	O	O	O	O	_	_	_
+vorgetragen	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+betrat	O	O	O	O	O	O	_	_	_
+Herr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q16061129	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Widmer	I-pers	O	I-pers.ind	O	B-comp.name	O	Q16061129	_	NoSpaceAfter
+-	I-pers	O	I-pers.ind	O	I-comp.name	O	Q16061129	_	NoSpaceAfter
+Heußer	I-pers	O	I-pers.ind	O	I-comp.name	O	Q16061129	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q16061129	_	_
+Kantonsrath	I-pers	O	I-pers.ind	O	B-comp.function	O	Q16061129	_	_
+und	I-pers	O	I-pers.ind	O	O	O	Q16061129	_	_
+Präsident	I-pers	O	I-pers.ind	O	B-comp.function	O	Q16061129	_	_
+des	I-pers	O	I-pers.ind	O	I-comp.function	O	Q16061129	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schweizerischen	I-pers	O	I-pers.ind	O	I-comp.function	B-org.ent	Q16061129	_	_
+Spinner	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q16061129	_	NoSpaceAfter
+-	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q16061129	_	_
+und	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q16061129	_	_
+Webervereins	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q16061129	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q16061129	_	_
+die	O	O	O	O	O	O	_	_	_
+Tribüne	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+setzte	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+gediegener	O	O	O	O	O	O	_	_	_
+Rede	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Bedeutung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Anlasses	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auseinander	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+gilt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sagte	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Akt	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Pietät	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vollziehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Genius	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Huldigung	O	O	O	O	O	O	_	_	_
+darzubringen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+am	O	O	O	O	O	O	_	_	_
+Himmel	O	O	O	O	O	O	_	_	_
+menschlicher	O	O	O	O	O	O	_	_	_
+Bildung	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Stern	O	O	O	O	O	O	_	_	_
+erster	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Größe	O	O	O	O	O	O	_	_	_
+leuchtet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Andenken	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+Goethe	B-pers	O	B-pers.ind	O	O	O	Q5879	_	_
+aufzufrischen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+diesem	O	O	O	O	O	O	_	_	_
+Hause	O	O	O	O	O	O	_	_	_
+vier	O	O	O	O	O	O	_	_	_
+Wochen	O	O	O	O	O	O	_	_	_
+gewohnt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Berg	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Thal	O	O	O	O	O	O	_	_	_
+durchstreift	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Land	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Leute	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+persönlichem	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lichem	O	O	O	O	O	O	_	_	_|Commented
+Umgang	O	O	O	O	O	O	_	_	_
+kennen	O	O	O	O	O	O	_	_	_
+gelernt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+Eindrücke	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Erfahrungen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+groß	O	O	O	O	O	O	_	_	_
+angelegten	O	O	O	O	O	O	_	_	_
+Romane	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Wilhelm	B-pers	O	B-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Meister	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+verarbeitet	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Verdienst	O	O	O	O	O	O	_	_	_
+Friedrich	B-pers	O	B-pers.ind	O	O	O	Q55677944	_	_
+Bertheau	I-pers	O	I-pers.ind	O	O	O	Q55677944	_	NoSpaceAfter
+'	I-pers	O	I-pers.ind	O	O	O	Q55677944	_	NoSpaceAfter
+s	I-pers	O	I-pers.ind	O	O	O	Q55677944	_	_
+in	O	O	O	O	O	O	_	_	_
+Rapperswyl	B-loc	O	B-loc.adm.town	O	O	O	Q688539	_	NoSpaceAfter|Normalized-3
+#¬	I-loc	O	I-loc.adm.town	O	O	O	Q688539	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wyl	I-loc	O	I-loc.adm.town	O	O	O	Q688539	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Schilderung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Baumwollenindustrie	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+diesem	O	O	O	O	O	O	_	_	_
+Roman	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+helles	O	O	O	O	O	O	_	_	_
+Licht	O	O	O	O	O	O	_	_	_
+verbreitet	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+Goethe	B-pers	O	B-pers.ind	O	O	O	Q5879	_	_
+selbst	O	O	O	O	O	O	_	_	_
+geschriebener	O	O	O	O	O	O	_	_	_
+Brief	O	O	O	O	O	O	_	_	_
+bestätigt	O	O	O	O	O	O	_	_	_
+Bertheau	B-pers	O	B-pers.ind	O	O	O	Q55677944	_	NoSpaceAfter
+'	I-pers	O	I-pers.ind	O	O	O	Q55677944	_	NoSpaceAfter
+s	I-pers	O	I-pers.ind	O	O	O	Q55677944	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Konjektur	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+der	O	O	O	O	O	O	_	_	_
+Dichter	O	O	O	O	O	O	_	_	_
+dankt	O	O	O	O	O	O	_	_	_
+darin	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Adressaten	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Ergänzung	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+Notizen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+Ort	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Stelle	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+über	O	O	O	O	O	O	_	_	_
+jene	O	O	O	O	O	O	_	_	_
+Industrie	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+gemacht	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+Redner	O	O	O	O	O	O	_	_	_
+kam	O	O	O	O	O	O	_	_	_
+sodann	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Entwickelung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Baumwollenindustrie	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Goethe	B-pers	O	B-pers.ind	O	O	O	Q5879	_	NoSpaceAfter
+'	I-pers	O	I-pers.ind	O	O	O	Q5879	_	NoSpaceAfter
+s	I-pers	O	I-pers.ind	O	O	O	Q5879	_	_
+Tagen	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+unsere	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Zeit	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+sprechen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+hob	O	O	O	O	O	O	_	_	_
+insbesondere	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Stellung	O	O	O	O	O	O	_	_	_
+hervor	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#vor	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Stäfa	B-loc	O	B-loc.adm.town	O	O	O	Q69774	_	_
+seit	O	O	O	O	O	O	_	_	_
+jeher	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Ausbildung	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Pflege	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dieser	O	O	O	O	O	O	_	_	_
+Industrie	O	O	O	O	O	O	_	_	_
+eingenommen	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Aus	O	O	O	O	O	O	_	_	_
+Dankbarkeit	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Dichter	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+jene	O	O	O	O	O	O	_	_	_
+Industrie	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+anschaulich	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+meisterlich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lich	O	O	O	O	O	O	_	_	_|Commented
+geschildert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Denkmal	O	O	O	O	O	O	_	_	_
+gesetzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Nun	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Hülle	O	O	O	O	O	O	_	_	_
+weggezogen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+während	O	O	O	O	O	O	_	_	_
+dröhnende	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Böllerschüsse	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Moment	O	O	O	O	O	O	_	_	_
+verkündeten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Gedenktafel	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Kranz	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+frischen	O	O	O	O	O	O	_	_	_
+Stechpalmblättern	O	O	O	O	O	O	_	_	_
+eingerahmt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rahmt	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+sichtbar	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+besteht	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+schwarzen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Marmorplatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+hübsch	O	O	O	O	O	O	_	_	_
+modellirten	O	O	O	O	O	O	_	_	_
+Einrahmung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aus	O	O	O	O	O	O	_	_	_
+weißem	O	O	O	O	O	O	_	_	_
+Marmor	O	O	O	O	O	O	_	_	_
+eingefaßt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+trägt	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+goldenen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Buchstaben	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+einfache	O	O	O	O	O	O	_	_	_
+historische	O	O	O	O	O	O	_	_	_
+Notiz	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Hier	O	O	O	O	O	O	_	_	_
+wohnte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Goethe	B-pers	O	B-pers.ind	O	O	O	Q5879	_	_
+im	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+Herbst	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1797	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Vor	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+enthüllten	O	O	O	O	O	O	_	_	_
+Denkmal	O	O	O	O	O	O	_	_	_
+fügte	O	O	O	O	O	O	_	_	_
+Herr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q16061129	_	_
+Widmer	I-pers	O	I-pers.ind	O	B-comp.name	O	Q16061129	_	NoSpaceAfter
+#¬	I-pers	O	I-pers.ind	O	I-comp.name	O	Q16061129	_	EndOfLine|NoSpaceAfter|Commented
+
+

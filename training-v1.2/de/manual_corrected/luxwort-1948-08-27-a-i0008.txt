@@ -1,0 +1,719 @@
+# language = de
+# newspaper = luxwort
+# date = 1948-08-27
+# document_id = luxwort-1948-08-27-a-i0008
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/205,2971,1170,108/full/0/default.jpg
+Steigende	O	O	O	O	O	O	_	_	_
+Produktionsquote	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/470,3062,624,92/full/0/default.jpg
+Westdeutschland	B-loc	O	B-loc.adm.nat	O	O	O	Q713750	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/81,3181,690,40/full/0/default.jpg
+»	O	O	O	O	O	O	_	_	_
+Frankfurt	B-loc	O	B-loc.adm.town	O	O	O	Q1794	_	_
+a	I-loc	O	I-loc.adm.town	O	O	O	Q1794	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.town	O	O	O	Q1794	_	_
+M	I-loc	O	I-loc.adm.town	O	O	O	Q1794	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.town	O	O	O	Q1794	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+27	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+August	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+AP	B-org	O	B-org.ent.pressagency	O	O	O	Q40469	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/83,3209,690,48/full/0/default.jpg
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+wirtschaftliche	O	O	O	O	O	O	_	_	_
+Lage	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bi	B-loc	O	B-loc.adm.reg	O	O	O	Q693911	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.reg	O	O	O	Q693911	_	NoSpaceAfter
+Zone	I-loc	O	I-loc.adm.reg	O	O	O	Q693911	_	_
+mache	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/82,3245,690,44/full/0/default.jpg
+rasche	O	O	O	O	O	O	_	_	_
+Fortschritte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+erklärte	O	O	O	O	O	O	_	_	_
+gestern	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/85,3281,687,48/full/0/default.jpg
+Direktor	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+J.E.I.A	I-pers	O	I-pers.ind	O	I-comp.function	B-org.ent	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+W	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+John	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+Logan	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/82,3316,691,44/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+ProdMktàomsquote	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/82,3352,691,50/full/0/default.jpg
+beiden	O	O	O	O	O	O	_	_	_
+Monaten	O	O	O	O	O	O	_	_	_
+stark	O	O	O	O	O	O	_	_	_
+angestiegen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/82,3388,691,53/full/0/default.jpg
+betrage	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	_
+60	O	O	O	O	O	O	_	_	_
+Prozent	O	O	O	O	O	O	_	_	_
+de	O	O	O	O	O	O	_	_	_
+s	O	O	O	O	O	O	_	_	_
+Standes	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/82,3431,675,38/full/0/default.jpg
+von	B-time	O	B-time.date.abs	O	O	O	Q18647	_	_
+1937	I-time	O	I-time.date.abs	O	O	O	Q18647	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Zwei	O	O	O	O	O	O	_	_	_
+Faktoren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+denen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/81,3461,693,48/full/0/default.jpg
+beginnende	O	O	O	O	O	O	_	_	_
+Aufschwung	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+verdanken	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/82,3497,691,51/full/0/default.jpg
+sei	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+seien	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Juni	O	O	O	O	O	O	_	_	_
+durchgeführte	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/81,3531,693,51/full/0/default.jpg
+Währungsreform	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Bemühungen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/81,3568,693,50/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+J.E.IA	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter
+.	I-org	O	I-org.ent	O	O	O	NIL	_	_
+um	O	O	O	O	O	O	_	_	_
+Belebung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/81,3604,692,48/full/0/default.jpg
+Einfuhr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Einfuhren	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Bi	B-loc	O	B-loc.adm.reg	O	O	O	Q693911	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.reg	O	O	O	Q693911	_	NoSpaceAfter
+Zone	I-loc	O	I-loc.adm.reg	O	O	O	Q693911	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,3640,692,47/full/0/default.jpg
+hätten	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+ersten	O	O	O	O	O	O	_	_	_
+sieben	O	O	O	O	O	O	_	_	_
+Monaten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,3676,674,49/full/0/default.jpg
+dieses	O	O	O	O	O	O	_	_	_
+Jahres	O	O	O	O	O	O	_	_	_
+282	O	O	O	O	O	O	_	_	_
+400	O	O	O	O	O	O	_	_	_
+000	O	O	O	O	O	O	_	_	_
+Dollar	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/81,3713,677,48/full/0/default.jpg
+damit	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+betragen	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+gesamten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,3748,194,48/full/0/default.jpg
+vorigen	O	O	O	O	O	O	_	_	_
+Jahr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/116,3791,639,49/full/0/default.jpg
+Brigadier	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+M	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+R	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+L	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+Robinson	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+ein	I-pers	O	I-pers.ind	O	O	O	NIL	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/81,3826,695,47/full/0/default.jpg
+Mitarbeiter	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	_
+von	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+Logan	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sagte	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+Presse	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+1	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/82,3865,670,50/full/0/default.jpg
+Vertretern	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Pläne	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/82,3898,692,50/full/0/default.jpg
+Zusammenfassung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Wirtschaft	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+französischen	B-loc	O	B-loc.adm.reg	O	O	O	Q55309	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/81,3935,692,48/full/0/default.jpg
+Zone	I-loc	O	I-loc.adm.reg	O	O	O	Q55309	_	_
+mit	O	O	O	O	O	O	_	_	_
+derjenigen	O	O	O	O	O	O	_	_	_
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+der	O	O	O	O	O	O	_	_	_
+britisch	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,3970,673,47/full/0/default.jpg
+amerikanisch	O	O	O	O	O	O	_	_	_
+besetzten	O	O	O	O	O	O	_	_	_
+Doppelzone	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4006,676,49/full/0/default.jpg
+würden	O	O	O	O	O	O	_	_	_
+vorangetrieben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auf	O	O	O	O	O	O	_	_	_
+Befragen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4041,693,51/full/0/default.jpg
+erklärte	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+seien	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+unerwarteten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4079,695,49/full/0/default.jpg
+Schwierigkeiten	O	O	O	O	O	O	_	_	_
+hierbei	O	O	O	O	O	O	_	_	_
+aufgetaucht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4115,695,51/full/0/default.jpg
+erinnerte	O	O	O	O	O	O	_	_	_
+daran	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Vereinigung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/81,4150,692,54/full/0/default.jpg
+Wirtschaftsverwaltungen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+britischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4187,694,45/full/0/default.jpg
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+amerikanischen	B-loc	O	B-loc.adm.reg	O	O	O	Q55304	_	_
+Zone	I-loc	O	I-loc.adm.reg	O	O	O	Q55304	_	_
+sogar	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4223,693,44/full/0/default.jpg
+nach	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+diesbezüglichen	O	O	O	O	O	O	_	_	_
+Beschluß	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4257,674,51/full/0/default.jpg
+einige	O	O	O	O	O	O	_	_	_
+Monate	O	O	O	O	O	O	_	_	_
+gedauert	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4294,694,48/full/0/default.jpg
+mutmaßlichen	O	O	O	O	O	O	_	_	_
+Zeitpunkt	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Anschluß	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4330,694,49/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Wirtschaft	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+französischen	B-loc	O	B-loc.adm.reg	O	O	O	Q55309	_	_
+Zone	I-loc	O	I-loc.adm.reg	O	O	O	Q55309	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4367,694,49/full/0/default.jpg
+nannte	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Beginn	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+nächsten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4403,115,47/full/0/default.jpg
+Jahres	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/116,4446,639,48/full/0/default.jpg
+Logan	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+nahm	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+falschen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4482,692,51/full/0/default.jpg
+Darstellungen	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Zusammenhang	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4517,693,45/full/0/default.jpg
+J.E.I.A	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter
+.	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Stellung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+verschiedenen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/81,4552,678,47/full/0/default.jpg
+Blättern	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+sowjetisch	B-prod	O	B-prod.media	O	B-comp.qualifier	O	Q10185	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4589,673,44/full/0/default.jpg
+lizenzierten	I-prod	O	I-prod.media	O	I-comp.qualifier	O	Q10185	_	_
+„	I-prod	O	I-prod.media	O	O	O	Q10185	_	NoSpaceAfter
+Berliner	I-prod	O	I-prod.media	O	B-comp.name	O	Q10185	_	_
+Zeitung	I-prod	O	I-prod.media	O	I-comp.name	O	Q10185	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4624,678,50/full/0/default.jpg
+amerikanischen	B-prod	O	B-prod.media	O	B-comp.demonym	O	Q164746	_	_
+„	I-prod	O	I-prod.media	O	O	O	Q164746	_	NoSpaceAfter
+Wall	I-prod	O	I-prod.media	O	B-comp.name	O	Q164746	_	_
+Street	I-prod	O	I-prod.media	O	I-comp.name	O	Q164746	_	_
+Journal	I-prod	O	I-prod.media	O	I-comp.name	O	Q164746	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4660,693,47/full/0/default.jpg
+erschienen	O	O	O	O	O	O	_	_	_
+seien	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Zu	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Behauptung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/82,4696,690,51/full/0/default.jpg
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Berliner	B-prod	O	B-prod.media	O	B-comp.demonym	O	Q10185	_	_
+Zeitung	I-prod	O	I-prod.media	O	O	O	Q10185	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+J.E	B-org	O	B-org.ent	O	O	O	NIL	_	_
+I.A	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+.	I-org	O	I-org.ent	O	O	O	NIL	_	_
+habe	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4731,675,45/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+Bi	B-loc	O	B-loc.adm.reg	O	O	O	Q693911	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.reg	O	O	O	Q693911	_	NoSpaceAfter
+Zone	I-loc	O	I-loc.adm.reg	O	O	O	Q693911	_	_
+in	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Zwangsjacke	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4768,691,53/full/0/default.jpg
+gesteckt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Vereinigten	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q30	Q30	_
+-	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q30	Q30	_
+Staaten	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q30	Q30	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4803,690,49/full/0/default.jpg
+Profite	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+verschaffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sagte	O	O	O	O	O	O	_	_	_
+Logan	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/81,4839,690,53/full/0/default.jpg
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Alle	O	O	O	O	O	O	_	_	_
+Erlöse	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Bi	B-loc	O	B-loc.adm.reg	O	O	O	Q693911	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.reg	O	O	O	Q693911	_	NoSpaceAfter
+Zonen	I-loc	O	I-loc.adm.reg	O	O	O	Q693911	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Exporten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4875,692,49/full/0/default.jpg
+wurden	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+Importe	O	O	O	O	O	O	_	_	_
+verwandt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Darüber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4908,691,49/full/0/default.jpg
+hinaus	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Vereinigten	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q30	Q30	_
+Staaten	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q30	Q30	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4948,674,44/full/0/default.jpg
+etwa	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	NoSpaceAfter
+«	O	O	O	O	O	O	_	_	_
+Milliarde	O	O	O	O	O	O	_	_	_
+Dollar	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,4981,676,48/full/0/default.jpg
+Lebensimiiitteleinfuhren	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Deutschland	B-loc	O	B-loc.adm.nat	O	O	O	Q183	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,5019,692,48/full/0/default.jpg
+ausgeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wie	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Profiten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,5054,410,47/full/0/default.jpg
+für	O	O	O	O	O	O	_	_	_
+Amerika	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q30	Q30	_
+sprechen	O	O	O	O	O	O	_	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+"	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/79,5109,673,49/full/0/default.jpg
+Klarstellung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/147,5143,556,49/full/0/default.jpg
+Militärregierung	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Borsig	B-org	O	B-org.ent	O	O	O	Q161544	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Demontage	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/111,5189,640,47/full/0/default.jpg
+Berlin	B-loc	O	B-loc.adm.town	O	O	O	Q64	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+27	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+August	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+AP	B-org	O	B-org.ent.pressagency	O	O	O	Q40469	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wegen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/79,5225,694,44/full/0/default.jpg
+ungenauer	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+absichtlich	O	O	O	O	O	O	_	_	_
+irreführender	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/79,5255,693,51/full/0/default.jpg
+Pressemeldungen	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Ausplünderung	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/79,5292,694,48/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Rheinmetall	B-org	O	B-org.ent	O	O	O	Q161544	_	NoSpaceAfter
+-	I-org	O	I-org.ent	O	O	O	Q161544	_	NoSpaceAfter
+Borsigwerke	I-org	O	I-org.ent	O	O	O	Q161544	_	Partial--12:6
+in	O	O	O	O	O	O	_	_	_
+Berlin	B-loc	O	B-loc.adm.town	O	O	O	Q64	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/79,5328,676,48/full/0/default.jpg
+seitens	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/79,5365,693,49/full/0/default.jpg
+Besetzungstruppen	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Meldungen	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/79,5401,677,49/full/0/default.jpg
+sowjetisch	O	O	O	O	O	O	_	_	_
+lizenzierten	O	O	O	O	O	O	_	_	_
+Presse	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/79,5443,694,37/full/0/default.jpg
+erschienen	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+veröffentlicht	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+französische	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/79,5472,674,51/full/0/default.jpg
+Militärregierung	O	O	O	O	O	O	_	_	_
+folgende	O	O	O	O	O	O	_	_	_
+Klarstellung	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/113,5514,658,48/full/0/default.jpg
+1	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Bevor	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	_
+Behörden	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/76,5550,695,50/full/0/default.jpg
+ihren	O	O	O	O	O	O	_	_	_
+Sektor	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Berlin	B-loc	O	B-loc.adm.town	O	O	O	Q64	_	_
+übernahmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/77,5593,677,41/full/0/default.jpg
+war	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+sowjetischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/76,5623,678,50/full/0/default.jpg
+Besatzungstruppen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+größere	O	O	O	O	O	O	_	_	_
+Teil	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/77,5659,694,51/full/0/default.jpg
+Maschinenparks	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+heißt	O	O	O	O	O	O	_	_	_
+rund	O	O	O	O	O	O	_	_	_
+2000	O	O	O	O	O	O	_	_	_
+Maschinen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/79,5694,693,51/full/0/default.jpg
+eigenmächtig	O	O	O	O	O	O	_	_	_
+bereits	O	O	O	O	O	O	_	_	_
+demontiert	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/77,5731,407,48/full/0/default.jpg
+abtransportiert	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/114,5767,641,49/full/0/default.jpg
+2	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Vor	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Ausschul	O	O	O	O	O	O	_	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	_|EOS
+
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/77,5804,694,49/full/0/default.jpg
+Liquidierung	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Rüstungsmaterial	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/77,5839,695,47/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+Rheinmetall	B-org	O	B-org.ent	O	O	O	Q161544	_	NoSpaceAfter
+-	I-org	O	I-org.ent	O	O	O	Q161544	_	NoSpaceAfter
+Borsigwerke	I-org	O	I-org.ent	O	O	O	Q161544	_	Partial--12:6
+am	B-time	O	B-time.date.abs	O	O	O	Q69277928	_	_
+15	I-time	O	I-time.date.abs	O	O	O	Q69277928	_	NoSpaceAfter
+.	I-time	O	I-time.date.abs	O	O	O	Q69277928	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/79,5876,677,45/full/0/default.jpg
+Juni	I-time	O	I-time.date.abs	O	O	O	Q69277928	_	_
+1947	I-time	O	I-time.date.abs	O	O	O	Q69277928	_	_
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Vertretern	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/79,5911,694,51/full/0/default.jpg
+Sowjetunion	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q15180	Q15180	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Englands	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q21	Q21	_
+und	O	O	O	O	O	O	_	_	_
+Frankreichs	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q142	Q142	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/79,5946,694,45/full/0/default.jpg
+als	O	O	O	O	O	O	_	_	_
+Rüstungsbetrieb	O	O	O	O	O	O	_	_	_
+bezeichnet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Diese	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/79,5982,693,51/full/0/default.jpg
+Entscheidung	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+am	B-time	O	B-time.date.abs	O	O	O	Q69277991	_	_
+29	I-time	O	I-time.date.abs	O	O	O	Q69277991	_	NoSpaceAfter
+.	I-time	O	I-time.date.abs	O	O	O	Q69277991	_	_
+Juli	I-time	O	I-time.date.abs	O	O	O	Q69277991	_	_
+1947	I-time	O	I-time.date.abs	O	O	O	Q69277991	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/77,6026,695,40/full/0/default.jpg
+vom	O	O	O	O	O	O	_	_	_
+Koordinierungs	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Ausschuß	O	O	O	O	O	O	_	_	_
+bestätigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/116,6056,659,50/full/0/default.jpg
+3	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+In	O	O	O	O	O	O	_	_	_
+Erfüllung	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Beschlusses	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/80,6092,674,47/full/0/default.jpg
+wurde	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+verantwortlichen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/82,6129,693,50/full/0/default.jpg
+sowjetischen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+amerikanischen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+britischen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/807,3174,692,48/full/0/default.jpg
+französischen	O	O	O	O	O	O	_	_	_
+Behörden	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Borsigwerke	B-org	O	B-org.ent	O	O	O	Q161544	_	EndOfLine|Partial-0:6
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/809,3213,527,45/full/0/default.jpg
+als	O	O	O	O	O	O	_	_	_
+reparationspfliahtig	O	O	O	O	O	O	_	_	_
+erklärt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/843,3250,637,44/full/0/default.jpg
+4	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nach	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Bestimmungen	O	O	O	O	O	O	_	_	_
+dUese	O	O	O	O	O	O	_	_	_
+s	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/809,3285,672,45/full/0/default.jpg
+Beschlusses	O	O	O	O	O	O	_	_	_
+verteilte	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+interalliierte	B-org	O	B-org.adm	O	O	O	NIL	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/809,3320,671,51/full/0/default.jpg
+Repairatdonsbehörde	I-org	O	I-org.adm	O	O	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	_
+Brüssel	B-loc	O	B-loc.adm.town	O	O	O	Q239	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+IARA	B-org	O	B-org.adm	O	O	O	NIL	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/810,3356,689,47/full/0/default.jpg
+Geräte	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Betriebes	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Anzahl	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/810,3400,670,41/full/0/default.jpg
+von	O	O	O	O	O	O	_	_	_
+Mitgliedstaalten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Vereinten	B-org	O	B-org.adm	O	O	O	Q1065	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/809,3428,690,47/full/0/default.jpg
+Nationen	I-org	O	I-org.adm	O	O	O	Q1065	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ausgenommen	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+dabei	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/809,3464,672,45/full/0/default.jpg
+elektrische	O	O	O	O	O	O	_	_	_
+Kraftwerk	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/809,3500,674,49/full/0/default.jpg
+Ersuchen	O	O	O	O	O	O	_	_	_
+Frankreichs	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q142	Q142	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/810,3537,392,48/full/0/default.jpg
+Reparationsliste	O	O	O	O	O	O	_	_	_
+gestrichen	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/843,3572,656,44/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+Mehrzahl	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Maschinen	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/807,3607,692,48/full/0/default.jpg
+den	O	O	O	O	O	O	_	_	_
+Staaten	O	O	O	O	O	O	_	_	_
+Mittel	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Ost	B-loc	O	B-loc.adm.sup	O	O	O	Q27468	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.sup	O	O	O	Q27468	_	NoSpaceAfter
+Europas	I-loc	O	I-loc.adm.sup	O	O	O	Q27468	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/807,3643,694,44/full/0/default.jpg
+auf	O	O	O	O	O	O	_	_	_
+deren	O	O	O	O	O	O	_	_	_
+Bitten	O	O	O	O	O	O	_	_	_
+hin	O	O	O	O	O	O	_	_	_
+zugesprochein	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/807,3679,676,44/full/0/default.jpg
+allem	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Tschechoslowakei	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q33946	Q33946	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/810,3715,690,50/full/0/default.jpg
+Jugoslawien	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q36704	Q36704	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Frankreich	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q142	Q142	_
+erhielt	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+1800	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fmjcbnb%2fpages%2f2/810,3751,324,48/full/0/default.jpg
+Maschinen	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+100	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+
+

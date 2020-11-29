@@ -1,0 +1,1458 @@
+# language = de
+# newspaper = NZZ
+# date = 1948-02-24
+# document_id = NZZ-1948-02-24-a-p0002
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Krise	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Tschechoslowakei	B-loc	O	B-loc.adm.nat	O	O	O	Q33946	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Alen	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+eneten	O	O	O	O	O	O	_	_	_
+aie	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Aufdeckung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einer	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Verschwörung	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Prag	B-loc	O	B-loc.adm.town	O	O	O	Q1085	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+24	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Febr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Exchange	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Kommunistische	B-pers	O	B-pers.ind	O	B-comp.qualifier	O	Q281631	_	NoSpaceAfter|Normalized-9
+#¬	I-pers	O	I-pers.ind	O	I-comp.qualifier	O	Q281631	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nistische	I-pers	O	I-pers.ind	O	I-comp.qualifier	O	Q281631	_	_|Commented
+Innenminister	I-pers	O	I-pers.ind	O	O	O	Q281631	_	_
+Nosek	I-pers	O	I-pers.ind	O	B-comp.name	O	Q281631	_	_
+veröktentliehte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+am	O	O	O	O	O	O	_	_	_
+Montagabend	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Communiqué	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mitteilte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Anzahl	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Veskaftungen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hätten	O	O	O	O	O	O	_	_	_
+vorgenommen	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+müssen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+Unternehmungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ternehmungen	O	O	O	O	O	O	_	_	_|Commented
+gegen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Sieherheit	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Staates	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+geplant	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+seien	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Unter	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Verhaktéten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+befänden	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+zwei	O	O	O	O	O	O	_	_	_
+Offiziere	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+tschechoslowalcischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-16
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#choslowalcischen	O	O	O	O	O	O	_	_	_|Commented
+Heeres	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Hauptmann	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+Max	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Teichman	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+und	O	O	O	O	O	O	_	_	_
+Hauptmann	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+Jaroslav	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Nemecek	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Das	O	O	O	O	O	O	_	_	_
+Communiqué	O	O	O	O	O	O	_	_	_
+fügt	O	O	O	O	O	O	_	_	_
+hinzu	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dals	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+militärlscher	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rlscher	O	O	O	O	O	O	_	_	_|Commented
+Putseh	O	O	O	O	O	O	_	_	_
+vorbereitet	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Das	O	O	O	O	O	O	_	_	_
+tschechoslowalcische	O	O	O	O	O	O	_	_	_
+Ionenministerium	O	O	O	O	O	O	_	_	_
+meldet	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#det	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+dank	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+getroffenen	O	O	O	O	O	O	_	_	_
+Sicherheitsmalnahmen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nahmen	O	O	O	O	O	O	_	_	_|Commented
+die	O	O	O	O	O	O	_	_	_
+Ruhe	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Ordnung	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+diesen	O	O	O	O	O	O	_	_	_
+Tagen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Regierungslerise	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+ganzen	O	O	O	O	O	O	_	_	_
+Gebiet	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Tschechosloualei	B-loc	O	B-loc.adm.nat	O	O	O	Q33946	_	_
+nicht	O	O	O	O	O	O	_	_	_
+gestört	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+seien	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ordnung	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	_
+aufrechterhalten	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Landesverteidigungsministerimn	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Innenmihisterium	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mihisterium	O	O	O	O	O	O	_	_	_|Commented
+die	O	O	O	O	O	O	_	_	_
+Drahtsicher	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+bewakkneten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Staatsstreiches	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+volkssozialistischen	O	O	O	O	O	O	_	_	_
+Organisationen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nisationen	O	O	O	O	O	O	_	_	_|Commented
+geführt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+sollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Absicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Regierungsgewalt	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+reiben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+rechtseitig	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tig	O	O	O	O	O	O	_	_	_|Commented
+aufgedeckt	O	O	O	O	O	O	_	_	_
+hatten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Pläne	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Aktion	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+seien	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+allen	O	O	O	O	O	O	_	_	_
+Einzelheiten	O	O	O	O	O	O	_	_	_
+ausgearbeitet	O	O	O	O	O	O	_	_	_
+gewesen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sie	O	O	O	O	O	O	_	_	_
+umfalten	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Kontrolle	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Garnisonen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Armee	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+nationalen	O	O	O	O	O	O	_	_	_
+Sicherheitsdienstes	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Beschlagnahme	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Wakken	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+zivilen	O	O	O	O	O	O	_	_	_
+Verteidigungs	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gungs	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+-	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Schutzorganisation	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Begrenzung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+tschechoslowalcischen	O	O	O	O	O	O	_	_	_
+Sendegebändes	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dokumente	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mente	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+12	B-loc	O	B-loc.adm.town	O	O	O	Q3490843	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.town	O	O	O	Q3490843	_	_
+Distrikt	I-loc	O	I-loc.adm.town	O	O	O	Q3490843	_	_
+Prags	I-loc	O	I-loc.adm.town	O	O	O	Q3490843	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Radiostation	O	O	O	O	O	O	_	_	_
+befindet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aufgefunden	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+enthielten	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+detaillierten	O	O	O	O	O	O	_	_	_
+Plan	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+vorgeschenen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schenen	O	O	O	O	O	O	_	_	_|Commented
+Malnahmen	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Besetrung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Radiogebäudes	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gebäudes	O	O	O	O	O	O	_	_	_|Commented
+oder	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Zerstörung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+wichtigsten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Radioapparatur	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Falle	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+Miblingens	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Anschlages	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schlages	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Teilnehmer	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Komplotts	O	O	O	O	O	O	_	_	_
+hütten	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+21	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Februar	O	O	O	O	O	O	_	_	_
+alarmbereit	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+sollen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+Bericht	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Innenministeriums	O	O	O	O	O	O	_	_	_
+erkclärt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Nacht	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Montag	O	O	O	O	O	O	_	_	_
+dokumentarisehe	O	O	O	O	O	O	_	_	_
+Beweise	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#weise	O	O	O	O	O	O	_	_	_|Commented
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Hände	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Sicherheitsorganisation	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gekallen	O	O	O	O	O	O	_	_	_
+seien	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+helles	O	O	O	O	O	O	_	_	_
+licht	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Breignisse	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nisse	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+letsten	O	O	O	O	O	O	_	_	_
+Tage	O	O	O	O	O	O	_	_	_
+geworken	O	O	O	O	O	O	_	_	_
+hätten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+beiden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+verhakteten	O	O	O	O	O	O	_	_	_
+Okkiziere	O	O	O	O	O	O	_	_	_
+seien	O	O	O	O	O	O	_	_	_
+beide	O	O	O	O	O	O	_	_	_
+Mitglieder	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Volkessozialistischen	B-org	O	B-org.ent	O	O	O	Q341111	_	_
+Partei	I-org	O	I-org.ent	O	O	O	Q341111	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dokumente	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+innen	O	O	O	O	O	O	_	_	_
+gekunden	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+seien	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hütten	O	O	O	O	O	O	_	_	_
+gereigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+belde	O	O	O	O	O	O	_	_	_
+Spionage	O	O	O	O	O	O	_	_	_
+betrieben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+geeigneten	O	O	O	O	O	O	_	_	_
+Augenbliek	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bliek	O	O	O	O	O	O	_	_	_|Commented
+eine	O	O	O	O	O	O	_	_	_
+staatskeindliche	O	O	O	O	O	O	_	_	_
+Aktion	O	O	O	O	O	O	_	_	_
+ausxulösen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einen	O	O	O	O	O	O	_	_	_
+Bruderkerieg	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+entkachen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Sieherheitsorgane	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#organe	O	O	O	O	O	O	_	_	_|Commented
+hütten	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+weitere	O	O	O	O	O	O	_	_	_
+Dokumente	O	O	O	O	O	O	_	_	_
+besehlagnahmt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nahmt	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Publikum	O	O	O	O	O	O	_	_	_
+unterrichtet	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+solle	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sobald	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Verlauf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Untersuchung	O	O	O	O	O	O	_	_	_
+weitere	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Mitteilungen	O	O	O	O	O	O	_	_	_
+rechtfertigen	O	O	O	O	O	O	_	_	_
+werde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Haussuschung	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Sitze	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vollessosialistischen	B-org	O	B-org.ent	O	O	O	Q341111	_	_
+Partel	I-org	O	I-org.ent	O	O	O	Q341111	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Prag	B-loc	O	B-loc.adm.town	O	O	O	Q1085	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+23	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Pebr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+ag	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+4FP	B-org	O	B-org.ent.pressagency	O	O	O	Q40464	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Montagnachmittag	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nachmittag	O	O	O	O	O	O	_	_	_|Commented
+von	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+groben	O	O	O	O	O	O	_	_	_
+Polixeiaukgebot	O	O	O	O	O	O	_	_	_
+vorgenommene	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#genommene	O	O	O	O	O	O	_	_	_|Commented
+Haussuchung	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Sitze	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Tschechoslowalcisehen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-13
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#slowalcisehen	O	O	O	O	O	O	_	_	_|Commented
+Volkessoxinlisten	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Beneseh	B-pers	O	B-pers.ind	O	O	O	Q152274	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Partei	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+war	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+Abend	O	O	O	O	O	O	_	_	_
+beendet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Funketionüre	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Partei	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Ballcon	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Gebündes	O	O	O	O	O	O	_	_	_
+erschienen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Menge	O	O	O	O	O	O	_	_	_
+mitteilten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Polisei	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Gebäude	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bäude	O	O	O	O	O	O	_	_	_|Commented
+verlassen	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+brachen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+zahlreichen	O	O	O	O	O	O	_	_	_
+Anwesendan	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wesendan	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+wührend	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Poliscinketion	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dem	O	O	O	O	O	O	_	_	_
+Platze	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Parteigebäude	O	O	O	O	O	O	_	_	_
+ungesummelt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hatten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Hochrute	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Prüsident	B-pers	O	B-pers.ind	O	B-comp.function	O	Q152274	_	_
+Benesch	I-pers	O	I-pers.ind	O	B-comp.name	O	Q152274	_	_
+aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Nuch	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+nieht	O	O	O	O	O	O	_	_	_
+bestätigten	O	O	O	O	O	O	_	_	_
+Meldung	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Polizei	O	O	O	O	O	O	_	_	_
+mehrere	O	O	O	O	O	O	_	_	_
+Funktionäre	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Partei	O	O	O	O	O	O	_	_	_
+verhaftet	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+s0	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Untersuchungsrichter	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Marianek	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Untersuchung	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Akkäre	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Attentates	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gegen	O	O	O	O	O	O	_	_	_
+drei	O	O	O	O	O	O	_	_	_
+Minister	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Aufdeckung	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+goheimen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#heimen	O	O	O	O	O	O	_	_	_|Commented
+Wakkenlagers	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+kommunistischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Abgeordneten	O	O	O	O	O	O	_	_	_
+durehgekührt	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ferner	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Prüsidenten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#denten	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Jugendgruppe	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Partei	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Mitglied	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#glied	O	O	O	O	O	O	_	_	_|Commented
+des	O	O	O	O	O	O	_	_	_
+Parteisekretariates	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Erlclürungen	O	O	O	O	O	O	_	_	_
+Gottwaldls	B-pers	O	B-pers.ind	O	O	O	Q296054	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+General	B-pers	O	B-pers.ind	O	B-comp.title	O	Q310000	_	_
+S	I-pers	O	I-pers.ind	O	O	O	Q310000	_	NoSpaceAfter
+»	I-pers	O	I-pers.ind	O	O	O	Q310000	_	NoSpaceAfter
+obodas	I-pers	O	I-pers.ind	O	B-comp.name	O	Q310000	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Prag	B-loc	O	B-loc.adm.town	O	O	O	Q1085	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+24	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Febr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+ag	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Reuter	B-org	O	B-org.ent.pressagency	O	O	O	Q130879	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Ministerprüsident	B-pers	O	B-pers.ind	O	B-comp.function	O	Q296054	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Goktuald	I-pers	O	I-pers.ind	O	B-comp.name	O	Q296054	_	_
+kührte	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Montagabend	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Versammlung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sammlung	O	O	O	O	O	O	_	_	_|Commented
+vor	O	O	O	O	O	O	_	_	_
+Vertretern	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Nationalen	O	O	O	O	O	O	_	_	_
+Orgunisutionen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sutionen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+"	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+politischen	O	O	O	O	O	O	_	_	_
+Parteien	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nüchsten	O	O	O	O	O	O	_	_	_
+Pugen	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+sogar	O	O	O	O	O	O	_	_	_
+Stunden	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+neue	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Reyierung	O	O	O	O	O	O	_	_	_
+gebildet	O	O	O	O	O	O	_	_	_
+werde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Ende	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Krise	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bodente	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+letsten	O	O	O	O	O	O	_	_	_
+48	O	O	O	O	O	O	_	_	_
+Stunden	O	O	O	O	O	O	_	_	_
+hütten	O	O	O	O	O	O	_	_	_
+sieh	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Standpunkt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+derjenige	O	O	O	O	O	O	_	_	_
+Beneschs	B-pers	O	B-pers.ind	O	O	O	Q152274	_	_
+genühert	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Er	O	O	O	O	O	O	_	_	_
+könne	O	O	O	O	O	O	_	_	_
+daher	O	O	O	O	O	O	_	_	_
+annehmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dass	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Prüsident	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Rüeksprache	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+politischen	O	O	O	O	O	O	_	_	_
+Führern	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ministerliste	O	O	O	O	O	O	_	_	_
+zustimme	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+vorlegze	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Gottwald	B-pers	O	B-pers.ind	O	O	O	Q296054	_	_
+betonte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dus	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Lösung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Krise	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auk	O	O	O	O	O	O	_	_	_
+demokratische	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+verkassungsmülige	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+parlamentarische	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mentarische	O	O	O	O	O	O	_	_	_|Commented
+Weise	O	O	O	O	O	O	_	_	_
+suehe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+doch	O	O	O	O	O	O	_	_	_
+könne	O	O	O	O	O	O	_	_	_
+keiner	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zurüekgetretenen	O	O	O	O	O	O	_	_	_
+Minister	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Kabinett	O	O	O	O	O	O	_	_	_
+zurüekkehren	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kehren	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+genüge	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+nieht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+einkach	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Personen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+weckseln	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Verhandlungen	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+gegenwürtigen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Parteiführen	O	O	O	O	O	O	_	_	_
+misse	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+ablehnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Krise	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hervorrieken	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+General	B-pers	O	B-pers.ind	O	B-comp.title	O	Q310000	_	_
+Swoboda	I-pers	O	I-pers.ind	O	B-comp.name	O	Q310000	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Parteiloser	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Verteidigungsministerium	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-21
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#teidigungsministerium	O	O	O	O	O	O	_	_	_|Commented
+leitet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+erklärte	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+gleichen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#chen	O	O	O	O	O	O	_	_	_|Commented
+Versammlung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+neue	O	O	O	O	O	O	_	_	_
+Verfassung	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Wahlen	O	O	O	O	O	O	_	_	_
+ausgearbeitet	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+misse	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+damit	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vettere	O	O	O	O	O	O	_	_	_
+Entwjeklung	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+festen	O	O	O	O	O	O	_	_	_
+Grundlagen	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+gehe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Tschechoslowakei	B-loc	O	B-loc.adm.nat	O	O	O	Q33946	_	_
+müsse	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+sowjetrussischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#russischen	O	O	O	O	O	O	_	_	_|Commented
+Verbündeten	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Treue	O	O	O	O	O	O	_	_	_
+halten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Freiheit	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#heit	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+Parlamentarismus	B-prod	O	B-prod.doctr	O	O	O	Q166747	_	_
+und	O	O	O	O	O	O	_	_	_
+Demokratie	O	O	O	O	O	O	_	_	_
+sowie	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Errungenschakten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Revolution	O	O	O	O	O	O	_	_	_
+wahren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Säuberung	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Agentur	B-org	O	B-org.ent.pressagency	O	O	O	NIL	_	_
+Cetelen	I-org	O	I-org.ent.pressagency	O	B-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Prag	B-loc	O	B-loc.adm.town	O	O	O	Q1085	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+23	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Febr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+ag	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+AFP	B-org	O	B-org.ent.pressagency	O	O	O	Q40464	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+In	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Erkenntnis	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+demolratische	O	O	O	O	O	O	_	_	_
+Volksrepublik	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Realetion	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tion	O	O	O	O	O	O	_	_	_|Commented
+im	O	O	O	O	O	O	_	_	_
+Innern	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Ausland	O	O	O	O	O	O	_	_	_
+bedroht	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+Personal	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+tschechoslowaischen	B-org	O	B-org.ent.pressagency	O	B-comp.demonym	O	NIL	_	_
+Nachrichtenagentur	I-org	O	I-org.ent.pressagency	O	O	O	NIL	_	NoSpaceAfter|Normalized-10
+#¬	I-org	O	I-org.ent.pressagency	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tenagentur	I-org	O	I-org.ent.pressagency	O	O	O	NIL	_	_|Commented
+„	I-org	O	I-org.ent.pressagency	O	O	O	NIL	_	NoSpaceAfter
+Ceteka	I-org	O	I-org.ent.pressagency	O	B-comp.name	O	NIL	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Aktionskomitee	B-org	O	B-org.ent	O	O	O	NIL	_	_
+der	I-org	O	I-org.ent	O	O	O	NIL	_	_
+wahren	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|Normalized-3
+#¬	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ren	I-org	O	I-org.ent	O	O	O	NIL	_	_|Commented
+nationalen	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Front	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+rur	O	O	O	O	O	O	_	_	_
+Unterstützung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ministerprüsidenten	B-pers	O	B-pers.ind	O	B-comp.function	O	Q296054	_	_
+Gottwald	I-pers	O	I-pers.ind	O	B-comp.name	O	Q296054	_	_
+gebildet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+Altionskomitee	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tionskomitee	O	O	O	O	O	O	_	_	_|Commented
+hat	O	O	O	O	O	O	_	_	_
+kerner	O	O	O	O	O	O	_	_	_
+beschlossen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Liste	O	O	O	O	O	O	_	_	_
+aller	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Angestellten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Mitarbeiter	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Agentur	B-org	O	B-org.ent.pressagency	O	O	O	Q341118	_	_
+Cetela	I-org	O	I-org.ent.pressagency	O	B-comp.name	O	Q341118	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+errichten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Vor	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Namen	O	O	O	O	O	O	_	_	_
+derjenigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+weigern	O	O	O	O	O	O	_	_	_
+sollten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Aktionskomitee	O	O	O	O	O	O	_	_	_
+beizutreten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+soll	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+entsprechender	O	O	O	O	O	O	_	_	_
+Vermerk	O	O	O	O	O	O	_	_	_
+angebracht	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#den	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+⁕	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Prag	B-loc	O	B-loc.adm.town	O	O	O	Q1085	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+23	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Pebr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+United	B-org	O	B-org.ent.pressagency	O	O	O	Q493845	_	_
+Press	I-org	O	I-org.ent.pressagency	O	O	O	Q493845	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Sozialdemokratische	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tische	O	O	O	O	O	O	_	_	_|Commented
+Politiker	O	O	O	O	O	O	_	_	_
+erklärten	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+nichtkommunistischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-15
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kommunistischen	O	O	O	O	O	O	_	_	_|Commented
+Ansager	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Nadiosenders	B-org	O	B-org.ent	O	O	O	Q1939322	_	_
+Prag	I-org	O	I-org.ent	O	O	B-loc.adm.town	Q1939322	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+entlassen	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+seien	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Haltung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Sozialdemokraten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Lösung	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Grundsälzen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+parlamentarischen	O	O	O	O	O	O	_	_	_
+Demolcratie	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Prag	B-loc	O	B-loc.adm.town	O	O	O	Q1085	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+24	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Pebr	O	O	O	O	O	O	_	_	_
+ag	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+AhP	B-org	O	B-org.ent.pressagency	O	O	O	Q40464	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+Das	O	O	O	O	O	O	_	_	_
+Direktionskomitee	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#komitee	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Tschechoslowakisehen	B-org	O	B-org.ent	O	O	O	Q341148	_	_
+Soziäldemokratischen	I-org	O	I-org.ent	O	O	O	Q341148	_	NoSpaceAfter|Normalized-10
+#¬	I-org	O	I-org.ent	O	O	O	Q341148	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kratischen	I-org	O	I-org.ent	O	O	O	Q341148	_	_|Commented
+Partei	I-org	O	I-org.ent	O	O	O	Q341148	_	_
+hat	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Verhandlungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Montag	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+ganzen	O	O	O	O	O	O	_	_	_
+Tag	O	O	O	O	O	O	_	_	_
+hindureh	O	O	O	O	O	O	_	_	_
+andnuerten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#dnuerten	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Besehlul	O	O	O	O	O	O	_	_	_
+gefalt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kommunistischen	O	O	O	O	O	O	_	_	_
+Partei	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Bespreckungen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+treten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+Komitee	O	O	O	O	O	O	_	_	_
+erklärt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dals	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kür	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Partei	O	O	O	O	O	O	_	_	_
+darum	O	O	O	O	O	O	_	_	_
+handle	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Lösung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Krise	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Grundsätzen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+parlamenkarischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#karischen	O	O	O	O	O	O	_	_	_|Commented
+Demokratie	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Basis	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nationalen	B-org	O	B-org.ent	O	O	O	NIL	_	_
+Front	I-org	O	I-org.ent	O	O	O	NIL	_	_
+der	O	O	O	O	O	O	_	_	_
+Tschechen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Slowaken	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ken	O	O	O	O	O	O	_	_	_|Commented
+zu	O	O	O	O	O	O	_	_	_
+finden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Es	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+kerner	O	O	O	O	O	O	_	_	_
+beschlossen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+später	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ansicht	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Partei	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Forderungen	O	O	O	O	O	O	_	_	_
+hekanntzugeben	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kanntzugeben	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Sonntag	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Delegierten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Arbeiterräte	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Fabriken	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aufgestellt	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Zu	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Aktionskomitees	B-org	O	B-org.ent	O	O	O	NIL	_	NoSpaceAfter|Normalized-8
+#¬	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#komitees	I-org	O	I-org.ent	O	O	O	NIL	_	_|Commented
+der	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Nationalen	I-org	O	I-org.ent	O	O	B-org.ent	NIL	_	_
+Front	I-org	O	I-org.ent	O	O	I-org.ent	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+ganzen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Land	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Grund	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+Appells	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Gewerkschakten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schakten	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+kommunistisehen	O	O	O	O	O	O	_	_	_
+Ministerpräsidenten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#präsidenten	O	O	O	O	O	O	_	_	_|Commented
+im	O	O	O	O	O	O	_	_	_
+Entstehen	O	O	O	O	O	O	_	_	_
+begrikfen	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wurde	O	O	O	O	O	O	_	_	_
+festgestellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Partei	O	O	O	O	O	O	_	_	_
+niehts	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Beitritt	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Parteimitgliedern	O	O	O	O	O	O	_	_	_
+einzuwenden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#den	O	O	O	O	O	O	_	_	_|Commented
+habe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+gewisse	O	O	O	O	O	O	_	_	_
+Voraussetzungen	O	O	O	O	O	O	_	_	_
+erfüllt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#füllt	O	O	O	O	O	O	_	_	_|Commented
+sind	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+lakalen	O	O	O	O	O	O	_	_	_
+Parteiorganisationen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tionen	O	O	O	O	O	O	_	_	_|Commented
+für	O	O	O	O	O	O	_	_	_
+solche	O	O	O	O	O	O	_	_	_
+Beitritte	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Austimmung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+geben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Vor	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Erkclärung	O	O	O	O	O	O	_	_	_
+Beneschs	B-pers	O	B-pers.ind	O	O	O	Q152274	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Prag	B-loc	O	B-loc.adm.town	O	O	O	Q1085	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+23	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Pebr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+ag	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+AbP	B-org	O	B-org.ent.pressagency	O	O	O	Q40464	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Präsident	O	O	O	O	O	O	_	_	_
+Beschaktskanelei	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-14
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schaktskanelei	O	O	O	O	O	O	_	_	_|Commented
+verökkentlichte	O	O	O	O	O	O	_	_	_
+Communiqué	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ersueht	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Bevöllcerung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Rühe	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+bewahren	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ren	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+versichert	O	O	O	O	O	O	_	_	_
+ihr	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dass	O	O	O	O	O	O	_	_	_
+Prüsident	B-pers	O	B-pers.ind	O	B-comp.function	O	Q152274	_	_
+Benesch	I-pers	O	I-pers.ind	O	B-comp.name	O	Q152274	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+treu	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Gpundsätze	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+panlamentapischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schen	O	O	O	O	O	O	_	_	_|Commented
+Demokratie	O	O	O	O	O	O	_	_	_
+halten	O	O	O	O	O	O	_	_	_
+werde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Verschiebung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Sitzung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Konstitunnte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Prag	B-loc	O	B-loc.adm.town	O	O	O	Q1085	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+23	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Febr	O	O	O	O	O	O	_	_	_
+ag	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+AhP	B-org	O	B-org.ent.pressagency	O	O	O	Q40464	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Präsident	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Verfassunggebenden	O	O	O	O	O	O	_	_	_
+Versammlung	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+beschlossen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Dienstag	O	O	O	O	O	O	_	_	_
+angesetzte	O	O	O	O	O	O	_	_	_
+Versammlung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sammlung	O	O	O	O	O	O	_	_	_|Commented
+auf	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+späteres	O	O	O	O	O	O	_	_	_
+Datum	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+versehieben	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sehieben	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Versammlung	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+gegebenen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Leitpunket	O	O	O	O	O	O	_	_	_
+schriktlich	O	O	O	O	O	O	_	_	_
+einberuken	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

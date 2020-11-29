@@ -1,0 +1,668 @@
+# language = de
+# newspaper = NZZ
+# date = 1808-10-18
+# document_id = NZZ-1808-10-18-a-p0002
+# segment_iiif_link = _
+Neueres	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Noch	O	O	O	O	O	O	_	_	_
+einiges	O	O	O	O	O	O	_	_	_
+Detail	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zusammenkunft	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+beyden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kaiser	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Konferenz	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Erfurt	B-loc	O	B-loc.adm.town	O	O	O	Q1729	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+s	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+f	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+enthält	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Brief	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Thüringischen	B-loc	O	B-loc.adm.reg	O	O	O	Q1205	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+folgt	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Als	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+beyden	O	O	O	O	O	O	_	_	_
+Kaiser	O	O	O	O	O	O	_	_	_
+zwischen	O	O	O	O	O	O	_	_	_
+Mohra	B-loc	O	B-loc.adm.town	O	O	O	Q669353	_	_
+und	O	O	O	O	O	O	_	_	_
+Münchenholzhausen	B-loc	O	B-loc.adm.town	O	O	O	Q285717	_	NoSpaceAfter|Normalized-14
+#¬	I-loc	O	I-loc.adm.town	O	O	O	Q285717	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#chenholzhausen	I-loc	O	I-loc.adm.town	O	O	O	Q285717	_	_|Commented
+trafen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+giengen	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+geraume	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Fuß	O	O	O	O	O	O	_	_	_
+mireinander	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dann	O	O	O	O	O	O	_	_	_
+bestiegen	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Pferde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kaiser	B-pers	O	B-pers.ind	O	B-comp.title	O	Q15193	_	_
+Alexander	I-pers	O	I-pers.ind	O	B-comp.name	O	Q15193	_	_
+wurde	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Pferd	O	O	O	O	O	O	_	_	_
+untergezogen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+gerade	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+so	O	O	O	O	O	O	_	_	_
+aufgeschirrt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+equipirt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Petersburg	B-loc	O	B-loc.adm.town	O	O	O	Q656	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+reiten	O	O	O	O	O	O	_	_	_
+pflegt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dem	O	O	O	O	O	O	_	_	_
+Großfürsten	B-pers	O	B-pers.ind	O	B-comp.title	O	Q161106	_	_
+Konstantin	I-pers	O	I-pers.ind	O	B-comp.name	O	Q161106	_	_
+wurde	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+schöner	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ner	O	O	O	O	O	O	_	_	_|Commented
+Schimmel	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+kosakisch	O	O	O	O	O	O	_	_	_
+aufs	O	O	O	O	O	O	_	_	_
+köstlichste	O	O	O	O	O	O	_	_	_
+equipirt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+vorgeführt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Unweit	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Spitals	O	O	O	O	O	O	_	_	_
+kam	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Herzog	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Weimar	B-loc	O	B-loc.adm.town	O	O	O	Q3955	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ner	O	O	O	O	O	O	_	_	_|Commented
+Eisenacher	B-loc	O	B-loc.adm.town	O	O	O	Q7070	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Entgegnung	O	O	O	O	O	O	_	_	_
+zurückkommend	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sprang	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+seiner	O	O	O	O	O	O	_	_	_
+Chaise	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+bekomplimentirte	O	O	O	O	O	O	_	_	_
+beyde	O	O	O	O	O	O	_	_	_
+Kaiser	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+Beyde	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+behandelten	O	O	O	O	O	O	_	_	_
+ihn	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+ungemeiner	O	O	O	O	O	O	_	_	_
+Feinheit	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Wohlwollen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+"	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Ankunft	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+beyden	O	O	O	O	O	O	_	_	_
+Kaiser	O	O	O	O	O	O	_	_	_
+aßen	O	O	O	O	O	O	_	_	_
+dieselben	O	O	O	O	O	O	_	_	_
+nebst	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dem	O	O	O	O	O	O	_	_	_
+König	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Sachsen	B-loc	O	B-loc.adm.reg	O	O	O	Q1202	_	_
+zum	O	O	O	O	O	O	_	_	_
+erstenmal	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	_
+allein	O	O	O	O	O	O	_	_	_
+zusammen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#men	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Tafel	O	O	O	O	O	O	_	_	_
+dauerte	O	O	O	O	O	O	_	_	_
+einige	O	O	O	O	O	O	_	_	_
+Stunden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dann	O	O	O	O	O	O	_	_	_
+begab	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Napoleon	B-pers	O	B-pers.ind	O	O	O	Q517	_	_
+zu	O	O	O	O	O	O	_	_	_
+Alexander	B-pers	O	B-pers.ind	O	O	O	Q15193	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+beyde	O	O	O	O	O	O	_	_	_
+Kaiser	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+geraume	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Zeit	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	_
+allein	O	O	O	O	O	O	_	_	_
+unterredeten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+östreichische	O	O	O	O	O	O	_	_	_
+Gesandte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Graf	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+von	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+St	I-pers	O	I-pers.ind	O	I-comp.name	B-loc.phys.geo	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	I-loc.phys.geo	NIL	_	_
+Vincent	I-pers	O	I-pers.ind	O	I-comp.name	I-loc.phys.geo	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+früher	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Erfurt	B-loc	O	B-loc.adm.town	O	O	O	Q1729	_	_
+eingetroffen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#getroffen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Alle	O	O	O	O	O	O	_	_	_
+übrigen	O	O	O	O	O	O	_	_	_
+Gerüchte	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Ankunft	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Erzherzogs	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter|Normalized-7
+#¬	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#herzogs	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_|Commented
+Karlu	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+s	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+w	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+gehören	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Hirngespinsten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kaffeehauspolitiker	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-13
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#hauspolitiker	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Eine	O	O	O	O	O	O	_	_	_
+strenge	O	O	O	O	O	O	_	_	_
+französische	O	O	O	O	O	O	_	_	_
+Polizey	O	O	O	O	O	O	_	_	_
+hält	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+unberufene	O	O	O	O	O	O	_	_	_
+Fremde	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Erfurt	B-loc	O	B-loc.adm.town	O	O	O	Q1729	_	_
+ab	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+"	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Nebst	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Preussischen	B-pers	O	B-pers.ind	O	B-comp.function	O	Q70220	_	_
+Staatsminister	I-pers	O	I-pers.ind	O	I-comp.function	O	Q70220	_	_
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	Q70220	_	_
+auswärtigen	I-pers	O	I-pers.ind	O	I-comp.function	O	Q70220	_	NoSpaceAfter|Normalized-3
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	Q70220	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gen	I-pers	O	I-pers.ind	O	I-comp.function	O	Q70220	_	_|Commented
+Angelegenheiten	I-pers	O	I-pers.ind	O	I-comp.function	O	Q70220	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q70220	_	_
+Graf	I-pers	O	I-pers.ind	O	B-comp.title	O	Q70220	_	_
+von	I-pers	O	I-pers.ind	O	B-comp.name	O	Q70220	_	_
+Golz	I-pers	O	I-pers.ind	O	I-comp.name	O	Q70220	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q70220	_	_
+war	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Baron	B-pers	O	B-pers.ind	O	B-comp.title	O	Q27583184	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Jakobi	I-pers	O	I-pers.ind	O	B-comp.name	O	Q27583184	_	NoSpaceAfter
+-	I-pers	O	I-pers.ind	O	I-comp.name	O	Q27583184	_	NoSpaceAfter
+Klöst	I-pers	O	I-pers.ind	O	I-comp.name	O	Q27583184	_	_
+zu	I-pers	O	I-pers.ind	O	O	O	Q27583184	_	_
+Erfurt	I-pers	O	I-pers.ind	O	O	B-loc.adm.town	Q27583184	_	_
+angekommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wahrscheinlich	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wichtigen	O	O	O	O	O	O	_	_	_
+Aufträgen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Man	O	O	O	O	O	O	_	_	_
+erschöpft	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+natürlich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+wunderbarsten	O	O	O	O	O	O	_	_	_
+Muthmaaßungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wovon	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Messeiin	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Leipzig	B-loc	O	B-loc.adm.town	O	O	O	Q2079	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+wahrscheinlich	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+ohne	O	O	O	O	O	O	_	_	_
+Absicht	O	O	O	O	O	O	_	_	_
+wegen	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Messeumtriebs	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#triebs	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+)	O	O	O	O	O	O	_	_	_
+ausgebreitete	O	O	O	O	O	O	_	_	_
+Nachricht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+England	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q21	Q21	_
+auf	O	O	O	O	O	O	_	_	_
+neue	O	O	O	O	O	O	_	_	_
+Unterhandlungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-13
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#terhandlungen	O	O	O	O	O	O	_	_	_|Commented
+angetragen	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eben	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Siegel	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Glaubwürdigkeit	O	O	O	O	O	O	_	_	_
+trägt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Herzog	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Weimar	B-loc	O	B-loc.adm.town	O	O	O	Q3955	_	_
+wurde	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+28	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Französ	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Kaiserizur	O	O	O	O	O	O	_	_	_
+Tafel	O	O	O	O	O	O	_	_	_
+gezogen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+erhielt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+Versprechen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+beyde	O	O	O	O	O	O	_	_	_
+Kaiser	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+folgenden	O	O	O	O	O	O	_	_	_
+Woche	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nach	O	O	O	O	O	O	_	_	_
+Weimar	B-loc	O	B-loc.adm.town	O	O	O	Q3955	_	_
+kommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	_
+Parforce	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Hirschjagd	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#jagd	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Herzog	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+Jagdschloß	B-loc	O	B-loc.fac	O	O	O	Q1725605	_	_
+Ettersburg	I-loc	O	I-loc.fac	O	B-comp.name	O	Q1725605	_	_
+zubereitete	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bereitete	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+indem	O	O	O	O	O	O	_	_	_
+dazu	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Eile	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+neuer	O	O	O	O	O	O	_	_	_
+Pavillon	O	O	O	O	O	O	_	_	_
+gebaut	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+beywohnen	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+Weimar	B-loc	O	B-loc.adm.town	O	O	O	Q3955	_	_
+selbst	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+Ball	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Konzert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Beleuchtung	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Alles	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+erhabenen	O	O	O	O	O	O	_	_	_
+Gästen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gebührt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+veranstaltet	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Den	O	O	O	O	O	O	_	_	_
+Tag	O	O	O	O	O	O	_	_	_
+darauf	O	O	O	O	O	O	_	_	_
+dürften	O	O	O	O	O	O	_	_	_
+wohl	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Majestäten	O	O	O	O	O	O	_	_	_
+sämtlich	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Erfurt	B-loc	O	B-loc.adm.town	O	O	O	Q1729	_	_
+aufbrechen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+welchem	O	O	O	O	O	O	_	_	_
+Wege	O	O	O	O	O	O	_	_	_
+Kaiser	B-pers	O	B-pers.ind	O	B-comp.title	O	Q15193	_	_
+Alexander	I-pers	O	I-pers.ind	O	B-comp.name	O	Q15193	_	_
+zurückgehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ob	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Altenburg	B-loc	O	B-loc.adm.town	O	O	O	Q15976	_	_
+die	O	O	O	O	O	O	_	_	_
+Herzogin	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Kurland	B-loc	O	B-loc.adm.reg	O	O	O	Q185072	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ob	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+Dresden	B-loc	O	B-loc.adm.town	O	O	O	Q1731	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+besuchen	O	O	O	O	O	O	_	_	_
+werde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+bestimmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Großfürst	B-pers	O	B-pers.ind	O	B-comp.title	O	Q161106	_	_
+Kon	I-pers	O	I-pers.ind	O	B-comp.name	O	Q161106	_	NoSpaceAfter
+#¬stantin	I-pers	O	I-pers.ind	O	I-comp.name	O	Q161106	_	_|Normalized-7|Commented
+#¬	I-pers	O	I-pers.ind	O	I-comp.name	O	Q161106	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stantin	I-pers	O	I-pers.ind	O	I-comp.name	O	Q161106	_	_|Commented
+war	O	O	O	O	O	O	_	_	_
+einige	O	O	O	O	O	O	_	_	_
+Tage	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+leidend	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+krank	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nun	O	O	O	O	O	O	_	_	_
+völlig	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+hergestellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+"	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+Fürst	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Sayn	B-loc	O	B-loc.adm.reg	O	O	O	Q702646	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.reg	O	O	O	Q702646	_	NoSpaceAfter
+Wittgenstein	I-loc	O	I-loc.adm.reg	O	O	O	Q702646	_	_
+befand	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+30	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Sept	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+noch	O	O	O	O	O	O	_	_	_
+immer	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Hamburg	B-loc	O	B-loc.adm.town	O	O	O	Q1055	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+einige	O	O	O	O	O	O	_	_	_
+Tage	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bekanntwerdung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kanntwerdung	O	O	O	O	O	O	_	_	_|Commented
+des	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+ihn	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Freyherrn	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Stein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+geschriebenen	O	O	O	O	O	O	_	_	_
+Briefs	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+anlangte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dieser	O	O	O	O	O	O	_	_	_
+Fürst	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+stets	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+dortigen	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	_
+Behörden	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+geschätzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Es	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Königsberg	B-loc	O	B-loc.adm.town	O	O	O	Q4120832	_	_
+bis	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Hohenkrug	B-loc	O	B-loc.adm.town	O	O	O	Q7625256	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+Königes	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Königin	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Preussen	B-loc	O	B-loc.adm.nat	O	O	O	Q27306	_	_
+Maj	B-pers	O	B-pers.ind	O	B-comp.title	O	Q15193	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q15193	_	_
+dem	I-pers	O	I-pers.ind	O	O	O	Q15193	_	_
+Kaiser	I-pers	O	I-pers.ind	O	B-comp.function	O	Q15193	_	NoSpaceAfter|Normalized-3
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	Q15193	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ser	I-pers	O	I-pers.ind	O	I-comp.function	O	Q15193	_	_|Commented
+Alexauder	I-pers	O	I-pers.ind	O	B-comp.name	O	Q15193	_	_
+in	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+nämlichen	O	O	O	O	O	O	_	_	_
+Wagen	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Geleit	O	O	O	O	O	O	_	_	_
+gaben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = _
+Es	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Generale	B-pers	O	B-pers.ind	O	B-comp.title	O	Q73253	_	_
+von	I-pers	O	I-pers.ind	O	B-comp.name	O	Q73253	_	_
+Ralkreuth	I-pers	O	I-pers.ind	O	I-comp.name	O	Q73253	_	_
+und	O	O	O	O	O	O	_	_	_
+von	B-pers	O	B-pers.ind	O	O	O	Q216120	_	_
+Lestocg	I-pers	O	I-pers.ind	O	O	O	Q216120	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bey	O	O	O	O	O	O	_	_	_
+welchen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kaiser	O	O	O	O	O	O	_	_	_
+vorgefahren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Karten	O	O	O	O	O	O	_	_	_
+abzugeben	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+geruhet	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

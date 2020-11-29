@@ -1,0 +1,770 @@
+# language = de
+# newspaper = NZZ
+# date = 1798-11-28
+# document_id = NZZ-1798-11-28-a-p0001
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Ausland	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Frankreich	B-loc	O	B-loc.adm.nat	O	O	O	Q142	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Gesezgebung	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gierung	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Rath	B-org	O	B-org.adm	O	O	O	Q617290	_	_
+der	I-org	O	I-org.adm	O	O	O	Q617290	_	_
+Fünfhundert	I-org	O	I-org.adm	O	O	O	Q617290	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+16	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Noy	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Zufolge	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#folge	O	O	O	O	O	O	_	_	_|Commented
+eines	O	O	O	O	O	O	_	_	_
+Rapports	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Postwesen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Pacht	O	O	O	O	O	O	_	_	_
+desselben	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Fall	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+höhere	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Tarif	O	O	O	O	O	O	_	_	_
+von	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+1759	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+eingeführt	O	O	O	O	O	O	_	_	_
+werde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zehn	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Millionen	O	O	O	O	O	O	_	_	_
+Livr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+jahrlich	O	O	O	O	O	O	_	_	_
+geboten	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+indem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nach	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+neuern	O	O	O	O	O	O	_	_	_
+von	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+1792	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+7	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Millionen	O	O	O	O	O	O	_	_	_
+jährlich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vorschuß	O	O	O	O	O	O	_	_	_
+bleiben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Ausgahen	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+neune	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+belaufen	O	O	O	O	O	O	_	_	_
+sollen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+andre	O	O	O	O	O	O	_	_	_
+Mitglieder	O	O	O	O	O	O	_	_	_
+behaupteten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+jetzigen	O	O	O	O	O	O	_	_	_
+Pachter	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+leztern	O	O	O	O	O	O	_	_	_
+his	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+fünf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Millionen	O	O	O	O	O	O	_	_	_
+heruntergebracht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+jeder	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+ihnen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+40000	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Livr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+reinen	O	O	O	O	O	O	_	_	_
+Jahres	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Gewinnst	O	O	O	O	O	O	_	_	_
+bezogen	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Vertaget	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Nach	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Bericht	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+PersonalMobiliar	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#Mobiliar	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+-	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Luxus	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Steuer	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Jahr	O	O	O	O	O	O	_	_	_
+III	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+werden	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+beyden	O	O	O	O	O	O	_	_	_
+erstern	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+25,500000	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+letztern	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tern	O	O	O	O	O	O	_	_	_|Commented
+auf	O	O	O	O	O	O	_	_	_
+4,500000	O	O	O	O	O	O	_	_	_
+also	O	O	O	O	O	O	_	_	_
+beyde	O	O	O	O	O	O	_	_	_
+zusamen	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dreißig	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Millionen	O	O	O	O	O	O	_	_	_
+Livr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+geschäzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Unter	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+letztern	O	O	O	O	O	O	_	_	_
+gehören	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+5	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Prozente	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+öffentliche	O	O	O	O	O	O	_	_	_
+Beamten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ten	O	O	O	O	O	O	_	_	_|Commented
+von	O	O	O	O	O	O	_	_	_
+ihrem	O	O	O	O	O	O	_	_	_
+Gehalt	O	O	O	O	O	O	_	_	_
+abgeben	O	O	O	O	O	O	_	_	_
+mussen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+17	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Nach	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Rapport	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Lyceen	O	O	O	O	O	O	_	_	_
+sollen	O	O	O	O	O	O	_	_	_
+deren	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+fünfe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nämlich	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Brussel	B-loc	O	B-loc.adm.town	O	O	O	Q239	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Dison	B-loc	O	B-loc.adm.town	O	O	O	Q21768672	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Toulouse	B-loc	O	B-loc.adm.town	O	O	O	Q7880	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Poitiers	B-loc	O	B-loc.adm.town	O	O	O	Q6616	_	NoSpaceAfter|Normalized-5
+#¬	I-loc	O	I-loc.adm.town	O	O	O	Q6616	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tiers	I-loc	O	I-loc.adm.town	O	O	O	Q6616	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	_
+angelegt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+jedem	O	O	O	O	O	O	_	_	_
+derselben	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+fünf	O	O	O	O	O	O	_	_	_
+Lehrer	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Mathematik	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Physik	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zehn	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Moral	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Staatswissenschaft	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Litte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ratur	O	O	O	O	O	O	_	_	_
+angestellt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Neben	O	O	O	O	O	O	_	_	_
+andern	O	O	O	O	O	O	_	_	_
+Punkten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kann	O	O	O	O	O	O	_	_	_
+keiner	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+solchen	O	O	O	O	O	O	_	_	_
+Lehrstuhl	O	O	O	O	O	O	_	_	_
+bekleiden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nicht	O	O	O	O	O	O	_	_	_
+25	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Jahre	O	O	O	O	O	O	_	_	_
+alt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+frankischer	O	O	O	O	O	O	_	_	_
+Burger	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+Vertaget	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#taget	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+18	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Rapport	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+sogengnnte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+frankische	O	O	O	O	O	O	_	_	_
+Prytaneum	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ehemals	O	O	O	O	O	O	_	_	_
+Collegium	B-org	O	B-org.ent	O	O	O	Q1059546	_	_
+Ludwigs	I-org	O	I-org.ent	O	B-comp.name	B-pers.ind	Q1059546	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	I-org	O	I-org.ent	O	I-comp.name	I-pers.ind	Q1059546	_	_
+Großen	I-org	O	I-org.ent	O	I-comp.name	I-pers.ind	Q1059546	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+1200	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Plätze	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wovon	O	O	O	O	O	O	_	_	_
+jeder	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+600	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Livr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+dotirt	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nach	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+Buonaparte	B-pers	O	B-pers.ind	O	O	O	Q517	_	_
+gethanen	O	O	O	O	O	O	_	_	_
+Versprechen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sollen	O	O	O	O	O	O	_	_	_
+namentlich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mentlich	O	O	O	O	O	O	_	_	_|Commented
+auch	O	O	O	O	O	O	_	_	_
+30	O	O	O	O	O	O	_	_	_
+Jünglinge	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+neuen	O	O	O	O	O	O	_	_	_
+Departement	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tement	O	O	O	O	O	O	_	_	_|Commented
+des	O	O	O	O	O	O	_	_	_
+Lgeischen	B-loc	O	B-loc.phys.hydro	O	O	O	Q34575	_	_
+Meers	I-loc	O	I-loc.phys.hydro	O	O	O	Q34575	_	_
+darin	O	O	O	O	O	O	_	_	_
+aufgenommen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Senat	O	O	O	O	O	O	_	_	_
+17	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Geheime	O	O	O	O	O	O	_	_	_
+Sitzung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+18	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Ministerium	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Seewesens	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+]	O	O	O	O	O	O	_	_	_
+Der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+frankische	O	O	O	O	O	O	_	_	_
+Kaper	O	O	O	O	O	O	_	_	_
+Gironde	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	_
+9	O	O	O	O	O	O	_	_	_
+englische	O	O	O	O	O	O	_	_	_
+Prisen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+unter	O	O	O	O	O	O	_	_	_
+dänischen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+portugiesischen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+amerikanischen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+genuesischen	O	O	O	O	O	O	_	_	_
+Flaggen	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	_
+zusammen	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+5	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Millionen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+an	O	O	O	O	O	O	_	_	_
+Werth	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+aufgebracht	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+.	O	O	O	O	O	O	_	_	_
+10	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Vorgestern	O	O	O	O	O	O	_	_	_
+Nachmitka	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+verschwand	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+einmal	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Director	B-pers	O	B-pers.ind	O	B-comp.function	O	Q167638	_	_
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	Q167638	_	_
+Caille	I-pers	O	I-pers.ind	O	I-comp.function	B-org.ent	Q167638	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Comptes	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q167638	_	_
+courants	I-pers	O	I-pers.ind	O	I-comp.function	I-org.ent	Q167638	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q167638	_	_
+Augustin	I-pers	O	I-pers.ind	O	B-comp.name	O	Q167638	_	_
+Monneron	I-pers	O	I-pers.ind	O	I-comp.name	O	Q167638	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q167638	_	_
+und	O	O	O	O	O	O	_	_	_
+hinterlies	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#terlies	O	O	O	O	O	O	_	_	_|Commented
+ein	O	O	O	O	O	O	_	_	_
+Billet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+worin	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+gesteht	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Daß	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kasse	O	O	O	O	O	O	_	_	_
+dritthalb	O	O	O	O	O	O	_	_	_
+Millionen	O	O	O	O	O	O	_	_	_
+schuldig	O	O	O	O	O	O	_	_	_
+sey	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dieselbe	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+ubrigens	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	_
+solvablem	O	O	O	O	O	O	_	_	_
+Zustand	O	O	O	O	O	O	_	_	_
+befinden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hat	O	O	O	O	O	O	_	_	_
+gestern	O	O	O	O	O	O	_	_	_
+Morgens	O	O	O	O	O	O	_	_	_
+bereits	O	O	O	O	O	O	_	_	_
+600	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Billets	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+500	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Franken	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+300,000	O	O	O	O	O	O	_	_	_
+Libres	O	O	O	O	O	O	_	_	_
+ausbezahlt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+jeden	O	O	O	O	O	O	_	_	_
+Morgen	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+gleichen	O	O	O	O	O	O	_	_	_
+Summe	O	O	O	O	O	O	_	_	_
+fortfahren	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ren	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Man	O	O	O	O	O	O	_	_	_
+wagt	O	O	O	O	O	O	_	_	_
+verschiedene	O	O	O	O	O	O	_	_	_
+Vermuthungen	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+diesen	O	O	O	O	O	O	_	_	_
+Vorfall	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ohne	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+bekannte	O	O	O	O	O	O	_	_	_
+Wachsamkeit	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#keit	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Pariser	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Polizey	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bereits	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+allerley	O	O	O	O	O	O	_	_	_
+unruhia	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gen	O	O	O	O	O	O	_	_	_
+Bewegungen	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+ersten	O	O	O	O	O	O	_	_	_
+Stoff	O	O	O	O	O	O	_	_	_
+leihen	O	O	O	O	O	O	_	_	_
+sollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+—	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vor	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Paar	O	O	O	O	O	O	_	_	_
+Tagen	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Cassee	O	O	O	O	O	O	_	_	_
+beym	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Temple	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Unbekannter	O	O	O	O	O	O	_	_	_
+angehalten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Es	O	O	O	O	O	O	_	_	_
+le„	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-1
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#„	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+be	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+König	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+gerufen	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Vorgestern	O	O	O	O	O	O	_	_	_
+Morgens	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gens	O	O	O	O	O	O	_	_	_|Commented
+wurde	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Spanien	B-loc	O	B-loc.adm.nat	O	O	O	Q29	_	_
+zurückgekehrte	O	O	O	O	O	O	_	_	_
+Gesandte	B-pers	O	B-pers.ind	O	B-comp.function	O	Q1605715	_	NoSpaceAfter|Normalized-6
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1605715	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sandte	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1605715	_	_|Commented
+Truguet	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1605715	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+immer	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Emigrirten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ten	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Liste	O	O	O	O	O	O	_	_	_
+steht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Verhaft	O	O	O	O	O	O	_	_	_
+genommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+fürs	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bureaucentral	O	O	O	O	O	O	_	_	_
+gestellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+gestern	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Befehl	O	O	O	O	O	O	_	_	_
+zugehn	O	O	O	O	O	O	_	_	_
+lies	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+innert	O	O	O	O	O	O	_	_	_
+24	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Stunden	O	O	O	O	O	O	_	_	_
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+unverzuglich	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Gebiet	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Republik	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+räumen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Tours	B-loc	O	B-loc.adm.town	O	O	O	Q288	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+10	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Nov	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Im	O	O	O	O	O	O	_	_	_
+Kanton	B-loc	O	B-loc.adm.reg	O	O	O	Q1726281	_	_
+Mont	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q1726281	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.reg	O	I-comp.name	O	Q1726281	_	NoSpaceAfter
+Louis	I-loc	O	I-loc.adm.reg	O	I-comp.name	O	Q1726281	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+suchte	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Jungling	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Stephan	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Roguet	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+her	O	O	O	O	O	O	_	_	_
+Conseription	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#seription	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+Vorwand	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+gefrornen	O	O	O	O	O	O	_	_	_
+Fußen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+entziehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Man	O	O	O	O	O	O	_	_	_
+stellt	O	O	O	O	O	O	_	_	_
+ihn	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Geschwornengericht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vor	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+eigener	O	O	O	O	O	O	_	_	_
+Oheim	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Peter	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+Düpuis	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+als	O	O	O	O	O	O	_	_	_
+Arzt	O	O	O	O	O	O	_	_	_
+befragt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nach	O	O	O	O	O	O	_	_	_
+vorgenommener	O	O	O	O	O	O	_	_	_
+Untersuchung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#chung	O	O	O	O	O	O	_	_	_|Commented
+umarmt	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+leztre	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Neffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+spricht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zuihm	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	_
+dein	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+deiner	O	O	O	O	O	O	_	_	_
+Mitzunglinge	O	O	O	O	O	O	_	_	_
+Richter	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zuihm	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Als	O	O	O	O	O	O	_	_	_
+dein	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+deiner	O	O	O	O	O	O	_	_	_
+Mitunglinge	O	O	O	O	O	O	_	_	_
+Nichter	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+
+

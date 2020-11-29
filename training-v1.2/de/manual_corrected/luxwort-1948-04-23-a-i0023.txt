@@ -1,0 +1,291 @@
+# language = de
+# newspaper = luxwort
+# date = 1948-04-23
+# document_id = luxwort-1948-04-23-a-i0023
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/170,5224,1221,87/full/0/default.jpg
+Westeuropäische	O	O	O	O	O	O	_	_	_
+Finanzbesprechungen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/112,5318,636,47/full/0/default.jpg
+Den	B-loc	O	B-loc.adm.town	O	O	O	Q36600	_	_
+Haag	I-loc	O	I-loc.adm.town	O	O	O	Q36600	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+23	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+April	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/73,5356,691,56/full/0/default.jpg
+Finanzsachverständige	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Brüsseler	B-org	O	B-org.adm	O	B-comp.demonym	O	Q845737	_	_
+Fünf	I-org	O	I-org.adm	O	B-comp.name	O	Q845737	_	NoSpaceAfter
+-	I-org	O	I-org.adm	O	I-comp.name	O	Q845737	_	NoSpaceAfter
+Mächte	I-org	O	I-org.adm	O	I-comp.name	O	Q845737	_	NoSpaceAfter
+-	I-org	O	I-org.adm	O	I-comp.name	O	Q845737	_	NoSpaceAfter
+Pakt	I-org	O	I-org.adm	O	I-comp.name	O	Q845737	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/74,5396,689,56/full/0/default.jpg
+beteiligten	O	O	O	O	O	O	_	_	_
+Staaten	O	O	O	O	O	O	_	_	_
+beendeten	O	O	O	O	O	O	_	_	_
+gestern	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/73,5436,690,56/full/0/default.jpg
+Haag	B-loc	O	B-loc.adm.town	O	O	O	Q36600	_	_
+ihre	O	O	O	O	O	O	_	_	_
+vorbereitenden	O	O	O	O	O	O	_	_	_
+Besprechungen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/73,5475,691,50/full/0/default.jpg
+über	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Zusammenarbeit	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+finanziellem	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/74,5515,109,47/full/0/default.jpg
+Gebiet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/112,5555,651,48/full/0/default.jpg
+In	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+kurzen	O	O	O	O	O	O	_	_	_
+Kommuniquee	O	O	O	O	O	O	_	_	_
+heißt	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/74,5594,691,49/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+Finanzminister	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+5	O	O	O	O	O	O	_	_	_
+Staaten	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/73,5633,675,49/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+kommenden	O	O	O	O	O	O	_	_	_
+Woche	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Brüssel	B-loc	O	B-loc.adm.town	O	O	O	Q239	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/74,5675,691,51/full/0/default.jpg
+zusammentreffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Fragen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+finanziellen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/73,5715,691,48/full/0/default.jpg
+und	O	O	O	O	O	O	_	_	_
+wirtschaftlichen	O	O	O	O	O	O	_	_	_
+Zusammenarbeit	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/73,5754,692,48/full/0/default.jpg
+allein	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Hinblick	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Fünf	B-org	O	B-org.adm	O	O	O	Q845737	_	NoSpaceAfter
+-	I-org	O	I-org.adm	O	O	O	Q845737	_	NoSpaceAfter
+Mächte	I-org	O	I-org.adm	O	O	O	Q845737	_	NoSpaceAfter
+-	I-org	O	I-org.adm	O	O	O	Q845737	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/73,5794,691,48/full/0/default.jpg
+Pakt	I-org	O	I-org.adm	O	O	O	Q845737	_	_
+sondern	O	O	O	O	O	O	_	_	_
+ebenso	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Verbindung	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/73,5833,691,49/full/0/default.jpg
+dem	O	O	O	O	O	O	_	_	_
+europäischen	O	O	O	O	O	O	_	_	_
+Wiederaufbau	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+beraten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/74,5873,691,49/full/0/default.jpg
+Mehr	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Verlauf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+zweitägigen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/74,5913,676,57/full/0/default.jpg
+Sachverständigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Besprechungen	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/74,5951,350,56/full/0/default.jpg
+bekanntgegeben	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/113,5994,653,48/full/0/default.jpg
+Das	O	O	O	O	O	O	_	_	_
+Hauptthema	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Besprechungen	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/75,6031,691,49/full/0/default.jpg
+nach	O	O	O	O	O	O	_	_	_
+Aussage	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+Konferenzteilnehmers	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/74,6070,677,49/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+Suche	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Ausgleich	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/74,6112,678,57/full/0/default.jpg
+Berücksichtigung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+finanziellen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/74,6151,678,51/full/0/default.jpg
+wirtschaftlichen	O	O	O	O	O	O	_	_	_
+Engpässe	O	O	O	O	O	O	_	_	_
+jedes	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+fünf	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/804,5331,692,42/full/0/default.jpg
+Staaten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+England	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q21	Q21	_
+fehle	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+Waren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/805,5364,690,49/full/0/default.jpg
+Frankreich	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q142	Q142	_
+mehr	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+Devisen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+England	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q21	Q21	_
+sei	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/803,5404,677,50/full/0/default.jpg
+bestrebt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Schwierigkeiten	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/805,5448,690,53/full/0/default.jpg
+gegenseitigen	O	O	O	O	O	O	_	_	_
+Handelsverkehr	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+finanzielle	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/803,5485,693,49/full/0/default.jpg
+Transaktionen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+lösen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Beispiel	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/804,5524,692,56/full/0/default.jpg
+Beschaffung	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Krediten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+belgischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/804,5565,691,55/full/0/default.jpg
+Regierung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Frankreich	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q142	Q142	_
+wolle	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+Mangel	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/804,5613,692,37/full/0/default.jpg
+an	O	O	O	O	O	O	_	_	_
+Sterlingwährung	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+erhöhte	O	O	O	O	O	O	_	_	_
+Ausfuhr	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/805,5644,131,47/full/0/default.jpg
+beheben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/968,5703,364,54/full/0/default.jpg
+Westeuropäische	B-org	O	B-org.adm	O	B-comp.demonym	O	Q189946	_	_
+Union	I-org	O	I-org.adm	O	O	O	Q189946	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/843,5761,635,51/full/0/default.jpg
+London	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+23	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+April	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+britische	B-pers	O	B-pers.ind	O	B-comp.demonym	O	Q332365	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/805,5802,690,45/full/0/default.jpg
+Außenminister	I-pers	O	I-pers.ind	O	B-comp.function	O	Q332365	_	_
+Ernest	I-pers	O	I-pers.ind	O	B-comp.name	O	Q332365	_	_
+Elevin	I-pers	O	I-pers.ind	O	I-comp.name	O	Q332365	_	_
+wird	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Konferenz	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/805,5840,675,47/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+ständigen	O	O	O	O	O	O	_	_	_
+Organisation	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/806,5880,689,53/full/0/default.jpg
+westeuropäischen	B-org	O	B-org.adm	O	B-comp.demonym	O	Q189946	_	_
+Union	I-org	O	I-org.adm	O	O	O	Q189946	_	_
+morgen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Lancaster	B-loc	O	B-loc.fac	O	B-comp.name	O	Q1146311	_	_
+Housc	I-loc	O	I-loc.fac	O	O	O	Q1146311	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/805,5918,691,53/full/0/default.jpg
+eröffnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+teilte	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Foreign	B-org	O	B-org.adm	O	O	O	Q358834	_	_
+Office	I-org	O	I-org.adm	O	O	O	Q358834	_	_
+gestern	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/806,5962,55,43/full/0/default.jpg
+mit	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/843,5998,652,50/full/0/default.jpg
+Nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Eröffnungsansprache	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/805,6037,690,56/full/0/default.jpg
+Delegierten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+fünf	O	O	O	O	O	O	_	_	_
+Teilnehmerstaaten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/805,6079,690,48/full/0/default.jpg
+wird	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	NoSpaceAfter
+«	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+erste	O	O	O	O	O	O	_	_	_
+Sitzung	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Vorsitz	B-pers	O	B-pers.ind	O	B-comp.function	O	Q1275	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/805,6118,676,56/full/0/default.jpg
+Gladwyn	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1275	_	_
+Jebb	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1275	_	_
+vom	O	O	O	O	O	O	_	_	_
+Foreign	B-org	O	B-org.adm	O	O	O	Q358834	_	_
+Office	I-org	O	I-org.adm	O	O	O	Q358834	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fb856qj%2fpages%2f1/1420,6120,61,50/full/0/default.jpg
+überge	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+
+

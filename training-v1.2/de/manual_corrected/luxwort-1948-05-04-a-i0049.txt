@@ -1,0 +1,288 @@
+# language = de
+# newspaper = luxwort
+# date = 1948-05-04
+# document_id = luxwort-1948-05-04-a-i0049
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/291,168,1057,106/full/0/default.jpg
+Europäische	O	O	O	O	O	O	_	_	_
+Wiederaufbau	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/571,257,492,106/full/0/default.jpg
+Bedingungen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/144,368,636,54/full/0/default.jpg
+Washington	B-loc	O	B-loc.adm.town	O	O	O	Q61	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+4	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Mai	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/105,404,688,47/full/0/default.jpg
+stellvertretende	B-pers	O	B-pers.ind	O	B-comp.function	O	Q3018496	_	_
+Arbeitsminister	I-pers	O	I-pers.ind	O	I-comp.function	O	Q3018496	_	_
+David	I-pers	O	I-pers.ind	O	B-comp.name	O	Q3018496	_	_
+Morse	I-pers	O	I-pers.ind	O	I-comp.name	O	Q3018496	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/103,440,691,49/full/0/default.jpg
+legte	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Pressekonferenz	O	O	O	O	O	O	_	_	_
+gestern	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/102,477,689,44/full/0/default.jpg
+einen	O	O	O	O	O	O	_	_	_
+Bericht	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Philip	B-pers	O	B-pers.ind	O	B-comp.name	O	Q3379042	_	_
+Kaiser	I-pers	O	I-pers.ind	O	I-comp.name	O	Q3379042	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q3379042	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/101,512,690,44/full/0/default.jpg
+Leiter	I-pers	O	I-pers.ind	O	B-comp.function	O	Q3379042	_	_
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	Q3379042	_	_
+Abteilung	I-pers	O	I-pers.ind	O	I-comp.function	O	Q3379042	_	_
+für	I-pers	O	I-pers.ind	O	I-comp.function	O	Q3379042	_	_
+internationale	I-pers	O	I-pers.ind	O	I-comp.function	O	Q3379042	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/100,548,691,50/full/0/default.jpg
+Angelegenheiten	I-pers	O	I-pers.ind	O	I-comp.function	O	Q3379042	_	_
+im	I-pers	O	I-pers.ind	O	I-comp.function	O	Q3379042	_	_
+Arbeitsministerium	I-pers	O	I-pers.ind	O	I-comp.function	O	Q3379042	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/101,583,689,47/full/0/default.jpg
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Arbeitsverhältnisse	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Europa	B-loc	O	B-loc.adm.sup	O	O	O	Q46	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/100,618,690,47/full/0/default.jpg
+verfaßt	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Kaiser	B-pers	O	B-pers.ind	O	O	O	Q3379042	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+mehrere	O	O	O	O	O	O	_	_	_
+Monate	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/99,661,690,38/full/0/default.jpg
+zu	O	O	O	O	O	O	_	_	_
+Studienzwecken	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Europa	B-loc	O	B-loc.adm.sup	O	O	O	Q46	_	_
+verbrachte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/99,691,690,44/full/0/default.jpg
+trifft	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+Bericht	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Feststellung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/102,726,688,44/full/0/default.jpg
+daß	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+allgemeiner	O	O	O	O	O	O	_	_	_
+Auffassung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/98,763,691,50/full/0/default.jpg
+zuständigen	O	O	O	O	O	O	_	_	_
+europäischen	O	O	O	O	O	O	_	_	_
+Stellen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/98,797,671,51/full/0/default.jpg
+höchstmögliche	O	O	O	O	O	O	_	_	_
+Steigerung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/98,833,690,45/full/0/default.jpg
+Produktion	O	O	O	O	O	O	_	_	_
+wichtiger	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Hilfsmaßnahmen	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/98,876,690,37/full/0/default.jpg
+um	O	O	O	O	O	O	_	_	_
+Europa	B-loc	O	B-loc.adm.sup	O	O	O	Q46	_	_
+wieder	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+eigene	O	O	O	O	O	O	_	_	_
+Füße	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/98,904,690,48/full/0/default.jpg
+stellen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Vollproduktion	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+einzige	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/98,941,690,51/full/0/default.jpg
+Weg	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Aussichten	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+wirkliche	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/96,978,664,50/full/0/default.jpg
+europäische	O	O	O	O	O	O	_	_	_
+Wiedergesundung	O	O	O	O	O	O	_	_	_
+eröffne	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/131,1013,654,44/full/0/default.jpg
+In	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Bericht	O	O	O	O	O	O	_	_	_
+Kaisers	B-pers	O	B-pers.ind	O	O	O	Q3379042	_	_
+wird	O	O	O	O	O	O	_	_	_
+weiter	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/98,1050,670,51/full/0/default.jpg
+ausgeführt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+aufbauwillige	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/94,1085,691,49/full/0/default.jpg
+europäische	O	O	O	O	O	O	_	_	_
+Arbeiterschaft	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+unter	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/95,1119,690,47/full/0/default.jpg
+Druck	O	O	O	O	O	O	_	_	_
+aktiver	O	O	O	O	O	O	_	_	_
+Gegenkräfte	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+stehe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/94,1155,689,45/full/0/default.jpg
+den	O	O	O	O	O	O	_	_	_
+Marshall	B-pers	O	B-pers.ind	O	O	O	Q151414	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Plan	O	O	O	O	O	O	_	_	_
+bekämpften	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/94,1191,689,45/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+europäischen	O	O	O	O	O	O	_	_	_
+Arbeiter	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+eine	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/93,1228,690,49/full/0/default.jpg
+wichtige	O	O	O	O	O	O	_	_	_
+Rolle	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Gelingen	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/93,1263,690,45/full/0/default.jpg
+dem	O	O	O	O	O	O	_	_	_
+Scheitern	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Wiederaufbaus	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/93,1300,412,49/full/0/default.jpg
+Europa	B-loc	O	B-loc.adm.sup	O	O	O	Q46	_	_
+spielen	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+"	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/127,1335,638,49/full/0/default.jpg
+Morse	B-pers	O	B-pers.ind	O	O	O	Q3018496	_	_
+erklärte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+s	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/93,1372,671,44/full/0/default.jpg
+Arbeitsministerium	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Ausbau	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/93,1406,688,51/full/0/default.jpg
+wechselseitigen	O	O	O	O	O	O	_	_	_
+Handelabkommen	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/92,1444,689,49/full/0/default.jpg
+Kongreß	O	O	O	O	O	O	_	_	_
+interessiert	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Verhandlungen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/92,1481,689,45/full/0/default.jpg
+mit	O	O	O	O	O	O	_	_	_
+anderen	O	O	O	O	O	O	_	_	_
+Nationen	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Rahmen	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/90,1515,691,45/full/0/default.jpg
+hierfür	O	O	O	O	O	O	_	_	_
+erlassenen	O	O	O	O	O	O	_	_	_
+Gesetzes	O	O	O	O	O	O	_	_	_
+seien	O	O	O	O	O	O	_	_	_
+eng	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/92,1550,689,48/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Verwirklichung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+-	O	O	O	O	O	O	_	_	_
+europäischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/92,1587,689,54/full/0/default.jpg
+Wiederaufbauprogramms	O	O	O	O	O	O	_	_	_
+verknüpft	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auf	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/92,1622,688,48/full/0/default.jpg
+diese	O	O	O	O	O	O	_	_	_
+Weise	O	O	O	O	O	O	_	_	_
+würden	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Vorteile	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/836,374,670,44/full/0/default.jpg
+sich	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+europäischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/835,409,689,51/full/0/default.jpg
+Wiederaufbauprogramm	O	O	O	O	O	O	_	_	_
+ergeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Farmern	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/835,446,671,45/full/0/default.jpg
+Arbeitern	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Geschäftsleuten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/835,481,689,50/full/0/default.jpg
+Vereinigten	B-loc	O	B-loc.adm.nat	O	O	O	Q30	_	_
+Staaten	I-loc	O	I-loc.adm.nat	O	O	O	Q30	_	_
+ebenso	O	O	O	O	O	O	_	_	_
+zugute	O	O	O	O	O	O	_	_	_
+kommen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fxb7hds%2fpages%2f8/835,519,414,47/full/0/default.jpg
+wie	O	O	O	O	O	O	_	_	_
+denjenigen	O	O	O	O	O	O	_	_	_
+Europas	B-loc	O	B-loc.adm.sup	O	O	O	Q46	_	NoSpaceAfter|Partial-0:6
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

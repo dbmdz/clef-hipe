@@ -1,0 +1,1456 @@
+# language = de
+# newspaper = NZZ
+# date = 1858-12-13
+# document_id = NZZ-1858-12-13-a-p0001
+# segment_iiif_link = _
+Schlußwort	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vom	O	O	O	O	O	O	_	_	_
+Verfasser	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Nachklangs	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Synode	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+—	O	O	O	O	O	O	_	_	_
+Jede	O	O	O	O	O	O	_	_	_
+feste	O	O	O	O	O	O	_	_	_
+Ueberzeugung	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+einigermaßen	O	O	O	O	O	O	_	_	_
+eifrig	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+ausschließlich	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+weil	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Wahrheit	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+besitzen	O	O	O	O	O	O	_	_	_
+glaubt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+sieht	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+abweichenden	O	O	O	O	O	O	_	_	_
+Ansichten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sichten	O	O	O	O	O	O	_	_	_|Commented
+gerne	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Unwahrheit	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Entgegnung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+Nr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+341	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+342	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Eidg	B-prod	O	B-prod.media	O	O	O	NIL	_	NoSpaceAfter
+.	I-prod	O	I-prod.media	O	O	O	NIL	_	_
+Ztg	I-prod	O	I-prod.media	O	O	O	NIL	_	NoSpaceAfter
+.	I-prod	O	I-prod.media	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Einen	O	O	O	O	O	O	_	_	_
+Standpunkt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+übrigens	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+angegriffen	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+würdig	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+vortrefflich	O	O	O	O	O	O	_	_	_
+vertheidigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+liefert	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Beleg	O	O	O	O	O	O	_	_	_
+hiefür	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+denn	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Konsequenz	O	O	O	O	O	O	_	_	_
+derselben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Worten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ten	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Geiste	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+würde	O	O	O	O	O	O	_	_	_
+nothwendig	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ausschluß	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Amte	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kirche	O	O	O	O	O	O	_	_	_
+führen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Wenn	O	O	O	O	O	O	_	_	_
+nun	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+andern	O	O	O	O	O	O	_	_	_
+Standpunkt	O	O	O	O	O	O	_	_	_
+befestigte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ueberzeugung	O	O	O	O	O	O	_	_	_
+eben	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+verfährt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Folge	O	O	O	O	O	O	_	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+christliche	O	O	O	O	O	O	_	_	_
+Kirche	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+einmal	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+anstatt	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+innere	O	O	O	O	O	O	_	_	_
+Entwicklung	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Reform	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+auszutragen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Katholizismus	B-prod	O	B-prod.doctr	O	O	O	Q1841	_	_
+und	O	O	O	O	O	O	_	_	_
+Protestantismus	B-prod	O	B-prod.doctr	O	O	O	Q23540	_	_
+aus	O	O	O	O	O	O	_	_	_
+einander	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ander	O	O	O	O	O	O	_	_	_|Commented
+gespalten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+obgleich	O	O	O	O	O	O	_	_	_
+beide	O	O	O	O	O	O	_	_	_
+Theile	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+gleichen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Stamme	O	O	O	O	O	O	_	_	_
+wurzeln	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Protestantismus	B-prod	O	B-prod.doctr	O	O	O	Q23540	_	_
+konnte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Bedeutet	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+wenig	O	O	O	O	O	O	_	_	_
+neben	O	O	O	O	O	O	_	_	_
+einander	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ander	O	O	O	O	O	O	_	_	_|Commented
+dulden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+obgleich	O	O	O	O	O	O	_	_	_
+wiederum	O	O	O	O	O	O	_	_	_
+beide	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+nämlichen	O	O	O	O	O	O	_	_	_
+Quelle	O	O	O	O	O	O	_	_	_
+schöpfen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+lutherische	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+reformirte	O	O	O	O	O	O	_	_	_
+Kirche	O	O	O	O	O	O	_	_	_
+ausscheiden	O	O	O	O	O	O	_	_	_
+mußte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Soll	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+letztere	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+weiter	O	O	O	O	O	O	_	_	_
+zersplittern	O	O	O	O	O	O	_	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	_|EOS
+
+Denn	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+möge	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+Niemand	O	O	O	O	O	O	_	_	_
+verbergen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Differenzfrage	O	O	O	O	O	O	_	_	_
+berührt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nicht	O	O	O	O	O	O	_	_	_
+blos	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Geistlichen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	_
+Massen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Gemeinde	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Riß	O	O	O	O	O	O	_	_	_
+würde	O	O	O	O	O	O	_	_	_
+gewiß	O	O	O	O	O	O	_	_	_
+tiefer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dringen	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Viele	O	O	O	O	O	O	_	_	_
+meinen	O	O	O	O	O	O	_	_	_
+mögen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Eine	O	O	O	O	O	O	_	_	_
+solche	O	O	O	O	O	O	_	_	_
+Lösung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aber	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+nothwendig	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Verschiedenheiten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#heiten	O	O	O	O	O	O	_	_	_|Commented
+doch	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+genug	O	O	O	O	O	O	_	_	_
+Gemeinsames	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Unterlage	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lage	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Redlichkeit	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Strebens	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+praktischen	O	O	O	O	O	O	_	_	_
+Zielpunkte	O	O	O	O	O	O	_	_	_
+vorhanden	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+und	O	O	O	O	O	O	_	_	_
+jene	O	O	O	O	O	O	_	_	_
+Lösung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+würde	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+kaum	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Frommen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kirche	O	O	O	O	O	O	_	_	_
+dienen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+da	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+vielmehr	O	O	O	O	O	O	_	_	_
+nöthig	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+neben	O	O	O	O	O	O	_	_	_
+voller	O	O	O	O	O	O	_	_	_
+Freiheit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Ueberzeugung	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Gemeinsamen	O	O	O	O	O	O	_	_	_
+festzuhalten	O	O	O	O	O	O	_	_	_
+gegenüber	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#über	O	O	O	O	O	O	_	_	_|Commented
+Allem	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Welt	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+zahlreich	O	O	O	O	O	O	_	_	_
+genug	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dem	O	O	O	O	O	O	_	_	_
+Kirchlichen	O	O	O	O	O	O	_	_	_
+überhaupt	O	O	O	O	O	O	_	_	_
+feindselig	O	O	O	O	O	O	_	_	_
+entgegenstellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Das	O	O	O	O	O	O	_	_	_
+freudige	O	O	O	O	O	O	_	_	_
+Zusammenwirken	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+zunächst	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dadurch	O	O	O	O	O	O	_	_	_
+bedingt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+verschiedenen	O	O	O	O	O	O	_	_	_
+Ueberzeugungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gungen	O	O	O	O	O	O	_	_	_|Commented
+sich	O	O	O	O	O	O	_	_	_
+gegenseitig	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Reinheit	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Motive	O	O	O	O	O	O	_	_	_
+anerkennen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+achten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+gut	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+immer	O	O	O	O	O	O	_	_	_
+ins	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Gewissen	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Andern	O	O	O	O	O	O	_	_	_
+hinein	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+richten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ten	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Ich	O	O	O	O	O	O	_	_	_
+darf	O	O	O	O	O	O	_	_	_
+beim	O	O	O	O	O	O	_	_	_
+redlichen	O	O	O	O	O	O	_	_	_
+Gegner	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Freunde	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+voraussetzen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+Gewissen	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+wohl	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Rathe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ziehe	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+ich	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+meinige	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auf	O	O	O	O	O	O	_	_	_
+diesem	O	O	O	O	O	O	_	_	_
+heiligsten	O	O	O	O	O	O	_	_	_
+Gebiete	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#biete	O	O	O	O	O	O	_	_	_|Commented
+ist	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+jeder	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+Gott	B-pers	O	B-pers.ind	O	O	O	Q190	_	_
+und	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	_
+Rechenschaft	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schuldig	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+gebührt	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+derartige	O	O	O	O	O	O	_	_	_
+Behandlung	O	O	O	O	O	O	_	_	_
+gerade	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rade	O	O	O	O	O	O	_	_	_|Commented
+den	O	O	O	O	O	O	_	_	_
+beiden	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Synodaldiskussion	O	O	O	O	O	O	_	_	_
+berührten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Männern	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+allerwenigsten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+indem	O	O	O	O	O	O	_	_	_
+beide	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schöne	O	O	O	O	O	O	_	_	_
+Uebereinstimmung	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Jahre	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ihres	O	O	O	O	O	O	_	_	_
+Lebens	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+unter	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+würdigsten	O	O	O	O	O	O	_	_	_
+Mustern	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+zürcherischen	O	O	O	O	O	O	_	_	_
+Geistlichkeit	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lichkeit	O	O	O	O	O	O	_	_	_|Commented
+dastehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auch	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Einzelne	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eine	O	O	O	O	O	O	_	_	_
+ganze	O	O	O	O	O	O	_	_	_
+Richtung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+d	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+h	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+diejenigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ihr	O	O	O	O	O	O	_	_	_
+zählen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+verantwortlich	O	O	O	O	O	O	_	_	_
+gemacht	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+kerngesunde	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gesunde	O	O	O	O	O	O	_	_	_|Commented
+Orthodoxe	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+wenig	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+dumpfen	O	O	O	O	O	O	_	_	_
+Mysticismus	B-prod	O	B-prod.doctr	O	O	O	Q45996	_	NoSpaceAfter|Normalized-6
+#¬	I-prod	O	I-prod.doctr	O	O	O	Q45996	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#cismus	I-prod	O	I-prod.doctr	O	O	O	Q45996	_	_|Commented
+als	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Freiergläubige	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+negativen	O	O	O	O	O	O	_	_	_
+Verirrungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#irrungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+;	O	O	O	O	O	O	_	_	_|EOS
+
+und	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+viel	O	O	O	O	O	O	_	_	_
+weniger	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Eine	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Andere	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+unlautere	O	O	O	O	O	O	_	_	_
+Gesindel	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+allein	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+richten	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+dereinst	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+richten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+denen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sagen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+frommer	O	O	O	O	O	O	_	_	_
+Miene	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+so	O	O	O	O	O	O	_	_	_
+viel	O	O	O	O	O	O	_	_	_
+wissenschaftlichem	O	O	O	O	O	O	_	_	_
+Scheine	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+voll	O	O	O	O	O	O	_	_	_
+Unrath	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Herzen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+nahen	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Hinweg	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ihr	O	O	O	O	O	O	_	_	_
+Gleißner	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ich	O	O	O	O	O	O	_	_	_
+kenne	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+euch	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+"	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+andern	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Betet	O	O	O	O	O	O	_	_	_
+immerhin	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+verschiedenen	O	O	O	O	O	O	_	_	_
+Sprachen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+mir	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+euer	O	O	O	O	O	O	_	_	_
+Herz	O	O	O	O	O	O	_	_	_
+will	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+mir	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gehet	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+meine	O	O	O	O	O	O	_	_	_
+Herrlichkeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+"	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Nachklang	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Synode	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+wollte	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+Theologie	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#logie	O	O	O	O	O	O	_	_	_|Commented
+treiben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+ohne	O	O	O	O	O	O	_	_	_
+Einmischung	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Frage	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auf	O	O	O	O	O	O	_	_	_
+welcher	O	O	O	O	O	O	_	_	_
+Seite	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+weniger	O	O	O	O	O	O	_	_	_
+Wahrheit	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#heit	O	O	O	O	O	O	_	_	_|Commented
+liege	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+einfach	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Verträglichkeit	O	O	O	O	O	O	_	_	_
+mahnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gegenwärtiges	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Schlußwort	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	_
+gerne	O	O	O	O	O	O	_	_	_
+unterblieben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wenn	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Verfasser	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Gefühl	O	O	O	O	O	O	_	_	_
+hätte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+durch	O	O	O	O	O	O	_	_	_
+jenen	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Nachklang	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+vielleicht	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Unrechte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Anlaß	O	O	O	O	O	O	_	_	_
+geboten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welches	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Entgegnung	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dritte	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+üben	O	O	O	O	O	O	_	_	_
+scheint	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+äußerst	O	O	O	O	O	O	_	_	_
+schwierig	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Wesen	O	O	O	O	O	O	_	_	_
+verschiedener	O	O	O	O	O	O	_	_	_
+Richtungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wieder	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+viele	O	O	O	O	O	O	_	_	_
+Nüancen	O	O	O	O	O	O	_	_	_
+zeigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+wenige	O	O	O	O	O	O	_	_	_
+Merkmale	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zusammenzufassen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+jeder	O	O	O	O	O	O	_	_	_
+erfährt	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wie	O	O	O	O	O	O	_	_	_
+schwer	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+hält	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+andere	O	O	O	O	O	O	_	_	_
+ihn	O	O	O	O	O	O	_	_	_
+richtig	O	O	O	O	O	O	_	_	_
+beurtheilen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+zweiten	O	O	O	O	O	O	_	_	_
+Standpunkte	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Nachklang	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welcher	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#cher	O	O	O	O	O	O	_	_	_|Commented
+innerhalb	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+protestantische	O	O	O	O	O	O	_	_	_
+Kirche	O	O	O	O	O	O	_	_	_
+gelegt	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+welcher	O	O	O	O	O	O	_	_	_
+eben	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+wohl	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+positiver	O	O	O	O	O	O	_	_	_
+genannt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+darf	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+erste	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bestreiten	O	O	O	O	O	O	_	_	_
+keineswegs	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bekannten	O	O	O	O	O	O	_	_	_
+vielmehr	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+als	O	O	O	O	O	O	_	_	_
+höchste	O	O	O	O	O	O	_	_	_
+Realität	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Persönlichkeit	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lichkeit	O	O	O	O	O	O	_	_	_|Commented
+des	O	O	O	O	O	O	_	_	_
+lebendigen	B-pers	O	B-pers.ind	O	B-comp.qualifier	O	Q190	_	_
+Gottes	I-pers	O	I-pers.ind	O	B-comp.name	O	Q190	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+bestreiten	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sondern	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+hoffen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+persönliche	O	O	O	O	O	O	_	_	_
+Unsterblichkeit	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Geistes	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Leibes	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+sie	O	O	O	O	O	O	_	_	_
+halten	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+die	O	O	O	O	O	O	_	_	_
+Thatsache	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+persönlichen	B-pers	O	B-pers.ind	O	B-comp.qualifier	O	Q302	_	_
+Christus	I-pers	O	I-pers.ind	O	B-comp.name	O	Q302	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+fest	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+geschichtliche	O	O	O	O	O	O	_	_	_
+Wirklichkeit	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lichkeit	O	O	O	O	O	O	_	_	_|Commented
+Christi	B-pers	O	B-pers.ind	O	O	O	Q302	_	_
+sammt	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+Lehre	O	O	O	O	O	O	_	_	_
+erschließen	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Spekulation	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+blos	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+18hundertjährigen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#dertjährigen	O	O	O	O	O	O	_	_	_|Commented
+Bestande	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kirche	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+blos	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Notizen	O	O	O	O	O	O	_	_	_
+damaliger	O	O	O	O	O	O	_	_	_
+weltlicher	O	O	O	O	O	O	_	_	_
+Autoren	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+Tacitus	B-pers	O	B-pers.ind	O	O	O	Q2161	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+s	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+w	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+allem	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+heiligen	O	O	O	O	O	O	_	_	_
+Schrift	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+selbst	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Geschichtsurkunden	O	O	O	O	O	O	_	_	_
+hinsichtlich	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Entstehung	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Verfasser	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+wissenschaftlichem	O	O	O	O	O	O	_	_	_
+Studium	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#dium	O	O	O	O	O	O	_	_	_|Commented
+prüfen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Wesen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+echte	O	O	O	O	O	O	_	_	_
+Bild	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+Ueberlieferten	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+erfassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+menschlichen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Natur	O	O	O	O	O	O	_	_	_
+Christi	B-pers	O	B-pers.ind	O	O	O	Q302	_	_
+läßt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Annahme	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+höchsten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sten	O	O	O	O	O	O	_	_	_|Commented
+Sendung	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Bestimmung	O	O	O	O	O	O	_	_	_
+wohl	O	O	O	O	O	O	_	_	_
+vereinigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wie	O	O	O	O	O	O	_	_	_
+denn	O	O	O	O	O	O	_	_	_
+Gott	B-pers	O	B-pers.ind	O	O	O	Q190	_	_
+nach	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+unerforschlichen	O	O	O	O	O	O	_	_	_
+Rathschlusse	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schlusse	O	O	O	O	O	O	_	_	_|Commented
+je	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Zeiten	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+erleuchtete	O	O	O	O	O	O	_	_	_
+Geister	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Spitze	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Menschheit	O	O	O	O	O	O	_	_	_
+stellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Entwicklung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lung	O	O	O	O	O	O	_	_	_|Commented
+vorwärts	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+führen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+Erlösungswerk	O	O	O	O	O	O	_	_	_
+Christi	B-pers	O	B-pers.ind	O	O	O	Q302	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erhält	O	O	O	O	O	O	_	_	_
+damit	O	O	O	O	O	O	_	_	_
+allerdings	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+andern	O	O	O	O	O	O	_	_	_
+Charakter	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+aber	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+ungeheure	O	O	O	O	O	O	_	_	_
+Schritt	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Weltgeschichte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welcher	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+nationalen	O	O	O	O	O	O	_	_	_
+Götter	O	O	O	O	O	O	_	_	_
+zerschlagen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+ganze	O	O	O	O	O	O	_	_	_
+gleichgeartete	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#geartete	O	O	O	O	O	O	_	_	_|Commented
+Menschheit	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+direktes	O	O	O	O	O	O	_	_	_
+Verhältniß	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vater	O	O	O	O	O	O	_	_	_
+Aller	O	O	O	O	O	O	_	_	_
+gestellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Ethik	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+ihren	O	O	O	O	O	O	_	_	_
+Geboten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+Belohnungen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Strafen	O	O	O	O	O	O	_	_	_
+ins	O	O	O	O	O	O	_	_	_
+eigene	O	O	O	O	O	O	_	_	_
+Herz	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Menschen	O	O	O	O	O	O	_	_	_
+verlegt	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+damit	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+vermindert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Anbetung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+alleinigen	O	O	O	O	O	O	_	_	_
+Gottes	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Tempel	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#pel	O	O	O	O	O	O	_	_	_|Commented
+in	O	O	O	O	O	O	_	_	_
+Ewigkeit	O	O	O	O	O	O	_	_	_
+bestehen	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+darin	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+Ewigkeit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Mittler	O	O	O	O	O	O	_	_	_
+verehrt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welcher	O	O	O	O	O	O	_	_	_
+jene	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Beziehung	O	O	O	O	O	O	_	_	_
+geoffenbaret	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Das	O	O	O	O	O	O	_	_	_
+Recht	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+freien	O	O	O	O	O	O	_	_	_
+Forschung	O	O	O	O	O	O	_	_	_
+muß	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Prinzipe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+Protestantismus	B-prod	O	B-prod.doctr	O	O	O	Q23540	_	_
+eine	O	O	O	O	O	O	_	_	_
+Wahrheit	O	O	O	O	O	O	_	_	_
+bleiben	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dabei	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Menschen	O	O	O	O	O	O	_	_	_
+eigenster	O	O	O	O	O	O	_	_	_
+Natur	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Räthseln	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+deren	O	O	O	O	O	O	_	_	_
+immer	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+genug	O	O	O	O	O	O	_	_	_
+übrig	O	O	O	O	O	O	_	_	_
+bleiben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+unvermeidlich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#vermeidlich	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+verschiedene	O	O	O	O	O	O	_	_	_
+Ansichten	O	O	O	O	O	O	_	_	_
+bilden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Ja	O	O	O	O	O	O	_	_	_
+möchte	O	O	O	O	O	O	_	_	_
+doch	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+jeder	O	O	O	O	O	O	_	_	_
+Mensch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Denken	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sprache	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Gewohnheitsdunste	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Wiedergeburt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#geburt	O	O	O	O	O	O	_	_	_|Commented
+seiner	O	O	O	O	O	O	_	_	_
+religiösen	O	O	O	O	O	O	_	_	_
+Ueberzeugung	O	O	O	O	O	O	_	_	_
+hindurcharbeiten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+je	O	O	O	O	O	O	_	_	_
+gewissenhafterm	O	O	O	O	O	O	_	_	_
+Ernste	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+dies	O	O	O	O	O	O	_	_	_
+thut	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+desto	O	O	O	O	O	O	_	_	_
+inniger	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+Bruder	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nämlichen	O	O	O	O	O	O	_	_	_
+Boden	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+andern	O	O	O	O	O	O	_	_	_
+Resultaten	O	O	O	O	O	O	_	_	_
+kommt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+anschließen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Gegensätze	O	O	O	O	O	O	_	_	_
+müssen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+überhaupt	O	O	O	O	O	O	_	_	_
+möglich	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kirche	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	_
+überwunden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+blos	O	O	O	O	O	O	_	_	_
+unduldsam	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+ungerecht	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gerecht	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Einen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Andern	O	O	O	O	O	O	_	_	_
+außer	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+gemeinsamen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#samen	O	O	O	O	O	O	_	_	_|Commented
+Verband	O	O	O	O	O	O	_	_	_
+weisen	O	O	O	O	O	O	_	_	_
+wollen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Wer	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+protestantischrn	O	O	O	O	O	O	_	_	_
+Kirche	O	O	O	O	O	O	_	_	_
+angehört	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sogar	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Hochschule	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bildung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+künftigen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gen	O	O	O	O	O	O	_	_	_|Commented
+Religionslehrer	O	O	O	O	O	O	_	_	_
+betraut	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Allgemeinen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Befähigung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+obern	O	O	O	O	O	O	_	_	_
+Gymnasium	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sium	O	O	O	O	O	O	_	_	_|Commented
+Religionsunterricht	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+ertheilen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+absprechen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Daß	O	O	O	O	O	O	_	_	_
+nun	O	O	O	O	O	O	_	_	_
+jede	O	O	O	O	O	O	_	_	_
+Richtung	O	O	O	O	O	O	_	_	_
+wünscht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+jener	O	O	O	O	O	O	_	_	_
+Lehrer	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rer	O	O	O	O	O	O	_	_	_|Commented
+möchte	O	O	O	O	O	O	_	_	_
+ihr	O	O	O	O	O	O	_	_	_
+angehören	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+natürlich	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+diesfällige	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fällige	O	O	O	O	O	O	_	_	_|Commented
+Bekümmernisse	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+Niemanden	O	O	O	O	O	O	_	_	_
+verargt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#den	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+ziemlich	O	O	O	O	O	O	_	_	_
+schwer	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+allen	O	O	O	O	O	O	_	_	_
+recht	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+treffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Einen	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+ihn	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+viel	O	O	O	O	O	O	_	_	_
+links	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Andern	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#dern	O	O	O	O	O	O	_	_	_|Commented
+zu	O	O	O	O	O	O	_	_	_
+viel	O	O	O	O	O	O	_	_	_
+rechts	O	O	O	O	O	O	_	_	_
+finden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Abgesehen	O	O	O	O	O	O	_	_	_
+davon	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+
+

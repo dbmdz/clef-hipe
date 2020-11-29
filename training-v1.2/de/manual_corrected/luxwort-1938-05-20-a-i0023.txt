@@ -1,0 +1,230 @@
+# language = de
+# newspaper = luxwort
+# date = 1938-05-20
+# document_id = luxwort-1938-05-20-a-i0023
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1849,1483,838,58/full/0/default.jpg
+Delcass	B-pers	O	B-pers.ind	O	O	O	Q503827	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	O	O	Q503827	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bruch	O	O	O	O	O	O	_	_	_
+Frankreichs	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q142	Q142	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/2183,1524,154,50/full/0/default.jpg
+Vatikan	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q237	Q237	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1889,1579,781,57/full/0/default.jpg
+In	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Revue	B-prod	O	B-prod.media	O	O	O	Q1389508	_	_
+de	I-prod	O	I-prod.media	O	O	O	Q1389508	_	_
+Paris	I-prod	O	I-prod.media	O	O	B-loc.adm.town	Q1389508	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1851,1622,836,58/full/0/default.jpg
+verössentlichten	O	O	O	O	O	O	_	_	_
+neues	O	O	O	O	O	O	_	_	_
+Material	O	O	O	O	O	O	_	_	_
+zutagefördernden	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1851,1666,830,57/full/0/default.jpg
+Erinnerungen	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+Frankreichs	B-loc	B-pers	B-loc.adm.nat	B-pers.ind	B-comp.function	B-org.adm	Q142	Q503827	_
+größten	I-pers	O	I-pers.ind	O	I-comp.function	O	Q503827	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1851,1710,837,57/full/0/default.jpg
+Außenminister	I-pers	O	I-pers.ind	O	I-comp.function	O	Q503827	_	_
+Deleass	I-pers	O	I-pers.ind	O	B-comp.name	O	Q503827	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	Q503827	_	_
+stellt	O	O	O	O	O	O	_	_	_
+Octave	B-pers	O	B-pers.ind	O	O	O	Q15969995	_	_
+Homberg	I-pers	O	I-pers.ind	O	O	O	Q15969995	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1851,1754,837,58/full/0/default.jpg
+fest	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+Delcass	B-pers	O	B-pers.ind	O	O	O	Q503827	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	O	O	Q503827	_	_
+gegen	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+seinerzeitigen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1851,1798,822,56/full/0/default.jpg
+Bruch	O	O	O	O	O	O	_	_	_
+Frankreichs	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q142	Q142	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Vatikan	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q237	Q237	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1851,1842,838,56/full/0/default.jpg
+gewesen	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Obwohl	O	O	O	O	O	O	_	_	_
+Radikalsozialist	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1853,1885,835,57/full/0/default.jpg
+nicht	O	O	O	O	O	O	_	_	_
+antiklerikal	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+als	O	O	O	O	O	O	_	_	_
+Außenminister	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1853,1929,836,49/full/0/default.jpg
+überdies	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+moralische	O	O	O	O	O	O	_	_	_
+Macht	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Papsttums	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1853,1972,838,50/full/0/default.jpg
+kennen	O	O	O	O	O	O	_	_	_
+gelernt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+alles	O	O	O	O	O	O	_	_	_
+getan	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1853,2016,821,50/full/0/default.jpg
+Eombes	B-pers	O	B-pers.ind	O	O	O	Q275020	_	_
+am	O	O	O	O	O	O	_	_	_
+Bruch	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Konkordates	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1853,2059,838,57/full/0/default.jpg
+verhindern	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Präsident	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Republik	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1853,2104,838,49/full/0/default.jpg
+allein	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Laufenden	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+entsandte	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1853,2147,839,57/full/0/default.jpg
+ohne	O	O	O	O	O	O	_	_	_
+Wissen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	_
+Botschaft	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1854,2191,838,51/full/0/default.jpg
+Rom	B-loc	O	B-loc.adm.town	O	O	O	Q220	_	_
+Victor	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+Homberg	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	_
+geheimer	O	O	O	O	O	O	_	_	_
+Mission	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1853,2237,820,56/full/0/default.jpg
+nach	O	O	O	O	O	O	_	_	_
+Rom	B-loc	O	B-loc.adm.town	O	O	O	Q220	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+Vermittlung	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1853,2279,839,49/full/0/default.jpg
+Kardinal	B-pers	O	B-pers.ind	O	B-comp.title	O	Q508860	_	_
+Rampolla	I-pers	O	I-pers.ind	O	B-comp.name	O	Q508860	_	_
+Konzessionen	O	O	O	O	O	O	_	_	_
+namentlich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1854,2323,824,50/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Frage	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Vischofsernennungen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1855,2367,837,57/full/0/default.jpg
+erlangen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+die	O	O	O	O	O	O	_	_	_
+Konzessionen	O	O	O	O	O	O	_	_	_
+sollten	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+Präsident	B-pers	O	B-pers.ind	O	B-comp.function	O	Q169502	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1855,2410,837,57/full/0/default.jpg
+Loubet	I-pers	O	I-pers.ind	O	B-comp.name	O	Q169502	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Delcass	B-pers	O	B-pers.ind	O	O	O	Q503827	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	O	O	Q503827	_	_
+und	O	O	O	O	O	O	_	_	_
+zwei	O	O	O	O	O	O	_	_	_
+weiteren	O	O	O	O	O	O	_	_	_
+Ministern	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1856,2454,836,57/full/0/default.jpg
+ermöglichen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Bruch	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Konkordates	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1855,2496,837,51/full/0/default.jpg
+im	O	O	O	O	O	O	_	_	_
+Schoß	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Kcwinettes	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+bekämpfen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1855,2541,818,49/full/0/default.jpg
+M	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Homberg	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+brachte	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Tat	O	O	O	O	O	O	_	_	_
+gewisse	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1857,2585,835,57/full/0/default.jpg
+Abänderungen	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Konkordates	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Rom	B-loc	O	B-loc.adm.town	O	O	O	Q220	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1857,2629,835,57/full/0/default.jpg
+zurück	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+antiklerikale	O	O	O	O	O	O	_	_	_
+Leidenschaft	O	O	O	O	O	O	_	_	_
+Eombes	B-pers	O	B-pers.ind	O	O	O	Q275020	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1856,2681,836,42/full/0/default.jpg
+was	O	O	O	O	O	O	_	_	_
+indessen	O	O	O	O	O	O	_	_	_
+größer	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+stürmischen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f6fcntn%2fpages%2f1/1859,2716,833,54/full/0/default.jpg
+Kabinettssitzung	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bruch	O	O	O	O	O	O	_	_	_
+beschlossen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

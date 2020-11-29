@@ -1,0 +1,1007 @@
+# language = de
+# newspaper = NZZ
+# date = 1908-09-15
+# document_id = NZZ-1908-09-15-d-p0002
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+Güttinger	O	O	O	O	O	O	_	_	_
+Mord	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Schwurgericht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+Fall	O	O	O	O	O	O	_	_	_
+liegt	O	O	O	O	O	O	_	_	_
+weit	O	O	O	O	O	O	_	_	_
+zurück	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+denn	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Jahr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Im	O	O	O	O	O	O	_	_	_
+Schloß	B-loc	O	B-loc.fac	O	O	O	NIL	_	_
+Güttingen	I-loc	O	I-loc.fac	O	O	B-loc.adm.town	NIL	_	_
+lebte	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Sonderling	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Berner	B-pers	O	B-pers.ind	O	B-comp.demonym	O	NIL	_	_
+Albert	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Rätzer	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+arbeitreiches	O	O	O	O	O	O	_	_	_
+Leben	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Privatier	O	O	O	O	O	O	_	_	_
+beschließen	O	O	O	O	O	O	_	_	_
+wollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Wirklichkeit	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Lebensabend	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+allerlei	O	O	O	O	O	O	_	_	_
+eingebildete	O	O	O	O	O	O	_	_	_
+Schikanen	O	O	O	O	O	O	_	_	_
+verbitterte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bitterte	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Diesen	O	O	O	O	O	O	_	_	_
+Rätzer	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+fand	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+Dienstpersonal	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Nachmittag	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mittag	O	O	O	O	O	O	_	_	_|Commented
+des	O	O	O	O	O	O	_	_	_
+11	B-time	O	B-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+Septembers	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1907	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+im	O	O	O	O	O	O	_	_	_
+Treppenhaus	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	_
+Zügen	O	O	O	O	O	O	_	_	_
+liegend	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+ein	O	O	O	O	O	O	_	_	_
+Fremder	O	O	O	O	O	O	_	_	_
+erklärte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Rätzer	B-pers	O	B-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wäre	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Stiege	O	O	O	O	O	O	_	_	_
+hinuntergestürzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+man	O	O	O	O	O	O	_	_	_
+lief	O	O	O	O	O	O	_	_	_
+dahin	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dorthin	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#hin	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+während	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schloßherr	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ohne	O	O	O	O	O	O	_	_	_
+je	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Besinnung	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Geist	O	O	O	O	O	O	_	_	_
+aufgab	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dem	O	O	O	O	O	O	_	_	_
+Arzt	O	O	O	O	O	O	_	_	_
+fiel	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schwer	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+konstatieren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+etwas	O	O	O	O	O	O	_	_	_
+Ungewöhnliches	O	O	O	O	O	O	_	_	_
+vorgefallen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gefallen	O	O	O	O	O	O	_	_	_|Commented
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+erst	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	_
+fielen	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Dienstpersonal	O	O	O	O	O	O	_	_	_
+allerlei	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nebenumstände	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+jetzt	O	O	O	O	O	O	_	_	_
+erst	O	O	O	O	O	O	_	_	_
+ward	O	O	O	O	O	O	_	_	_
+jeder	O	O	O	O	O	O	_	_	_
+davon	O	O	O	O	O	O	_	_	_
+überzeugt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zeugt	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+Rätzer	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+einem	O	O	O	O	O	O	_	_	_
+Mordanschlag	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Opfer	O	O	O	O	O	O	_	_	_
+gefallen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fallen	O	O	O	O	O	O	_	_	_|Commented
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Wer	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Täter	O	O	O	O	O	O	_	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	_|EOS
+
+Am	O	O	O	O	O	O	_	_	_
+6	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+September	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Meier	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+vorgesprochen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Schloß	O	O	O	O	O	O	_	_	_
+kaufen	O	O	O	O	O	O	_	_	_
+wollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Am	O	O	O	O	O	O	_	_	_
+9	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Fräulein	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+Josephine	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Zapf	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+erschienen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+so	O	O	O	O	O	O	_	_	_
+gut	O	O	O	O	O	O	_	_	_
+Wetter	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+machen	O	O	O	O	O	O	_	_	_
+verstand	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+alle	O	O	O	O	O	O	_	_	_
+Gewohnheit	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+verhängnisvollen	O	O	O	O	O	O	_	_	_
+Mittwoch	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+11	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+September	O	O	O	O	O	O	_	_	_
+beherbergte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Da	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Meier	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+wieder	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gekommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Und	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+Rätzer	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+sein	O	O	O	O	O	O	_	_	_
+Besitztum	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gezeigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dabei	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schloßbesitzer	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+verunglückt	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Meier	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+und	O	O	O	O	O	O	_	_	_
+Fräulein	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+Zapf	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+aber	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	_
+spurlos	O	O	O	O	O	O	_	_	_
+verschwunden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schwunden	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+In	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Villa	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Thielle	B-loc	O	B-loc.adm.town	O	O	O	Q15850679	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Kanton	B-loc	O	B-loc.adm.reg	O	O	O	Q12738	_	_
+Neuenburg	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q12738	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+lebte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ein	O	O	O	O	O	O	_	_	_
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Meier	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+mit	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+Mutter	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Witwe	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	_
+Meier	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+und	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Haushälterin	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Josephine	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Zapf	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Leute	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	_
+im	B-time	O	B-time.date.abs	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+März	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1907	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+gekommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Bald	O	O	O	O	O	O	_	_	_
+blieb	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bald	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+andere	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Lieferant	O	O	O	O	O	O	_	_	_
+unbezahlt	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+so	O	O	O	O	O	O	_	_	_
+ward	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+nachgerade	O	O	O	O	O	O	_	_	_
+wohlbekannt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Leute	O	O	O	O	O	O	_	_	_
+wenig	O	O	O	O	O	O	_	_	_
+Geld	O	O	O	O	O	O	_	_	_
+besaßen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Da	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+13	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+September	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tember	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+konnte	O	O	O	O	O	O	_	_	_
+Meier	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+Zahlungen	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Betrage	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+1500	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+leisten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+fiel	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Und	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Abend	O	O	O	O	O	O	_	_	_
+gleichen	O	O	O	O	O	O	_	_	_
+Tages	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ges	O	O	O	O	O	O	_	_	_|Commented
+saßen	O	O	O	O	O	O	_	_	_
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Meier	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zapf	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+bereits	O	O	O	O	O	O	_	_	_
+hinter	O	O	O	O	O	O	_	_	_
+Schloß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+Riegel	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Da	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Leute	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Schlosse	B-loc	O	B-loc.fac	O	O	O	NIL	_	_
+Güttingen	I-loc	O	I-loc.fac	O	O	B-loc.adm.town	NIL	_	_
+um	O	O	O	O	O	O	_	_	_
+ihren	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Herrn	O	O	O	O	O	O	_	_	_
+bemühten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	_
+Meier	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+am	O	O	O	O	O	O	_	_	_
+Geldschrank	O	O	O	O	O	O	_	_	_
+operiert	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+verschiedene	O	O	O	O	O	O	_	_	_
+Wertpapiere	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Obligationen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Thurgauischen	B-org	O	B-org.ent	O	O	O	NIL	_	_
+Hypothekenbank	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Namen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+lautende	O	O	O	O	O	O	_	_	_
+Obligation	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Stadt	O	O	O	O	O	O	_	_	_
+Konstanz	B-loc	O	B-loc.adm.town	O	O	O	Q3834	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sowie	O	O	O	O	O	O	_	_	_
+ungefähr	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fähr	O	O	O	O	O	O	_	_	_|Commented
+1700	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+bar	O	O	O	O	O	O	_	_	_
+entnommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dann	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	_
+Meier	B-pers	O	B-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zapf	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+nach	O	O	O	O	O	O	_	_	_
+Zürich	B-loc	O	B-loc.adm.town	O	O	O	Q72	_	_
+gefahren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Hotel	B-org	O	B-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+„	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+Bellevue	I-org	O	I-org.ent	O	B-comp.name	O	NIL	_	NoSpaceAfter
+"	I-org	O	I-org.ent	O	O	O	NIL	_	_
+abstiegen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Den	O	O	O	O	O	O	_	_	_
+folgenden	O	O	O	O	O	O	_	_	_
+Morgen	O	O	O	O	O	O	_	_	_
+benützte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Zapf	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+dazu	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Obligationen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Thurgauischen	B-org	O	B-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Hypothekenbank	I-org	O	I-org.ent	O	O	O	NIL	_	_
+zu	O	O	O	O	O	O	_	_	_
+versilbern	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+darauf	O	O	O	O	O	O	_	_	_
+reiste	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Paar	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nach	O	O	O	O	O	O	_	_	_
+Thielle	B-loc	O	B-loc.adm.town	O	O	O	Q15850679	_	_
+ab	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+doch	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+folgenden	O	O	O	O	O	O	_	_	_
+Tages	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dem	O	O	O	O	O	O	_	_	_
+Häscher	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Hände	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+fallen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Rätzer	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+hatte	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gut	O	O	O	O	O	O	_	_	_
+Buch	O	O	O	O	O	O	_	_	_
+geführt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+genaue	O	O	O	O	O	O	_	_	_
+Werttitelbestand	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bestand	O	O	O	O	O	O	_	_	_|Commented
+hätte	O	O	O	O	O	O	_	_	_
+ermittelt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Wer	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Meier	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Zahnarzt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ausgegeben	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+stellte	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+bald	O	O	O	O	O	O	_	_	_
+heraus	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+Beruf	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ruf	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+Titel	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+bereits	O	O	O	O	O	O	_	_	_
+verstorbenen	O	O	O	O	O	O	_	_	_
+Vater	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Zürich	B-loc	O	B-loc.adm.town	O	O	O	Q72	_	_
+praktiziert	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+entliehen	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Meier	B-pers	O	B-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+selber	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+weder	O	O	O	O	O	O	_	_	_
+Zahnarzt	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+Doktor	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nichts	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nichts	O	O	O	O	O	O	_	_	_
+weniger	O	O	O	O	O	O	_	_	_
+denn	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Vagant	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+seit	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+1904	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+nacheinander	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#einander	O	O	O	O	O	O	_	_	_|Commented
+in	O	O	O	O	O	O	_	_	_
+Verona	B-loc	O	B-loc.adm.town	O	O	O	Q2028	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Tettnang	B-loc	O	B-loc.adm.town	O	O	O	Q506323	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Mogelsberg	B-loc	O	B-loc.adm.town	O	O	O	Q869624	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Villa	B-loc	O	B-loc.unk	O	O	O	NIL	_	_
+Tigelsberg	I-loc	O	I-loc.unk	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Berneck	B-loc	O	B-loc.adm.town	O	O	O	Q67225	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Thielle	B-loc	O	B-loc.adm.town	O	O	O	Q15850679	_	_
+seinen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Wohnsitz	O	O	O	O	O	O	_	_	_
+aufgeschlagen	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+überall	O	O	O	O	O	O	_	_	_
+desselben	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Renommees	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+schlechter	O	O	O	O	O	O	_	_	_
+Zahler	O	O	O	O	O	O	_	_	_
+genoß	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Zapf	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	_|EOS
+
+eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Württembergerin	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Meier	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+in	O	O	O	O	O	O	_	_	_
+Tettnang	B-loc	O	B-loc.adm.town	O	O	O	Q506323	_	_
+logiert	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+oft	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Meier	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+zusammenlebte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+es	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Umstände	O	O	O	O	O	O	_	_	_
+erforderten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+trennen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+so	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+im	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+Juni	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1907	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Familie	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Zürich	B-loc	O	B-loc.adm.town	O	O	O	Q72	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dienst	O	O	O	O	O	O	_	_	_
+geständen	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Zapf	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+war	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+angehende	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vierzigerin	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Meier	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+erst	O	O	O	O	O	O	_	_	_
+achtundzwanzigjährig	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Just	O	O	O	O	O	O	_	_	_
+acht	O	O	O	O	O	O	_	_	_
+Tage	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Mord	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Schlosse	B-loc	O	B-loc.fac	O	O	O	NIL	_	_
+Güttingen	I-loc	O	I-loc.fac	O	O	B-loc.adm.town	NIL	_	NoSpaceAfter|Normalized-6
+#¬	I-loc	O	I-loc.fac	O	O	I-loc.adm.town	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tingen	I-loc	O	I-loc.fac	O	O	I-loc.adm.town	NIL	_	_|Commented
+wurden	O	O	O	O	O	O	_	_	_
+Meier	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zapf	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+thurgauischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Behörden	O	O	O	O	O	O	_	_	_
+ausgeliefert	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Untersuchung	O	O	O	O	O	O	_	_	_
+begann	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+sie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+förderte	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zapf	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+eine	O	O	O	O	O	O	_	_	_
+Diebstahlsgeschichte	O	O	O	O	O	O	_	_	_
+zutage	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+zürcherischen	O	O	O	O	O	O	_	_	_
+Geschwornen	O	O	O	O	O	O	_	_	_
+bekannt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+machen	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Zapf	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+erwies	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Untersuchungsrichter	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#richter	O	O	O	O	O	O	_	_	_|Commented
+gegenüber	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+erstaunliche	O	O	O	O	O	O	_	_	_
+Märchenerzählerin	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Mörder	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Gehilfin	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+bereits	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Hintergrund	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+öffentlichen	O	O	O	O	O	O	_	_	_
+Interesses	O	O	O	O	O	O	_	_	_
+getreten	O	O	O	O	O	O	_	_	_
+infolge	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#folge	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+inzwischen	O	O	O	O	O	O	_	_	_
+erfolgten	O	O	O	O	O	O	_	_	_
+Publikation	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Testaments	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+Opfers	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Albert	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+Rätzer	I-pers	O	I-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welches	O	O	O	O	O	O	_	_	_
+Testament	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Nr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+271	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+im	O	O	O	O	O	O	_	_	_
+zweiten	O	O	O	O	O	O	_	_	_
+Morgenblatt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ziemlich	O	O	O	O	O	O	_	_	_
+ausführlich	O	O	O	O	O	O	_	_	_
+dargestellt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+worden	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	_
+Willensverfügung	O	O	O	O	O	O	_	_	_
+zeigte	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Rätzer	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+als	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+ausgesprochene	O	O	O	O	O	O	_	_	_
+Querulantennatur	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Man	O	O	O	O	O	O	_	_	_
+erinnert	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+gewiß	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Stand	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Thurgau	B-loc	O	B-loc.adm.reg	O	O	O	Q12713	_	_
+geradezu	O	O	O	O	O	O	_	_	_
+insultierenden	O	O	O	O	O	O	_	_	_
+Fassung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Testamentes	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mentes	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+wonach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bundesrat	B-org	O	B-org.adm	O	O	O	Q30917	_	_
+zum	O	O	O	O	O	O	_	_	_
+Haupterben	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+damals	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+rund	O	O	O	O	O	O	_	_	_
+300,000	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+geschätzten	O	O	O	O	O	O	_	_	_
+Vermögens	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eingesetzt	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Dann	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+allmählich	O	O	O	O	O	O	_	_	_
+still	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Man	O	O	O	O	O	O	_	_	_
+vernahm	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wie	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Hausdurchsuchung	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Thielle	B-loc	O	B-loc.adm.town	O	O	O	Q15850679	_	_
+recht	O	O	O	O	O	O	_	_	_
+belastendes	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Material	O	O	O	O	O	O	_	_	_
+zutage	O	O	O	O	O	O	_	_	_
+gefördert	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dann	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+Meiers	B-pers	O	B-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Name	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Tode	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+jungen	O	O	O	O	O	O	_	_	_
+Mannes	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Berneck	B-loc	O	B-loc.adm.town	O	O	O	Q67225	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+Verbindung	O	O	O	O	O	O	_	_	_
+gebracht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Untersuchung	O	O	O	O	O	O	_	_	_
+zog	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Länge	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Endlich	O	O	O	O	O	O	_	_	_
+konnte	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+abgeschlossen	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+sie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+endete	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Zitation	O	O	O	O	O	O	_	_	_
+Meiers	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Zapf	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+vor	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schwurgericht	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Weinfelden	B-loc	O	B-loc.adm.town	O	O	O	Q68258	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

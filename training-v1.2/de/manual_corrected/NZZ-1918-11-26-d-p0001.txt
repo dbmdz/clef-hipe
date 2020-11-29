@@ -1,0 +1,922 @@
+# language = de
+# newspaper = NZZ
+# date = 1918-11-26
+# document_id = NZZ-1918-11-26-d-p0001
+# segment_iiif_link = _
+Feuilleton	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Erster	O	O	O	O	O	O	_	_	_
+Lesezirkelabend	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+t	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Im	O	O	O	O	O	O	_	_	_
+Theatersaal	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Kaufleuten	B-org	O	B-org.ent	O	O	O	Q60635988	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+setzten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+am	O	O	O	O	O	O	_	_	_
+Samstag	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+23	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+November	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Lesezirkels	B-org	O	B-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Hottingen	I-org	O	I-org.ent	O	O	B-loc.adm.town	NIL	_	_
+Abende	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+Literatur	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Kunst	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Ein	O	O	O	O	O	O	_	_	_
+neuer	O	O	O	O	O	O	_	_	_
+Wochentag	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+statt	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+traulicher	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Gewohnheit	O	O	O	O	O	O	_	_	_
+gewordenen	O	O	O	O	O	O	_	_	_
+Montag	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+anderes	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#deres	O	O	O	O	O	O	_	_	_|Commented
+Lokal	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+erst	O	O	O	O	O	O	_	_	_
+näher	O	O	O	O	O	O	_	_	_
+Fühlung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lung	O	O	O	O	O	O	_	_	_|Commented
+nehmen	O	O	O	O	O	O	_	_	_
+muß	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+obschon	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+durchaus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kein	O	O	O	O	O	O	_	_	_
+ästhetisches	O	O	O	O	O	O	_	_	_
+Minus	O	O	O	O	O	O	_	_	_
+bedeutet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Freilich	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+niedere	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#dere	O	O	O	O	O	O	_	_	_|Commented
+Podium	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Kontakt	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Auditorium	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#torium	O	O	O	O	O	O	_	_	_|Commented
+immer	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+höher	O	O	O	O	O	O	_	_	_
+gelegenen	O	O	O	O	O	O	_	_	_
+Bühne	O	O	O	O	O	O	_	_	_
+vorzuziehen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ziehen	O	O	O	O	O	O	_	_	_|Commented
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Singen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Sagen	O	O	O	O	O	O	_	_	_
+direkt	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dem	O	O	O	O	O	O	_	_	_
+Vorhang	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+akustisch	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+kein	O	O	O	O	O	O	_	_	_
+Ideal	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Josef	B-pers	O	B-pers.ind	O	B-comp.name	O	Q125412	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Reinhart	I-pers	O	I-pers.ind	O	I-comp.name	O	Q125412	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q125412	_	_
+der	I-pers	O	I-pers.ind	O	O	O	Q125412	_	_
+Solothurner	I-pers	O	I-pers.ind	O	B-comp.function	O	Q125412	_	_
+Dichter	I-pers	O	I-pers.ind	O	I-comp.function	O	Q125412	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q125412	_	_
+stellte	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nicht	O	O	O	O	O	O	_	_	_
+gleich	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Anfang	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+wünschbare	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bare	O	O	O	O	O	O	_	_	_|Commented
+Tonstärke	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wozu	O	O	O	O	O	O	_	_	_
+freilich	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+beigetragen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+haben	O	O	O	O	O	O	_	_	_
+mag	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Beleuchtungsverhältnisse	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Vorlesenden	O	O	O	O	O	O	_	_	_
+nichts	O	O	O	O	O	O	_	_	_
+weniger	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+ideale	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Aus	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+stillbehaglichen	O	O	O	O	O	O	_	_	_
+Geschichten	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Bandes	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Waldvogelzyt	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Kindheitserinnerung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+Auge	O	O	O	O	O	O	_	_	_
+hell	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+beglückt	O	O	O	O	O	O	_	_	_
+aufschlägt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+las	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+reizenden	O	O	O	O	O	O	_	_	_
+Abschnitt	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+ersten	O	O	O	O	O	O	_	_	_
+Beichte	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dann	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+ersten	O	O	O	O	O	O	_	_	_
+Stadtbesuch	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Santiklausmarkt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#klausmarkt	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+St	B-loc	O	B-loc.adm.town	O	O	O	Q68965	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.town	O	O	O	Q68965	_	_
+Ursenstadt	I-loc	O	I-loc.adm.town	O	O	O	Q68965	_	_
+vor	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+köstlich	O	O	O	O	O	O	_	_	_
+einfache	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+humorbesonnte	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+namentlich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+erste	O	O	O	O	O	O	_	_	_
+Geschichte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auch	O	O	O	O	O	O	_	_	_
+psychologisch	O	O	O	O	O	O	_	_	_
+recht	O	O	O	O	O	O	_	_	_
+fein	O	O	O	O	O	O	_	_	_
+gefaßte	O	O	O	O	O	O	_	_	_
+Stücke	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vortragenden	O	O	O	O	O	O	_	_	_
+reichen	O	O	O	O	O	O	_	_	_
+Beifall	O	O	O	O	O	O	_	_	_
+eintrugen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Zur	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Prosa	O	O	O	O	O	O	_	_	_
+spendete	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Reihe	O	O	O	O	O	O	_	_	_
+mundartliche	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#artliche	O	O	O	O	O	O	_	_	_|Commented
+freundlich	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+sinnige	O	O	O	O	O	O	_	_	_
+Lyrica	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+denen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+man	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Anzahl	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Reinharts	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+besten	O	O	O	O	O	O	_	_	_
+Sachen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+begegnete	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+a	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Kirchhofgedicht	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Gedenkdran	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#denkdran	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Mahnung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+kein	O	O	O	O	O	O	_	_	_
+Toter	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+zurückkommt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kommt	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Dichter	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+Schöpfungen	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+trefflicher	O	O	O	O	O	O	_	_	_
+Interpret	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+namentlich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Prosa	O	O	O	O	O	O	_	_	_
+ersteht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+ungemein	O	O	O	O	O	O	_	_	_
+lebendiger	O	O	O	O	O	O	_	_	_
+Anschaulichkeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Dem	O	O	O	O	O	O	_	_	_
+literarischen	O	O	O	O	O	O	_	_	_
+Programm	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+ersten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Lesezirkel	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Abends	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Schluß	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+beiden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+durch	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+kurze	O	O	O	O	O	O	_	_	_
+Pause	O	O	O	O	O	O	_	_	_
+voneinander	O	O	O	O	O	O	_	_	_
+getrennten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vorlesungen	O	O	O	O	O	O	_	_	_
+Joseph	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+Reinharts	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+noch	O	O	O	O	O	O	_	_	_
+je	O	O	O	O	O	O	_	_	_
+vier	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dialektlieder	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Vertonung	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Fritz	B-pers	O	B-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Niggli	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+angefügt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Mit	O	O	O	O	O	O	_	_	_
+sympathischer	O	O	O	O	O	O	_	_	_
+Sopranstimme	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stimme	O	O	O	O	O	O	_	_	_|Commented
+trug	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+Frau	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+Gysin	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+-	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+Mohler	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_
+vor	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sekundiert	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+Flügel	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+zuverlässigsten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Begleiter	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+wünschen	O	O	O	O	O	O	_	_	_
+konnte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Komponisten	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Zu	O	O	O	O	O	O	_	_	_
+Gehör	O	O	O	O	O	O	_	_	_
+kamen	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+J	O	O	O	O	O	O	_	_	_
+bien	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+en	O	O	O	O	O	O	_	_	_
+arme	O	O	O	O	O	O	_	_	_
+Fischer	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Heimliche	O	O	O	O	O	O	_	_	_
+Liebe	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+J	O	O	O	O	O	O	_	_	_
+möcht	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+Jeger	O	O	O	O	O	O	_	_	_
+finde	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+D	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+Liebi	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ferner	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Stärnli	O	O	O	O	O	O	_	_	_
+überm	O	O	O	O	O	O	_	_	_
+Huns	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Nach	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dem	O	O	O	O	O	O	_	_	_
+Regen	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Rosenzeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Was	O	O	O	O	O	O	_	_	_
+brucht	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+rächte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schwyzerma	O	O	O	O	O	O	_	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+"	O	O	O	O	O	O	_	_	_
+Daß	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Fritz	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+Niggli	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+ein	O	O	O	O	O	O	_	_	_
+starkes	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kes	O	O	O	O	O	O	_	_	_|Commented
+Talent	O	O	O	O	O	O	_	_	_
+gerade	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Liederkomposition	O	O	O	O	O	O	_	_	_
+besitzen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+darf	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	_
+gebotenen	O	O	O	O	O	O	_	_	_
+Proben	O	O	O	O	O	O	_	_	_
+ohne	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Umschweife	O	O	O	O	O	O	_	_	_
+gern	O	O	O	O	O	O	_	_	_
+festgestellt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Erfreut	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+Josef	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+Reinhart	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+dialektischen	O	O	O	O	O	O	_	_	_
+Kleinkunst	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kunst	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+unserm	O	O	O	O	O	O	_	_	_
+Tondichter	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einem	O	O	O	O	O	O	_	_	_
+Zaubergespinst	O	O	O	O	O	O	_	_	_
+überwebenden	O	O	O	O	O	O	_	_	_
+Feinkunst	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Aber	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+obschon	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+ästhetische	O	O	O	O	O	O	_	_	_
+Glaubensbekenntnisse	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bekenntnisse	O	O	O	O	O	O	_	_	_|Commented
+nicht	O	O	O	O	O	O	_	_	_
+streiten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+weniger	O	O	O	O	O	O	_	_	_
+rechten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ten	O	O	O	O	O	O	_	_	_|Commented
+läßt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wollen	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+doch	O	O	O	O	O	O	_	_	_
+kein	O	O	O	O	O	O	_	_	_
+Hehl	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+unserer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+persönlichen	O	O	O	O	O	O	_	_	_
+Empfindung	O	O	O	O	O	O	_	_	_
+machen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Dialektdichtung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lektdichtung	O	O	O	O	O	O	_	_	_|Commented
+Reinharts	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+sich	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+eigentlich	O	O	O	O	O	O	_	_	_
+tragische	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gische	O	O	O	O	O	O	_	_	_|Commented
+Klänge	O	O	O	O	O	O	_	_	_
+ihrem	O	O	O	O	O	O	_	_	_
+innersten	O	O	O	O	O	O	_	_	_
+Wesen	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+ablehnend	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lehnend	O	O	O	O	O	O	_	_	_|Commented
+verhält	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+arme	O	O	O	O	O	O	_	_	_
+Fischer	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bettlerhumor	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+völlig	O	O	O	O	O	O	_	_	_
+verloren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Musik	O	O	O	O	O	O	_	_	_
+allein	O	O	O	O	O	O	_	_	_
+uns	O	O	O	O	O	O	_	_	_
+glauben	O	O	O	O	O	O	_	_	_
+machen	O	O	O	O	O	O	_	_	_
+könnte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Schubert	B-pers	O	B-pers.ind	O	O	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+elegischen	O	O	O	O	O	O	_	_	_
+Gesängen	O	O	O	O	O	O	_	_	_
+seines	O	O	O	O	O	O	_	_	_
+Müllerliederzyklus	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zyklus	O	O	O	O	O	O	_	_	_|Commented
+kam	O	O	O	O	O	O	_	_	_
+uns	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+was	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Analogie	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Stimmungsgehaltes	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-13
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mungsgehaltes	O	O	O	O	O	O	_	_	_|Commented
+betrifft	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Sinn	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vielsache	O	O	O	O	O	O	_	_	_
+Verwendung	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+leiterfremden	O	O	O	O	O	O	_	_	_
+Tönen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+macht	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+gewissen	O	O	O	O	O	O	_	_	_
+Zwiespalt	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+volkstümlichen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tümlichen	O	O	O	O	O	O	_	_	_|Commented
+Sprachcharakter	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Gedichte	O	O	O	O	O	O	_	_	_
+gelegentlich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lich	O	O	O	O	O	O	_	_	_|Commented
+fühlbar	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+So	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+zweiten	O	O	O	O	O	O	_	_	_
+Zeile	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Stärnli	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+überm	O	O	O	O	O	O	_	_	_
+Huns	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_
+Ob	O	O	O	O	O	O	_	_	_
+d	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+Sunne	O	O	O	O	O	O	_	_	_
+hinder	O	O	O	O	O	O	_	_	_
+d	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+Bärge	O	O	O	O	O	O	_	_	_
+goht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+so	O	O	O	O	O	O	_	_	_
+blibt	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+nomols	O	O	O	O	O	O	_	_	_
+stoh	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Durchaus	O	O	O	O	O	O	_	_	_
+bewußt	O	O	O	O	O	O	_	_	_
+künstlerisch	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lerisch	O	O	O	O	O	O	_	_	_|Commented
+gewählt	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Liedchen	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+D	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+Liebi	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Harmoniefolge	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Worten	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Und	O	O	O	O	O	O	_	_	_
+wenns	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+gfährligst	O	O	O	O	O	O	_	_	_
+Chranket	O	O	O	O	O	O	_	_	_
+wär	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Der	O	O	O	O	O	O	_	_	_
+Hörer	O	O	O	O	O	O	_	_	_
+sollte	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hin	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+her	O	O	O	O	O	O	_	_	_
+gerüttelt	O	O	O	O	O	O	_	_	_
+fühlen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+doch	O	O	O	O	O	O	_	_	_
+merken	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+er	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+schließlich	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+zurechtfand	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Derartige	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#artige	O	O	O	O	O	O	_	_	_|Commented
+Wendungen	O	O	O	O	O	O	_	_	_
+zeugen	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+großem	O	O	O	O	O	O	_	_	_
+Geschick	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+Tonsatzes	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+ob	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+volkstümliche	O	O	O	O	O	O	_	_	_
+gelten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	_|EOS
+
+Schon	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Durchkomposition	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+weist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Richtung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+hohen	O	O	O	O	O	O	_	_	_
+Kunstliedes	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Deshalb	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+möchten	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+gutem	O	O	O	O	O	O	_	_	_
+Grund	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Nr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+8	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Schluß	O	O	O	O	O	O	_	_	_
+gestellte	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Was	O	O	O	O	O	O	_	_	_
+brucht	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+rächte	O	O	O	O	O	O	_	_	_
+Schwyzerma	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zerma	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+?	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+eigentlichen	O	O	O	O	O	O	_	_	_
+Treffer	O	O	O	O	O	O	_	_	_
+halten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+zwar	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Gesangspart	O	O	O	O	O	O	_	_	_
+neben	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+glänzenden	O	O	O	O	O	O	_	_	_
+Lust	O	O	O	O	O	O	_	_	_
+sprühenden	O	O	O	O	O	O	_	_	_
+Klavierbegleitung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+oder	O	O	O	O	O	O	_	_	_
+besser	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Klavierausmalung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Denn	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Pianist	O	O	O	O	O	O	_	_	_
+regt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+lebhaft	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Liederkomposition	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nigglis	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+tritt	O	O	O	O	O	O	_	_	_
+also	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+etwa	O	O	O	O	O	O	_	_	_
+zugunsten	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dichterischen	O	O	O	O	O	O	_	_	_
+Vorwurfs	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Hintergrund	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Lieder	O	O	O	O	O	O	_	_	_
+fanden	O	O	O	O	O	O	_	_	_
+Anklang	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+gutbesuchten	O	O	O	O	O	O	_	_	_
+Gesellschaftsanlaß	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-16
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sellschaftsanlaß	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Bi	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

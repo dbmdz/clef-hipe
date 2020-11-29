@@ -1,0 +1,469 @@
+# language = de
+# newspaper = NZZ
+# date = 1858-07-26
+# document_id = NZZ-1858-07-26-a-p0006
+# segment_iiif_link = _
+Amerika	B-loc	O	B-loc.adm.sup	O	O	O	Q828	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Nicaragua	B-loc	O	B-loc.adm.nat	O	O	O	Q811	_	_
+hat	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Dampfschiff	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Crösus	B-pers	O	B-pers.ind	O	O	O	Q184462	_	_
+Vanderbilt	B-pers	O	B-pers.ind	O	O	O	Q313721	_	_
+von	O	O	O	O	O	O	_	_	_
+New	B-loc	O	B-loc.adm.town	O	O	O	Q60	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.town	O	O	O	Q60	_	NoSpaceAfter
+York	I-loc	O	I-loc.adm.town	O	O	O	Q60	_	_
+gegen	O	O	O	O	O	O	_	_	_
+100,000	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Thaler	O	O	O	O	O	O	_	_	_
+baar	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+früher	O	O	O	O	O	O	_	_	_
+besessene	O	O	O	O	O	O	_	_	_
+Transitprivilegium	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wieder	O	O	O	O	O	O	_	_	_
+abgetreten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+—	O	O	O	O	O	O	_	_	_
+In	O	O	O	O	O	O	_	_	_
+Virginien	B-loc	O	B-loc.adm.reg	O	O	O	Q1370	_	_
+hatte	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+einiger	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+gewisser	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Poindexter	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+letztwillig	O	O	O	O	O	O	_	_	_
+verfügt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+Sklaven	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Wahl	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gelassen	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+solle	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+ob	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Weg	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Auktion	O	O	O	O	O	O	_	_	_
+verkauft	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+oder	O	O	O	O	O	O	_	_	_
+emanzipirt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Liberia	B-loc	O	B-loc.adm.nat	O	O	O	Q1014	_	_
+geschickt	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+wollten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+für	O	O	O	O	O	O	_	_	_
+welchen	O	O	O	O	O	O	_	_	_
+letztern	O	O	O	O	O	O	_	_	_
+Fall	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+20,000	O	O	O	O	O	O	_	_	_
+Dollars	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Uebersiedelung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#siedelung	O	O	O	O	O	O	_	_	_|Commented
+bestimmte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+Obergericht	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Virginien	B-loc	O	B-loc.adm.reg	O	O	O	Q1370	_	_
+hat	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nun	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+einigen	O	O	O	O	O	O	_	_	_
+Tagen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Entscheidung	O	O	O	O	O	O	_	_	_
+abgegeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+daß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Neger	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+Personen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+Sachen	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+keine	O	O	O	O	O	O	_	_	_
+Wahl	O	O	O	O	O	O	_	_	_
+zwischen	O	O	O	O	O	O	_	_	_
+jener	O	O	O	O	O	O	_	_	_
+Alternative	O	O	O	O	O	O	_	_	_
+treffen	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dürfen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+einfach	O	O	O	O	O	O	_	_	_
+versteigert	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+müssen	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+—	O	O	O	O	O	O	_	_	_
+Das	O	O	O	O	O	O	_	_	_
+Packetschiff	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welches	O	O	O	O	O	O	_	_	_
+New	B-loc	O	B-loc.adm.town	O	O	O	Q60	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.town	O	O	O	Q60	_	NoSpaceAfter
+York	I-loc	O	I-loc.adm.town	O	O	O	Q60	_	_
+am	O	O	O	O	O	O	_	_	_
+10	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Juli	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+verließ	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bringt	O	O	O	O	O	O	_	_	_
+Nachrichten	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Mexiko	B-loc	O	B-loc.adm.nat	O	O	O	Q96	_	_
+vom	O	O	O	O	O	O	_	_	_
+18	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Juni	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Durch	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Erdbeben	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	_
+50	O	O	O	O	O	O	_	_	_
+Personen	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+s	O	O	O	O	O	O	_	_	_
+Leben	O	O	O	O	O	O	_	_	_
+gekommen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kommen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+—	O	O	O	O	O	O	_	_	_
+Die	O	O	O	O	O	O	_	_	_
+Gesandten	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Frankreich	B-loc	O	B-loc.adm.nat	O	O	O	Q142	_	_
+und	O	O	O	O	O	O	_	_	_
+England	B-loc	O	B-loc.adm.nat	O	O	O	Q21	_	_
+in	O	O	O	O	O	O	_	_	_
+Mexiko	B-loc	O	B-loc.adm.nat	O	O	O	Q96	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hatten	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Kaufleuten	O	O	O	O	O	O	_	_	_
+gerathen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zwangssteuer	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+Protest	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#test	O	O	O	O	O	O	_	_	_|Commented
+zu	O	O	O	O	O	O	_	_	_
+bezahlen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+der	O	O	O	O	O	O	_	_	_
+Gesandte	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Vereinigten	B-loc	O	B-loc.adm.nat	O	O	O	Q30	_	_
+Staaten	I-loc	O	I-loc.adm.nat	O	O	O	Q30	_	_
+hat	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+seine	O	O	O	O	O	O	_	_	_
+Pässe	O	O	O	O	O	O	_	_	_
+verlangt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+—	O	O	O	O	O	O	_	_	_
+In	O	O	O	O	O	O	_	_	_
+New	B-loc	O	B-loc.adm.town	O	O	O	Q60	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.town	O	O	O	Q60	_	NoSpaceAfter
+York	I-loc	O	I-loc.adm.town	O	O	O	Q60	_	_
+erschien	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+neue	O	O	O	O	O	O	_	_	_
+Lebensbeschreibung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+Lola	B-pers	O	B-pers.ind	O	O	O	Q161154	_	_
+Montez	I-pers	O	I-pers.ind	O	O	O	Q161154	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+die	O	O	O	O	O	O	_	_	_
+fünfundzwanzigste	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+diesmal	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einzig	O	O	O	O	O	O	_	_	_
+echte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+eigenen	O	O	O	O	O	O	_	_	_
+Hand	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+wahr	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Ueber	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Personalien	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Dame	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+folgende	O	O	O	O	O	O	_	_	_
+Notizen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tizen	O	O	O	O	O	O	_	_	_|Commented
+gegeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Marie	B-pers	O	B-pers.ind	O	B-comp.name	O	Q161154	_	_
+Dolores	I-pers	O	I-pers.ind	O	I-comp.name	O	Q161154	_	_
+(	I-pers	O	I-pers.ind	O	O	O	Q161154	_	NoSpaceAfter
+wovon	I-pers	O	I-pers.ind	O	O	O	Q161154	_	_
+die	I-pers	O	I-pers.ind	O	O	O	Q161154	_	_
+Abkürzung	I-pers	O	I-pers.ind	O	O	O	Q161154	_	_
+Lola	I-pers	O	I-pers.ind	O	B-comp.name	O	Q161154	_	NoSpaceAfter
+)	I-pers	O	I-pers.ind	O	O	O	Q161154	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Eliza	I-pers	O	I-pers.ind	O	B-comp.name	O	Q161154	_	_
+Rosanna	I-pers	O	I-pers.ind	O	I-comp.name	O	Q161154	_	_
+Gilbert	I-pers	O	I-pers.ind	O	I-comp.name	O	Q161154	_	_
+ist	O	O	O	O	O	O	_	_	_
+geboren	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+irischen	B-loc	O	B-loc.adm.town	O	O	O	Q133315	_	_
+Stadt	I-loc	O	I-loc.adm.town	O	O	O	Q133315	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Limerick	I-loc	O	I-loc.adm.town	O	B-comp.name	O	Q133315	_	_
+—	O	O	O	O	O	O	_	_	_
+berühmt	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Limmerick	B-loc	O	B-loc.adm.town	O	O	O	Q133315	_	_
+lasses	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Mädchen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#chen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+)	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+im	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+Jahre	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+des	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+Herrn	I-time	O	I-time.date.abs	O	O	O	NIL	_	_
+1824	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Ihr	O	O	O	O	O	O	_	_	_
+Vater	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nachgeborner	O	O	O	O	O	O	_	_	_
+Sohn	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Sir	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+Edward	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+Gilbert	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+ihre	O	O	O	O	O	O	_	_	_
+Mutter	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Lady	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+Gilbert	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+galt	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+schönsten	O	O	O	O	O	O	_	_	_
+Frauen	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+geborne	O	O	O	O	O	O	_	_	_
+Oliver	B-pers	O	B-pers.coll	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Schloß	B-loc	O	B-loc.fac	O	O	O	Q5050207	_	_
+Oliver	I-loc	O	I-loc.fac	O	B-comp.name	B-pers.coll	Q5050207	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+spanischen	O	O	O	O	O	O	_	_	_
+Grafenfamilie	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Montalvos	B-pers	O	B-pers.coll	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+einst	O	O	O	O	O	O	_	_	_
+unermeßliche	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#meßliche	O	O	O	O	O	O	_	_	_|Commented
+Güter	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Spanien	B-loc	O	B-loc.adm.nat	O	O	O	Q29	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+diverse	O	O	O	O	O	O	_	_	_
+spanische	O	O	O	O	O	O	_	_	_
+Schlösser	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+besaß	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Kriegen	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Franzosen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+andern	O	O	O	O	O	O	_	_	_
+Völkerschaften	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+verloren	O	O	O	O	O	O	_	_	_
+gegangen	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Montalvos	B-pers	O	B-pers.coll	O	O	O	NIL	_	_
+waren	O	O	O	O	O	O	_	_	_
+ursprünglich	O	O	O	O	O	O	_	_	_
+maurischen	O	O	O	O	O	O	_	_	_
+Geblüts	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kamen	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+arabische	O	O	O	O	O	O	_	_	_
+Namen	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+mitgetheilt	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nach	O	O	O	O	O	O	_	_	_
+Spanien	B-loc	O	B-loc.adm.nat	O	O	O	Q29	_	_
+zur	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+Ferdinands	B-pers	O	B-pers.ind	O	O	O	Q12860	_	_
+und	O	O	O	O	O	O	_	_	_
+Isabel	B-pers	O	B-pers.ind	O	B-comp.name	O	Q45859	_	_
+der	I-pers	O	I-pers.ind	O	O	O	Q45859	_	_
+Katholischen	I-pers	O	I-pers.ind	O	O	O	Q45859	_	NoSpaceAfter|Normalized-7
+#¬	I-pers	O	I-pers.ind	O	O	O	Q45859	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lischen	I-pers	O	I-pers.ind	O	O	O	Q45859	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+So	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+Lola	B-pers	O	B-pers.ind	O	O	O	Q161154	_	_
+von	O	O	O	O	O	O	_	_	_
+irisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+spanisch	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+maurischer	O	O	O	O	O	O	_	_	_
+Abkunft	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+—	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+eine	O	O	O	O	O	O	_	_	_
+etwas	O	O	O	O	O	O	_	_	_
+kombustible	O	O	O	O	O	O	_	_	_
+Blutmischung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+ich	O	O	O	O	O	O	_	_	_
+gestehen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+muß	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+fügt	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

@@ -1,0 +1,227 @@
+# language = de
+# newspaper = luxwort
+# date = 1938-09-05
+# document_id = luxwort-1938-09-05-a-i0012
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1912,2436,432,58/full/0/default.jpg
+Deutschlands	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q7318	Q7318	_
+Mahnahmen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/2285,2491,478,41/full/0/default.jpg
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	_
+Grenze	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1951,2541,811,56/full/0/default.jpg
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+3	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Sept	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Agence	B-org	O	B-org.ent.pressagency	O	O	O	Q516033	_	_
+Haoas	I-org	O	I-org.ent.pressagency	O	B-comp.name	O	Q516033	_	_
+veröffentlicht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1912,2586,851,56/full/0/default.jpg
+folgende	O	O	O	O	O	O	_	_	_
+Meldung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Berliner	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Korrespondenten	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1911,2629,852,50/full/0/default.jpg
+des	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+„	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	NoSpaceAfter
+Journal	I-pers	O	I-pers.ind	O	I-comp.function	B-prod.media	NIL	_	NoSpaceAfter
+"	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+Blum	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Tag	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Nächst	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1909,2675,853,49/full/0/default.jpg
+meiden	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+militärischen	O	O	O	O	O	O	_	_	_
+Vorbereitungen	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Deut	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q7318	Q7318	NoSpaceAfter
+'	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q7318	Q7318	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1911,2718,836,56/full/0/default.jpg
+schen	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q7318	Q7318	_
+Reiches	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q7318	Q7318	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	_
+Grenze	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1908,2763,842,55/full/0/default.jpg
+fortgesetzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+dadurch	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+jeden	O	O	O	O	O	O	_	_	_
+Preis	O	O	O	O	O	O	_	_	_
+militärisch	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1909,2807,837,55/full/0/default.jpg
+geschlof	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+sen	O	O	O	O	O	O	_	_	_
+fein	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+An	O	O	O	O	O	O	_	_	_
+allen	O	O	O	O	O	O	_	_	_
+Orten	O	O	O	O	O	O	_	_	_
+längs	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Rheins	B-loc	O	B-loc.phys.hydro	O	O	O	Q584	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1908,2851,854,57/full/0/default.jpg
+befindet	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+große	O	O	O	O	O	O	_	_	_
+Menge	O	O	O	O	O	O	_	_	_
+Militär	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Straßen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1907,2894,852,56/full/0/default.jpg
+sind	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Lastwagen	O	O	O	O	O	O	_	_	_
+überfüllt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+allen	O	O	O	O	O	O	_	_	_
+Ecken	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1907,2938,854,50/full/0/default.jpg
+Enden	O	O	O	O	O	O	_	_	_
+Deutschlands	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q7318	Q7318	_
+Kriegsmaterial	O	O	O	O	O	O	_	_	_
+hierher	O	O	O	O	O	O	_	_	_
+schaffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1906,2982,856,50/full/0/default.jpg
+An	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Befestigungsarbeiten	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+angestrengt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1908,3027,854,56/full/0/default.jpg
+gearbeitet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Viele	O	O	O	O	O	O	_	_	_
+Deutsche	O	O	O	O	O	O	_	_	_
+erhielten	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1906,3070,837,56/full/0/default.jpg
+Tagen	O	O	O	O	O	O	_	_	_
+Mobilisieiungsscheine	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+besondere	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1906,3115,854,54/full/0/default.jpg
+Verwendung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Regimenter	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Norddeutschland	B-loc	O	B-loc.adm.reg	O	O	O	Q46613	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1906,3165,857,41/full/0/default.jpg
+aus	O	O	O	O	O	O	_	_	_
+Mecklenburg	B-loc	O	B-loc.adm.reg	O	O	O	Q109057	_	_
+wurden	O	O	O	O	O	O	_	_	_
+beschleunigt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1906,3200,464,56/full/0/default.jpg
+französische	O	O	O	O	O	O	_	_	_
+Grenze	O	O	O	O	O	O	_	_	_
+dirigiert	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1946,3258,817,56/full/0/default.jpg
+Verlin	B-loc	O	B-loc.adm.town	O	O	O	Q64	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+3	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Sept	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Fournies	B-org	O	B-org.ent.pressagency	O	O	O	NIL	_	_
+Die	O	O	O	O	O	O	_	_	_
+deutschen	O	O	O	O	O	O	_	_	_
+Blätter	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1906,3304,841,54/full/0/default.jpg
+melden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+nächsten	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1906,3347,842,56/full/0/default.jpg
+Luftschutzübungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Tage	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	_
+Deutschland	B-loc	O	B-loc.adm.nat	O	O	O	Q7318	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1906,3391,854,56/full/0/default.jpg
+stattfinden	O	O	O	O	O	O	_	_	_
+weiden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Flak	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Geschütze	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1905,3433,855,57/full/0/default.jpg
+Dächern	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+öffentlichen	O	O	O	O	O	O	_	_	_
+Gebäude	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1906,3479,874,48/full/0/default.jpg
+den	O	O	O	O	O	O	_	_	_
+Straßenkreuzungen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Straßen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fn8s4qr%2fpages%2f1/1906,3522,581,57/full/0/default.jpg
+großen	O	O	O	O	O	O	_	_	_
+Städte	O	O	O	O	O	O	_	_	_
+aufgestellt	O	O	O	O	O	O	_	_	_
+weiden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

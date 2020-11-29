@@ -1,0 +1,924 @@
+# language = de
+# newspaper = NZZ
+# date = 1928-02-24
+# document_id = NZZ-1928-02-24-d-p0002
+# segment_iiif_link = _
+Zur	O	O	O	O	O	O	_	_	_
+Affäre	O	O	O	O	O	O	_	_	_
+Szent	B-loc	O	B-loc.adm.town	O	O	O	Q604516	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.town	O	O	O	Q604516	_	NoSpaceAfter
+Gotthard	I-loc	O	I-loc.adm.town	O	O	O	Q604516	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+De	O	O	O	O	O	O	_	_	_
+eie	O	O	O	O	O	O	_	_	_
+esea	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Genf	B-loc	O	B-loc.adm.town	O	O	O	Q71	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+24	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Febr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+ag	O	O	O	O	O	O	_	_	_
+Das	O	O	O	O	O	O	_	_	_
+Telegramm	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Grafen	B-pers	O	B-pers.ind	O	B-comp.title	O	Q529130	_	NoSpaceAfter|Normalized-3
+#¬	I-pers	O	I-pers.ind	O	I-comp.title	O	Q529130	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fen	I-pers	O	I-pers.ind	O	I-comp.title	O	Q529130	_	_|Commented
+Bethlen	I-pers	O	I-pers.ind	O	B-comp.name	O	Q529130	_	_
+an	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Generalsekretär	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Völkerbundes	B-org	O	B-org.adm	O	O	O	Q38130	_	NoSpaceAfter|Normalized-6
+#¬	I-org	O	I-org.adm	O	O	O	Q38130	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bundes	I-org	O	I-org.adm	O	O	O	Q38130	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+welches	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Weigerung	O	O	O	O	O	O	_	_	_
+darstellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Aufforderung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Ratspräsidenten	B-pers	O	B-pers.ind	O	B-comp.function	O	Q11658288	_	_
+Tscheng	I-pers	O	I-pers.ind	O	B-comp.name	O	Q11658288	_	NoSpaceAfter
+-	I-pers	O	I-pers.ind	O	I-comp.name	O	Q11658288	_	NoSpaceAfter
+Loh	I-pers	O	I-pers.ind	O	I-comp.name	O	Q11658288	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nachzukommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Völkerbundskreisen	B-org	O	B-org.adm	O	O	O	Q38130	_	Partial-0:10
+peinliche	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#liche	O	O	O	O	O	O	_	_	_|Commented
+Ueberraschung	O	O	O	O	O	O	_	_	_
+hervorgerufen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Man	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hat	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Genf	B-loc	B-org	B-loc.adm.town	B-org.adm	O	O	Q71	Q38130	_
+mit	O	O	O	O	O	O	_	_	_
+Bestimmtheit	O	O	O	O	O	O	_	_	_
+erwartet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+ungarische	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+öffentliche	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Versteigerung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+zerstörten	O	O	O	O	O	O	_	_	_
+Maschinengewehre	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gewehre	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	_
+aus	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Ungarn	B-loc	O	B-loc.adm.nat	O	O	O	Q171150	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+unter	O	O	O	O	O	O	_	_	_
+Verletzung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bestimmungen	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Friedensvertrages	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-13
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#densvertrages	O	O	O	O	O	O	_	_	_|Commented
+von	O	O	O	O	O	O	_	_	_
+Trianon	B-loc	O	B-loc.fac	O	O	O	Q8049	_	_
+eingeführt	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aufschieben	O	O	O	O	O	O	_	_	_
+werde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Man	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+allgemein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+überzeugt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Haltung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+ungarischen	O	O	O	O	O	O	_	_	_
+Behörden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#hörden	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+schwere	O	O	O	O	O	O	_	_	_
+Verletzung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Achtung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tung	O	O	O	O	O	O	_	_	_|Commented
+gegenüber	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Völkerbund	B-org	O	B-org.adm	O	O	O	Q38130	_	_
+darstellt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Situation	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tuation	O	O	O	O	O	O	_	_	_|Commented
+verschlimmert	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nachdem	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Regierungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rungen	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Kleinen	B-org	O	B-org.adm	O	O	O	Q733951	_	_
+Entente	I-org	O	I-org.adm	O	O	O	Q733951	_	_
+dem	O	O	O	O	O	O	_	_	_
+Völkerbundsrat	B-org	O	B-org.adm	O	O	O	Q38130	_	NoSpaceAfter|Normalized-8
+#¬	I-org	O	I-org.adm	O	O	O	Q38130	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bundsrat	I-org	O	I-org.adm	O	O	O	Q38130	_	Partial--8:4|Commented
+ein	O	O	O	O	O	O	_	_	_
+formelles	O	O	O	O	O	O	_	_	_
+Gesuch	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+Untersuchung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+Maschinengewehrschmuggels	O	O	O	O	O	O	_	_	_
+eingereicht	O	O	O	O	O	O	_	_	_
+hatten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ten	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+hatten	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Auffassung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+hiesigen	O	O	O	O	O	O	_	_	_
+Völkerbundskreise	B-org	O	B-org.adm	O	O	O	Q38130	_	NoSpaceAfter|Normalized-14
+#¬	I-org	O	I-org.adm	O	O	O	Q38130	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kerbundskreise	I-org	O	I-org.adm	O	O	O	Q38130	_	Partial--5:7|Commented
+die	O	O	O	O	O	O	_	_	_
+ungarischen	O	O	O	O	O	O	_	_	_
+Behörden	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+Recht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Gegenstände	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Untersuchung	O	O	O	O	O	O	_	_	_
+stattfinden	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Wege	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+öffentlichen	O	O	O	O	O	O	_	_	_
+Versteigerung	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+veräußern	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Genf	B-loc	O	B-loc.adm.town	O	O	O	Q71	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+24	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Febr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Privattel	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_|EOS
+
+Vom	O	O	O	O	O	O	_	_	_
+Standpunkt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+Völkerbundes	B-org	O	B-org.adm	O	O	O	Q38130	_	_
+aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dessen	O	O	O	O	O	O	_	_	_
+Stärkung	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schweiz	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q39	Q39	_
+ja	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+dringend	O	O	O	O	O	O	_	_	_
+wünschen	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+muß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Antwortdepesche	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Grafen	B-pers	O	B-pers.ind	O	B-comp.title	O	Q529130	_	_
+Bethlen	I-pers	O	I-pers.ind	O	B-comp.name	O	Q529130	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+auf	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Telegramm	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+amtierenden	B-pers	O	B-pers.ind	O	B-comp.function	O	Q11658288	_	_
+Präsidenten	I-pers	O	I-pers.ind	O	I-comp.function	O	Q11658288	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	I-pers	O	I-pers.ind	O	I-comp.function	O	Q11658288	_	_
+Völkerbundsrates	I-pers	O	I-pers.ind	O	I-comp.function	B-org.adm	Q11658288	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q11658288	_	_
+Tscheng	I-pers	O	I-pers.ind	O	B-comp.name	O	Q11658288	_	NoSpaceAfter
+-	I-pers	O	I-pers.ind	O	I-comp.name	O	Q11658288	_	NoSpaceAfter
+loh	I-pers	O	I-pers.ind	O	I-comp.name	O	Q11658288	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q11658288	_	_
+als	O	O	O	O	O	O	_	_	_
+durchaus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+unglücklich	O	O	O	O	O	O	_	_	_
+bezeichnet	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Im	O	O	O	O	O	O	_	_	_
+übrigen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wird	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+natürlich	O	O	O	O	O	O	_	_	_
+je	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Stellung	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+ganzen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zen	O	O	O	O	O	O	_	_	_|Commented
+Streitfall	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Szent	B-loc	O	B-loc.adm.town	O	O	O	Q604516	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.town	O	O	O	Q604516	_	NoSpaceAfter
+Gotthard	I-loc	O	I-loc.adm.town	O	O	O	Q604516	_	_
+verschieden	O	O	O	O	O	O	_	_	_
+beurteilt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#urteilt	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Während	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Seite	O	O	O	O	O	O	_	_	_
+geneigt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#neigt	O	O	O	O	O	O	_	_	_|Commented
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Weigerung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+ungarischen	O	O	O	O	O	O	_	_	_
+Ministeepräsidenten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#präsidenten	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Versteigerung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+zerlegten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Maschinengewehre	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+verschieben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+neue	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Herausforderung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Völkerbundsrates	B-org	O	B-org.adm	O	O	O	Q38130	_	Partial-0:10
+betrachtet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wird	O	O	O	O	O	O	_	_	_
+anderseits	O	O	O	O	O	O	_	_	_
+bemerkt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Anordnung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Käufern	O	O	O	O	O	O	_	_	_
+erstandenen	O	O	O	O	O	O	_	_	_
+Objekte	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+Ort	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Stelle	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+belassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Hauptzweck	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Demarche	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+Ratspräsidenten	O	O	O	O	O	O	_	_	_
+entspreche	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nämlich	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+corpora	O	O	O	O	O	O	_	_	_
+delieti	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+bevorstehende	O	O	O	O	O	O	_	_	_
+Untersuchung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zur	O	O	O	O	O	O	_	_	_
+Verfügung	O	O	O	O	O	O	_	_	_
+stehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Bemerkung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Grafen	B-pers	O	B-pers.ind	O	B-comp.title	O	Q529130	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bethlen	I-pers	O	I-pers.ind	O	B-comp.name	O	Q529130	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Investigationsverfahren	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+derartige	O	O	O	O	O	O	_	_	_
+Bestimmung	O	O	O	O	O	O	_	_	_
+hätte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+beruht	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+Irrtum	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tum	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+solches	O	O	O	O	O	O	_	_	_
+Verfahren	O	O	O	O	O	O	_	_	_
+ja	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+gar	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eingeleitet	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Völkerbundsrat	B-org	O	B-org.adm	O	O	O	Q38130	_	Partial-0:10
+erst	O	O	O	O	O	O	_	_	_
+darüber	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+entscheiden	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ob	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+überhaupt	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Anwendung	O	O	O	O	O	O	_	_	_
+gelangen	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Demarche	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Tscheng	B-pers	O	B-pers.ind	O	O	O	Q11658288	_	NoSpaceAfter
+-	I-pers	O	I-pers.ind	O	O	O	Q11658288	_	NoSpaceAfter
+lohs	I-pers	O	I-pers.ind	O	O	O	Q11658288	_	_
+stellt	O	O	O	O	O	O	_	_	_
+vielmehr	O	O	O	O	O	O	_	_	_
+lediglich	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+amtierendem	O	O	O	O	O	O	_	_	_
+Ratspräsidenten	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+anhängig	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gemachten	O	O	O	O	O	O	_	_	_
+Frage	O	O	O	O	O	O	_	_	_
+zustehende	O	O	O	O	O	O	_	_	_
+Maßnahme	O	O	O	O	O	O	_	_	_
+dar	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+welche	O	O	O	O	O	O	_	_	_
+ja	O	O	O	O	O	O	_	_	_
+wichtige	O	O	O	O	O	O	_	_	_
+Präzedenzfälle	O	O	O	O	O	O	_	_	_
+vorhanden	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Budapest	B-loc	O	B-loc.adm.town	O	O	O	Q1781	_	_
+gemeldete	O	O	O	O	O	O	_	_	_
+ursprünglich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+österreichische	O	O	O	O	O	O	_	_	_
+Herkunft	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+fraglichen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Maschinengewehre	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Waffenfabrik	B-org	O	B-org.ent	O	O	O	Q591359	_	_
+Steyr	I-org	O	I-org.ent	O	B-comp.name	O	Q591359	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dürfte	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+vielleicht	O	O	O	O	O	O	_	_	_
+daraus	O	O	O	O	O	O	_	_	_
+erklären	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+noch	O	O	O	O	O	O	_	_	_
+während	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Krieges	O	O	O	O	O	O	_	_	_
+fabriziertes	O	O	O	O	O	O	_	_	_
+Material	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+handelt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+ehemalige	O	O	O	O	O	O	_	_	_
+österreichischungarische	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ungarische	O	O	O	O	O	O	_	_	_|Commented
+Armee	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	_
+mitgeführt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wurde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+nun	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Ungarn	B-loc	O	B-loc.adm.nat	O	O	O	Q171150	_	_
+geschmuggelt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schmuggelt	O	O	O	O	O	O	_	_	_|Commented
+werden	O	O	O	O	O	O	_	_	_
+sollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Fengisce	O	O	O	O	O	O	_	_	_
+Mdanmnenten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+24	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Febr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Tel	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+unseres	O	O	O	O	O	O	_	_	_
+M	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+K	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Korr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+französische	O	O	O	O	O	O	_	_	_
+Presse	O	O	O	O	O	O	_	_	_
+stellt	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Genugtuung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+fest	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Unterredung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Tscheng	B-pers	O	B-pers.ind	O	O	O	Q11658288	_	_
+Lohs	I-pers	O	I-pers.ind	O	O	O	Q11658288	_	_
+mit	O	O	O	O	O	O	_	_	_
+Briand	B-pers	O	B-pers.ind	O	O	O	Q179888	_	_
+erwartete	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Intervention	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Völkerbundsratspräsidenten	B-org	O	B-org.adm	O	O	O	Q38130	_	NoSpaceAfter|Partial-0:10|Normalized-15
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ratspräsidenten	O	O	O	O	O	O	_	_	_|Commented
+in	O	O	O	O	O	O	_	_	_
+letzter	O	O	O	O	O	O	_	_	_
+Minute	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erfolgt	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Von	O	O	O	O	O	O	_	_	_
+einigen	O	O	O	O	O	O	_	_	_
+Seiten	O	O	O	O	O	O	_	_	_
+deutet	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+daß	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Schritt	O	O	O	O	O	O	_	_	_
+früher	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+wirksamer	O	O	O	O	O	O	_	_	_
+unternommen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nommen	O	O	O	O	O	O	_	_	_|Commented
+worden	O	O	O	O	O	O	_	_	_
+wäre	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Vertreter	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Chinas	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q13426199	Q13426199	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Spitze	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Rates	O	O	O	O	O	O	_	_	_
+gestanden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hätte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Anderseits	O	O	O	O	O	O	_	_	_
+spricht	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Matin	B-prod	O	B-prod.media	O	O	O	Q3224404	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Wunsch	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+gegenwärtigen	O	O	O	O	O	O	_	_	_
+Irrtümer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zur	O	O	O	O	O	O	_	_	_
+Vervollkommnung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Investigationsmethoden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#methoden	O	O	O	O	O	O	_	_	_|Commented
+des	O	O	O	O	O	O	_	_	_
+Völkerbundes	B-org	O	B-org.adm	O	O	O	Q38130	_	_
+führen	O	O	O	O	O	O	_	_	_
+möchten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+doch	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Einschreiten	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Präsidenten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wenigstens	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+wichtiges	O	O	O	O	O	O	_	_	_
+Resultat	O	O	O	O	O	O	_	_	_
+erreicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nämlich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lich	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+fortan	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Völkerbund	B-org	O	B-org.adm	O	O	O	Q38130	_	_
+zwischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Ratssessionen	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Karenz	B-loc	O	B-loc.adm.town	O	O	O	Q674121	_	_
+befinde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Ueber	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Antwort	O	O	O	O	O	O	_	_	_
+Ungarns	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q171150	Q171150	_
+zeigt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+man	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+ungehalten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+doch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schreibt	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Journal	B-prod	O	B-prod.media	O	O	O	Q3223697	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Attitüde	O	O	O	O	O	O	_	_	_
+Bethlens	B-pers	O	B-pers.ind	O	O	O	Q529130	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+welche	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+erschwerenden	O	O	O	O	O	O	_	_	_
+Umständen	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schuldgeständnis	O	O	O	O	O	O	_	_	_
+erneuere	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+werde	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Aufgabe	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+des	O	O	O	O	O	O	_	_	_
+Rates	O	O	O	O	O	O	_	_	_
+vereinfachen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+klären	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Rat	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wird	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Frage	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Enquete	O	O	O	O	O	O	_	_	_
+aufwerfen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#werfen	O	O	O	O	O	O	_	_	_|Commented
+müssen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+objektlos	O	O	O	O	O	O	_	_	_
+geworden	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+er	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wird	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Frage	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Sanktionen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vorlegen	O	O	O	O	O	O	_	_	_
+müssen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Staat	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+ergreifen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#greifen	O	O	O	O	O	O	_	_	_|Commented
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welcher	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+willkürlich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Entwaffnungsklauseln	O	O	O	O	O	O	_	_	_
+verletzt	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+an	O	O	O	O	O	O	_	_	_
+allen	O	O	O	O	O	O	_	_	_
+Rücksichten	O	O	O	O	O	O	_	_	_
+gegenüber	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Völkerbund	B-org	O	B-org.adm	O	O	O	Q38130	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hat	O	O	O	O	O	O	_	_	_
+fehlen	O	O	O	O	O	O	_	_	_
+lassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Petit	B-prod	O	B-prod.media	O	O	O	Q831299	_	_
+Parisien	I-prod	O	I-prod.media	O	O	O	Q831299	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+verzeichnet	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#net	O	O	O	O	O	O	_	_	_|Commented
+das	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Genf	B-loc	O	B-loc.adm.town	O	O	O	Q71	_	_
+umlaufende	O	O	O	O	O	O	_	_	_
+Gerücht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bei	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Maschinengewehren	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Szent	B-loc	O	B-loc.adm.town	O	O	O	Q604516	_	NoSpaceAfter
+-	I-loc	O	I-loc.adm.town	O	O	O	Q604516	_	NoSpaceAfter
+Gotthard	I-loc	O	I-loc.adm.town	O	O	O	Q604516	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eigentlich	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+alte	O	O	O	O	O	O	_	_	_
+österreich	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+ungarische	O	O	O	O	O	O	_	_	_
+Mitrailleusen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#leusen	O	O	O	O	O	O	_	_	_|Commented
+handle	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Verträgen	O	O	O	O	O	O	_	_	_
+längst	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vernichtet	O	O	O	O	O	O	_	_	_
+hätten	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+sollen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nun	O	O	O	O	O	O	_	_	_
+wären	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schmugglerwegen	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	_
+ihrem	O	O	O	O	O	O	_	_	_
+frühern	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Besitzer	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+zugekommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+es	O	O	O	O	O	O	_	_	_
+handle	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+also	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+um	O	O	O	O	O	O	_	_	_
+doppelten	O	O	O	O	O	O	_	_	_
+Betrug	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

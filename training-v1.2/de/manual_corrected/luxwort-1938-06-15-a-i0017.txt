@@ -1,0 +1,1000 @@
+# language = de
+# newspaper = luxwort
+# date = 1938-06-15
+# document_id = luxwort-1938-06-15-a-i0017
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3814,1599,640,51/full/0/default.jpg
+Daladiers	B-pers	O	B-pers.ind	O	O	O	Q213526	_	_
+neue	O	O	O	O	O	O	_	_	_
+Notverordnungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3760,1648,793,57/full/0/default.jpg
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+14	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Juni	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Im	O	O	O	O	O	O	_	_	_
+Ministerrat	O	O	O	O	O	O	_	_	_
+würben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3721,1691,813,57/full/0/default.jpg
+heute	O	O	O	O	O	O	_	_	_
+Notverordnungen	O	O	O	O	O	O	_	_	_
+betreffenb	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3721,1736,817,60/full/0/default.jpg
+Lanbesverteibigung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Sanierung	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3721,1778,812,57/full/0/default.jpg
+öffentlichen	O	O	O	O	O	O	_	_	_
+Finanzen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+Schutz	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3721,1822,816,56/full/0/default.jpg
+Sparinhaber	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Förberung	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3721,1865,811,58/full/0/default.jpg
+wirtschaftlichen	O	O	O	O	O	O	_	_	_
+Tätigkeit	O	O	O	O	O	O	_	_	_
+angenommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Diese	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3720,1909,834,58/full/0/default.jpg
+Nowerorbnungen	O	O	O	O	O	O	_	_	_
+beziehen	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+vornehmlich	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3722,1953,832,50/full/0/default.jpg
+eine	O	O	O	O	O	O	_	_	_
+Verstärkung	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+Vermehrung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3720,1996,817,50/full/0/default.jpg
+Kaber	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Effektivbestänbe	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3720,2048,812,43/full/0/default.jpg
+Luftarmee	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Zusammenhang	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+bem	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3720,2083,834,57/full/0/default.jpg
+Modernisierungsplan	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+befonbers	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+begug	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3720,2126,731,51/full/0/default.jpg
+eine	O	O	O	O	O	O	_	_	_
+Vermehrung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Kriegsmaterials	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3760,2170,772,57/full/0/default.jpg
+Außenminister	B-pers	O	B-pers.ind	O	B-comp.function	O	Q1262453	_	_
+Vonnet	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1262453	_	_
+erstattete	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3720,2212,655,57/full/0/default.jpg
+Vericht	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+außenpolitische	O	O	O	O	O	O	_	_	_
+Lage	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3758,2255,780,58/full/0/default.jpg
+Luftfahrtsminister	B-pers	O	B-pers.ind	O	B-comp.function	O	Q3121895	_	_
+Guy	I-pers	O	I-pers.ind	O	B-comp.name	O	Q3121895	_	_
+La	I-pers	O	I-pers.ind	O	I-comp.name	O	Q3121895	_	_
+Chambre	I-pers	O	I-pers.ind	O	I-comp.name	O	Q3121895	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3720,2299,832,56/full/0/default.jpg
+erstattete	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+eingehendes	O	O	O	O	O	O	_	_	_
+Expose	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Lage	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3718,2343,834,50/full/0/default.jpg
+ber	O	O	O	O	O	O	_	_	_
+Flugzeugfabriken	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+teilte	O	O	O	O	O	O	_	_	_
+u	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+a	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3718,2387,834,57/full/0/default.jpg
+bah	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+erste	O	O	O	O	O	O	_	_	_
+Serie	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+bisher	O	O	O	O	O	O	_	_	_
+hergestellten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3719,2430,833,56/full/0/default.jpg
+Apparate	O	O	O	O	O	O	_	_	_
+während	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Monats	O	O	O	O	O	O	_	_	_
+Mai	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3719,2473,833,57/full/0/default.jpg
+Fabriken	O	O	O	O	O	O	_	_	_
+verließ	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ferner	O	O	O	O	O	O	_	_	_
+gab	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+bekannt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3718,2517,816,58/full/0/default.jpg
+daß	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Geschwader	O	O	O	O	O	O	_	_	_
+dreiplätziger	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3718,2568,834,49/full/0/default.jpg
+Jagdflugzeuge	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Geschwindigkeit	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+450	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3718,2604,835,53/full/0/default.jpg
+Stundenkilometern	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+erzielen	O	O	O	O	O	O	_	_	_
+vermögen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3718,2655,834,44/full/0/default.jpg
+am	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	_
+Luftbefilee	O	O	O	O	O	O	_	_	_
+teilnehmen	O	O	O	O	O	O	_	_	_
+werbe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3716,2690,819,50/full/0/default.jpg
+bas	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Ehren	O	O	O	O	O	O	_	_	_
+bes	O	O	O	O	O	O	_	_	_
+Königs	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Englanb	B-loc	O	B-loc.adm.nat	O	O	O	Q21	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3716,2734,836,57/full/0/default.jpg
+veranstaltet	O	O	O	O	O	O	_	_	_
+werde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Ausführung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Planes	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3716,2786,837,49/full/0/default.jpg
+zur	O	O	O	O	O	O	_	_	_
+Beschleunigung	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Probuktion	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3718,2821,834,57/full/0/default.jpg
+Flugzeugmaterial	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	_
+burch	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Einführung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3716,2864,835,50/full/0/default.jpg
+ber	O	O	O	O	O	O	_	_	_
+45	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Stunden	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Woche	O	O	O	O	O	O	_	_	_
+statt	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+40	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Stunden	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3718,2909,429,56/full/0/default.jpg
+Woche	O	O	O	O	O	O	_	_	_
+erreicht	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3755,2951,795,50/full/0/default.jpg
+Der	O	O	O	O	O	O	_	_	_
+Ministerrat	O	O	O	O	O	O	_	_	_
+nahm	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Genugtuung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3715,3002,818,43/full/0/default.jpg
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Erklärungen	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3716,3039,834,56/full/0/default.jpg
+Luftfahrtsministers	O	O	O	O	O	O	_	_	_
+Kenntnis	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+prüfte	O	O	O	O	O	O	_	_	_
+bann	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3716,3081,832,57/full/0/default.jpg
+Frage	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+parlamentarischen	O	O	O	O	O	O	_	_	_
+Arbeiten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3716,3125,829,57/full/0/default.jpg
+faßte	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Angelegenheit	O	O	O	O	O	O	_	_	_
+keinen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3716,3168,160,55/full/0/default.jpg
+Beschluß	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3754,3212,796,49/full/0/default.jpg
+Weiter	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	_
+beschlossen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bas	O	O	O	O	O	O	_	_	_
+Parlament	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3714,3254,837,56/full/0/default.jpg
+spätestens	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+24	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Juni	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Ferien	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3716,3296,835,56/full/0/default.jpg
+schicken	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Ministerpräsibent	B-pers	O	B-pers.ind	O	B-comp.function	O	Q213526	_	_
+Dalabier	I-pers	O	I-pers.ind	O	B-comp.title	O	Q213526	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3714,3337,837,57/full/0/default.jpg
+jcboch	O	O	O	O	O	O	_	_	_
+ermächtigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+frühere	O	O	O	O	O	O	_	_	_
+Vertagung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3715,3381,836,57/full/0/default.jpg
+uorgunehmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+wenn	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+notwenbig	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3716,3424,263,55/full/0/default.jpg
+erachten	O	O	O	O	O	O	_	_	_
+sollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3753,3467,776,51/full/0/default.jpg
+Dalabier	B-pers	O	B-pers.ind	O	O	O	Q213526	_	_
+legte	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Präsidenten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3715,3511,835,50/full/0/default.jpg
+Republik	O	O	O	O	O	O	_	_	_
+schließlich	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Dekret	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Unterschrift	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3714,3562,821,48/full/0/default.jpg
+vor	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+General	B-pers	O	B-pers.ind	O	B-comp.title	O	Q2899512	_	_
+Fagalde	I-pers	O	I-pers.ind	O	B-comp.name	O	Q2899512	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q2899512	_	_
+der	I-pers	O	I-pers.ind	O	O	O	Q2899512	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3715,3597,816,57/full/0/default.jpg
+bisherige	I-pers	O	I-pers.ind	O	B-comp.qualifier	O	Q2899512	_	_
+Kommandant	I-pers	O	I-pers.ind	O	B-comp.function	O	Q2899512	_	_
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	Q2899512	_	_
+15	I-pers	O	I-pers.ind	O	I-comp.function	O	Q2899512	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.function	O	Q2899512	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3714,3641,818,57/full/0/default.jpg
+Infanteriebimsion	I-pers	O	I-pers.ind	O	I-comp.function	O	Q2899512	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+gum	O	O	O	O	O	O	_	_	_
+Kommandanten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+16	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3716,3685,814,56/full/0/default.jpg
+Militärregion	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Montpellier	B-loc	O	B-loc.adm.town	O	O	O	Q6441	_	_
+an	O	O	O	O	O	O	_	_	_
+Stelle	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3714,3727,549,51/full/0/default.jpg
+Generals	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+Goudet	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+ernannt	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3754,3771,797,57/full/0/default.jpg
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+14	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Juni	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Im	O	O	O	O	O	O	_	_	_
+Ministerrat	O	O	O	O	O	O	_	_	_
+van	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3714,3816,837,57/full/0/default.jpg
+vormittag	O	O	O	O	O	O	_	_	_
+ließ	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Arbeitsminister	B-pers	O	B-pers.ind	O	B-comp.function	O	Q328235	_	_
+Ramadier	I-pers	O	I-pers.ind	O	B-comp.name	O	Q328235	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3714,3865,837,44/full/0/default.jpg
+vom	O	O	O	O	O	O	_	_	_
+Präsidenten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Republik	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Dekret	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3715,3903,836,56/full/0/default.jpg
+unterzeichnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Pension	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3715,3944,815,51/full/0/default.jpg
+alten	O	O	O	O	O	O	_	_	_
+Arbeiter	O	O	O	O	O	O	_	_	_
+bezieht	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3714,3989,835,57/full/0/default.jpg
+Donnerstag	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kammer	O	O	O	O	O	O	_	_	_
+eingebracht	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3714,4033,92,48/full/0/default.jpg
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3754,4076,797,50/full/0/default.jpg
+Der	O	O	O	O	O	O	_	_	_
+Ministerrat	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3715,4118,836,58/full/0/default.jpg
+Frage	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Verstärkung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Luftstreitkräfte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3715,4163,836,55/full/0/default.jpg
+sonbern	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+berjenigen	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Verstärkung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3715,4204,493,51/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Lanbarmee	O	O	O	O	O	O	_	_	_
+beschäftigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3754,4249,797,56/full/0/default.jpg
+Miellet	B-pers	O	B-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+Prafibent	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	_
+der	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+Heereskommission	I-pers	O	I-pers.ind	O	I-comp.function	B-org.ent	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3715,4293,836,57/full/0/default.jpg
+gab	O	O	O	O	O	O	_	_	_
+diesbezüglich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Wandelgängen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3715,4337,818,50/full/0/default.jpg
+Kammer	O	O	O	O	O	O	_	_	_
+folgende	O	O	O	O	O	O	_	_	_
+Erklärung	O	O	O	O	O	O	_	_	_
+ab	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3714,4379,821,57/full/0/default.jpg
+Effektivbestänbe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Kriege	O	O	O	O	O	O	_	_	_
+240	O	O	O	O	O	O	_	_	_
+000	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3714,4424,835,56/full/0/default.jpg
+betragen	O	O	O	O	O	O	_	_	_
+hatten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3713,4467,837,56/full/0/default.jpg
+auf	O	O	O	O	O	O	_	_	_
+140	O	O	O	O	O	O	_	_	_
+000	O	O	O	O	O	O	_	_	_
+gesunken	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Periobe	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3713,4510,837,51/full/0/default.jpg
+rekrutenarmen	O	O	O	O	O	O	_	_	_
+Jahre	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	_
+vorüber	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3713,4554,836,58/full/0/default.jpg
+französische	O	O	O	O	O	O	_	_	_
+Armee	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+genug	O	O	O	O	O	O	_	_	_
+Offiziere	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3713,4598,836,49/full/0/default.jpg
+Es	O	O	O	O	O	O	_	_	_
+fehlen	O	O	O	O	O	O	_	_	_
+4000	O	O	O	O	O	O	_	_	_
+aktive	O	O	O	O	O	O	_	_	_
+Offiziere	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3713,4640,816,58/full/0/default.jpg
+beschlossen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Reserveoffiziere	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3713,4684,751,57/full/0/default.jpg
+ermächtigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+aktiven	O	O	O	O	O	O	_	_	_
+Armee	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+dienen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3752,4726,777,57/full/0/default.jpg
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+14	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Juni	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nachstehend	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3713,4777,833,53/full/0/default.jpg
+Bezeichnung	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Gesetzcsdekrete	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+3	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Serie	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3713,4814,833,56/full/0/default.jpg
+heute	O	O	O	O	O	O	_	_	_
+angenommen	O	O	O	O	O	O	_	_	_
+würbe	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3713,4856,834,57/full/0/default.jpg
+amtlichen	O	O	O	O	O	O	_	_	_
+Communiai	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Ministerrats	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3713,4901,424,55/full/0/default.jpg
+nicht	O	O	O	O	O	O	_	_	_
+erwähnt	O	O	O	O	O	O	_	_	_
+werben	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3753,4944,776,58/full/0/default.jpg
+Lanbwirtschaft	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Dekret	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+bas	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3714,4986,815,50/full/0/default.jpg
+unpfänbbare	O	O	O	O	O	O	_	_	_
+Familiengut	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Dekret	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3714,5030,833,58/full/0/default.jpg
+Bekämpfung	O	O	O	O	O	O	_	_	_
+bes	O	O	O	O	O	O	_	_	_
+unlauteren	O	O	O	O	O	O	_	_	_
+Wettbewerbs	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3714,5074,814,49/full/0/default.jpg
+bie	O	O	O	O	O	O	_	_	_
+Förberung	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Ausfuhr	O	O	O	O	O	O	_	_	_
+burch	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3714,5116,833,60/full/0/default.jpg
+Verbesserung	O	O	O	O	O	O	_	_	_
+bar	O	O	O	O	O	O	_	_	_
+Qualität	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Erzeugnisse	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3713,5160,834,51/full/0/default.jpg
+Dekret	O	O	O	O	O	O	_	_	_
+betreffenb	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Organisation	O	O	O	O	O	O	_	_	_
+bes	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3714,5205,834,57/full/0/default.jpg
+Fleifchmarktes	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Dekret	O	O	O	O	O	O	_	_	_
+betreffenb	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3714,5247,249,56/full/0/default.jpg
+Weizenmarkt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3753,5290,793,51/full/0/default.jpg
+Arbeit	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Dekret	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Kontrolle	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3713,5335,834,58/full/0/default.jpg
+Privatversicherungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Dekret	O	O	O	O	O	O	_	_	_
+betreffenb	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3713,5377,814,50/full/0/default.jpg
+bie	O	O	O	O	O	O	_	_	_
+Festsetzung	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Höchstgrenze	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3713,5421,833,58/full/0/default.jpg
+Versicherungsbeträge	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Dekret	O	O	O	O	O	O	_	_	_
+betreffenb	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3713,5465,833,58/full/0/default.jpg
+Verbesserung	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Steuerveranlagung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3712,5507,815,60/full/0/default.jpg
+Verstärkung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kontrolle	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3714,5551,833,58/full/0/default.jpg
+Bekämpfung	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Steuerhinterziehungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	NoSpaceAfter
+>	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3712,5594,834,50/full/0/default.jpg
+Dekret	O	O	O	O	O	O	_	_	_
+betreffend	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Steuerstatistiken	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3712,5637,813,50/full/0/default.jpg
+Dekret	O	O	O	O	O	O	_	_	_
+betreffend	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Verstärkung	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3713,5681,543,50/full/0/default.jpg
+Kontrolle	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Finnnzverwaltung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3749,5726,795,56/full/0/default.jpg
+Oeffentliche	O	O	O	O	O	O	_	_	_
+Bauten	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Dekret	O	O	O	O	O	O	_	_	_
+betreffenb	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3713,5767,831,60/full/0/default.jpg
+Abänderung	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Betriebsbebingungen	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3713,5811,831,57/full/0/default.jpg
+Lokalbahnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Dekret	O	O	O	O	O	O	_	_	_
+betreffend	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3712,5854,832,50/full/0/default.jpg
+lokalen	O	O	O	O	O	O	_	_	_
+Mehrtaxen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Dekret	O	O	O	O	O	O	_	_	_
+betreffend	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3712,5897,813,57/full/0/default.jpg
+Anleihen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+großen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3711,5941,833,56/full/0/default.jpg
+Staatsdnhnen	O	O	O	O	O	O	_	_	_
+aufgenommen	O	O	O	O	O	O	_	_	_
+würben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Dekret	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3711,5984,833,49/full/0/default.jpg
+über	O	O	O	O	O	O	_	_	_
+bas	O	O	O	O	O	O	_	_	_
+Statut	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Heilanstalten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Dekret	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3711,6028,815,56/full/0/default.jpg
+betreffenb	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Gesunbheitsmasznahmen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3709,6072,832,56/full/0/default.jpg
+bezüglich	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Emigranten	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Ausländer	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3748,6114,790,56/full/0/default.jpg
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+14	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Juni	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Unter	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Güsetzbekreten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3708,6157,812,50/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	_
+morgen	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Ministerrat	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f2/3708,6199,829,58/full/0/default.jpg
+Präsidenten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Republik	O	O	O	O	O	O	_	_	_
+unterzeichnet	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/106,176,823,58/full/0/default.jpg
+befinbet	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Dekret	O	O	O	O	O	O	_	_	_
+bes	O	O	O	O	O	O	_	_	_
+Postministers	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/106,220,806,55/full/0/default.jpg
+auf	O	O	O	O	O	O	_	_	_
+Grunb	O	O	O	O	O	O	_	_	_
+besfen	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Tarife	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/105,268,823,54/full/0/default.jpg
+Pressetelegramme	O	O	O	O	O	O	_	_	_
+herabgesetzt	O	O	O	O	O	O	_	_	_
+werben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Diese	O	O	O	O	O	O	_	_	_
+Tarife	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/105,313,823,45/full/0/default.jpg
+waren	O	O	O	O	O	O	_	_	_
+bekanntlich	O	O	O	O	O	O	_	_	_
+im	B-time	O	B-time.date.abs	O	O	O	Q13066009	_	_
+Juli	I-time	O	I-time.date.abs	O	O	O	Q13066009	_	_
+193	I-time	O	I-time.date.abs	O	O	O	Q13066009	_	NoSpaceAfter
+?	I-time	O	I-time.date.abs	O	O	O	Q13066009	_	_
+erhöht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/105,347,824,54/full/0/default.jpg
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Georges	B-pers	O	B-pers.ind	O	O	O	Q1262453	_	_
+Bonnet	I-pers	O	I-pers.ind	O	O	O	Q1262453	_	_
+schraubte	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+im	B-time	O	B-time.date.abs	O	O	O	Q13079993	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/105,389,823,54/full/0/default.jpg
+Oktober	I-time	O	I-time.date.abs	O	O	O	Q13079993	_	_
+193	I-time	O	I-time.date.abs	O	O	O	Q13079993	_	NoSpaceAfter
+?	I-time	O	I-time.date.abs	O	O	O	Q13079993	_	_
+auf	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	_
+Koeffizienten	O	O	O	O	O	O	_	_	_
+3	O	O	O	O	O	O	_	_	_
+zurück	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/105,438,807,48/full/0/default.jpg
+Das	O	O	O	O	O	O	_	_	_
+neue	O	O	O	O	O	O	_	_	_
+Dekret	O	O	O	O	O	O	_	_	_
+wirb	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/105,476,824,61/full/0/default.jpg
+Koeffizienten	O	O	O	O	O	O	_	_	_
+2	O	O	O	O	O	O	_	_	_
+herabsetzen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+b	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+h	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+Erhöhung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/105,519,805,53/full/0/default.jpg
+wirb	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+100	O	O	O	O	O	O	_	_	NoSpaceAfter
+^	O	O	O	O	O	O	_	_	_
+gegenüber	O	O	O	O	O	O	_	_	_
+ben	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/106,563,808,56/full/0/default.jpg
+Tarifen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+im	B-time	O	B-time.date.abs	O	O	O	Q13066009	_	_
+Juli	I-time	O	I-time.date.abs	O	O	O	Q13066009	_	_
+193	I-time	O	I-time.date.abs	O	O	O	Q13066009	_	NoSpaceAfter
+?	I-time	O	I-time.date.abs	O	O	O	Q13066009	_	_
+in	O	O	O	O	O	O	_	_	_
+Kraft	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/881,561,33,50/full/0/default.jpg
+betrage	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/139,646,790,58/full/0/default.jpg
+n	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+14	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Juni	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Ministerrat	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/105,691,804,58/full/0/default.jpg
+heute	O	O	O	O	O	O	_	_	_
+vormittag	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+hauptsächlich	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/105,732,824,55/full/0/default.jpg
+Ausarbeitung	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+Billigung	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	_
+Gesetzbekrete	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/105,774,823,61/full/0/default.jpg
+gewibmet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+fast	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+morgen	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Journal	B-prod	O	B-prod.media	O	O	O	Q1815103	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/105,816,502,60/full/0/default.jpg
+Officiel	I-prod	O	I-prod.media	O	O	O	Q1815103	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+erscheinen	O	O	O	O	O	O	_	_	_
+werben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/138,863,791,49/full/0/default.jpg
+Eme	O	O	O	O	O	O	_	_	_
+vierte	O	O	O	O	O	O	_	_	_
+Serie	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Gesetzbekreten	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/105,915,824,42/full/0/default.jpg
+m	O	O	O	O	O	O	_	_	_
+Vorbereitung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+wesentlichen	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/105,946,824,61/full/0/default.jpg
+folgenbe	O	O	O	O	O	O	_	_	_
+Fragen	O	O	O	O	O	O	_	_	_
+beziehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	_|EOS
+
+Abänderung	O	O	O	O	O	O	_	_	_
+ber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/105,988,804,58/full/0/default.jpg
+SoMIversicherungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Schaffung	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/105,1034,806,53/full/0/default.jpg
+Golbamtes	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Organisation	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+neuen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/105,1077,824,56/full/0/default.jpg
+Brennstoffrcgimcs	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Schaffung	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Unterstützungskasse	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/105,1122,808,57/full/0/default.jpg
+für	O	O	O	O	O	O	_	_	_
+bie	O	O	O	O	O	O	_	_	_
+wettergeschäbigten	O	O	O	O	O	O	_	_	_
+Lanbwirte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/105,1163,804,57/full/0/default.jpg
+Iollfchutz	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Organisation	O	O	O	O	O	O	_	_	_
+bes	O	O	O	O	O	O	_	_	_
+Gas	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Regimes	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/105,1207,823,53/full/0/default.jpg
+Abänderung	O	O	O	O	O	O	_	_	_
+bes	O	O	O	O	O	O	_	_	_
+nationalen	O	O	O	O	O	O	_	_	_
+Botschaftsrates	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2f07vh20%2fpages%2f3/105,1249,67,53/full/0/default.jpg
+ufw	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

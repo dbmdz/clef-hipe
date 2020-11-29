@@ -1,0 +1,620 @@
+# language = de
+# newspaper = NZZ
+# date = 1908-08-04
+# document_id = NZZ-1908-08-04-b-p0001
+# segment_iiif_link = _
+Der	O	O	O	O	O	O	_	_	_
+Konstikt	O	O	O	O	O	O	_	_	_
+hollands	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q102911	Q2479200	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schreibt	O	O	O	O	O	O	_	_	_
+unser	O	O	O	O	O	O	_	_	_
+Haager	O	O	O	O	O	O	_	_	_
+W	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Korrespondent	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	_
+Tagen	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+arge	O	O	O	O	O	O	_	_	_
+Verschärfung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erfahren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+hiesigen	O	O	O	O	O	O	_	_	_
+leitenden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kreisen	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Besorgnis	O	O	O	O	O	O	_	_	_
+fragt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+Weise	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+man	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+drohenden	O	O	O	O	O	O	_	_	_
+Verwicklungen	O	O	O	O	O	O	_	_	_
+begegnen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+soll	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Zweifellos	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+Präsident	B-pers	O	B-pers.ind	O	B-comp.function	O	Q469575	_	_
+Castro	I-pers	O	I-pers.ind	O	B-comp.name	O	Q469575	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+keinerlei	O	O	O	O	O	O	_	_	_
+diplomatische	O	O	O	O	O	O	_	_	_
+Rücksichtnahme	O	O	O	O	O	O	_	_	_
+kennt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+Größenwahn	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+mancher	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Großmacht	O	O	O	O	O	O	_	_	_
+fühlen	O	O	O	O	O	O	_	_	_
+ließ	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+z	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+B	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+jüngst	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vereinigten	B-loc	B-org	B-loc.adm.nat	B-org.adm	B-comp.name	O	Q30	Q48525	_
+Staaten	I-loc	I-org	I-loc.adm.nat	I-org.adm	I-comp.name	O	Q30	Q48525	_
+von	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q30	Q48525	_
+Nordamerika	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	B-loc.adm.sup	Q30	Q48525	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+grobe	O	O	O	O	O	O	_	_	_
+Beleidigung	O	O	O	O	O	O	_	_	_
+Hollands	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q102911	Q2479200	_
+durch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+brutale	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ausweisung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+niederländischen	O	O	O	O	O	O	_	_	_
+Gesandten	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Caracas	B-loc	O	B-loc.adm.town	O	O	O	Q1533	_	_
+zu	O	O	O	O	O	O	_	_	_
+schulden	O	O	O	O	O	O	_	_	_
+kommen	O	O	O	O	O	O	_	_	_
+lassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ebenso	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bedeutet	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Entziehung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Exequatur	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+Venezuela	B-loc	O	B-loc.adm.nat	O	O	O	Q717	_	_
+residierenden	O	O	O	O	O	O	_	_	_
+niederländischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Konsuln	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+offenbaren	O	O	O	O	O	O	_	_	_
+Akt	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Feindseligkeit	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#keit	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+Herausforderung	O	O	O	O	O	O	_	_	_
+gegenüber	O	O	O	O	O	O	_	_	_
+unserer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Regierung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Aber	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+letztere	O	O	O	O	O	O	_	_	_
+kann	O	O	O	O	O	O	_	_	_
+doch	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Dinge	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+nun	O	O	O	O	O	O	_	_	_
+einmal	O	O	O	O	O	O	_	_	_
+gestaltet	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nicht	O	O	O	O	O	O	_	_	_
+mehr	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+ausschließliche	O	O	O	O	O	O	_	_	_
+Rolle	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Beleidigten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#leidigten	O	O	O	O	O	O	_	_	_|Commented
+für	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Anspruch	O	O	O	O	O	O	_	_	_
+nehmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Denn	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+es	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Seite	O	O	O	O	O	O	_	_	_
+manches	O	O	O	O	O	O	_	_	_
+geschehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+was	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Völkerrechte	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+diplomatischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#matischen	O	O	O	O	O	O	_	_	_|Commented
+Gepflogenheiten	O	O	O	O	O	O	_	_	_
+schwer	O	O	O	O	O	O	_	_	_
+verträgt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Verössentlichung	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+Castro	B-pers	O	B-pers.ind	O	O	O	Q469575	_	_
+feindseligen	O	O	O	O	O	O	_	_	_
+Artikels	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tikels	O	O	O	O	O	O	_	_	_|Commented
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Amsterdamer	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Revue	B-prod	O	B-prod.media	O	O	O	NIL	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+niederländischen	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Gesandten	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+in	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+Caracas	I-pers	O	I-pers.ind	O	I-comp.function	B-loc.adm.town	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+de	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Reus	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	NIL	_	_
+haben	O	O	O	O	O	O	_	_	_
+wir	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+erwähnt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dazu	O	O	O	O	O	O	_	_	_
+kommen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+jetzt	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zwischenfälle	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Willemstad	B-loc	O	B-loc.adm.town	O	O	O	Q132679	_	NoSpaceAfter|Normalized-7
+#¬	I-loc	O	I-loc.adm.town	O	O	O	Q132679	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lemstad	I-loc	O	I-loc.adm.town	O	O	O	Q132679	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Hauptstadt	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Insel	O	O	O	O	O	O	_	_	_
+Curacao	B-loc	O	B-loc.phys.geo	O	O	O	Q25279	_	NoSpaceAfter|Normalized-5
+#¬	I-loc	O	I-loc.phys.geo	O	O	O	Q25279	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#racao	I-loc	O	I-loc.phys.geo	O	O	O	Q25279	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Beschimpfung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+dortigen	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+venezolanischen	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+Konsuls	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_
+Lopez	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+und	O	O	O	O	O	O	_	_	_
+sogar	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Tätlichkeiten	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+ihn	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+Familie	O	O	O	O	O	O	_	_	_
+gegeführt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#geführt	O	O	O	O	O	O	_	_	_|Commented
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Unter	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Verdachte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gegen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Holländer	O	O	O	O	O	O	_	_	_
+gerichteten	O	O	O	O	O	O	_	_	_
+Artikel	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Caracaoser	O	O	O	O	O	O	_	_	_
+Zeitung	O	O	O	O	O	O	_	_	_
+veranlaßt	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+venezolanische	O	O	O	O	O	O	_	_	_
+Konsul	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Willemstad	B-loc	O	B-loc.adm.town	O	O	O	Q132679	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+dortigen	O	O	O	O	O	O	_	_	_
+Volksmenge	O	O	O	O	O	O	_	_	_
+beschimpft	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+seiner	O	O	O	O	O	O	_	_	_
+Wohnung	O	O	O	O	O	O	_	_	_
+regelrecht	O	O	O	O	O	O	_	_	_
+belagert	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+mußte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+durch	O	O	O	O	O	O	_	_	_
+Drohungen	O	O	O	O	O	O	_	_	_
+eingeschüchtert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+öffentlich	O	O	O	O	O	O	_	_	_
+Abbitte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bitte	O	O	O	O	O	O	_	_	_|Commented
+leisten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+niederländische	O	O	O	O	O	O	_	_	_
+Volkshymne	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mitsingen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Hoch	O	O	O	O	O	O	_	_	_
+Königin	B-pers	O	B-pers.ind	O	B-comp.title	O	Q150747	_	_
+Wilhelmine	I-pers	O	I-pers.ind	O	B-comp.name	O	Q150747	_	_
+rufen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+ähnliche	O	O	O	O	O	O	_	_	_
+Erniedrigungen	O	O	O	O	O	O	_	_	_
+erdulden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Schließlich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lich	O	O	O	O	O	O	_	_	_|Commented
+wurde	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+Militärbewachung	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Willemstad	B-loc	O	B-loc.adm.town	O	O	O	Q132679	_	_
+auf	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Schiff	O	O	O	O	O	O	_	_	_
+gebracht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+ihn	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nach	O	O	O	O	O	O	_	_	_
+Venezuela	B-loc	O	B-loc.adm.nat	O	O	O	Q717	_	_
+beförderte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Das	O	O	O	O	O	O	_	_	_
+entspricht	O	O	O	O	O	O	_	_	_
+wohl	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+kaum	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+diplomatischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#matischen	O	O	O	O	O	O	_	_	_|Commented
+Sitten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+schönste	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Sache	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ist	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+trotz	O	O	O	O	O	O	_	_	_
+diesen	O	O	O	O	O	O	_	_	_
+gegenseitigen	O	O	O	O	O	O	_	_	_
+Liebenswürdigkeiten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#würdigkeiten	O	O	O	O	O	O	_	_	_|Commented
+ein	O	O	O	O	O	O	_	_	_
+amtlicher	O	O	O	O	O	O	_	_	_
+Abbruch	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+niederländisch	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ländisch	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+venezolanischen	O	O	O	O	O	O	_	_	_
+Beziehungen	O	O	O	O	O	O	_	_	_
+bisher	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erfolgt	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wenigstens	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+offizielles	O	O	O	O	O	O	_	_	_
+Aktenstück	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stück	O	O	O	O	O	O	_	_	_|Commented
+des	O	O	O	O	O	O	_	_	_
+Präsidenten	B-pers	O	B-pers.ind	O	B-comp.function	O	Q469575	_	_
+Castro	I-pers	O	I-pers.ind	O	B-comp.name	O	Q469575	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+diesen	O	O	O	O	O	O	_	_	_
+Abbruch	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bruch	O	O	O	O	O	O	_	_	_|Commented
+mitteilt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	_
+bisher	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+überreicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Man	O	O	O	O	O	O	_	_	_
+wüßte	O	O	O	O	O	O	_	_	_
+übrigens	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wen	O	O	O	O	O	O	_	_	_
+dies	O	O	O	O	O	O	_	_	_
+geschehen	O	O	O	O	O	O	_	_	_
+sollte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+da	O	O	O	O	O	O	_	_	_
+Venezuela	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q717	Q5589332	_
+hier	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schon	O	O	O	O	O	O	_	_	_
+seit	O	O	O	O	O	O	_	_	_
+mehreren	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+diplomatische	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vertretung	O	O	O	O	O	O	_	_	_
+unterhält	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Unter	O	O	O	O	O	O	_	_	_
+solchen	O	O	O	O	O	O	_	_	_
+Umständen	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+kriegerische	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Operationen	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+venezolanische	O	O	O	O	O	O	_	_	_
+Küste	O	O	O	O	O	O	_	_	_
+vorläufig	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#läufig	O	O	O	O	O	O	_	_	_|Commented
+nicht	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+denken	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Vorerst	O	O	O	O	O	O	_	_	_
+wartet	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+niederländische	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Rückkehr	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+heimberufenen	O	O	O	O	O	O	_	_	_
+Gesandten	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Caracas	B-loc	O	B-loc.adm.town	O	O	O	Q1533	_	_
+ab	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zunächst	O	O	O	O	O	O	_	_	_
+dessen	O	O	O	O	O	O	_	_	_
+ausführlichen	O	O	O	O	O	O	_	_	_
+Bericht	O	O	O	O	O	O	_	_	_
+anzuhören	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Erst	O	O	O	O	O	O	_	_	_
+dann	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+niederländische	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+endgiltige	O	O	O	O	O	O	_	_	_
+Beschlüsse	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+ihr	O	O	O	O	O	O	_	_	_
+Vorgehen	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Venezuela	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q717	Q5589332	_
+fassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ein	O	O	O	O	O	O	_	_	_
+regelrechter	O	O	O	O	O	O	_	_	_
+Krieg	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Castro	B-pers	O	B-pers.ind	O	O	O	Q469575	_	_
+ist	O	O	O	O	O	O	_	_	_
+ausgeschlossen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wahrscheinlich	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+ansehnliche	O	O	O	O	O	O	_	_	_
+Flotte	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Caraibischen	B-loc	O	B-loc.phys.hydro	O	O	O	Q1247	_	NoSpaceAfter|Normalized-10
+#¬	I-loc	O	I-loc.phys.hydro	O	O	O	Q1247	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#raibischen	I-loc	O	I-loc.phys.hydro	O	O	O	Q1247	_	_|Commented
+Meere	I-loc	O	I-loc.phys.hydro	O	O	O	Q1247	_	_
+versammeln	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+sodann	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+etliche	O	O	O	O	O	O	_	_	_
+venezolanische	O	O	O	O	O	O	_	_	_
+Häfen	O	O	O	O	O	O	_	_	_
+bombardieren	O	O	O	O	O	O	_	_	_
+lassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+woferne	O	O	O	O	O	O	_	_	_
+Sennor	B-pers	O	B-pers.ind	O	B-comp.title	O	Q469575	_	_
+Castro	I-pers	O	I-pers.ind	O	B-comp.name	O	Q469575	_	_
+nicht	O	O	O	O	O	O	_	_	_
+früher	O	O	O	O	O	O	_	_	_
+Mittel	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+Wege	O	O	O	O	O	O	_	_	_
+findet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+friedliche	O	O	O	O	O	O	_	_	_
+Beilegung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+seines	O	O	O	O	O	O	_	_	_
+Streites	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Holland	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q55	Q2479200	_
+herbeizuführen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

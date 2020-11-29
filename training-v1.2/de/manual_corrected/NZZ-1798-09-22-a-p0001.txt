@@ -1,0 +1,516 @@
+# language = de
+# newspaper = NZZ
+# date = 1798-09-22
+# document_id = NZZ-1798-09-22-a-p0001
+# segment_iiif_link = _
+Ausland	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Großbrittannien	B-loc	O	B-loc.adm.nat	O	O	O	Q23666	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+[	O	O	O	O	O	O	_	_	NoSpaceAfter
+Irland	B-loc	O	B-loc.adm.nat	O	O	O	Q22890	_	NoSpaceAfter
+.	I-loc	O	I-loc.adm.nat	O	O	O	Q22890	_	NoSpaceAfter
+]	O	O	O	O	O	O	_	_	_
+London	B-loc	O	B-loc.adm.town	O	O	O	Q84	_	NoSpaceAfter|Normalized-3
+#¬	I-loc	O	I-loc.adm.town	O	O	O	Q84	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#don	I-loc	O	I-loc.adm.town	O	O	O	Q84	_	_|Commented
+den	O	O	O	O	O	O	_	_	_
+31	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Aug	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+25sten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+Lord	B-pers	O	B-pers.ind	O	B-comp.title	O	Q164723	_	_
+Corn	I-pers	O	I-pers.ind	O	B-comp.name	O	Q164723	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wollis	I-pers	O	I-pers.ind	O	I-comp.name	O	Q164723	_	_
+Dublin	B-loc	O	B-loc.adm.town	O	O	O	Q1761	_	_
+mit	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+Gefolge	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+mehrern	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Truppen	O	O	O	O	O	O	_	_	_
+verließ	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Central	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Lage	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+Sligo	B-loc	O	B-loc.adm.town	O	O	O	Q190002	_	NoSpaceAfter|Normalized-2
+#¬	I-loc	O	I-loc.adm.town	O	O	O	Q190002	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#go	I-loc	O	I-loc.adm.town	O	O	O	Q190002	_	_|Commented
+die	O	O	O	O	O	O	_	_	_
+Operationen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Armee	O	O	O	O	O	O	_	_	_
+persönlich	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+dirigiren	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ren	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Feind	O	O	O	O	O	O	_	_	_
+dürfte	O	O	O	O	O	O	_	_	_
+bald	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Enge	O	O	O	O	O	O	_	_	_
+kommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+da	O	O	O	O	O	O	_	_	_
+Gen	B-pers	O	B-pers.ind	O	B-comp.title	O	Q334092	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q334092	_	_
+Lacke	I-pers	O	I-pers.ind	O	B-comp.name	O	Q334092	_	_
+mit	O	O	O	O	O	O	_	_	_
+6000	O	O	O	O	O	O	_	_	_
+Mann	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+entgegen	O	O	O	O	O	O	_	_	_
+marschirt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schirt	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Unter	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Gelandeten	O	O	O	O	O	O	_	_	_
+sollen	O	O	O	O	O	O	_	_	_
+500	O	O	O	O	O	O	_	_	_
+Officiers	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+seyn	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+vereinigten	B-org	O	B-org.ent	O	O	O	NIL	_	_
+Irländer	I-org	O	I-org.ent	O	O	O	NIL	_	_
+zu	O	O	O	O	O	O	_	_	_
+discipliniren	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+nach	O	O	O	O	O	O	_	_	_
+andern	O	O	O	O	O	O	_	_	_
+Nachrichten	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+80	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+diesem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Character	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Zu	O	O	O	O	O	O	_	_	_
+Dublin	B-loc	O	B-loc.adm.town	O	O	O	Q1761	_	_
+sagte	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Feind	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+60000	O	O	O	O	O	O	_	_	_
+Gewehre	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Vertheilen	O	O	O	O	O	O	_	_	_
+mitgebracht	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Bauern	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Gewehre	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+ihnen	O	O	O	O	O	O	_	_	_
+angenommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sollen	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+300	O	O	O	O	O	O	_	_	_
+belaufen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+französis	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Fregatten	O	O	O	O	O	O	_	_	_
+verließen	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+23	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Rhede	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Killala	B-loc	O	B-loc.adm.town	O	O	O	Q1741335	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nachdem	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+1000	O	O	O	O	O	O	_	_	_
+Mann	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	_
+ausgeschifft	O	O	O	O	O	O	_	_	_
+hatten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ten	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+giengen	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+weit	O	O	O	O	O	O	_	_	_
+davon	O	O	O	O	O	O	_	_	_
+entfernten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fernten	O	O	O	O	O	O	_	_	_|Commented
+Bucht	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Sligo	B-loc	O	B-loc.adm.town	O	O	O	Q190002	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+scheint	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Erfolg	O	O	O	O	O	O	_	_	_
+abwarten	O	O	O	O	O	O	_	_	_
+wollen	O	O	O	O	O	O	_	_	_
+Die	O	O	O	O	O	O	_	_	_
+3	B-org	O	B-org.ent	O	O	O	NIL	_	_
+brittischen	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Fregatten	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|Normalized-6
+#¬	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gatten	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|Commented
+,	I-org	O	I-org.ent	O	O	O	NIL	_	_
+Diana	I-org	O	I-org.ent	O	B-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Cerberus	B-org	O	B-org.ent	O	O	O	Q5631822	_	_
+und	O	O	O	O	O	O	_	_	_
+Shannon	B-org	O	B-org.ent	O	O	O	Q5634303	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+befann	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-1
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#n	O	O	O	O	O	O	_	_	_|Commented
+sich	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+25	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Lough	B-loc	O	B-loc.phys.hydro	O	O	O	Q1444194	_	NoSpaceAfter
+-	I-loc	O	I-loc.phys.hydro	O	O	O	Q1444194	_	NoSpaceAfter
+Swilly	I-loc	O	I-loc.phys.hydro	O	O	O	Q1444194	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+verfügten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+sogleich	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Befehl	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Admirals	B-pers	O	B-pers.ind	O	B-comp.title	O	Q245666	_	_
+Kingsmill	I-pers	O	I-pers.ind	O	B-comp.name	O	Q245666	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Landung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Feindes	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Sligo	B-loc	O	B-loc.adm.town	O	O	O	Q190002	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Auch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wurden	O	O	O	O	O	O	_	_	_
+daselbst	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Linienschiff	O	O	O	O	O	O	_	_	_
+Repulse	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+64	O	O	O	O	O	O	_	_	_
+Kanonen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Doris	B-org	O	B-org.ent	O	O	O	Q5632171	_	_
+und	O	O	O	O	O	O	_	_	_
+Melampus	B-org	O	B-org.ent	O	O	O	Q5633341	_	_
+erwartet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Es	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+ferner	O	O	O	O	O	O	_	_	_
+gemeldet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+französ	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#pen	O	O	O	O	O	O	_	_	_|Commented
+von	O	O	O	O	O	O	_	_	_
+Ballina	B-loc	O	B-loc.adm.town	O	O	O	Q384721	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Stadt	O	O	O	O	O	O	_	_	_
+unweit	O	O	O	O	O	O	_	_	_
+Killala	B-loc	O	B-loc.adm.town	O	O	O	Q1741335	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Besitz	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sitz	O	O	O	O	O	O	_	_	_|Commented
+genommen	O	O	O	O	O	O	_	_	_
+hatten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+fortdauernd	O	O	O	O	O	O	_	_	_
+stark	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+Killala	B-loc	O	B-loc.adm.town	O	O	O	Q1741335	_	_
+verschanzten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Kilmaine	B-pers	O	B-pers.ind	O	O	O	Q2960764	_	NoSpaceAfter|Normalized-5
+#¬	I-pers	O	I-pers.ind	O	O	O	Q2960764	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#maine	I-pers	O	I-pers.ind	O	O	O	Q2960764	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Gen	B-pers	O	B-pers.ind	O	B-comp.title	O	Q2474206	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q2474206	_	_
+Humbert	I-pers	O	I-pers.ind	O	B-comp.name	O	Q2474206	_	_
+kommandirt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Das	O	O	O	O	O	O	_	_	_
+Gerücht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+französis	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zu	O	O	O	O	O	O	_	_	_
+Schiffe	O	O	O	O	O	O	_	_	_
+abgegangen	O	O	O	O	O	O	_	_	_
+wären	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+jezt	O	O	O	O	O	O	_	_	_
+unge	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gründet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Aus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Provinz	B-loc	O	B-loc.adm.reg	O	O	O	Q93195	_	_
+Ulster	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q93195	_	_
+sollen	O	O	O	O	O	O	_	_	_
+mehrere	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nißvergnugte	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Provinz	B-loc	O	B-loc.adm.reg	O	O	O	Q164421	_	_
+Connaught	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q164421	_	_
+gewandert	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#wandert	O	O	O	O	O	O	_	_	_|Commented
+seyn	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Man	O	O	O	O	O	O	_	_	_
+verbreitet	O	O	O	O	O	O	_	_	_
+zwar	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+westlichen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lichen	O	O	O	O	O	O	_	_	_|Commented
+Distrikt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+besonders	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Grafschaften	B-loc	O	B-loc.adm.reg	O	O	O	Q183544	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Meath	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q183544	_	_
+und	O	O	O	O	O	O	_	_	_
+Cafan	B-loc	O	B-loc.adm.reg	O	O	O	Q187402	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Gegend	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Cork	B-loc	O	B-loc.adm.town	O	O	O	Q36647	_	_
+der	O	O	O	O	O	O	_	_	_
+Rebellionsgeist	O	O	O	O	O	O	_	_	_
+ausgebrochen	O	O	O	O	O	O	_	_	_
+sey	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+allein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dieß	O	O	O	O	O	O	_	_	_
+Gerucht	O	O	O	O	O	O	_	_	_
+erklären	O	O	O	O	O	O	_	_	_
+verschiedene	O	O	O	O	O	O	_	_	_
+hiesige	O	O	O	O	O	O	_	_	_
+Blätter	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+für	O	O	O	O	O	O	_	_	_
+ungegründet	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Es	O	O	O	O	O	O	_	_	_
+geht	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Gerucht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+3	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+französ	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Fregatten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Killala	B-loc	O	B-loc.adm.town	O	O	O	Q1741335	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gelandet	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+einigen	O	O	O	O	O	O	_	_	_
+königl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Kriegsschiffen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aufgefangen	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Von	O	O	O	O	O	O	_	_	_
+Portsmonth	B-loc	O	B-loc.adm.town	O	O	O	Q72259	_	_
+meldet	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+man	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+ostindischen	O	O	O	O	O	O	_	_	_
+Schiffen	O	O	O	O	O	O	_	_	_
+embarkirten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#kirten	O	O	O	O	O	O	_	_	_|Commented
+3500	O	O	O	O	O	O	_	_	_
+Mann	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Admiralität	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Befehl	O	O	O	O	O	O	_	_	_
+erhalten	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+auszuschiffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+man	O	O	O	O	O	O	_	_	_
+vermuthet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Irland	B-loc	O	B-loc.adm.nat	O	O	O	Q22890	_	_
+zu	O	O	O	O	O	O	_	_	_
+gehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+Umstände	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stände	O	O	O	O	O	O	_	_	_|Commented
+es	O	O	O	O	O	O	_	_	_
+nöthig	O	O	O	O	O	O	_	_	_
+machen	O	O	O	O	O	O	_	_	_
+sollten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

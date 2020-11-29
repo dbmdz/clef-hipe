@@ -1,0 +1,311 @@
+# language = de
+# newspaper = NZZ
+# date = 1818-05-26
+# document_id = NZZ-1818-05-26-a-p0002
+# segment_iiif_link = _
+Großbritannien	B-loc	O	B-loc.adm.nat	O	O	O	Q23666	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Aus	O	O	O	O	O	O	_	_	_
+St	B-loc	O	B-loc.phys.geo	O	O	O	Q34497	_	NoSpaceAfter
+.	I-loc	O	I-loc.phys.geo	O	O	O	Q34497	_	_
+Helena	I-loc	O	I-loc.phys.geo	O	O	O	Q34497	_	_
+wird	O	O	O	O	O	O	_	_	_
+gemeldet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+Buonaparte	B-pers	O	B-pers.ind	O	O	O	Q517	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+fortwährend	O	O	O	O	O	O	_	_	_
+übler	O	O	O	O	O	O	_	_	_
+Laune	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+Bewegung	O	O	O	O	O	O	_	_	_
+macht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+Niemand	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+sieht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+H	B-pers	O	B-pers.ind	O	B-comp.title	O	Q832247	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q832247	_	_
+Balcombe	I-pers	O	I-pers.ind	O	B-comp.name	O	Q832247	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Buonaparte	B-pers	O	B-pers.ind	O	O	O	Q517	_	_
+auf	O	O	O	O	O	O	_	_	_
+St	B-loc	O	B-loc.phys.geo	O	O	O	Q34497	_	NoSpaceAfter
+.	I-loc	O	I-loc.phys.geo	O	O	O	Q34497	_	_
+Helena	I-loc	O	I-loc.phys.geo	O	O	O	Q34497	_	_
+zuerst	O	O	O	O	O	O	_	_	_
+wohnte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+General	B-pers	O	B-pers.ind	O	B-comp.title	O	Q545690	_	NoSpaceAfter|Normalized-5
+#¬	I-pers	O	I-pers.ind	O	I-comp.title	O	Q545690	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#neral	I-pers	O	I-pers.ind	O	I-comp.title	O	Q545690	_	_|Commented
+Gorgaud	I-pers	O	I-pers.ind	O	B-comp.name	O	Q545690	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Grafen	B-pers	O	B-pers.ind	O	B-comp.title	O	Q968153	_	_
+Montholon	I-pers	O	I-pers.ind	O	B-comp.name	O	Q968153	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dergestalt	O	O	O	O	O	O	_	_	_
+entzweit	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Duell	O	O	O	O	O	O	_	_	_
+verabredet	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welches	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+Buonaparte	B-pers	O	B-pers.ind	O	O	O	Q517	_	NoSpaceAfter
+'	I-pers	O	I-pers.ind	O	O	O	Q517	_	NoSpaceAfter
+s	I-pers	O	I-pers.ind	O	O	O	Q517	_	_
+Dazwischenkunft	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+verhindert	O	O	O	O	O	O	_	_	_
+wurde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Ostindienfahrer	O	O	O	O	O	O	_	_	_
+Camden	B-org	O	B-org.ent	O	O	O	Q42886779	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nach	O	O	O	O	O	O	_	_	_
+England	B-loc	O	B-loc.adm.nat	O	O	O	Q21	_	_
+zurückgekommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Man	O	O	O	O	O	O	_	_	_
+glaubt	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+ziemlicher	O	O	O	O	O	O	_	_	_
+Gewißheit	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+wissen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wie	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+berühmte	O	O	O	O	O	O	_	_	_
+Manuscript	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+St	B-loc	O	B-loc.phys.geo	O	O	O	Q34497	_	NoSpaceAfter
+.	I-loc	O	I-loc.phys.geo	O	O	O	Q34497	_	_
+Helena	I-loc	O	I-loc.phys.geo	O	O	O	Q34497	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+dessen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sen	O	O	O	O	O	O	_	_	_|Commented
+Verfassung	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+immer	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+undurchdringliches	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+räthselhaftes	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#haftes	O	O	O	O	O	O	_	_	_|Commented
+Dunkel	O	O	O	O	O	O	_	_	_
+schwebte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Stande	O	O	O	O	O	O	_	_	_
+gebracht	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Lascases	B-pers	O	B-pers.ind	O	O	O	Q585856	_	_
+hat	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+St	B-loc	O	B-loc.phys.geo	O	O	O	Q34497	_	NoSpaceAfter
+.	I-loc	O	I-loc.phys.geo	O	O	O	Q34497	_	_
+Helena	I-loc	O	I-loc.phys.geo	O	O	O	Q34497	_	_
+ein	O	O	O	O	O	O	_	_	_
+Tagbuch	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+Alles	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+was	O	O	O	O	O	O	_	_	_
+Napoleon	B-pers	O	B-pers.ind	O	O	O	Q517	_	_
+geäußert	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+gesagt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+aufgeschrieben	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nach	O	O	O	O	O	O	_	_	_
+England	B-loc	O	B-loc.adm.nat	O	O	O	Q21	_	_
+gesandt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Brittischen	O	O	O	O	O	O	_	_	_
+Ministerium	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nisterium	O	O	O	O	O	O	_	_	_|Commented
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Hände	O	O	O	O	O	O	_	_	_
+fiel	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Von	O	O	O	O	O	O	_	_	_
+diesem	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+man	O	O	O	O	O	O	_	_	_
+sagt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Jemand	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Paris	B-loc	O	B-loc.adm.town	O	O	O	Q90	_	_
+eine	O	O	O	O	O	O	_	_	_
+Abschrift	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+verschaffen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gewußt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+nachher	O	O	O	O	O	O	_	_	_
+Frau	B-pers	O	B-pers.ind	O	B-comp.title	O	Q123041	_	_
+v	I-pers	O	I-pers.ind	O	B-comp.name	O	Q123041	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	Q123041	_	_
+Stael	I-pers	O	I-pers.ind	O	I-comp.name	O	Q123041	_	_
+dazu	O	O	O	O	O	O	_	_	_
+vermocht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Benützung	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Handschrift	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+gedachte	O	O	O	O	O	O	_	_	_
+Buch	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+schreiben	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ben	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+Werk	O	O	O	O	O	O	_	_	_
+selbst	O	O	O	O	O	O	_	_	_
+rührt	O	O	O	O	O	O	_	_	_
+daher	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Napoleon	B-pers	O	B-pers.ind	O	O	O	Q517	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+her	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wohl	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+mehrere	O	O	O	O	O	O	_	_	_
+darin	O	O	O	O	O	O	_	_	_
+vorkommende	O	O	O	O	O	O	_	_	_
+Aeußerungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gen	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+Urtheile	O	O	O	O	O	O	_	_	_
+dessen	O	O	O	O	O	O	_	_	_
+Eigenthum	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+wörtlich	O	O	O	O	O	O	_	_	_
+darin	O	O	O	O	O	O	_	_	_
+aufgenommen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#genommen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+eigene	O	O	O	O	O	O	_	_	_
+Styl	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Napoleon	B-pers	O	B-pers.ind	O	O	O	Q517	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+originelle	O	O	O	O	O	O	_	_	_
+Sprache	O	O	O	O	O	O	_	_	_
+zeigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Lascases	B-pers	O	B-pers.ind	O	O	O	Q585856	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ner	O	O	O	O	O	O	_	_	_|Commented
+Rückkehr	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Europa	B-loc	O	B-loc.adm.sup	O	O	O	Q46	_	_
+das	O	O	O	O	O	O	_	_	_
+Manuscript	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+St	B-loc	O	B-loc.phys.geo	O	O	O	Q34497	_	NoSpaceAfter
+.	I-loc	O	I-loc.phys.geo	O	O	O	Q34497	_	_
+Helena	I-loc	O	I-loc.phys.geo	O	O	O	Q34497	_	NoSpaceAfter|Normalized-4
+#¬	I-loc	O	I-loc.phys.geo	O	O	O	Q34497	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lena	I-loc	O	I-loc.phys.geo	O	O	O	Q34497	_	_|Commented
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Hände	O	O	O	O	O	O	_	_	_
+fiel	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sogleich	O	O	O	O	O	O	_	_	_
+erkannt	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+
+

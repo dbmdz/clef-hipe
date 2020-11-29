@@ -1,0 +1,1110 @@
+# language = de
+# newspaper = NZZ
+# date = 1928-03-23
+# document_id = NZZ-1928-03-23-h-p0002
+# segment_iiif_link = _
+Bücher	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Zeitschriften	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Stanislaw	B-pers	O	B-pers.ind	O	O	O	Q9341598	_	_
+Belza	I-pers	O	I-pers.ind	O	O	O	Q9341598	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Echa	O	O	O	O	O	O	_	_	_
+Szwajcarji	O	O	O	O	O	O	_	_	_
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+Echos	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Verlag	B-org	O	B-org.ent	O	O	O	NIL	_	_
+Drukarnia	I-org	O	I-org.ent	O	B-comp.name	O	NIL	_	_
+Loretanska	I-org	O	I-org.ent	O	I-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Warschau	B-loc	O	B-loc.adm.town	O	O	O	Q270	_	_
+1927	B-time	O	B-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+A	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Ch	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Aus	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Umschlag	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Büchleins	O	O	O	O	O	O	_	_	_
+ersieht	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sieht	O	O	O	O	O	O	_	_	_|Commented
+man	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Reisen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Passion	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Verfassers	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fassers	O	O	O	O	O	O	_	_	_|Commented
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wo	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+welchem	O	O	O	O	O	O	_	_	_
+Längen	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Breitengrad	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+Herr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q9341598	_	_
+Belza	I-pers	O	I-pers.ind	O	B-comp.name	O	Q9341598	_	_
+nicht	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+gewesen	O	O	O	O	O	O	_	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Seine	O	O	O	O	O	O	_	_	_
+Erfahrungen	O	O	O	O	O	O	_	_	_
+spiegeln	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+dreihundert	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Seiten	O	O	O	O	O	O	_	_	_
+starken	O	O	O	O	O	O	_	_	_
+Schrift	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Kriege	O	O	O	O	O	O	_	_	_
+entstand	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stand	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+erst	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Licht	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Welt	O	O	O	O	O	O	_	_	_
+erblickt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Man	O	O	O	O	O	O	_	_	_
+darf	O	O	O	O	O	O	_	_	_
+Belza	B-pers	O	B-pers.ind	O	O	O	Q9341598	_	_
+das	O	O	O	O	O	O	_	_	_
+Zeugnis	O	O	O	O	O	O	_	_	_
+ausstellen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	_
+nicht	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Waggonfenster	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kennen	O	O	O	O	O	O	_	_	_
+lernte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Kanton	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+Kanton	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Stadt	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Stadt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+fast	O	O	O	O	O	O	_	_	_
+alle	O	O	O	O	O	O	_	_	_
+irgendwie	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Durchschnitt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hinausragenden	O	O	O	O	O	O	_	_	_
+Ortschaften	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+diesem	O	O	O	O	O	O	_	_	_
+Büchlein	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lein	O	O	O	O	O	O	_	_	_|Commented
+ausführlich	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+großer	O	O	O	O	O	O	_	_	_
+Liebe	O	O	O	O	O	O	_	_	_
+beschrieben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Topographie	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Flora	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Klima	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Tal	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Bergen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+einzelne	O	O	O	O	O	O	_	_	_
+Denkmäler	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+hervorragenden	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#den	O	O	O	O	O	O	_	_	_|Commented
+Landesindustrien	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Bundesverfassung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Artikel	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+Artikel	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+finden	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+diesem	O	O	O	O	O	O	_	_	_
+Werkchen	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+im	O	O	O	O	O	O	_	_	_
+wesentlichen	O	O	O	O	O	O	_	_	_
+kundige	O	O	O	O	O	O	_	_	_
+Berücksichtigung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kenner	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Landes	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+Herr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q9341598	_	_
+Belza	I-pers	O	I-pers.ind	O	B-comp.name	O	Q9341598	_	_
+nicht	O	O	O	O	O	O	_	_	_
+viel	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Neues	O	O	O	O	O	O	_	_	_
+sagen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+der	O	O	O	O	O	O	_	_	_
+durchschnittliche	O	O	O	O	O	O	_	_	_
+Pole	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+das	O	O	O	O	O	O	_	_	_
+Büchlein	O	O	O	O	O	O	_	_	_
+bestimmt	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+daraus	O	O	O	O	O	O	_	_	_
+jedenfalls	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+allgemeine	O	O	O	O	O	O	_	_	_
+Kenntnis	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+Land	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Leute	O	O	O	O	O	O	_	_	_
+schöpfen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+In	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+etwas	O	O	O	O	O	O	_	_	_
+unbeholfenem	O	O	O	O	O	O	_	_	_
+Französisch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+geschriebenen	O	O	O	O	O	O	_	_	_
+Geleitwort	O	O	O	O	O	O	_	_	_
+eignet	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Verfasser	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+seine	O	O	O	O	O	O	_	_	_
+Schrift	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Schweizervolk	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+polnische	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Leser	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Seite	O	O	O	O	O	O	_	_	_
+überschlagen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+dafür	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+durch	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+polnischen	O	O	O	O	O	O	_	_	_
+Text	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Schweizer	O	O	O	O	O	O	_	_	_
+Wesen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nähergebracht	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+ganze	O	O	O	O	O	O	_	_	_
+Werkchen	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+freilich	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+etwas	O	O	O	O	O	O	_	_	_
+besondern	O	O	O	O	O	O	_	_	_
+Gesichtspunkt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+verfaßt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Belza	B-pers	O	B-pers.ind	O	O	O	Q9341598	_	_
+ist	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+glühender	O	O	O	O	O	O	_	_	_
+polnischer	O	O	O	O	O	O	_	_	_
+Patriot	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+sucht	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	_
+historische	O	O	O	O	O	O	_	_	_
+Belege	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Entwicklung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+eigene	O	O	O	O	O	O	_	_	_
+Heimat	O	O	O	O	O	O	_	_	_
+genommen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#men	O	O	O	O	O	O	_	_	_|Commented
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Stellenweise	O	O	O	O	O	O	_	_	_
+muß	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+fragen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ob	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Verfasser	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+diesen	O	O	O	O	O	O	_	_	_
+Analogien	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+weit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+geht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+überhaupt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ob	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	_
+gezogenen	O	O	O	O	O	O	_	_	_
+Vergleiche	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gleiche	O	O	O	O	O	O	_	_	_|Commented
+nicht	O	O	O	O	O	O	_	_	_
+viel	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+zahlreich	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+gar	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+viel	O	O	O	O	O	O	_	_	_
+beweisen	O	O	O	O	O	O	_	_	_
+wollen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Den	O	O	O	O	O	O	_	_	_
+Gegnern	O	O	O	O	O	O	_	_	_
+Polens	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q36	Q36	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ihm	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	_
+Teilungen	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Vorwurf	O	O	O	O	O	O	_	_	_
+machen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hält	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Belza	B-pers	O	B-pers.ind	O	O	O	Q9341598	_	_
+das	O	O	O	O	O	O	_	_	_
+Beispiel	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q39	Q39	_
+entgegen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Einheit	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+erst	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+langen	O	O	O	O	O	O	_	_	_
+Kämpfen	O	O	O	O	O	O	_	_	_
+erreicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Heute	O	O	O	O	O	O	_	_	_
+imponiert	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Eidgenossenschaft	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q39	Q39	_
+durch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+moralischen	O	O	O	O	O	O	_	_	_
+Wert	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Staatspersönlichkeit	O	O	O	O	O	O	_	_	_
+—	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eine	O	O	O	O	O	O	_	_	_
+Schicksalswendung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Autor	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+seine	O	O	O	O	O	O	_	_	_
+Heimat	O	O	O	O	O	O	_	_	_
+erhofft	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+An	O	O	O	O	O	O	_	_	_
+mancher	O	O	O	O	O	O	_	_	_
+Stelle	O	O	O	O	O	O	_	_	_
+seines	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Werkes	O	O	O	O	O	O	_	_	_
+führt	O	O	O	O	O	O	_	_	_
+Belza	B-pers	O	B-pers.ind	O	O	O	Q9341598	_	_
+die	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q39	Q39	_
+seinen	O	O	O	O	O	O	_	_	_
+Landsleuten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#leuten	O	O	O	O	O	O	_	_	_|Commented
+als	O	O	O	O	O	O	_	_	_
+Spiegel	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+schauen	O	O	O	O	O	O	_	_	_
+sollten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+um	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Eidgenossenschaft	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q39	Q39	_
+viel	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+lernen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+weist	O	O	O	O	O	O	_	_	_
+dabei	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Polen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Aufgabe	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Wächter	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ter	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Ordnung	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Fortschritts	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Osten	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q39	Q39	_
+im	O	O	O	O	O	O	_	_	_
+europäischen	O	O	O	O	O	O	_	_	_
+Westen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sei	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+Dankesgefühl	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Autors	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+kleine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Land	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Mächten	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Stücke	O	O	O	O	O	O	_	_	_
+gerissenen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rissenen	O	O	O	O	O	O	_	_	_|Commented
+Polen	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q36	Q36	_
+auch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+schwersten	O	O	O	O	O	O	_	_	_
+Stunden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+seiner	O	O	O	O	O	O	_	_	_
+Geschichte	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+moralischen	O	O	O	O	O	O	_	_	_
+Beistand	O	O	O	O	O	O	_	_	_
+nie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+versagte	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+einzelnen	O	O	O	O	O	O	_	_	_
+polnischen	O	O	O	O	O	O	_	_	_
+Bürgern	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gern	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+ihrem	O	O	O	O	O	O	_	_	_
+Nationalhelden	B-pers	O	B-pers.ind	O	B-comp.function	O	Q191479	_	_
+Kosziusko	I-pers	O	I-pers.ind	O	B-comp.name	O	Q191479	_	NoSpaceAfter|Normalized-6
+#¬	I-pers	O	I-pers.ind	O	I-comp.name	O	Q191479	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ziusko	I-pers	O	I-pers.ind	O	I-comp.name	O	Q191479	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+ihrem	O	O	O	O	O	O	_	_	_
+Nationalmuseum	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Rapperswil	B-loc	O	B-loc.adm.town	O	O	O	Q688539	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ein	O	O	O	O	O	O	_	_	_
+sicheres	O	O	O	O	O	O	_	_	_
+Asyl	O	O	O	O	O	O	_	_	_
+gewährte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zieht	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+roter	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Faden	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+ganze	O	O	O	O	O	O	_	_	_
+Schrift	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	_
+manchen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Polen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	_
+nicht	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+kennen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+lieben	O	O	O	O	O	O	_	_	_
+lernen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Die	O	O	O	O	O	O	_	_	_
+Illustrationen	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Büchleins	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dem	O	O	O	O	O	O	_	_	_
+Leser	O	O	O	O	O	O	_	_	_
+freilich	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+mäßigen	O	O	O	O	O	O	_	_	_
+Begriff	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Schönheiten	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	_
+vermitteln	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Zwischen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+schwungvollen	O	O	O	O	O	O	_	_	_
+Beschreibung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vierwaldstättersees	B-loc	O	B-loc.phys.hydro	O	O	O	Q14381	_	_
+oder	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Löwen	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Luzern	B-loc	O	B-loc.adm.town	O	O	O	Q4191	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+entsprechenden	O	O	O	O	O	O	_	_	_
+Abbildungen	O	O	O	O	O	O	_	_	_
+klafft	O	O	O	O	O	O	_	_	_
+leider	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ein	O	O	O	O	O	O	_	_	_
+tiefer	O	O	O	O	O	O	_	_	_
+Abgrund	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+Bild	O	O	O	O	O	O	_	_	_
+entstellt	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Text	O	O	O	O	O	O	_	_	_
+mindestens	O	O	O	O	O	O	_	_	_
+ebenso	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Verfasser	O	O	O	O	O	O	_	_	_
+kritisierte	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tisierte	O	O	O	O	O	O	_	_	_|Commented
+Markt	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bahnhofstraße	B-loc	O	B-loc.oro	O	O	O	Q675026	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+seiner	O	O	O	O	O	O	_	_	_
+Ansicht	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+sonst	O	O	O	O	O	O	_	_	_
+gepriesene	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+großstädtisch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+moderne	O	O	O	O	O	O	_	_	_
+Zürich	B-loc	O	B-loc.adm.town	O	O	O	Q72	_	_
+zweimal	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Woche	O	O	O	O	O	O	_	_	_
+verunstaltet	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#staltet	O	O	O	O	O	O	_	_	_|Commented
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+d	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = _
+ituto	O	O	O	O	O	O	_	_	_
+Muscale	O	O	O	O	O	O	_	_	_
+Gaetano	B-pers	O	B-pers.ind	O	O	O	Q101698	_	_
+Donirettl	I-pers	O	I-pers.ind	O	O	O	Q101698	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+La	O	O	O	O	O	O	_	_	_
+Cappella	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Rnlelie	O	O	O	O	O	O	_	_	_
+de	O	O	O	O	O	O	_	_	_
+e	O	O	O	O	O	O	_	_	_
+esise	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Bergamo	B-loc	O	B-loc.adm.town	O	O	O	Q628	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+lstituto	B-org	O	B-org.ent	O	O	O	Q57987900	_	_
+Italiano	I-org	O	I-org.ent	O	O	O	Q57987900	_	_
+di	I-org	O	I-org.ent	O	O	O	Q57987900	_	_
+Arti	I-org	O	I-org.ent	O	O	O	Q57987900	_	_
+Grasiche	I-org	O	I-org.ent	O	O	O	Q57987900	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+ok	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Bei	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+regen	O	O	O	O	O	O	_	_	_
+Beziehungen	O	O	O	O	O	O	_	_	_
+zwischen	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schweiz	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q39	Q39	_
+und	O	O	O	O	O	O	_	_	_
+Bergamo	B-loc	B-org	B-loc.adm.town	B-org.adm	O	O	Q628	Q628	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+italienischen	O	O	O	O	O	O	_	_	_
+Stadt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+allen	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Verhältnis	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Größe	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bedeutendste	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+tätigste	O	O	O	O	O	O	_	_	_
+Schweizerkolonie	O	O	O	O	O	O	_	_	_
+beherbergt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#bergt	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+mag	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Schrift	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Bergamasker	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ker	O	O	O	O	O	O	_	_	_|Commented
+Konservatorium	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	_
+interessieren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Bergamo	B-loc	O	B-loc.adm.town	O	O	O	Q628	_	_
+hat	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+viele	O	O	O	O	O	O	_	_	_
+Jahrhunderte	O	O	O	O	O	O	_	_	_
+alte	O	O	O	O	O	O	_	_	_
+Ueberlieferung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#lieferung	O	O	O	O	O	O	_	_	_|Commented
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Geschichte	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Musik	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Hier	O	O	O	O	O	O	_	_	_
+wirkte	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+schon	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+Paganinis	B-pers	O	B-pers.ind	O	O	O	Q66075	_	_
+Zeiten	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Locatelli	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Geschichte	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Violintechnik	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+bedeutende	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Rolle	O	O	O	O	O	O	_	_	_
+spielt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Doppelsaiten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+gebrochenen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Akkorde	O	O	O	O	O	O	_	_	_
+erfand	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	_
+lebte	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+berühmte	B-pers	O	B-pers.ind	O	B-comp.function	O	Q55675964	_	_
+Organist	I-pers	O	I-pers.ind	O	I-comp.function	O	Q55675964	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Serassi	I-pers	O	I-pers.ind	O	B-comp.name	O	Q55675964	_	_
+und	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Komponist	B-pers	O	B-pers.ind	O	B-comp.function	O	Q354947	_	_
+Legrenzi	I-pers	O	I-pers.ind	O	B-comp.name	O	Q354947	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+Konservatorium	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-11
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#servatorium	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+dessen	O	O	O	O	O	O	_	_	_
+Geschichte	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+vorliegende	O	O	O	O	O	O	_	_	_
+277	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Seiten	O	O	O	O	O	O	_	_	_
+starke	O	O	O	O	O	O	_	_	_
+Band	O	O	O	O	O	O	_	_	_
+behandelt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Schöpfung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+Johann	B-pers	O	B-pers.ind	O	O	O	Q373770	_	_
+Simon	I-pers	O	I-pers.ind	O	O	O	Q373770	_	_
+Mayr	I-pers	O	I-pers.ind	O	O	O	Q373770	_	_
+aus	O	O	O	O	O	O	_	_	_
+Mendorf	B-loc	O	B-loc.adm.town	O	O	O	Q1920373	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+in	O	O	O	O	O	O	_	_	_
+Venedig	B-loc	O	B-loc.adm.town	O	O	O	Q641	_	_
+dem	O	O	O	O	O	O	_	_	_
+musikalischen	O	O	O	O	O	O	_	_	_
+Leben	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+seine	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Oper	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Sapho	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+Oratorium	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+Sisara	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mächtigen	O	O	O	O	O	O	_	_	_
+Impuls	O	O	O	O	O	O	_	_	_
+gegeben	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Pflanzschule	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#schule	O	O	O	O	O	O	_	_	_|Commented
+Gaetano	B-pers	O	B-pers.ind	O	O	O	Q101698	_	_
+Donizettis	I-pers	O	I-pers.ind	O	O	O	Q101698	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+strahlendsten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Sterns	O	O	O	O	O	O	_	_	_
+am	O	O	O	O	O	O	_	_	_
+musikglischen	O	O	O	O	O	O	_	_	_
+Himmel	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wirkte	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+späteren	O	O	O	O	O	O	_	_	_
+Jahrzengsoconda	O	O	O	O	O	O	_	_	NoSpaceAfter
+"	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Es	O	O	O	O	O	O	_	_	_
+mag	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ie	O	O	O	O	O	O	_	_	_
+sese	O	O	O	O	O	O	_	_	_
+sessse	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+interessieren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+1805	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+gegründete	O	O	O	O	O	O	_	_	_
+Versamasker	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ker	O	O	O	O	O	O	_	_	_|Commented
+Konservatorium	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+älteste	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Mailänder	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ist	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+drei	O	O	O	O	O	O	_	_	_
+Jahre	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+größeren	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Pariser	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schwesteranstalt	O	O	O	O	O	O	_	_	_
+entstand	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+währe	O	O	O	O	O	O	_	_	_
+Hochschule	O	O	O	O	O	O	_	_	_
+erst	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Bologneser	O	O	O	O	O	O	_	_	_
+musikalische	O	O	O	O	O	O	_	_	_
+Hr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+„	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+kurz	O	O	O	O	O	O	_	_	_
+vorher	O	O	O	O	O	O	_	_	_
+gegründet	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Zur	O	O	O	O	O	O	_	_	_
+Leben	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+geschichte	O	O	O	O	O	O	_	_	_
+Donizettis	B-pers	O	B-pers.ind	O	O	O	Q101698	_	_
+enthält	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Band	O	O	O	O	O	O	_	_	_
+manches	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+bemertenswerte	O	O	O	O	O	O	_	_	_
+Material	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+honizetli	B-org	O	B-org.ent	O	O	B-pers.ind	NIL	_	NoSpaceAfter
+-	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter
+MuSchule	I-org	O	I-org.ent	O	O	O	NIL	_	NoSpaceAfter|Normalized-6
+#¬	I-org	O	I-org.ent	O	O	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#Schule	I-org	O	I-org.ent	O	O	O	NIL	_	_|Commented
+räumlich	O	O	O	O	O	O	_	_	_
+angegliederten	O	O	O	O	O	O	_	_	_
+Donizetti	B-org	O	B-org.ent	O	O	B-pers.ind	Q3868344	_	NoSpaceAfter
+-	I-org	O	I-org.ent	O	O	O	Q3868344	_	NoSpaceAfter
+Museums	I-org	O	I-org.ent	O	O	O	Q3868344	_	NoSpaceAfter|Normalized-5
+#¬	I-org	O	I-org.ent	O	O	O	Q3868344	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#seums	I-org	O	I-org.ent	O	O	O	Q3868344	_	_|Commented
+werden	O	O	O	O	O	O	_	_	_
+beschrieben	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	NoSpaceAfter
+e	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+Bildern	O	O	O	O	O	O	_	_	_
+illustriert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wihlüsichten	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Bergamo	B-loc	O	B-loc.adm.town	O	O	O	Q628	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Alta	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+seinen	O	O	O	O	O	O	_	_	_
+Monumenten	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Buch	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Seni	O	O	O	O	O	O	_	_	_
+enae	O	O	O	O	O	O	_	_	_
+a	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Neee	O	O	O	O	O	O	_	_	_
+eereihr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Ise	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+finden	O	O	O	O	O	O	_	_	_
+aller	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Karten	O	O	O	O	O	O	_	_	_
+Zer	O	O	O	O	O	O	_	_	_
+Anhait	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Nar	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+früheren	O	O	O	O	O	O	_	_	_
+Kolonien	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+auffallend	O	O	O	O	O	O	_	_	_
+eindem	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#dem	O	O	O	O	O	O	_	_	_|Commented
+sonst	O	O	O	O	O	O	_	_	_
+empfehlenswerten	O	O	O	O	O	O	_	_	_
+Atlas	O	O	O	O	O	O	_	_	_
+außerhalb	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Deutschen	B-loc	O	B-loc.adm.nat	O	O	O	Q1206012	_	_
+Reiches	I-loc	O	I-loc.adm.nat	O	O	O	Q1206012	_	_
+nicht	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Freunden	O	O	O	O	O	O	_	_	_
+verhelfen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+
+

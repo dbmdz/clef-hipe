@@ -1,0 +1,1423 @@
+# language = de
+# newspaper = luxwort
+# date = 1848-10-11
+# document_id = luxwort-1848-10-11-a-i0002
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/2007,4157,847,58/full/0/default.jpg
+2luf	O	O	O	O	O	O	_	_	_
+biefe	O	O	O	O	O	O	_	_	_
+Darlegung	O	O	O	O	O	O	_	_	_
+ter	O	O	O	O	O	O	_	_	_
+<	O	O	O	O	O	O	_	_	NoSpaceAfter
+B	O	O	O	O	O	O	_	_	NoSpaceAfter
+>	O	O	O	O	O	O	_	_	NoSpaceAfter
+aà	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+e	O	O	O	O	O	O	_	_	_
+erwieberte	O	O	O	O	O	O	_	_	_
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q13102661	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q13102661	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1967,4213,887,37/full/0/default.jpg
+s	I-pers	O	I-pers.ind	O	B-comp.name	O	Q13102661	_	_
+JWüller	I-pers	O	I-pers.ind	O	I-comp.name	O	Q13102661	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	_
+nid	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+t	O	O	O	O	O	O	_	_	_
+gewottt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+baß	O	O	O	O	O	O	_	_	_
+bte	O	O	O	O	O	O	_	_	_
+franjöftfdje	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1968,4260,887,60/full/0/default.jpg
+©	O	O	O	O	O	O	_	_	NoSpaceAfter
+prad	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+e	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+oerpflidjtenb	O	O	O	O	O	O	_	_	_
+erflärt	O	O	O	O	O	O	_	_	_
+würbe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ft	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+nbern	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,4311,887,61/full/0/default.jpg
+auêgefprodjen	O	O	O	O	O	O	_	_	_
+Çaben	O	O	O	O	O	O	_	_	_
+wollen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bafj	O	O	O	O	O	O	_	_	_
+3ebem	O	O	O	O	O	O	_	_	_
+taö	O	O	O	O	O	O	_	_	_
+Siecht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,4361,889,61/full/0/default.jpg
+juftef	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	NoSpaceAfter
+e	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ftd	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+eine	O	O	O	O	O	O	_	_	_
+gemad	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+te	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+beut	O	O	O	O	O	O	_	_	NoSpaceAfter
+*	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,4413,889,55/full/0/default.jpg
+fcfyer	O	O	O	O	O	O	_	_	_
+Spradje	O	O	O	O	O	O	_	_	_
+»	O	O	O	O	O	O	_	_	NoSpaceAfter
+orftellen	O	O	O	O	O	O	_	_	_
+unb	O	O	O	O	O	O	_	_	_
+erflären	O	O	O	O	O	O	_	_	_
+ju	O	O	O	O	O	O	_	_	_
+laffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Slnf	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1961,784,889,57/full/0/default.jpg
+deutschen	O	O	O	O	O	O	_	_	_
+Sprache	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+jetzigen	O	O	O	O	O	O	_	_	_
+Umständen	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1962,836,817,60/full/0/default.jpg
+mächtig	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+fein	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	_
+mächtig	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/2005,885,845,62/full/0/default.jpg
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q16439477	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q16439477	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	Q16439477	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q16439477	_	_
+Jonas	I-pers	O	I-pers.ind	O	B-comp.name	O	Q16439477	_	_
+unterstützt	O	O	O	O	O	O	_	_	_
+dm	O	O	O	O	O	O	_	_	_
+Antrag	O	O	O	O	O	O	_	_	_
+Müllers	B-pers	O	B-pers.ind	O	O	O	Q13102661	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1962,939,889,55/full/0/default.jpg
+auch	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+juristischen	O	O	O	O	O	O	_	_	_
+Standpunkte	O	O	O	O	O	O	_	_	_
+auS	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1962,988,889,57/full/0/default.jpg
+durchaus	O	O	O	O	O	O	_	_	_
+nothwmdig	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Beschlüssen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1961,1041,892,50/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Kammer	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+authentischen	O	O	O	O	O	O	_	_	_
+Tert	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1964,1091,888,57/full/0/default.jpg
+deutscher	O	O	O	O	O	O	_	_	_
+Sprache	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+darum	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1964,1143,886,60/full/0/default.jpg
+Anträge	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+deutscher	O	O	O	O	O	O	_	_	_
+Sprache	O	O	O	O	O	O	_	_	_
+gefaßt	O	O	O	O	O	O	_	_	_
+werben	O	O	O	O	O	O	_	_	_
+müßten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1965,1192,886,53/full/0/default.jpg
+Er	O	O	O	O	O	O	_	_	_
+betrachtete	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+große	O	O	O	O	O	O	_	_	_
+Inconumicnz	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1964,1253,889,44/full/0/default.jpg
+man	O	O	O	O	O	O	_	_	_
+bisher	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+Einen	O	O	O	O	O	O	_	_	_
+authentischen	O	O	O	O	O	O	_	_	_
+Sert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1965,1305,889,49/full/0/default.jpg
+zwar	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+französischer	O	O	O	O	O	O	_	_	_
+Sprache	O	O	O	O	O	O	_	_	_
+gegeben	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1964,1350,888,50/full/0/default.jpg
+während	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Anfertigung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+deutschen	O	O	O	O	O	O	_	_	_
+Tertes	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1964,1398,889,60/full/0/default.jpg
+Uebersetzcr	O	O	O	O	O	O	_	_	_
+überlassen	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Hierauf	O	O	O	O	O	O	_	_	_
+bemerkt	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1965,1450,888,58/full/0/default.jpg
+Präsident	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Antrag	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Hrn	B-pers	O	B-pers.ind	O	B-comp.title	O	Q13102661	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q13102661	_	_
+Müller	I-pers	O	I-pers.ind	O	B-comp.name	O	Q13102661	_	_
+gehe	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,1501,888,58/full/0/default.jpg
+so	O	O	O	O	O	O	_	_	_
+weit	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Anfertigung	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+deutschen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1965,1554,889,58/full/0/default.jpg
+authentischen	O	O	O	O	O	O	_	_	_
+Tertes	O	O	O	O	O	O	_	_	_
+fei	O	O	O	O	O	O	_	_	_
+barin	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+Rede	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+anders	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1965,1607,889,50/full/0/default.jpg
+den	O	O	O	O	O	O	_	_	_
+Hrn	B-pers	O	B-pers.ind	O	B-comp.title	O	Q13102661	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q13102661	_	_
+Müller	I-pers	O	I-pers.ind	O	B-comp.name	O	Q13102661	_	_
+recht	O	O	O	O	O	O	_	_	_
+verstanden	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q13102661	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q13102661	_	_
+Müller	I-pers	O	I-pers.ind	O	B-comp.name	O	Q13102661	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,1655,888,61/full/0/default.jpg
+aufgefordert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Absicht	O	O	O	O	O	O	_	_	_
+seines	O	O	O	O	O	O	_	_	_
+Antrages	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,1707,889,57/full/0/default.jpg
+näher	O	O	O	O	O	O	_	_	_
+auszusprechen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+erklärt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Ab	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,1761,889,58/full/0/default.jpg
+ficht	O	O	O	O	O	O	_	_	_
+gehabt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Mitgliedern	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kammer	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,1816,889,47/full/0/default.jpg
+etwa	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	_
+Sprache	O	O	O	O	O	O	_	_	_
+weniger	O	O	O	O	O	O	_	_	_
+mächtig	O	O	O	O	O	O	_	_	_
+fein	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1965,1861,890,58/full/0/default.jpg
+möchten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Verständniß	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Verhandlungen	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,1912,889,57/full/0/default.jpg
+erleichtern	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+worauf	O	O	O	O	O	O	_	_	_
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q16439477	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q16439477	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	Q16439477	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q16439477	_	_
+Jonas	I-pers	O	I-pers.ind	O	B-comp.name	O	Q16439477	_	_
+den	O	O	O	O	O	O	_	_	_
+Antrag	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1965,1964,890,51/full/0/default.jpg
+weiter	O	O	O	O	O	O	_	_	_
+unterstützt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nachdem	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+mehrere	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,2016,888,56/full/0/default.jpg
+Anwesenden	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+fraglichen	O	O	O	O	O	O	_	_	_
+Gegenstand	O	O	O	O	O	O	_	_	_
+beifällige	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,2063,887,61/full/0/default.jpg
+Bemerkungen	O	O	O	O	O	O	_	_	_
+gemacht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+tritt	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Schluß	O	O	O	O	O	O	_	_	_
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q2573257	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q2573257	_	_
+Eyschen	I-pers	O	I-pers.ind	O	B-comp.name	O	Q2573257	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,2116,886,58/full/0/default.jpg
+auf	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+erklärt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Antrag	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Hrn	B-pers	O	B-pers.ind	O	B-comp.title	O	Q13102661	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q13102661	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,2167,889,56/full/0/default.jpg
+Müller	I-pers	O	I-pers.ind	O	B-comp.name	O	Q13102661	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+derselbe	O	O	O	O	O	O	_	_	_
+unconstitutioncll	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1965,2217,890,60/full/0/default.jpg
+unpolitisch	O	O	O	O	O	O	_	_	_
+fei	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Unconftitutionetl	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+zwei	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,2268,889,53/full/0/default.jpg
+Spraeben	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Pflicht	O	O	O	O	O	O	_	_	_
+mache	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+doch	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1965,2317,890,51/full/0/default.jpg
+Constitution	O	O	O	O	O	O	_	_	_
+Jeder	O	O	O	O	O	O	_	_	_
+verlangen	O	O	O	O	O	O	_	_	_
+könne	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+baß	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1965,2369,889,50/full/0/default.jpg
+einen	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+anbern	O	O	O	O	O	O	_	_	_
+Sprache	O	O	O	O	O	O	_	_	_
+geantwortet	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1965,2417,889,53/full/0/default.jpg
+mit	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+verhandelt	O	O	O	O	O	O	_	_	_
+würbe	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+keineswegs	O	O	O	O	O	O	_	_	_
+gebe	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,2467,886,60/full/0/default.jpg
+Constitution	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Recht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+beide	O	O	O	O	O	O	_	_	_
+Sprachen	O	O	O	O	O	O	_	_	_
+verpflichtend	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1965,2527,889,53/full/0/default.jpg
+zu	O	O	O	O	O	O	_	_	_
+machen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Antrag	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+unpolitisch	O	O	O	O	O	O	_	_	_
+,	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1964,2572,890,53/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+Bestimmung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Verpflichtung	O	O	O	O	O	O	_	_	_
+beider	O	O	O	O	O	O	_	_	_
+Sprachen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1964,2620,891,62/full/0/default.jpg
+jede	O	O	O	O	O	O	_	_	_
+wahre	O	O	O	O	O	O	_	_	_
+politische	O	O	O	O	O	O	_	_	_
+Entwicklung	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zukunft	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1964,2672,891,61/full/0/default.jpg
+unmöglich	O	O	O	O	O	O	_	_	_
+mache	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Für	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+gegenwärtigen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,2726,889,51/full/0/default.jpg
+Augenblick	O	O	O	O	O	O	_	_	_
+möge	O	O	O	O	O	O	_	_	_
+allerdings	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Antrag	O	O	O	O	O	O	_	_	_
+Vielen	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1964,2776,891,54/full/0/default.jpg
+willkommene	O	O	O	O	O	O	_	_	_
+Erleichterung	O	O	O	O	O	O	_	_	_
+bezwecken	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+für	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zukunft	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1965,2832,890,50/full/0/default.jpg
+werbe	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Hinderniß	O	O	O	O	O	O	_	_	_
+fein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+fei	O	O	O	O	O	O	_	_	_
+fein	O	O	O	O	O	O	_	_	_
+Freund	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,2880,889,62/full/0/default.jpg
+zweier	O	O	O	O	O	O	_	_	_
+Sprachen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+einigen	O	O	O	O	O	O	_	_	_
+Lande	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,2931,889,58/full/0/default.jpg
+betrachte	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+dringendes	O	O	O	O	O	O	_	_	_
+Vedürfniß	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+Behufs	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1965,2983,890,58/full/0/default.jpg
+wahrer	O	O	O	O	O	O	_	_	_
+politischer	O	O	O	O	O	O	_	_	_
+Bildung	O	O	O	O	O	O	_	_	_
+deS	O	O	O	O	O	O	_	_	_
+Volkes	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+deutsche	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,3031,889,61/full/0/default.jpg
+Muttersprache	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+alleinigen	O	O	O	O	O	O	_	_	_
+Herrschaft	O	O	O	O	O	O	_	_	_
+gelange	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1965,3083,890,62/full/0/default.jpg
+Zudem	O	O	O	O	O	O	_	_	_
+fei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Antrag	O	O	O	O	O	O	_	_	_
+gewiß	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Absicht	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,3135,889,62/full/0/default.jpg
+Herrn	O	O	O	O	O	O	_	_	_
+Antragstellers	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+geeignet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+unglückselige	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,3187,889,51/full/0/default.jpg
+alte	O	O	O	O	O	O	_	_	_
+bürcaukratische	O	O	O	O	O	O	_	_	_
+System	O	O	O	O	O	O	_	_	_
+wieber	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+begründen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,3238,889,51/full/0/default.jpg
+Man	O	O	O	O	O	O	_	_	_
+solle	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+streben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Alles	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+reglementiren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,3289,889,60/full/0/default.jpg
+sich	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+Réglemente	O	O	O	O	O	O	_	_	_
+zum	O	O	O	O	O	O	_	_	_
+Voraus	O	O	O	O	O	O	_	_	_
+Hände	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1968,3341,887,60/full/0/default.jpg
+Füße	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+binden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+bec	O	O	O	O	O	O	_	_	_
+freien	O	O	O	O	O	O	_	_	_
+Entwicklung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,3401,888,43/full/0/default.jpg
+einen	O	O	O	O	O	O	_	_	_
+gehörigen	O	O	O	O	O	O	_	_	_
+Spielraum	O	O	O	O	O	O	_	_	_
+belassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+jetzige	O	O	O	O	O	O	_	_	_
+Kam	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1968,3453,887,43/full/0/default.jpg
+mer	O	O	O	O	O	O	_	_	_
+fei	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+vorübergehend	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+vielleicht	O	O	O	O	O	O	_	_	_
+bald	O	O	O	O	O	O	_	_	_
+würden	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1968,3497,887,50/full/0/default.jpg
+Andere	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+ihr	O	O	O	O	O	O	_	_	_
+sitzm	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Kinder	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Enkel	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1967,3546,888,53/full/0/default.jpg
+würben	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+ihnen	O	O	O	O	O	O	_	_	_
+wahrscheinlich	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+Dank	O	O	O	O	O	O	_	_	_
+wissen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1968,3607,887,45/full/0/default.jpg
+wenn	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+ter	O	O	O	O	O	O	_	_	_
+deutschen	O	O	O	O	O	O	_	_	_
+Sprache	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1970,3647,885,63/full/0/default.jpg
+augenblicklichen	O	O	O	O	O	O	_	_	_
+Vorthcil	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+verschaffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1967,3707,888,51/full/0/default.jpg
+Bestimmung	O	O	O	O	O	O	_	_	_
+aufstellen	O	O	O	O	O	O	_	_	_
+wollten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wodurch	O	O	O	O	O	O	_	_	_
+jene	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1967,3751,888,60/full/0/default.jpg
+Zufünft	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+französische	O	O	O	O	O	O	_	_	_
+gebunden	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	_
+würden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1967,3803,888,58/full/0/default.jpg
+Gewiß	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Antragsteller	O	O	O	O	O	O	_	_	_
+nichts	O	O	O	O	O	O	_	_	_
+weniger	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+tas	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1967,3851,888,62/full/0/default.jpg
+beabsichtigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wenn	O	O	O	O	O	O	_	_	_
+also	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Berathung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,3904,888,60/full/0/default.jpg
+Geschäftsordnung	O	O	O	O	O	O	_	_	_
+etwas	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+Sprache	O	O	O	O	O	O	_	_	_
+solle	O	O	O	O	O	O	_	_	_
+festgesetzt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1967,3957,887,55/full/0/default.jpg
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+erfordere	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Wichtigkeit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Sache	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+baß	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,4011,887,48/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Gegenstand	O	O	O	O	O	O	_	_	_
+zuerst	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Sektionen	O	O	O	O	O	O	_	_	_
+berathm	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,4059,888,50/full/0/default.jpg
+und	O	O	O	O	O	O	_	_	_
+bann	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kammer	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Genehmigung	O	O	O	O	O	O	_	_	_
+vorgelegt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1966,4109,109,50/full/0/default.jpg
+würbe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1253,2415,425,56/full/0/default.jpg
+Sitzung	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+7	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Oct	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1062,2466,846,61/full/0/default.jpg
+Beginn	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+9	O	O	O	O	O	O	_	_	_
+Uhr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Abwesend	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+$	B-pers	O	B-pers.ind	O	B-comp.title	O	Q13104072	_	NoSpaceAfter
+>	I-pers	O	I-pers.ind	O	I-comp.title	O	Q13104072	_	NoSpaceAfter
+$	I-pers	O	I-pers.ind	O	I-comp.title	O	Q13104072	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q13104072	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1022,2517,889,62/full/0/default.jpg
+Hardt	I-pers	O	I-pers.ind	O	B-comp.name	O	Q13104072	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+A	B-pers	O	B-pers.ind	O	O	O	Q4821063	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	O	O	Q4821063	_	_
+Metz	I-pers	O	I-pers.ind	O	O	O	Q4821063	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Spanier	B-pers	O	B-pers.ind	O	O	O	NIL	_	_
+:	O	O	O	O	O	O	_	_	NoSpaceAfter|EOS
+
+c	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Das	O	O	O	O	O	O	_	_	_
+Protokoll	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1024,2567,765,60/full/0/default.jpg
+letzten	O	O	O	O	O	O	_	_	_
+Sitzung	O	O	O	O	O	O	_	_	_
+warb	O	O	O	O	O	O	_	_	_
+gelesen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+genehmigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1062,2618,850,53/full/0/default.jpg
+Die	O	O	O	O	O	O	_	_	_
+4	O	O	O	O	O	O	_	_	_
+Sektionen	O	O	O	O	O	O	_	_	_
+hatten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nachdem	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1021,2671,889,60/full/0/default.jpg
+vorgelegten	O	O	O	O	O	O	_	_	_
+Entwurf	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Geschäftsordnung	O	O	O	O	O	O	_	_	_
+geprüft	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1021,2729,890,51/full/0/default.jpg
+zu	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+Ccntralsektion	B-org	O	B-org.adm	O	O	O	NIL	_	_
+vereinigt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q16439477	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q16439477	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	Q16439477	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q16439477	_	_
+Jonas	I-pers	O	I-pers.ind	O	B-comp.name	O	Q16439477	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1021,2780,494,53/full/0/default.jpg
+zum	O	O	O	O	O	O	_	_	_
+Berichterstatter	O	O	O	O	O	O	_	_	_
+gewählt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1064,2822,849,53/full/0/default.jpg
+Vom	O	O	O	O	O	O	_	_	_
+Vorsitzenden	O	O	O	O	O	O	_	_	_
+aufgefordert	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+beginnt	O	O	O	O	O	O	_	_	_
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q16439477	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q16439477	_	_
+Dr	I-pers	O	I-pers.ind	O	B-comp.title	O	Q16439477	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q16439477	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1022,2873,892,57/full/0/default.jpg
+Jonas	I-pers	O	I-pers.ind	O	B-comp.name	O	Q16439477	_	_
+die	O	O	O	O	O	O	_	_	_
+Verlesung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Berichtes	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1021,2925,890,57/full/0/default.jpg
+Centralsektion	B-org	O	B-org.adm	O	O	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+entwickelt	O	O	O	O	O	O	_	_	_
+bann	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Motive	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Während	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1021,2981,890,47/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+hierüber	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+entspinnenden	O	O	O	O	O	O	_	_	_
+Discussion	O	O	O	O	O	O	_	_	_
+stellt	O	O	O	O	O	O	_	_	_
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q13102661	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q13102661	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1024,3027,890,61/full/0/default.jpg
+Prof	I-pers	O	I-pers.ind	O	B-comp.title	O	Q13102661	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q13102661	_	_
+Müller	I-pers	O	I-pers.ind	O	B-comp.name	O	Q13102661	_	_
+den	O	O	O	O	O	O	_	_	_
+Antrag	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Kammer	O	O	O	O	O	O	_	_	_
+möge	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1022,3079,892,60/full/0/default.jpg
+beschließen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+jeglicher	O	O	O	O	O	O	_	_	_
+Antrag	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kammer	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1022,3129,891,62/full/0/default.jpg
+vorgebracht	O	O	O	O	O	O	_	_	_
+würde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+allein	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+französischer	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1025,3183,889,49/full/0/default.jpg
+sonbern	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+deutscher	O	O	O	O	O	O	_	_	_
+Sprache	O	O	O	O	O	O	_	_	_
+proponirt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1026,3231,887,58/full/0/default.jpg
+nöthigen	O	O	O	O	O	O	_	_	_
+Falles	O	O	O	O	O	O	_	_	_
+erklärt	O	O	O	O	O	O	_	_	_
+werde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+In	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Entwicklung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1027,3284,886,48/full/0/default.jpg
+und	O	O	O	O	O	O	_	_	_
+Begründung	O	O	O	O	O	O	_	_	_
+dieses	O	O	O	O	O	O	_	_	_
+Antrages	O	O	O	O	O	O	_	_	_
+spricht	O	O	O	O	O	O	_	_	_
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q13102661	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q13102661	_	_
+Müller	I-pers	O	I-pers.ind	O	B-comp.name	O	Q13102661	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1027,3331,887,58/full/0/default.jpg
+sehr	O	O	O	O	O	O	_	_	_
+beherzigende	O	O	O	O	O	O	_	_	_
+Worte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+Lurcmburger	O	O	O	O	O	O	_	_	_
+Land	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1026,3382,887,58/full/0/default.jpg
+fei	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+deutsches	O	O	O	O	O	O	_	_	_
+Land	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+welchem	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1027,3442,887,51/full/0/default.jpg
+Abtrennung	O	O	O	O	O	O	_	_	_
+deS	O	O	O	O	O	O	_	_	_
+wallonischen	O	O	O	O	O	O	_	_	_
+Thcilcs	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Deutsche	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1027,3485,887,53/full/0/default.jpg
+als	O	O	O	O	O	O	_	_	_
+Muttersprache	O	O	O	O	O	O	_	_	_
+geredet	O	O	O	O	O	O	_	_	_
+werbe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+sei	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1027,3537,887,60/full/0/default.jpg
+große	O	O	O	O	O	O	_	_	_
+Inconvcnicnz	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Verhandlungen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1026,3592,887,49/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+Kammer	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+deutschen	O	O	O	O	O	O	_	_	_
+Landes	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+fremde	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1027,3640,887,60/full/0/default.jpg
+Sprache	O	O	O	O	O	O	_	_	_
+gebraucht	O	O	O	O	O	O	_	_	_
+werde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+Proposilionen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1027,3692,887,60/full/0/default.jpg
+gestellt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Beschlüsse	O	O	O	O	O	O	_	_	_
+gefaßt	O	O	O	O	O	O	_	_	_
+würben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+vielleicht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1027,3744,886,57/full/0/default.jpg
+manche	O	O	O	O	O	O	_	_	_
+Mitglieder	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+tu	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1027,3794,887,58/full/0/default.jpg
+Muttersprach	O	O	O	O	O	O	_	_	_
+gestellt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+erklärt	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+wären	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1027,3846,887,50/full/0/default.jpg
+einmal	O	O	O	O	O	O	_	_	_
+vollkommen	O	O	O	O	O	O	_	_	_
+verstanden	O	O	O	O	O	O	_	_	_
+hätten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Schon	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1028,3896,885,60/full/0/default.jpg
+bestehe	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+bedeutender	O	O	O	O	O	O	_	_	_
+Thcil	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kammer	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1028,3948,886,58/full/0/default.jpg
+Soleben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+eigentlich	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+beutfeh	O	O	O	O	O	O	_	_	_
+redeten	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+vielleicht	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1027,4000,886,51/full/0/default.jpg
+würbe	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Zukunft	O	O	O	O	O	O	_	_	_
+eS	O	O	O	O	O	O	_	_	_
+dahin	O	O	O	O	O	O	_	_	_
+kommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+einzelne	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1028,4050,886,61/full/0/default.jpg
+Mitglieder	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kammer	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Wohlthat	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1028,4100,885,56/full/0/default.jpg
+ansähen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Anträge	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+französischer	O	O	O	O	O	O	_	_	_
+Sprache	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1028,4151,884,60/full/0/default.jpg
+gestellt	O	O	O	O	O	O	_	_	_
+würben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	_
+umgekehrt	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Mitgebrauch	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1027,4204,887,49/full/0/default.jpg
+der	O	O	O	O	O	O	_	_	_
+deutschen	O	O	O	O	O	O	_	_	_
+Sprache	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Manchen	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1027,4255,374,58/full/0/default.jpg
+Wohlthat	O	O	O	O	O	O	_	_	_
+angeschen	O	O	O	O	O	O	_	_	_
+würde	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1067,4304,846,58/full/0/default.jpg
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q3247358	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q3247358	_	_
+Generaladministrator	I-pers	O	I-pers.ind	O	B-comp.function	O	Q3247358	_	_
+Simons	I-pers	O	I-pers.ind	O	B-comp.name	O	Q3247358	_	_
+will	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1027,4359,885,57/full/0/default.jpg
+Antrage	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Hrn	B-pers	O	B-pers.ind	O	B-comp.title	O	Q13102661	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q13102661	_	_
+Müller	I-pers	O	I-pers.ind	O	B-comp.name	O	Q13102661	_	_
+nicht	O	O	O	O	O	O	_	_	_
+entgegen	O	O	O	O	O	O	_	_	_
+fein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+fei	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f1/1027,4406,886,51/full/0/default.jpg
+feiner	O	O	O	O	O	O	_	_	_
+Sprache	O	O	O	O	O	O	_	_	_
+feind	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+möge	O	O	O	O	O	O	_	_	_
+wohl	O	O	O	O	O	O	_	_	_
+wünschen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/88,104,889,53/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+Bemerkung	O	O	O	O	O	O	_	_	_
+Eyschen	B-pers	O	B-pers.ind	O	O	O	Q2573257	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+s	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daS	O	O	O	O	O	O	_	_	_
+Recht	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	_
+Einjeder	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/90,154,885,60/full/0/default.jpg
+schon	O	O	O	O	O	O	_	_	_
+kraft	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Constitutif	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	NoSpaceAfter
+!	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+warb	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Antrage	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/92,205,885,58/full/0/default.jpg
+Hrn	B-pers	O	B-pers.ind	O	B-comp.title	O	Q13102661	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q13102661	_	_
+Müller	I-pers	O	I-pers.ind	O	B-comp.name	O	Q13102661	_	_
+»	O	O	O	O	O	O	_	_	NoSpaceAfter
+on	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Versammlung	O	O	O	O	O	O	_	_	_
+keine	O	O	O	O	O	O	_	_	_
+Folge	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/93,258,132,60/full/0/default.jpg
+gegeben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/133,309,844,51/full/0/default.jpg
+Weiter	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+bob	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+cine	O	O	O	O	O	O	_	_	_
+Discussion	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/92,360,885,60/full/0/default.jpg
+Paragraph	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Geschäftsordnung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/92,409,885,62/full/0/default.jpg
+Ergänzungswahlen	O	O	O	O	O	O	_	_	_
+beim	O	O	O	O	O	O	_	_	_
+Tode	O	O	O	O	O	O	_	_	_
+ober	O	O	O	O	O	O	_	_	_
+beim	O	O	O	O	O	O	_	_	_
+Austritte	O	O	O	O	O	O	_	_	_
+cines	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/90,461,885,53/full/0/default.jpg
+Gliedes	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kammer	O	O	O	O	O	O	_	_	_
+handelte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Für	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Fall	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/90,511,887,53/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+Erledigung	O	O	O	O	O	O	_	_	_
+während	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kammersitzung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/92,563,885,60/full/0/default.jpg
+stattfinde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+»	O	O	O	O	O	O	_	_	NoSpaceAfter
+on	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Ccntralsektion	B-org	O	B-org.adm	O	O	O	NIL	_	_
+cine	O	O	O	O	O	O	_	_	_
+Bestimmung	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/89,615,888,51/full/0/default.jpg
+in	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Reglement	O	O	O	O	O	O	_	_	_
+aufgenommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+andre	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/89,673,888,45/full/0/default.jpg
+Nummer	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Paragraphen	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/88,725,888,54/full/0/default.jpg
+Erledigung	O	O	O	O	O	O	_	_	_
+während	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Dauer	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+übrigen	O	O	O	O	O	O	_	_	_
+Monate	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/88,767,889,61/full/0/default.jpg
+Jahres	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wo	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Kammer	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+sitzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+handelte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/88,818,889,60/full/0/default.jpg
+nicht	O	O	O	O	O	O	_	_	_
+aufgenommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Darüber	O	O	O	O	O	O	_	_	_
+entspann	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/88,869,889,54/full/0/default.jpg
+Debatte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q2573257	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q2573257	_	_
+Euschen	I-pers	O	I-pers.ind	O	B-comp.name	O	Q2573257	_	_
+meinte	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+letztere	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/88,918,889,61/full/0/default.jpg
+Bestimmung	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+aufnehmen	O	O	O	O	O	O	_	_	_
+sollen	O	O	O	O	O	O	_	_	_
+;	O	O	O	O	O	O	_	_	_|EOS
+
+denn	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+wich	O	O	O	O	O	O	_	_	NoSpaceAfter
+«	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/88,970,889,61/full/0/default.jpg
+tigen	O	O	O	O	O	O	_	_	_
+Dingen	O	O	O	O	O	O	_	_	_
+dürfe	O	O	O	O	O	O	_	_	_
+nichts	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Willkür	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/87,1020,890,58/full/0/default.jpg
+administrativen	O	O	O	O	O	O	_	_	_
+Beamten	O	O	O	O	O	O	_	_	_
+überlassen	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+erinnere	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/85,1071,891,60/full/0/default.jpg
+sich	O	O	O	O	O	O	_	_	_
+cines	O	O	O	O	O	O	_	_	_
+Falles	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/82,1122,893,61/full/0/default.jpg
+Ständeversammlung	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Da	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+beeilt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/82,1174,892,51/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Austritt	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Hrn	B-pers	O	B-pers.ind	O	B-comp.title	O	Q269726	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q269726	_	_
+Servais	I-pers	O	I-pers.ind	O	B-comp.name	O	Q269726	_	_
+vacant	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/82,1226,893,58/full/0/default.jpg
+gewordene	O	O	O	O	O	O	_	_	_
+Stelle	O	O	O	O	O	O	_	_	_
+sogleich	O	O	O	O	O	O	_	_	_
+wieber	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+besetzen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+aber	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/82,1274,891,53/full/0/default.jpg
+cine	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Canton	B-loc	O	B-loc.adm.reg	O	O	O	Q835980	_	_
+Redingen	I-loc	O	I-loc.adm.reg	O	B-comp.name	O	Q835980	_	_
+durch	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Austritt	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/81,1326,892,61/full/0/default.jpg
+Hrn	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Tcholtus	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+eingetretene	O	O	O	O	O	O	_	_	_
+3	O	O	O	O	O	O	_	_	NoSpaceAfter
+?	O	O	O	O	O	O	_	_	NoSpaceAfter
+acatur	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	_
+sic	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/81,1384,891,49/full/0/default.jpg
+und	O	O	O	O	O	O	_	_	_
+gar	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+wieder	O	O	O	O	O	O	_	_	_
+ausfüllen	O	O	O	O	O	O	_	_	_
+lassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+kenne	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/81,1429,892,58/full/0/default.jpg
+dafür	O	O	O	O	O	O	_	_	_
+feinen	O	O	O	O	O	O	_	_	_
+andern	O	O	O	O	O	O	_	_	_
+Grund	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+administrative	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/82,1478,890,53/full/0/default.jpg
+Willkür	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+—	O	O	O	O	O	O	_	_	_
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q16439477	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q16439477	_	_
+Jonas	I-pers	O	I-pers.ind	O	B-comp.name	O	Q16439477	_	_
+als	O	O	O	O	O	O	_	_	_
+Berichterstatter	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/81,1529,890,58/full/0/default.jpg
+Centralsektion	B-org	O	B-org.adm	O	O	O	NIL	_	_
+erklärt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+deshalb	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+letztere	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/80,1581,891,51/full/0/default.jpg
+die	O	O	O	O	O	O	_	_	_
+Bestimmung	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+aufgenommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+weil	O	O	O	O	O	O	_	_	_
+sic	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/80,1632,890,53/full/0/default.jpg
+im	O	O	O	O	O	O	_	_	_
+Gesetze	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+enthalten	O	O	O	O	O	O	_	_	_
+fei	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Damit	O	O	O	O	O	O	_	_	_
+erklärt	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/80,1683,891,56/full/0/default.jpg
+Hr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q2573257	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q2573257	_	_
+Eyschen	I-pers	O	I-pers.ind	O	B-comp.name	O	Q2573257	_	_
+zufrieden	O	O	O	O	O	O	_	_	_
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+einigen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/81,1743,888,51/full/0/default.jpg
+Bemerkungen	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+verschiedenen	O	O	O	O	O	O	_	_	_
+Seiten	O	O	O	O	O	O	_	_	_
+geht	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/81,1788,238,57/full/0/default.jpg
+Tagesordnung	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/119,1835,850,60/full/0/default.jpg
+Zur	O	O	O	O	O	O	_	_	_
+Vollendung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Arbeiten	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Sektionen	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/79,1888,889,51/full/0/default.jpg
+werden	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Sitzungen	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+nächsten	O	O	O	O	O	O	_	_	_
+Donnerstag	O	O	O	O	O	O	_	_	EndOfLine
+# segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fdn0ws4%2fpages%2f2/80,1938,162,60/full/0/default.jpg
+ausgesetzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
+
+
+

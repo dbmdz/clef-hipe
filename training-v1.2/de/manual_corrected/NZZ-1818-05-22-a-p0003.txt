@@ -1,0 +1,376 @@
+# language = de
+# newspaper = NZZ
+# date = 1818-05-22
+# document_id = NZZ-1818-05-22-a-p0003
+# segment_iiif_link = _
+Italien	B-loc	O	B-loc.adm.nat	O	O	O	Q38	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Nach	O	O	O	O	O	O	_	_	_
+Berichten	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Rom	B-loc	O	B-loc.adm.town	O	O	O	Q220	_	_
+verließ	O	O	O	O	O	O	_	_	_
+Se	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Königl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Hoh	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kronprinz	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Bayern	B-loc	O	B-loc.adm.reg	O	O	O	Q154195	_	_
+am	O	O	O	O	O	O	_	_	_
+13	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+April	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Hauptstadt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+schlug	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Weg	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Neapel	B-loc	O	B-loc.adm.town	O	O	O	Q2634	_	_
+ein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Während	O	O	O	O	O	O	_	_	_
+seines	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Aufenthalts	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Rom	B-loc	O	B-loc.adm.town	O	O	O	Q220	_	_
+hatte	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Prinz	O	O	O	O	O	O	_	_	_
+hauptsächlich	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Besichtigung	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Alterthümer	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+Kunstwerke	O	O	O	O	O	O	_	_	_
+beschäftigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Heil	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Vater	O	O	O	O	O	O	_	_	_
+empfing	O	O	O	O	O	O	_	_	_
+ihn	O	O	O	O	O	O	_	_	_
+beym	O	O	O	O	O	O	_	_	_
+Abschied	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+besonderm	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+väterlichen	O	O	O	O	O	O	_	_	_
+Wohlwollen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Vor	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+Abschied	O	O	O	O	O	O	_	_	_
+hatte	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+wackern	B-pers	O	B-pers.ind	O	B-comp.function	O	Q58833	_	_
+Künstler	I-pers	O	I-pers.ind	O	I-comp.function	O	Q58833	_	_
+Cornelius	I-pers	O	I-pers.ind	O	B-comp.name	O	Q58833	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+welchem	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Deutschland	B-loc	O	B-loc.adm.nat	O	O	O	Q183	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vorzugsweise	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+schönen	O	O	O	O	O	O	_	_	_
+Blätter	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Göthe	B-pers	O	B-pers.ind	O	O	O	Q5879	_	NoSpaceAfter
+'	I-pers	O	I-pers.ind	O	O	O	Q5879	_	NoSpaceAfter
+s	I-pers	O	I-pers.ind	O	O	O	Q5879	_	_
+Faust	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+den	O	O	O	O	O	O	_	_	_
+Niebelungen	O	O	O	O	O	O	_	_	_
+bekannt	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Auftrag	O	O	O	O	O	O	_	_	_
+ertheilt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zwey	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Gallerien	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+neuerbauten	O	O	O	O	O	O	_	_	_
+Gliptothek	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+München	B-loc	O	B-loc.adm.town	O	O	O	Q1726	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Frescomalereien	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+schmücken	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Cornelius	B-pers	O	B-pers.ind	O	O	O	Q58833	_	_
+empfängt	O	O	O	O	O	O	_	_	_
+dafür	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dem	O	O	O	O	O	O	_	_	_
+Vernehmen	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+Vergütung	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+10,000	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+rhein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Gulden	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+eben	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+berechtigen	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+trefflichen	B-pers	O	B-pers.ind	O	B-comp.qualifier	O	Q214697	_	_
+Overbeck	I-pers	O	I-pers.ind	O	B-comp.name	O	Q214697	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Wohnung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Preußischen	B-pers	O	B-pers.ind	O	B-comp.function	O	Q213955	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+General	I-pers	O	I-pers.ind	O	I-comp.function	O	Q213955	_	NoSpaceAfter
+-	I-pers	O	I-pers.ind	O	I-comp.function	O	Q213955	_	NoSpaceAfter
+Consuls	I-pers	O	I-pers.ind	O	I-comp.function	O	Q213955	_	_
+Bartholdi	I-pers	O	I-pers.ind	O	B-comp.name	O	Q213955	_	_
+ausgeführten	O	O	O	O	O	O	_	_	_
+Frescobilder	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Hoffnung	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+ihn	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+seither	O	O	O	O	O	O	_	_	_
+überall	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vernachläßigte	O	O	O	O	O	O	_	_	_
+Kunstübung	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Deutschland	B-loc	O	B-loc.adm.nat	O	O	O	Q183	_	_
+sich	O	O	O	O	O	O	_	_	_
+neu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+heleben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Reich	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Schönen	O	O	O	O	O	O	_	_	_
+erweitern	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Nach	O	O	O	O	O	O	_	_	_
+einem	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+Kairo	B-loc	O	B-loc.adm.town	O	O	O	Q85	_	_
+von	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Römischen	B-pers	O	B-pers.ind	O	B-comp.function	O	Q180339	_	_
+Ingenieur	I-pers	O	I-pers.ind	O	I-comp.function	O	Q180339	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Belzoni	I-pers	O	I-pers.ind	O	B-comp.name	O	Q180339	_	_
+eingegangenen	O	O	O	O	O	O	_	_	_
+Schreiben	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+es	O	O	O	O	O	O	_	_	_
+demselben	O	O	O	O	O	O	_	_	_
+gelungen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+Reise	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+Nubien	B-loc	O	B-loc.adm.reg	O	O	O	Q135028	_	_
+die	O	O	O	O	O	O	_	_	_
+Ruinen	B-loc	O	B-loc.fac	O	O	O	Q134140	_	_
+des	I-loc	O	I-loc.fac	O	O	O	Q134140	_	_
+Tempels	I-loc	O	I-loc.fac	O	O	O	Q134140	_	NoSpaceAfter|Normalized-4
+#¬	I-loc	O	I-loc.fac	O	O	O	Q134140	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#pels	I-loc	O	I-loc.fac	O	O	O	Q134140	_	_|Commented
+Dbsamhil	I-loc	O	I-loc.fac	O	B-comp.name	O	Q134140	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welcher	O	O	O	O	O	O	_	_	_
+142	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Schuh	O	O	O	O	O	O	_	_	_
+lang	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+besichtigen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Er	O	O	O	O	O	O	_	_	_
+traf	O	O	O	O	O	O	_	_	_
+darin	O	O	O	O	O	O	_	_	_
+acht	O	O	O	O	O	O	_	_	_
+kolossale	O	O	O	O	O	O	_	_	_
+dreyßig	O	O	O	O	O	O	_	_	_
+Schuh	O	O	O	O	O	O	_	_	_
+hohe	O	O	O	O	O	O	_	_	_
+Statüen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tüen	O	O	O	O	O	O	_	_	_|Commented
+an	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+die	O	O	O	O	O	O	_	_	_
+Säulen	O	O	O	O	O	O	_	_	_
+sowohl	O	O	O	O	O	O	_	_	_
+als	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Wände	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Hieroglyphen	O	O	O	O	O	O	_	_	_
+bedeckt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Bey	O	O	O	O	O	O	_	_	_
+seinem	O	O	O	O	O	O	_	_	_
+Aufenthalt	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Theben	B-loc	O	B-loc.adm.town	O	O	O	Q101583	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+entdeckte	O	O	O	O	O	O	_	_	_
+er	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Grabmäler	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+alten	O	O	O	O	O	O	_	_	_
+Könige	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Aegypten	B-loc	O	B-loc.adm.nat	O	O	O	Q79	_	NoSpaceAfter|Normalized-3
+#¬	I-loc	O	I-loc.adm.nat	O	O	O	Q79	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ten	I-loc	O	I-loc.adm.nat	O	O	O	Q79	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+welchen	O	O	O	O	O	O	_	_	_
+sechs	O	O	O	O	O	O	_	_	_
+schon	O	O	O	O	O	O	_	_	_
+geöffnet	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+außerordentlicher	O	O	O	O	O	O	_	_	_
+Pracht	O	O	O	O	O	O	_	_	_
+zeugen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Hieroglyphen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gemalten	O	O	O	O	O	O	_	_	_
+Basreliefs	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+sehr	O	O	O	O	O	O	_	_	_
+lebhaften	O	O	O	O	O	O	_	_	_
+Farben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Das	O	O	O	O	O	O	_	_	_
+schönste	O	O	O	O	O	O	_	_	_
+aller	O	O	O	O	O	O	_	_	_
+Monumente	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+schien	O	O	O	O	O	O	_	_	_
+ihm	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Sarg	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Einem	O	O	O	O	O	O	_	_	_
+Stück	O	O	O	O	O	O	_	_	_
+Alabaster	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+man	O	O	O	O	O	O	_	_	_
+daran	O	O	O	O	O	O	_	_	_
+klopft	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+eine	O	O	O	O	O	O	_	_	_
+silberne	O	O	O	O	O	O	_	_	_
+Glocke	O	O	O	O	O	O	_	_	_
+tönt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+durchsichtig	O	O	O	O	O	O	_	_	_
+wie	O	O	O	O	O	O	_	_	_
+Kristall	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+

@@ -1,0 +1,884 @@
+# language = de
+# newspaper = NZZ
+# date = 1808-10-07
+# document_id = NZZ-1808-10-07-a-p0003
+# segment_iiif_link = _
+Frankreich	B-loc	O	B-loc.adm.nat	O	O	O	Q142	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+vom	O	O	O	O	O	O	_	_	_
+Ober	B-loc	B-loc	B-loc.phys.hydro	B-loc.adm.reg	O	O	Q663546	Q448731	NoSpaceAfter
+-	I-loc	I-loc	I-loc.phys.hydro	I-loc.adm.reg	O	O	Q663546	Q448731	NoSpaceAfter
+Rhein	I-loc	I-loc	I-loc.phys.hydro	I-loc.adm.reg	O	O	Q663546	Q448731	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+21	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Sept	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Unter	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Städten	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ober	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Rheinischen	O	O	O	O	O	O	_	_	_
+Departements	O	O	O	O	O	O	_	_	_
+zeichnet	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+ehemals	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Schweiz	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q39	Q39	_
+verbündete	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+seit	B-time	O	B-time.date.abs	O	O	O	NIL	_	_
+1797	I-time	O	I-time.date.abs	O	O	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+aber	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+Frankreich	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q142	Q142	NoSpaceAfter|Normalized-5
+#¬	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q142	Q142	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#reich	I-loc	I-org	I-loc.adm.nat	I-org.adm	O	O	Q142	Q142	_|Commented
+vereinigte	O	O	O	O	O	O	_	_	_
+Stadt	B-loc	O	B-loc.adm.town	O	O	O	Q79815	_	_
+Mühlhausen	I-loc	O	I-loc.adm.town	O	B-comp.name	O	Q79815	_	_
+vorzüglich	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Industrie	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Schon	O	O	O	O	O	O	_	_	_
+seit	O	O	O	O	O	O	_	_	_
+vielen	O	O	O	O	O	O	_	_	_
+Jahren	O	O	O	O	O	O	_	_	_
+blühten	O	O	O	O	O	O	_	_	_
+dort	O	O	O	O	O	O	_	_	_
+Fabriken	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#briken	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+;	O	O	O	O	O	O	_	_	_|EOS
+
+die	O	O	O	O	O	O	_	_	_
+humanen	O	O	O	O	O	O	_	_	_
+Lokalgesetze	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Mühlhausen	B-loc	O	B-loc.adm.town	O	O	O	Q79815	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+keinen	O	O	O	O	O	O	_	_	_
+Schranken	O	O	O	O	O	O	_	_	_
+unterworfene	O	O	O	O	O	O	_	_	_
+Thätigkeit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Einwohner	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ihre	O	O	O	O	O	O	_	_	_
+Frugalilät	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+ächt	O	O	O	O	O	O	_	_	_
+schweizerische	O	O	O	O	O	O	_	_	_
+Biederkeit	O	O	O	O	O	O	_	_	_
+trugen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gen	O	O	O	O	O	O	_	_	_|Commented
+das	O	O	O	O	O	O	_	_	_
+Meiste	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Vermehrung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Wohlstands	O	O	O	O	O	O	_	_	_
+bey	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+allein	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vor	O	O	O	O	O	O	_	_	_
+ihrer	O	O	O	O	O	O	_	_	_
+Inkorporation	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	_
+Staat	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Einwohner	O	O	O	O	O	O	_	_	_
+unzähligen	O	O	O	O	O	O	_	_	_
+Unbilden	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Manthbüreaux	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+rings	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Gränzen	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+kleinen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Republik	O	O	O	O	O	O	_	_	_
+errichtet	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ausgesetzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Seit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Vereinigung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+mit	O	O	O	O	O	O	_	_	_
+Frankreich	B-loc	B-org	B-loc.adm.nat	B-org.adm	O	O	Q142	Q142	_
+sind	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Mauthbüreaux	O	O	O	O	O	O	_	_	_
+aufgehoben	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Verkehr	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Mühlhausen	B-loc	O	B-loc.adm.town	O	O	O	Q79815	_	_
+mit	O	O	O	O	O	O	_	_	_
+Frankreich	B-loc	O	B-loc.adm.nat	O	O	O	Q142	_	_
+ist	O	O	O	O	O	O	_	_	_
+völlig	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+frey	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Seit	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Epoche	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+dortigen	O	O	O	O	O	O	_	_	_
+Mannfakturen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+einen	O	O	O	O	O	O	_	_	_
+neuen	O	O	O	O	O	O	_	_	_
+Schwung	O	O	O	O	O	O	_	_	_
+erhalten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Kattunfabriken	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+jeher	O	O	O	O	O	O	_	_	_
+dort	O	O	O	O	O	O	_	_	_
+einheimisch	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+vermehrten	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+die	O	O	O	O	O	O	_	_	_
+alten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+mehrere	O	O	O	O	O	O	_	_	_
+neue	O	O	O	O	O	O	_	_	_
+dehnten	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Geschäfte	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+allen	O	O	O	O	O	O	_	_	_
+Seiten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+hin	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+wurden	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Baumwollwaaren	O	O	O	O	O	O	_	_	_
+neue	O	O	O	O	O	O	_	_	_
+Manufakturen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#turen	O	O	O	O	O	O	_	_	_|Commented
+errichtet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+englischen	O	O	O	O	O	O	_	_	_
+Spinnmaschinen	O	O	O	O	O	O	_	_	_
+eingeführt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#führt	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+französischen	O	O	O	O	O	O	_	_	_
+Douanengesetze	O	O	O	O	O	O	_	_	_
+fielen	O	O	O	O	O	O	_	_	_
+nun	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Inkorporation	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Fabrikanten	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Mühlhausen	B-loc	O	B-loc.adm.town	O	O	O	Q79815	_	_
+nicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nur	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+zur	O	O	O	O	O	O	_	_	_
+Last	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+sondern	O	O	O	O	O	O	_	_	_
+waren	O	O	O	O	O	O	_	_	_
+ihnen	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+mancher	O	O	O	O	O	O	_	_	_
+Hinsicht	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vortheilhaft	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+indem	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+dieselben	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Konkurrenz	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+benachbarten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#nachbarten	O	O	O	O	O	O	_	_	_|Commented
+auswärtigen	O	O	O	O	O	O	_	_	_
+Fabriken	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+besonders	O	O	O	O	O	O	_	_	_
+mit	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+schweiZerischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-9
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#Zerischen	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+befreyten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Absatz	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	_
+fabrizirten	O	O	O	O	O	O	_	_	_
+Waaren	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ren	O	O	O	O	O	O	_	_	_|Commented
+geht	O	O	O	O	O	O	_	_	_
+beynahe	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	_
+ins	O	O	O	O	O	O	_	_	_
+innere	O	O	O	O	O	O	_	_	_
+Frankreich	B-loc	O	B-loc.adm.nat	O	O	O	Q142	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+daher	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#her	O	O	O	O	O	O	_	_	_|Commented
+keinen	O	O	O	O	O	O	_	_	_
+Schwierigkeiten	O	O	O	O	O	O	_	_	_
+unterworfen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Durch	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+Industrie	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#strie	O	O	O	O	O	O	_	_	_|Commented
+hat	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Stadt	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Aufmerksamkeit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+gezogen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+ihr	O	O	O	O	O	O	_	_	_
+mehrere	O	O	O	O	O	O	_	_	_
+Vortheile	O	O	O	O	O	O	_	_	_
+gewährte	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Schon	O	O	O	O	O	O	_	_	_
+seit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+geraumer	O	O	O	O	O	O	_	_	_
+Zeit	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	_
+besondere	O	O	O	O	O	O	_	_	_
+Handelskammer	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+ihr	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+besonderes	O	O	O	O	O	O	_	_	_
+Handelsgericht	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Durch	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	_
+publizirtes	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+noch	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+aus	O	O	O	O	O	O	_	_	_
+Bayonne	B-loc	O	B-loc.adm.town	O	O	O	Q134674	_	_
+datirtes	O	O	O	O	O	O	_	_	_
+Kaiserl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Dekrer	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+Mühlhausen	B-loc	B-org	B-loc.adm.town	B-org.adm	O	O	Q79815	Q79815	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ein	O	O	O	O	O	O	_	_	_
+Conseil	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Prud	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+hommes	O	O	O	O	O	O	_	_	_
+erhalten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+fünf	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Gliedern	O	O	O	O	O	O	_	_	_
+besteht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wovon	O	O	O	O	O	O	_	_	_
+drey	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+handeltreibenden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Fabrikanten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+beyden	O	O	O	O	O	O	_	_	_
+audern	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Chefs	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Aufsehern	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Werkstätten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+patentirten	O	O	O	O	O	O	_	_	_
+Arbeitern	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erwählen	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ihr	O	O	O	O	O	O	_	_	_
+Geschäft	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+gütliche	O	O	O	O	O	O	_	_	_
+Ausgleichung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+alle	O	O	O	O	O	O	_	_	_
+Streitigkeiten	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+beendigen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Fabrikanten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+und	O	O	O	O	O	O	_	_	_
+Arbeitern	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+unter	O	O	O	O	O	O	_	_	_
+diesen	O	O	O	O	O	O	_	_	_
+letztern	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Aufsehern	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+Werkstätten	O	O	O	O	O	O	_	_	_
+entstehen	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Im	O	O	O	O	O	O	_	_	_
+Fall	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+gütliche	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Ausgleichung	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+möglich	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Conseil	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Prud	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+hommes	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#mes	O	O	O	O	O	O	_	_	_|Commented
+berechtigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+solche	O	O	O	O	O	O	_	_	_
+Streitigkeiten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+insofern	O	O	O	O	O	O	_	_	_
+ihr	O	O	O	O	O	O	_	_	_
+Gegenstand	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#genstand	O	O	O	O	O	O	_	_	_|Commented
+die	O	O	O	O	O	O	_	_	_
+Summe	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+60	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Fr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+übersteigt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ohne	O	O	O	O	O	O	_	_	_
+Prozeßform	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zeßform	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+Kosten	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+letztrer	O	O	O	O	O	O	_	_	_
+Instanz	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+sprechen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Betrifft	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Gegenstand	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Streits	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+höhere	O	O	O	O	O	O	_	_	_
+Summe	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+muß	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Sache	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Handelsgericht	O	O	O	O	O	O	_	_	_
+gebracht	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Nach	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Kaiser	O	O	O	O	O	O	_	_	_
+erlassenen	O	O	O	O	O	O	_	_	_
+reglementarischen	O	O	O	O	O	O	_	_	_
+Verfügung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+werden	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Prud	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+hommes	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Mühlhausen	B-loc	O	B-loc.adm.town	O	O	O	Q79815	_	_
+in	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	_
+allgemeinen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#meinen	O	O	O	O	O	O	_	_	_|Commented
+Versammlung	O	O	O	O	O	O	_	_	_
+gewählt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Maire	O	O	O	O	O	O	_	_	_
+konvozirt	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+präsidirt	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Jeder	O	O	O	O	O	O	_	_	_
+Handelsmann	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+zugleich	O	O	O	O	O	O	_	_	_
+Fabrikant	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+jeder	O	O	O	O	O	O	_	_	_
+Manufakturist	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+jeder	O	O	O	O	O	O	_	_	_
+Chef	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+Aufseher	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Werkstätte	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Recht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+dieser	O	O	O	O	O	O	_	_	_
+Versammlung	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+stimmen	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-3
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#men	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+Gewählten	O	O	O	O	O	O	_	_	_
+müßen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+absolute	O	O	O	O	O	O	_	_	_
+Szimmenmehrheit	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+erhalten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Jeder	O	O	O	O	O	O	_	_	_
+Prud	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+homme	O	O	O	O	O	O	_	_	_
+muß	O	O	O	O	O	O	_	_	_
+wenigstens	O	O	O	O	O	O	_	_	_
+30	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Jahre	O	O	O	O	O	O	_	_	_
+alt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+seyn	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Das	O	O	O	O	O	O	_	_	_
+versammelte	O	O	O	O	O	O	_	_	_
+Conseil	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Prud	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+hommes	O	O	O	O	O	O	_	_	_
+wählt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+unter	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Präsidenten	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Vice	O	O	O	O	O	O	_	_	NoSpaceAfter
+-	O	O	O	O	O	O	_	_	NoSpaceAfter
+Präsidenten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Jahr	O	O	O	O	O	O	_	_	_
+lang	O	O	O	O	O	O	_	_	_
+im	O	O	O	O	O	O	_	_	_
+Amt	O	O	O	O	O	O	_	_	_
+bleiben	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+es	O	O	O	O	O	O	_	_	_
+erwählt	O	O	O	O	O	O	_	_	_
+ausserdem	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+aber	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+seiner	O	O	O	O	O	O	_	_	_
+Mitte	O	O	O	O	O	O	_	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	_
+einen	O	O	O	O	O	O	_	_	_
+Sekretär	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Alle	O	O	O	O	O	O	_	_	_
+fabrizirende	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#zirende	O	O	O	O	O	O	_	_	_|Commented
+Kaufleute	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Manufakturisten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Aufseher	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Werkstätten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-7
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#stätten	O	O	O	O	O	O	_	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+Arbeiter	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+dies	O	O	O	O	O	O	_	_	_
+Conseil	O	O	O	O	O	O	_	_	_
+geladen	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sind	O	O	O	O	O	O	_	_	_
+gehalten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Person	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+erscheinen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Sie	O	O	O	O	O	O	_	_	_
+dürfen	O	O	O	O	O	O	_	_	_
+sich	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+dann	O	O	O	O	O	O	_	_	_
+ersetzen	O	O	O	O	O	O	_	_	_
+lassen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+wenn	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+beweisen	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+krank	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+oder	O	O	O	O	O	O	_	_	_
+abwesend	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Allein	O	O	O	O	O	O	_	_	_
+auch	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+disem	O	O	O	O	O	O	_	_	_
+Fall	O	O	O	O	O	O	_	_	_
+dürfen	O	O	O	O	O	O	_	_	_
+sie	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Verwandten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+Kaufleute	O	O	O	O	O	O	_	_	_
+oder	O	O	O	O	O	O	_	_	_
+Fabrikanten	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ihre	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Vollmacht	O	O	O	O	O	O	_	_	_
+ertheilen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Zur	O	O	O	O	O	O	_	_	_
+Vermittelung	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Spezialbüreau	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#reau	O	O	O	O	O	O	_	_	_|Commented
+des	O	O	O	O	O	O	_	_	_
+Conseils	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+aus	O	O	O	O	O	O	_	_	_
+zwey	O	O	O	O	O	O	_	_	_
+Mitgliedern	O	O	O	O	O	O	_	_	_
+besteht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+hinlänglich	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-8
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#länglich	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Allein	O	O	O	O	O	O	_	_	_
+Urtheile	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Streitsachen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kompetenz	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#petenz	O	O	O	O	O	O	_	_	_|Commented
+des	O	O	O	O	O	O	_	_	_
+Conseils	O	O	O	O	O	O	_	_	_
+unterworfen	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+vom	O	O	O	O	O	O	_	_	_
+Generalconseil	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#neralconseil	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+Prud	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+hommes	O	O	O	O	O	O	_	_	_
+ergehen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+jedoch	O	O	O	O	O	O	_	_	_
+müßen	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Kontestationen	O	O	O	O	O	O	_	_	_
+zuvor	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Vermittelung	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Spezialbüreau	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+s	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+unterworfen	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+erlassenen	O	O	O	O	O	O	_	_	_
+Urtheile	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	_
+24	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Stunden	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Bekanntmachung	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Vollziehung	O	O	O	O	O	O	_	_	_
+gesetzt	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Ausser	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+erwähnten	O	O	O	O	O	O	_	_	_
+Funktionen	O	O	O	O	O	O	_	_	_
+ist	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Conseil	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Prud	O	O	O	O	O	O	_	_	NoSpaceAfter
+'	O	O	O	O	O	O	_	_	NoSpaceAfter
+hommes	O	O	O	O	O	O	_	_	_
+durch	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Gesetz	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+Maaßregeln	O	O	O	O	O	O	_	_	_
+beauftragt	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#tragt	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Eigenthum	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Dessins	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Fabrikate	O	O	O	O	O	O	_	_	_
+zu	O	O	O	O	O	O	_	_	_
+erhalten	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#halten	O	O	O	O	O	O	_	_	NoSpaceAfter|Commented
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Jeder	O	O	O	O	O	O	_	_	_
+Fabrikant	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Anspruch	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Eigenthum	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+
+

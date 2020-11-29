@@ -1,0 +1,602 @@
+# language = de
+# newspaper = NZZ
+# date = 1848-10-04
+# document_id = NZZ-1848-10-04-a-p0004
+# segment_iiif_link = _
+Bülletin	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+heute	O	O	O	O	O	O	_	_	_
+Morgen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Palermo	B-loc	O	B-loc.adm.town	O	O	O	Q2656	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Genueserblätter	O	O	O	O	O	O	_	_	_
+wollen	O	O	O	O	O	O	_	_	_
+wissen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+drei	O	O	O	O	O	O	_	_	_
+neapolitanische	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-10
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#litanische	O	O	O	O	O	O	_	_	_|Commented
+Truppenabtheilungen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Stadt	O	O	O	O	O	O	_	_	_
+vorrückten	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Sizilianern	O	O	O	O	O	O	_	_	_
+angegriffen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+geschlagen	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+900	O	O	O	O	O	O	_	_	_
+Gefangene	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gemacht	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	_
+seien	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Wien	B-loc	O	B-loc.adm.town	O	O	O	Q1741	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+29	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Sept	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Wir	O	O	O	O	O	O	_	_	_
+sind	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+voller	O	O	O	O	O	O	_	_	_
+Ministerkrise	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Folgendes	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-6
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#gendes	O	O	O	O	O	O	_	_	_|Commented
+ist	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+neueste	O	O	O	O	O	O	_	_	_
+Kombination	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Schwarzer	B-pers	O	B-pers.ind	O	O	O	Q18249392	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+eben	O	O	O	O	O	O	_	_	_
+erst	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+resignirt	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Portefeuille	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Handels	O	O	O	O	O	O	_	_	_
+übernehmen	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Graf	B-pers	O	B-pers.ind	O	B-comp.title	O	Q1909795	_	_
+Wickenburg	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1909795	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bisher	O	O	O	O	O	O	_	_	_
+Gouverneur	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+Grätz	B-loc	O	B-loc.adm.town	O	O	O	Q13298	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+das	O	O	O	O	O	O	_	_	_
+Innere	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Strohbach	B-pers	O	B-pers.ind	O	B-comp.name	O	Q10854115	_	_
+(	I-pers	O	I-pers.ind	O	O	O	Q10854115	_	NoSpaceAfter
+der	I-pers	O	I-pers.ind	O	O	O	Q10854115	_	_
+Präsident	I-pers	O	I-pers.ind	O	B-comp.function	O	Q10854115	_	_
+des	I-pers	O	I-pers.ind	O	I-comp.function	O	Q10854115	_	_
+Reichstags	I-pers	O	I-pers.ind	O	I-comp.function	B-org.adm	Q10854115	_	NoSpaceAfter
+)	I-pers	O	I-pers.ind	O	O	O	Q10854115	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Justiz	O	O	O	O	O	O	_	_	NoSpaceAfter
+;	O	O	O	O	O	O	_	_	_|EOS
+
+Bach	B-pers	O	B-pers.ind	O	O	O	Q448912	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+öffentlichen	O	O	O	O	O	O	_	_	_
+Arbeiten	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Am	O	O	O	O	O	O	_	_	_
+27	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+war	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Armee	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Banus	O	O	O	O	O	O	_	_	_
+bereits	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+Veleneze	B-loc	O	B-loc.adm.town	O	O	O	Q1065977	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+3	O	O	O	O	O	O	_	_	_
+Meilen	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Ofen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+vorgerückt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Die	O	O	O	O	O	O	_	_	_
+ungarischen	O	O	O	O	O	O	_	_	_
+Generale	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ihr	O	O	O	O	O	O	_	_	_
+bis	O	O	O	O	O	O	_	_	_
+jetzt	O	O	O	O	O	O	_	_	_
+keinen	O	O	O	O	O	O	_	_	_
+Widerstand	O	O	O	O	O	O	_	_	_
+entgegengesetzt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+(	O	O	O	O	O	O	_	_	NoSpaceAfter
+A	B-prod	O	B-prod.media	O	O	O	NIL	_	NoSpaceAfter
+.	I-prod	O	I-prod.media	O	O	O	NIL	_	_
+A	I-prod	O	I-prod.media	O	O	O	NIL	_	NoSpaceAfter
+.	I-prod	O	I-prod.media	O	O	O	NIL	_	_
+Ztg	I-prod	O	I-prod.media	O	O	O	NIL	_	NoSpaceAfter
+.	I-prod	O	I-prod.media	O	O	O	NIL	_	NoSpaceAfter
+)	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bern	B-loc	O	B-loc.adm.reg	O	O	O	Q70	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Von	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Gesandten	B-pers	O	B-pers.ind	O	B-comp.function	O	Q1948114	_	_
+Oesterreichs	I-pers	O	I-pers.ind	O	I-comp.function	B-loc.adm.nat	Q1948114	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q1948114	_	_
+Hr	I-pers	O	I-pers.ind	O	B-comp.title	O	Q1948114	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q1948114	_	_
+v	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1948114	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1948114	_	_
+Kaisersfeld	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1948114	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q1948114	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+ist	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Vororte	O	O	O	O	O	O	_	_	_
+eine	O	O	O	O	O	O	_	_	_
+neue	O	O	O	O	O	O	_	_	_
+Note	O	O	O	O	O	O	_	_	_
+eingelangt	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+welche	O	O	O	O	O	O	_	_	_
+Hoffnung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+macht	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+Radetzky	B-pers	O	B-pers.ind	O	O	O	Q153500	_	NoSpaceAfter
+'	I-pers	O	I-pers.ind	O	O	O	Q153500	_	NoSpaceAfter
+s	I-pers	O	I-pers.ind	O	O	O	Q153500	_	_
+Maßregeln	O	O	O	O	O	O	_	_	_
+gegen	O	O	O	O	O	O	_	_	_
+Tessin	B-loc	B-org	B-loc.adm.reg	B-org.adm	O	O	Q31008	Q31008	_
+bald	O	O	O	O	O	O	_	_	_
+aufhören	O	O	O	O	O	O	_	_	_
+werden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+—	O	O	O	O	O	O	_	_	_
+Der	O	O	O	O	O	O	_	_	_
+Verfassungsfreund	O	O	O	O	O	O	_	_	_
+zeigt	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Empfang	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Reichsnote	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+an	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+verspricht	O	O	O	O	O	O	_	_	_
+deren	O	O	O	O	O	O	_	_	_
+Mittheilung	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+folgende	O	O	O	O	O	O	_	_	_
+Nr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Dasselbe	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-5
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#selbe	O	O	O	O	O	O	_	_	_|Commented
+Blatt	O	O	O	O	O	O	_	_	_
+bemerkt	O	O	O	O	O	O	_	_	NoSpaceAfter
+:	O	O	O	O	O	O	_	_	_|EOS
+
+Eine	O	O	O	O	O	O	_	_	_
+ganz	O	O	O	O	O	O	_	_	_
+gleichlautende	O	O	O	O	O	O	_	_	_
+Note	O	O	O	O	O	O	_	_	_
+soll	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+Frankfurt	B-loc	B-org	B-loc.adm.town	B-org.adm	O	O	Q1794	Q1794	NoSpaceAfter|Normalized-4
+#¬	I-loc	I-org	I-loc.adm.town	I-org.adm	O	O	Q1794	Q1794	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#furt	I-loc	I-org	I-loc.adm.town	I-org.adm	O	O	Q1794	Q1794	_|Commented
+auch	O	O	O	O	O	O	_	_	_
+an	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+französische	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+abgegangen	O	O	O	O	O	O	_	_	_
+sein	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+—	O	O	O	O	O	O	_	_	_
+Der	O	O	O	O	O	O	_	_	_
+Gesandte	O	O	O	O	O	O	_	_	_
+Sardiniens	B-loc	B-org	B-loc.phys.geo	B-org.adm	O	O	Q1462	Q1462	_
+hat	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Vororte	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Zurückstellung	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-12
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#rückstellung	O	O	O	O	O	O	_	_	_|Commented
+der	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Truppen	O	O	O	O	O	O	_	_	_
+Griffini	B-pers	O	B-pers.ind	O	O	O	Q3839728	_	NoSpaceAfter
+'	I-pers	O	I-pers.ind	O	O	O	Q3839728	_	NoSpaceAfter
+s	I-pers	O	I-pers.ind	O	O	O	Q3839728	_	_
+bei	O	O	O	O	O	O	_	_	_
+ihrem	O	O	O	O	O	O	_	_	_
+Eintritt	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Schweiz	B-loc	O	B-loc.adm.nat	O	O	O	Q39	_	_
+abgenommenen	O	O	O	O	O	O	_	_	_
+Waffen	O	O	O	O	O	O	_	_	_
+verlangt	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Da	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Tagsatzung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+sich	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Verfügung	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Waffen	O	O	O	O	O	O	_	_	_
+vorbehalten	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+so	O	O	O	O	O	O	_	_	_
+wird	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+der	O	O	O	O	O	O	_	_	_
+Vorort	O	O	O	O	O	O	_	_	_
+einstweilen	O	O	O	O	O	O	_	_	_
+nicht	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+diese	O	O	O	O	O	O	_	_	_
+Reklamation	O	O	O	O	O	O	_	_	_
+eintreten	O	O	O	O	O	O	_	_	_
+können	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Aargau	B-loc	O	B-loc.adm.reg	O	O	O	Q11972	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Gestern	O	O	O	O	O	O	_	_	_
+hat	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Gr	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Rath	O	O	O	O	O	O	_	_	_
+über	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Wahlart	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Nationalräthe	O	O	O	O	O	O	_	_	_
+entschieden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Es	O	O	O	O	O	O	_	_	_
+lagen	O	O	O	O	O	O	_	_	_
+zwei	O	O	O	O	O	O	_	_	_
+Anträge	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+vom	O	O	O	O	O	O	_	_	_
+Kl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Rath	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Bildung	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+eines	O	O	O	O	O	O	_	_	_
+Wahlkreises	O	O	O	O	O	O	_	_	_
+und	O	O	O	O	O	O	_	_	_
+einer	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Mehrheit	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+großräthlichen	O	O	O	O	O	O	_	_	_
+Kommission	O	O	O	O	O	O	_	_	_
+auf	O	O	O	O	O	O	_	_	_
+Bildung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+von	O	O	O	O	O	O	_	_	_
+neun	O	O	O	O	O	O	_	_	_
+Wahlkreisen	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Für	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Antrag	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Kl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Rathes	O	O	O	O	O	O	_	_	_
+sprachen	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+HH	B-pers	O	B-pers.ind	O	B-comp.title	O	Q18577960	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q18577960	_	_
+RR	I-pers	O	I-pers.ind	O	B-comp.function	O	Q18577960	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.function	O	Q18577960	_	_
+Wieland	I-pers	O	I-pers.ind	O	B-comp.name	O	Q18577960	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Seminardirektor	B-pers	O	B-pers.ind	O	B-comp.function	O	Q117999	_	_
+Keller	I-pers	O	I-pers.ind	O	B-comp.name	O	Q117999	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Obergerichtspräsident	B-pers	O	B-pers.ind	O	B-comp.function	O	Q1432233	_	NoSpaceAfter|Normalized-15
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1432233	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#richtspräsident	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1432233	_	_|Commented
+Tanner	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1432233	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Amtsstatthalter	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Billo	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Fürsprech	B-pers	O	B-pers.ind	O	B-comp.function	O	Q1695781	_	_
+P	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1695781	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1695781	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+Bruggisser	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1695781	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Landammann	B-pers	O	B-pers.ind	O	B-comp.function	O	Q17321705	_	_
+Waller	I-pers	O	I-pers.ind	O	B-comp.name	O	Q17321705	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Landstatthalter	B-pers	O	B-pers.ind	O	B-comp.function	O	Q1744766	_	_
+Siegfried	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1744766	_	NoSpaceAfter|Normalized-5
+#¬	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1744766	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#fried	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1744766	_	_|Commented
+und	O	O	O	O	O	O	_	_	_
+Dr	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Thuet	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Den	O	O	O	O	O	O	_	_	_
+Antrag	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kommission	O	O	O	O	O	O	_	_	_
+unterstützten	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+nebst	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+Trägern	O	O	O	O	O	O	_	_	_
+derselben	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Kommission	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+HH	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	NIL	_	_
+Gemeindammann	I-pers	O	I-pers.ind	O	B-comp.function	O	NIL	_	NoSpaceAfter|Normalized-6
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#ammann	I-pers	O	I-pers.ind	O	I-comp.function	O	NIL	_	_|Commented
+Stöcklin	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+von	O	O	O	O	O	O	_	_	_
+Muri	B-loc	O	B-loc.adm.town	O	O	O	Q69011	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Fr	B-pers	O	B-pers.ind	O	B-comp.title	O	Q1545120	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q1545120	_	_
+J	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1545120	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1545120	_	_
+Lützelschwab	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1545120	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+Meienberg	B-loc	O	B-loc.adm.town	O	O	O	Q1569307	_	NoSpaceAfter|Normalized-4
+#¬	I-loc	O	I-loc.adm.town	O	O	O	Q1569307	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#berg	I-loc	O	I-loc.adm.town	O	O	O	Q1569307	_	NoSpaceAfter|Commented
+,	O	O	O	O	O	O	_	_	_
+Bezirksrichter	B-pers	O	B-pers.ind	O	B-comp.function	O	NIL	_	_
+Waldesbuel	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	_
+und	O	O	O	O	O	O	_	_	_
+Steigmeier	B-pers	O	B-pers.ind	O	O	O	NIL	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+128	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+gegen	O	O	O	O	O	O	_	_	_
+48	O	O	O	O	O	O	_	_	_
+Mitglieder	O	O	O	O	O	O	_	_	_
+stimmten	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Vorschlage	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+Kl	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_
+Rathes	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+daß	O	O	O	O	O	O	_	_	_
+nur	O	O	O	O	O	O	_	_	_
+ein	O	O	O	O	O	O	_	_	_
+Wahlkreis	O	O	O	O	O	O	_	_	_
+gebildet	O	O	O	O	O	O	_	_	_
+werde	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+bei	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+Tessin	B-loc	O	B-loc.adm.reg	O	O	O	Q31008	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Der	O	O	O	O	O	O	_	_	_
+Republikano	B-prod	O	B-prod.media	O	O	O	NIL	_	_
+meldet	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+Radetzky	B-pers	O	B-pers.ind	O	O	O	Q153500	_	_
+endlich	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+die	O	O	O	O	O	O	_	_	_
+Herausgabe	O	O	O	O	O	O	_	_	_
+des	O	O	O	O	O	O	_	_	_
+von	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+tessinischen	O	O	O	O	O	O	_	_	_
+Regierung	O	O	O	O	O	O	_	_	_
+vor	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Sperre	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+angekauften	O	O	O	O	O	O	_	_	_
+Salzes	O	O	O	O	O	O	_	_	_
+bewilligt	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Von	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+osterreichischen	B-pers	O	B-pers.ind	O	B-comp.function	O	Q1948114	_	_
+Gesandten	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1948114	_	NoSpaceAfter|Normalized-7
+#¬	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1948114	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#sandten	I-pers	O	I-pers.ind	O	I-comp.function	O	Q1948114	_	NoSpaceAfter|Commented
+,	I-pers	O	I-pers.ind	O	O	O	Q1948114	_	_
+Hrn	I-pers	O	I-pers.ind	O	B-comp.title	O	Q1948114	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q1948114	_	_
+v	I-pers	O	I-pers.ind	O	B-comp.name	O	Q1948114	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1948114	_	_
+Kaisersfeld	I-pers	O	I-pers.ind	O	I-comp.name	O	Q1948114	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q1948114	_	_
+seien	O	O	O	O	O	O	_	_	_
+in	O	O	O	O	O	O	_	_	_
+den	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	_
+Tagen	O	O	O	O	O	O	_	_	_
+etwa	O	O	O	O	O	O	_	_	_
+hundert	O	O	O	O	O	O	_	_	NoSpaceAfter|Normalized-4
+#¬	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#dert	O	O	O	O	O	O	_	_	_|Commented
+Pässe	O	O	O	O	O	O	_	_	_
+nach	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Lombardei	B-loc	O	B-loc.adm.reg	O	O	O	Q1210	_	_
+visirt	O	O	O	O	O	O	_	_	_
+worden	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+# segment_iiif_link = _
+—	O	O	O	O	O	O	_	_	_
+Laut	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+Republikano	B-prod	O	B-prod.media	O	O	O	NIL	_	_
+ist	O	O	O	O	O	O	_	_	_
+letzten	O	O	O	O	O	O	_	_	_
+Sonntag	O	O	O	O	O	O	_	_	_
+der	O	O	O	O	O	O	_	_	_
+Graf	B-pers	O	B-pers.ind	O	B-comp.title	O	NIL	_	_
+Zampieri	I-pers	O	I-pers.ind	O	B-comp.name	O	NIL	_	NoSpaceAfter|Normalized-5
+#¬	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	EndOfLine|NoSpaceAfter|Commented
+# segment_iiif_link = _|Commented
+#pieri	I-pers	O	I-pers.ind	O	I-comp.name	O	NIL	_	_|Commented
+von	O	O	O	O	O	O	_	_	_
+Rom	B-loc	O	B-loc.adm.town	O	O	O	Q220	_	_
+in	O	O	O	O	O	O	_	_	_
+Lugano	B-loc	O	B-loc.adm.town	O	O	O	Q7024	_	_
+angekommen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+um	O	O	O	O	O	O	_	_	_
+dem	O	O	O	O	O	O	_	_	_
+hier	O	O	O	O	O	O	_	_	_
+weilenden	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+General	B-pers	O	B-pers.ind	O	B-comp.title	O	Q2939273	_	_
+Zucchi	I-pers	O	I-pers.ind	O	B-comp.name	O	Q2939273	_	_
+zu	O	O	O	O	O	O	_	_	_
+eröffnen	O	O	O	O	O	O	_	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+daß	O	O	O	O	O	O	_	_	_
+Se	B-pers	O	B-pers.ind	O	B-comp.title	O	Q43720	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	I-comp.title	O	Q43720	_	_
+Heiligkeit	I-pers	O	I-pers.ind	O	I-comp.title	O	Q43720	_	NoSpaceAfter
+,	I-pers	O	I-pers.ind	O	O	O	Q43720	_	_
+Pius	I-pers	O	I-pers.ind	O	B-comp.name	O	Q43720	_	_
+IX	I-pers	O	I-pers.ind	O	B-comp.title	O	Q43720	_	NoSpaceAfter
+.	I-pers	O	I-pers.ind	O	O	O	Q43720	_	NoSpaceAfter
+,	O	O	O	O	O	O	_	_	_
+ihn	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+zum	O	O	O	O	O	O	_	_	_
+Kriegsminister	O	O	O	O	O	O	_	_	_
+ernannt	O	O	O	O	O	O	_	_	_
+habe	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	_|EOS
+
+Zucchi	B-pers	O	B-pers.ind	O	O	O	Q2939273	_	_
+soll	O	O	O	O	O	O	_	_	_
+die	O	O	O	O	O	O	_	_	_
+Ernennung	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter
+# segment_iiif_link = _
+angenommen	O	O	O	O	O	O	_	_	_
+haben	O	O	O	O	O	O	_	_	NoSpaceAfter
+.	O	O	O	O	O	O	_	_	EndOfLine|NoSpaceAfter|EOS
+
+
+
