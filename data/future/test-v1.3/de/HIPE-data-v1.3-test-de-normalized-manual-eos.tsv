@@ -36139,4 +36139,4 @@ auf	O	O	O	O	O	O	_	_	_
 # segment_iiif_link = https://iiif.eluxemburgensia.lu/iiif/2/ark:%2f70795%2fv15w2m%2fpages%2f1/3096,2542,200,47/full/0/default.jpg
 Milliarden	O	O	O	O	O	O	_	_	_
 Dollars	O	O	O	O	O	O	_	_	NoSpaceAfter
-.	O	O	O	O	O	O	_	_	EndOfLine
+.	O	O	O	O	O	O	_	_	EndOfLine|EOS
