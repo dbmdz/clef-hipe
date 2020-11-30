@@ -14,7 +14,7 @@ We are heavily working on better models for historic texts, so please star or wa
 In this section we give a brief overview of how to reproduce the results from our paper.
 
 As we heavily use Flair and Transformers for our experiments, you should find the relevant scripts in the
-`experiments` folder:
+`experiments/clef-hipe-2020` folder:
 
 * `word-embeddings`: includes scripts for the experiments with different word embeddings
 * `flair-embeddings`: includes scripts for the experiments with different Flair embeddings
