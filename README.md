@@ -22,6 +22,7 @@ As we heavily use Flair and Transformers for our experiments, you should find th
 
 # Changelog
 
+* 30.10.2021: Manually sentence-segmented Development and Test data for English was added
 * 30.11.2020: Initial version of this repository
 
 # Citation
