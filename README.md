@@ -22,6 +22,8 @@ As we heavily use Flair and Transformers for our experiments, you should find th
 
 # Changelog
 
+* 04.11.2021: We will take part in the upcoming [CLEF-HIPE 2022](https://hipe-eval.github.io/HIPE-2022/tasks) Shared Task.
+              We plan to release new language models before the start of the official shared task very soon.
 * 30.10.2021: Manually sentence-segmented Development and Test data for English was added
 * 30.11.2020: Initial version of this repository
 
