@@ -164,3 +164,11 @@ python3 run_pretraining.py --input_file gs://histolectra/historic-multilingual-t
 The following plot shows the pretraining loss curve:
 
 ![Training loss curve](stats/figures/pretraining_loss.png)
+
+# Acknowledgments
+
+Research supported with Cloud TPUs from Google's TPU Research Cloud (TRC) program, previously known as
+TensorFlow Research Cloud (TFRC). Many thanks for providing access to the TRC ❤️
+
+Thanks to the generous support from the [Hugging Face](https://huggingface.co/) team,
+it is possible to download both cased and uncased models from their S3 storage 🤗
