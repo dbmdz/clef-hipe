@@ -1,5 +1,7 @@
 # Historic Language Models (HLMs)
 
+## Languages
+
 Our Historic Language Models Zoo contains support for the following languages - incl. their training data source:
 
 | Language | Training data | Size 
@@ -9,6 +11,14 @@ Our Historic Language Models Zoo contains support for the following languages - 
 | English  | [British Library](https://data.bl.uk/digbks/db14.html) | 24GB (year filtered)
 | Finnish  | [Europeana](http://www.europeana-newspapers.eu/)       | 1.2GB
 | Swedish  | [Europeana](http://www.europeana-newspapers.eu/)       | 1.1GB
+
+## Models
+
+At the moment, the following models are available on the model hub:
+
+| Model identifier                              | Model Hub link
+| --------------------------------------------- | --------------------------------------------------------------------------
+| `dbmdz/bert-base-historic-multilingual-cased` | [here](https://huggingface.co/dbmdz/bert-base-historic-multilingual-cased)
 
 # Corpora Stats
 
