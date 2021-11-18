@@ -19,6 +19,9 @@ At the moment, the following models are available on the model hub:
 | Model identifier                              | Model Hub link
 | --------------------------------------------- | --------------------------------------------------------------------------
 | `dbmdz/bert-base-historic-multilingual-cased` | [here](https://huggingface.co/dbmdz/bert-base-historic-multilingual-cased)
+| `dbmdz/bert-base-historic-english-cased`      | [here](https://huggingface.co/dbmdz/bert-base-historic-english-cased)
+| `dbmdz/bert-base-finnish-europeana-cased`     | [here](https://huggingface.co/dbmdz/bert-base-finnish-europeana-cased)
+| `dbmdz/bert-base-swedish-europeana-cased`     | [here](https://huggingface.co/dbmdz/bert-base-swedish-europeana-cased)
 
 # Corpora Stats
 
@@ -151,6 +154,8 @@ Total size is 130GB.
 
 # Pretraining
 
+## Multilingual model
+
 We train a multilingual BERT model using the 32k vocab with the official BERT implementation
 on a v3-32 TPU using the following parameters:
 
@@ -173,7 +178,91 @@ python3 run_pretraining.py --input_file gs://histolectra/historic-multilingual-t
 
 The following plot shows the pretraining loss curve:
 
-![Training loss curve](stats/figures/pretraining_loss.png)
+![Training loss curve](stats/figures/pretraining_loss_historic-multilingual.png)
+
+## English model
+
+The English BERT model - with texts from British Library corpus - was trained with the Hugging Face
+JAX/FLAX implementation for 10 epochs (approx. 1M steps) on a v3-8 TPU, using the following command:
+
+```bash
+python3 run_mlm_flax.py --model_type bert \
+--config_name /mnt/datasets/bert-base-historic-english-cased/ \
+--tokenizer_name /mnt/datasets/bert-base-historic-english-cased/ \
+--train_file /mnt/datasets/bl-corpus/bl_1800-1900_extracted.txt \
+--validation_file /mnt/datasets/bl-corpus/english_validation.txt \
+--max_seq_length 512 \
+--per_device_train_batch_size 16 \
+--learning_rate 1e-4 \
+--num_train_epochs 10 \
+--preprocessing_num_workers 96 \
+--output_dir /mnt/datasets/bert-base-historic-english-cased-512-noadafactor-10e \
+--save_steps 2500 \
+--eval_steps 2500 \
+--warmup_steps 10000 \
+--line_by_line \
+--pad_to_max_length
+```
+
+The following plot shows the pretraining loss curve:
+
+![Training loss curve](stats/figures/pretraining_loss_historic_english.png)
+
+## Finnish model
+
+The BERT model - with texts from Finnish part of Europeana - was trained with the Hugging Face
+JAX/FLAX implementation for 40 epochs (approx. 1M steps) on a v3-8 TPU, using the following command:
+
+```bash
+python3 run_mlm_flax.py --model_type bert \
+--config_name /mnt/datasets/bert-base-finnish-europeana-cased/ \
+--tokenizer_name /mnt/datasets/bert-base-finnish-europeana-cased/ \
+--train_file /mnt/datasets/hlms/extracted_content_Finnish_0.6.txt \
+--validation_file /mnt/datasets/hlms/finnish_validation.txt \
+--max_seq_length 512 \
+--per_device_train_batch_size 16 \
+--learning_rate 1e-4 \
+--num_train_epochs 40 \
+--preprocessing_num_workers 96 \
+--output_dir /mnt/datasets/bert-base-finnish-europeana-cased-512-dupe1-noadafactor-40e \
+--save_steps 2500 \
+--eval_steps 2500 \
+--warmup_steps 10000 \
+--line_by_line \
+--pad_to_max_length
+```
+
+The following plot shows the pretraining loss curve:
+
+![Training loss curve](stats/figures/pretraining_loss_finnish_europeana.png)
+
+## Swedish model
+
+The BERT model - with texts from Swedish part of Europeana - was trained with the Hugging Face
+JAX/FLAX implementation for 40 epochs (approx. 660K steps) on a v3-8 TPU, using the following command:
+
+```bash
+python3 run_mlm_flax.py --model_type bert \
+--config_name /mnt/datasets/bert-base-swedish-europeana-cased/ \
+--tokenizer_name /mnt/datasets/bert-base-swedish-europeana-cased/ \
+--train_file /mnt/datasets/hlms/extracted_content_Swedish_0.6.txt \
+--validation_file /mnt/datasets/hlms/swedish_validation.txt \
+--max_seq_length 512 \
+--per_device_train_batch_size 16 \
+--learning_rate 1e-4 \
+--num_train_epochs 40 \
+--preprocessing_num_workers 96 \
+--output_dir /mnt/datasets/bert-base-swedish-europeana-cased-512-dupe1-noadafactor-40e \
+--save_steps 2500 \
+--eval_steps 2500 \
+--warmup_steps 10000 \
+--line_by_line \
+--pad_to_max_length
+```
+
+The following plot shows the pretraining loss curve:
+
+![Training loss curve](stats/figures/pretraining_loss_swedish_europeana.png)
 
 # Acknowledgments
 
