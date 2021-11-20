@@ -23,6 +23,14 @@ At the moment, the following models are available on the model hub:
 | `dbmdz/bert-base-finnish-europeana-cased`     | [here](https://huggingface.co/dbmdz/bert-base-finnish-europeana-cased)
 | `dbmdz/bert-base-swedish-europeana-cased`     | [here](https://huggingface.co/dbmdz/bert-base-swedish-europeana-cased)
 
+**Notice**: We have released language models for Historic German and French trained on more noisier data earlier - see
+[this repo](https://github.com/stefan-it/europeana-bert) for more information:
+
+| Model identifier                              | Model Hub link
+| --------------------------------------------- | --------------------------------------------------------------------------
+| `dbmdz/bert-base-german-europeana-cased`      | [here](https://huggingface.co/dbmdz/bert-base-german-europeana-cased)
+| `dbmdz/bert-base-french-europeana-cased`      | [here](https://huggingface.co/dbmdz/bert-base-french-europeana-cased)
+
 # Corpora Stats
 
 ## German Europeana Corpus
