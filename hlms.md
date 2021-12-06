@@ -23,6 +23,15 @@ At the moment, the following models are available on the model hub:
 | `dbmdz/bert-base-finnish-europeana-cased`     | [here](https://huggingface.co/dbmdz/bert-base-finnish-europeana-cased)
 | `dbmdz/bert-base-swedish-europeana-cased`     | [here](https://huggingface.co/dbmdz/bert-base-swedish-europeana-cased)
 
+We also released smaller models for the multilingual model:
+
+| Model identifier | Model Hub link
+| ----------------------------------------------- | ---------------------------------------------------------------------------
+| `dbmdz/bert-tiny-historic-multilingual-cased`   | [here](https://huggingface.co/dbmdz/bert-tiny-historic-multilingual-cased)
+| `dbmdz/bert-mini-historic-multilingual-cased`   | [here](https://huggingface.co/dbmdz/bert-mini-historic-multilingual-cased)
+| `dbmdz/bert-small-historic-multilingual-cased`  | [here](https://huggingface.co/dbmdz/bert-small-historic-multilingual-cased)
+| `dbmdz/bert-medium-historic-multilingual-cased` | [here](https://huggingface.co/dbmdz/bert-base-historic-multilingual-cased)
+
 **Notice**: We have released language models for Historic German and French trained on more noisier data earlier - see
 [this repo](https://github.com/stefan-it/europeana-bert) for more information:
 
@@ -160,9 +169,26 @@ We upsample Swedish and Finnish to ~27GB. The final stats for all pretraining co
 
 Total size is 130GB.
 
+# Smaller multilingual models
+
+Inspired by the ["Well-Read Students Learn Better: On the Importance of Pre-training Compact Models"](https://arxiv.org/abs/1908.08962)
+paper, we train smaller models (different layers and hidden sizes), and report number of parameters and pre-training costs:
+
+| Model (Layer / Hidden size) | Parameters  | Pre-Training time
+| --------------------------- | ----------: | ----------------------:
+| hmBERT Tiny   ( 2/128)      |   4.58M     |  4.3 sec / 1,000 steps
+| hmBERT Mini   ( 4/256)      |  11.55M     | 10.5 sec / 1,000 steps
+| hmBERT Small  ( 4/512)      |  29.52M     | 20.7 sec / 1,000 steps
+| hmBERT Medium ( 8/512)      |  42.13M     | 35.0 sec / 1,000 steps
+| hmBERT Base   (12/768)      | 110.62M     | 80.0 sec / 1,000 steps
+
+We then perform downstream evaluations on the multilingual [NewsEye](https://zenodo.org/record/4573313#.Ya3oVr-ZNzU) dataset:
+
+![NewsEye hmBERT Evaluation](stats/figures/newseye-hmbert-evaluation.png)
+
 # Pretraining
 
-## Multilingual model
+## Multilingual model - hmBERT Base
 
 We train a multilingual BERT model using the 32k vocab with the official BERT implementation
 on a v3-32 TPU using the following parameters:
@@ -187,6 +213,34 @@ python3 run_pretraining.py --input_file gs://histolectra/historic-multilingual-t
 The following plot shows the pretraining loss curve:
 
 ![Training loss curve](stats/figures/pretraining_loss_historic-multilingual.png)
+
+## Smaller multilingual models
+
+We use the same parameters as used for training the base model.
+
+### hmBERT Tiny
+
+The following plot shows the pretraining loss curve for the tiny model:
+
+![Training loss curve](stats/figures/pretraining_loss_hmbert-tiny.png)
+
+### hmBERT Mini
+
+The following plot shows the pretraining loss curve for the mini model:
+
+![Training loss curve](stats/figures/pretraining_loss_hmbert-mini.png)
+
+### hmBERT Small
+
+The following plot shows the pretraining loss curve for the small model:
+
+![Training loss curve](stats/figures/pretraining_loss_hmbert-small.png)
+
+### hmBERT Medium
+
+The following plot shows the pretraining loss curve for the medium model:
+
+![Training loss curve](stats/figures/pretraining_loss_hmbert-medium.png)
 
 ## English model
 
