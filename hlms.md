@@ -176,10 +176,10 @@ paper, we train smaller models (different layers and hidden sizes), and report n
 
 | Model (Layer / Hidden size) | Parameters  | Pre-Training time
 | --------------------------- | ----------: | ----------------------:
-| hmBERT Tiny   ( 2/128)      |   4.58M     |  4.3 sec / 1,000 steps
-| hmBERT Mini   ( 4/256)      |  11.55M     | 10.5 sec / 1,000 steps
-| hmBERT Small  ( 4/512)      |  29.52M     | 20.7 sec / 1,000 steps
-| hmBERT Medium ( 8/512)      |  42.13M     | 35.0 sec / 1,000 steps
+| hmBERT Tiny   (2/128)      |   4.58M     |  4.3 sec / 1,000 steps
+| hmBERT Mini   (4/256)      |  11.55M     | 10.5 sec / 1,000 steps
+| hmBERT Small  (4/512)      |  29.52M     | 20.7 sec / 1,000 steps
+| hmBERT Medium (8/512)      |  42.13M     | 35.0 sec / 1,000 steps
 | hmBERT Base   (12/768)      | 110.62M     | 80.0 sec / 1,000 steps
 
 We then perform downstream evaluations on the multilingual [NewsEye](https://zenodo.org/record/4573313#.Ya3oVr-ZNzU) dataset:
