@@ -27,6 +27,7 @@ multilingual and monolingual Historic Language Models. Please refer to the docum
 
 # Changelog
 
+* 22.03.2022: Initial version for our HIPE-2022 submission [here](experiments/clef-hipe-2022/README.md).
 * 06.12.2021: Release of smaller multilingual Historic Language Models (ranging from 2-8 layers) - more information [here](hlms.md).
 * 18.11.2021: Release of first multilingual and monolingual Historic Language Models - more information [here](hlms.md).
 * 04.11.2021: We will take part in the upcoming [CLEF-HIPE 2022](https://hipe-eval.github.io/HIPE-2022/tasks) Shared Task.
