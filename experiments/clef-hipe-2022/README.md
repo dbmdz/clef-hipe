@@ -36,3 +36,23 @@ $ cd clef-hipe/experiments/clef-hipe-2022
 
 # Run training!
 ```
+
+# Baseline experiments
+
+We perform a (non-extensive) hyper-parameter search:
+
+| Parameter     | Values
+| ------------- | ------
+| Batch Size    | `[4, 8]`
+| Epoch         | `[5, 10]`
+| Learning Rate | `[3e-5, 5e-5]`
+| Seed          | `[1, 2, 3, 4, 5]`
+
+For each language, 40 models are trained. The script `flair-log-parser.py` parses all training logs and outputs the best
+configuration (Batch Size, Epoch and Learning Rate) averaged over all seeds.
+
+## AJMC v2.0
+
+| Best configuration | Language Model | Result
+| ------------------ | -------------- | ------
+| n.a.               | hmBERT         | n.a.
