@@ -69,4 +69,13 @@ Label set: `[scope, pers, work, loc, date, object]`.
 
 | Best configuration | Language Model | Result
 | ------------------ | -------------- | ------
-| n.a.               | hmBERT         | n.a.
+| `bs8-e10-lr5e-05`  | hmBERT         | 84.98
+
+### French
+
+[Configuration](configs/ajmc/ajmc_hmbert_fr.json): 966 train + 219 dev dev sentences (incl. doc marker).
+Label set: `[scope, pers, work, loc, object, date]`.
+
+| Best configuration | Language Model | Result
+| ------------------ | -------------- | ------
+| `bs8-e10-lr5e-05`  | hmBERT         | 85.69
