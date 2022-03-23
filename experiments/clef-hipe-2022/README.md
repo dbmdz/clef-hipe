@@ -16,10 +16,10 @@ dependencies:
 We recommend using NVIDIA Docker in order to train models. A typical docker setup can be started with:
 
 ```bash
-$ docker run --gpus all --shm-size 64G -v /home/arthur:/mnt -it -p 8889:8888 --rm nvcr.io/nvidia/pytorch:22.01-py3 /bin/bash
+$ docker run --gpus all --shm-size 64G -v /home/arthur:/mnt -it --rm nvcr.io/nvidia/pytorch:22.01-py3 /bin/bash
 ```
 
-Please adjust your desired mountpoints and ports to be forwarded.
+Please adjust your desired mountpoints.
 
 After entering the container, just install the following dependencies:
 
