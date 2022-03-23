@@ -53,6 +53,11 @@ configuration (Batch Size, Epoch and Learning Rate) averaged over all seeds.
 
 ## AJMC v2.0
 
+### German
+
+[Configuration](configs/ajmc/ajmc_hmbert_de.json): 1100 train + 206 dev sentences (incl. doc marker).
+Label set: `[scope, pers, work, loc, object, date]`.
+
 | Best configuration | Language Model | Result
 | ------------------ | -------------- | ------
 | n.a.               | hmBERT         | n.a.
