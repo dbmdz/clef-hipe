@@ -60,4 +60,4 @@ Label set: `[scope, pers, work, loc, object, date]`.
 
 | Best configuration | Language Model | Result
 | ------------------ | -------------- | ------
-| n.a.               | hmBERT         | n.a.
+| `bs4-e10-lr5e-05`  | hmBERT         | 86.21
