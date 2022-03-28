@@ -73,9 +73,29 @@ Label set: `[scope, pers, work, loc, date, object]`.
 
 ### French
 
-[Configuration](configs/ajmc/ajmc_hmbert_fr.json): 966 train + 219 dev dev sentences (incl. doc marker).
+[Configuration](configs/ajmc/ajmc_hmbert_fr.json): 966 train + 219 dev sentences (incl. doc marker).
 Label set: `[scope, pers, work, loc, object, date]`.
 
 | Best configuration | Language Model | Result
 | ------------------ | -------------- | ------
 | `bs8-e10-lr5e-05`  | hmBERT         | 85.69
+
+## NewsEye
+
+### Finnish
+
+Configuration: 1166 train + 165 dev sentcnes (incl. doc marker).
+Label set: `[HumanProd, LOC, ORG, PER]`.
+
+| Best configuration | Language Model | Result
+| ------------------ | -------------- | ------
+| `bs4-e10-lr5e-05`  | hmBERT         | 75.34
+
+### Swedish
+
+Configuration: 1085 train + 148 dev sentcnes (incl. doc marker).
+Label set: `[HumanProd, LOC, ORG, PER]`.
+
+| Best configuration | Language Model | Result
+| ------------------ | -------------- | ------
+| `bs4-e10-lr3e-05`  | hmBERT         | 80.63
