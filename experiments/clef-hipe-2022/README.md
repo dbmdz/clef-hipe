@@ -84,7 +84,7 @@ Label set: `[scope, pers, work, loc, object, date]`.
 
 ### Finnish
 
-Configuration: 1166 train + 165 dev sentcnes (incl. doc marker).
+Configuration: 1166 train + 165 dev sentences (incl. doc marker).
 Label set: `[HumanProd, LOC, ORG, PER]`.
 
 | Best configuration | Language Model | Result
@@ -99,3 +99,21 @@ Label set: `[HumanProd, LOC, ORG, PER]`.
 | Best configuration | Language Model | Result
 | ------------------ | -------------- | ------
 | `bs4-e10-lr3e-05`  | hmBERT         | 80.63
+
+## LeTemps
+
+Configuration: 14465 train + 1392 dev sentences (incl. doc marker).
+Label set: `[loc, org, pers]`.
+
+| Best configuration | Language Model | Result
+| ------------------ | -------------- | ------
+| `bs8-e10-lr5e-05`  | hmBERT         | 65.53
+
+## TopRes19th
+
+Configuration: 6183 train + 680 dev sentences (incl. doc marker).
+Label set: `[BUILDING, LOC, STREET]`.
+
+| Best configuration | Language Model | Result
+| ------------------ | -------------- | ------
+| `bs8-e10-lr5e-05`  | hmBERT         | 80.98
