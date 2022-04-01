@@ -51,7 +51,9 @@ We perform a (non-extensive) hyper-parameter search:
 For each language, 40 models are trained. The script `flair-log-parser.py` parses all training logs and outputs the best
 configuration (Batch Size, Epoch and Learning Rate) averaged over all seeds.
 
-## AJMC v2.0
+We use version 2 of the HIPE-2022 datasets for baseline experiments.
+
+## AJMC
 
 ### German
 
