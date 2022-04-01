@@ -141,6 +141,24 @@ Label set: `[HumanProd, LOC, ORG, PER]`.
 | ------------------ | -------------- | ------
 | `bs4-e10-lr3e-05`  | hmBERT         | 80.63
 
+### One Model
+
+In this experiment, we use the training and development data from all languages
+(Swedish and Finnish) to train one model. We report best configuration here and
+perform a detailed per-language analysis later on:
+
+| Best configuration | Language Model | Result
+| ------------------ | -------------- | ------
+| `bs8-e10-lr5e-05`  | hmBERT         | 80.15
+
+hen we use all 5 models from the `bs8-e10-lr5e-05` configuration, evaluate them
+for each language and report averaged F1-Score:
+
+| Language | Result
+| -------- | ------
+| Finnish  | 78.51
+| Swedish  | 81.53
+
 ### Ensembling
 
 | Language | Single Model | Ensemble (Single Model)
