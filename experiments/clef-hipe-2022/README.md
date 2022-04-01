@@ -80,6 +80,43 @@ Label set: `[scope, pers, work, loc, object, date]`.
 | ------------------ | -------------- | ------
 | `bs8-e10-lr5e-05`  | hmBERT         | 85.69
 
+### One Model
+
+In this experiment, we use the training and development data from all languages (German, English and French)
+to train one model. We report best configuration here and perform a detailed per-language analysis later on:
+
+| Best configuration | Language Model | Result
+| ------------------ | -------------- | ------
+| `bs4-e10-lr5e-05`  | hmBERT         | 85.69
+
+Then we use all 5 models from the `bs4-e10-lr5e-05` configuration, evaluate them for each language and report
+averaged F1-Score:
+
+| Language | Result
+| -------- | ------
+| German   | 86.68
+| English  | 84.85
+| French   | 85.09
+
+Comparison table between "one model" vs. "single model" for AJMC:
+
+| Language | Single Model | One Model
+| -------- | ------------ | ---------
+| German   | 86.21        | 86.68
+| English  | 84.98        | 84.85
+| French   | 85.69        | 85.09
+
+### Ensembling
+
+The script `flair-ensembler.py` can be used to ensemble made predictions from Flair via simple majority vote,
+based on the Flair predictions in `dev.tsv` for each run:
+
+| Language | Single Model | Ensemble (Single Model)
+| -------- | ------------ | -----------------------
+| German   | 86.21        | 86.85
+| English  | 84.98        | 86.39
+| French   | 85.69        | 85.86
+
 ## NewsEye
 
 ### Finnish
