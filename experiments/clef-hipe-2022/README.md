@@ -117,6 +117,8 @@ based on the Flair predictions in `dev.tsv` for each run:
 | English  | 84.98        | 86.39
 | French   | 85.69        | 85.86
 
+For the ensembling approach, the official CoNLL-2003 evaluation script is used.
+
 ## NewsEye
 
 ### Finnish
@@ -137,6 +139,13 @@ Label set: `[HumanProd, LOC, ORG, PER]`.
 | ------------------ | -------------- | ------
 | `bs4-e10-lr3e-05`  | hmBERT         | 80.63
 
+### Ensembling
+
+| Language | Single Model | Ensemble (Single Model)
+| -------- | ------------ | -----------------------
+| Finnish  | 75.34        | 76.63
+| Swedish  | 80.63        | 79.93
+
 ## LeTemps
 
 Configuration: 14465 train + 1392 dev sentences (incl. doc marker).
@@ -146,6 +155,12 @@ Label set: `[loc, org, pers]`.
 | ------------------ | -------------- | ------
 | `bs8-e10-lr5e-05`  | hmBERT         | 65.53
 
+### Ensembling
+
+| Single Model | Ensemble (Single Model)
+| ------------ | -----------------------
+| 65.53        | 66.41
+
 ## TopRes19th
 
 Configuration: 6183 train + 680 dev sentences (incl. doc marker).
@@ -154,3 +169,9 @@ Label set: `[BUILDING, LOC, STREET]`.
 | Best configuration | Language Model | Result
 | ------------------ | -------------- | ------
 | `bs8-e10-lr5e-05`  | hmBERT         | 80.98
+
+### Ensembling
+
+| Single Model | Ensemble (Single Model)
+| ------------ | -----------------------
+| 80.98        | 81.39
