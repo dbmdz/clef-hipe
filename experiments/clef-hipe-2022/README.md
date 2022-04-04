@@ -129,7 +129,7 @@ For the ensembling approach, the official CoNLL-2003 evaluation script is used.
 
 ### Finnish
 
-Configuration: 1166 train + 165 dev sentences (incl. doc marker).
+[Configuration](./configs/newseye/newseye_hmbert_fi.json): 1166 train + 165 dev sentences (incl. doc marker).
 Label set: `[HumanProd, LOC, ORG, PER]`.
 
 | Best configuration | Language Model | Result
@@ -138,7 +138,7 @@ Label set: `[HumanProd, LOC, ORG, PER]`.
 
 ### Swedish
 
-Configuration: 1085 train + 148 dev sentcnes (incl. doc marker).
+[Configuration](./configs/newseye/newseye_hmbert_sv.json): 1085 train + 148 dev sentcnes (incl. doc marker).
 Label set: `[HumanProd, LOC, ORG, PER]`.
 
 | Best configuration | Language Model | Result
@@ -172,7 +172,7 @@ for each language and report averaged F1-Score:
 
 ## LeTemps
 
-Configuration: 14465 train + 1392 dev sentences (incl. doc marker).
+[Configuration](./configs/letemps/letemps_hmbert_fr.json): 14465 train + 1392 dev sentences (incl. doc marker).
 Label set: `[loc, org, pers]`.
 
 | Best configuration | Language Model | Result
@@ -187,7 +187,7 @@ Label set: `[loc, org, pers]`.
 
 ## TopRes19th
 
-Configuration: 6183 train + 680 dev sentences (incl. doc marker).
+[Configuration](./configs/topres19th/topres19th_hmbert_en.json): 6183 train + 680 dev sentences (incl. doc marker).
 Label set: `[BUILDING, LOC, STREET]`.
 
 | Best configuration | Language Model | Result
@@ -222,3 +222,9 @@ Hyper-param search is restricted to different batch sizes (4 and 8).
 | ------------------ | ------------------------------------------------ | ------
 | `bs4-e200-lr0.1`   | `de-model-skipgram-300-minc20-ws5-maxn-0` (2.4G) | 68.64
 | `bs8-e200-lr0.1`   | `de-model-skipgram-300-minc20-ws5-maxn-6` (14G)  | 75.71
+
+### French
+
+| Best configuration | Word Embeddings (Size)                           | Result
+| ------------------ | ------------------------------------------------ | ------
+| `bs4-e200-lr0.1`   | `fr-model-skipgram-300minc20-ws5-maxn-0` (1.8G)  | 56.88
