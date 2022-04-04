@@ -5,6 +5,6 @@
     "context_size": 0,
     "epochs": [5,10],
     "learning_rates": [3e-5, 5e-5],
-    "hipe_datasets": ["ajmc/fr"],
+    "hipe_datasets": ["topres19th/en"],
     "cuda": "1"
 }

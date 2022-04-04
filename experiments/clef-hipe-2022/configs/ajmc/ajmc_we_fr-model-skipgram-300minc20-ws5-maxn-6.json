@@ -1,0 +1,10 @@
+{
+    "seeds": [1,2,3,4,5],
+    "batch_sizes": [4,8],
+    "word_embedding": "fr-model-skipgram-300minc20-ws5-maxn-6.bin",
+    "epochs": [200],
+    "learning_rates": [0.1],
+    "hipe_datasets": ["ajmc/fr"],
+    "use_crf": true,
+    "cuda": "1"
+}

@@ -1,10 +1,10 @@
 {
     "seeds": [1,2,3,4,5],
     "batch_sizes": [4,8],
-    "hf_model": "dbmdz/bert-base-historic-multilingual-cased",
+    "hf_model": "dbmdz/bert-base-historic-multilingual-64k-td-cased",
     "context_size": 0,
     "epochs": [5,10],
     "learning_rates": [3e-5, 5e-5],
-    "hipe_datasets": ["ajmc/fr"],
+    "hipe_datasets": ["ajmc/de"],
     "cuda": "1"
 }
