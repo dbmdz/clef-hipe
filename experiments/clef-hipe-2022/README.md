@@ -35,6 +35,10 @@ $ git clone https://github.com/dbmdz/clef-hipe.git
 $ cd clef-hipe/experiments/clef-hipe-2022
 
 # Run training!
+$ python3 flair-fine-tuner.py ./configs/ajmc/ajmc_hmbert_de.json
+
+# Get best configuration
+$ python3 flair-log-parser.py "hipe2022-flert-fine-tune-ajmc/de-dbmdz/bert-base-historic-multilingual-cased-*"
 ```
 
 # Baseline experiments
