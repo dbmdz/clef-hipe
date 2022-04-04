@@ -195,3 +195,26 @@ Label set: `[BUILDING, LOC, STREET]`.
 | Single Model | Ensemble (Single Model)
 | ------------ | -----------------------
 | 80.98        | 81.39
+
+# Baseline experiments - Word Embeddings
+
+We use the official FastText Embeddings from CLEF-HIPE 2020 to train
+baseline models, which can be found
+[here](https://files.ifi.uzh.ch/cl/siclemat/impresso/clef-hipe-2020/fasttext/).
+
+## AJMC
+
+We use the standard feature-base approach for training a model with
+FastText embeddings only.
+
+Notice: we needed to modify the `FastText()` instance due to an
+implementation error with latest Gensim version.
+
+Hyper-param search is restricted to different batch sizes (4 and 8).
+
+### German
+
+| Best configuration | Word Embeddings (Size)                           | Result
+| ------------------ | ------------------------------------------------ | ------
+| `bs4-e200-lr0.1`   | `de-model-skipgram-300-minc20-ws5-maxn-0` (2.4G) | 68.64
+| `bs8-e200-lr0.1`   | `de-model-skipgram-300-minc20-ws5-maxn-6` (14G)  | 75.71
