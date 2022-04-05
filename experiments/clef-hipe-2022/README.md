@@ -228,3 +228,11 @@ Hyper-param search is restricted to different batch sizes (4 and 8).
 | Best configuration | Word Embeddings (Size)                           | Result
 | ------------------ | ------------------------------------------------ | ------
 | `bs4-e200-lr0.1`   | `fr-model-skipgram-300minc20-ws5-maxn-0` (1.8G)  | 56.88
+| `bs4-e200-lr0.1`   | `fr-model-skipgram-300minc20-ws5-maxn-6` (13G)   | 76.58
+
+### English
+
+| Best configuration | Word Embeddings (Size)                           | Result
+| ------------------ | ------------------------------------------------ | ------
+| `bs4-e200-lr0.1`   | `en-model-skipgram-300-minc0-ws5-maxn-0` (0.9G)  | 63.10
+| `bs4-e200-lr0.1`   | `en-model-skipgram-300-minc0-ws5-maxn-6` (2.1G)  | 76.76
