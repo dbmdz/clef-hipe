@@ -114,3 +114,31 @@ def prepare_clef_2020_corpus(
     with open(file_out, "wt") as f_out:
         for line in lines:
             f_out.write(line + "\n")
+
+if __name__ == "__main__":
+    # Please make sure, that you've cleaned the dataset folder when using own preprocessing function
+    from flair.datasets import NER_HIPE_2022
+
+    hipe_2020_de = NER_HIPE_2022(dataset_name="hipe2020",
+                                 language="de",
+                                 version="v2.0",
+                                 add_document_separator=True,
+                                 preproc_fn=prepare_clef_2020_corpus)
+    hipe_2020_en = NER_HIPE_2022(dataset_name="hipe2020",
+                                 language="en",
+                                 version="v2.0",
+                                 add_document_separator=True,
+                                 preproc_fn=prepare_clef_2020_corpus)
+    hipe_2020_fr = NER_HIPE_2022(dataset_name="hipe2020",
+                                 language="fr",
+                                 version="v2.0",
+                                 add_document_separator=True,
+                                 preproc_fn=prepare_clef_2020_corpus)
+
+    # Number of sentences and documents should never change when doing de-hyphenation!
+    # Check that here:
+    assert len(hipe_2020_de.train) == 3470 + 2 + 103
+    assert len(hipe_2020_de.dev) == 1202 + 33
+    assert len(hipe_2020_en.dev) == 1045 + 80
+    assert len(hipe_2020_fr.train) == 5743 + 158
+    assert len(hipe_2020_fr.dev) == 1244 + 43
