@@ -340,6 +340,39 @@ def prepare_newseye_fi_sv_corpus(
         for line in lines:
             f_out.write(line + "\n")
 
+def prepare_sonar_corpus(
+    file_in: Path, file_out: Path, eos_marker: str, document_separator: str, add_document_separator: bool
+):
+    with open(file_in, "rt") as f_p:
+        lines = f_p.readlines()
+
+    original_dash_symbol = "⸗"
+    replaced_dash_symbol = "-"
+
+    with open(file_out, "wt") as f_out:
+        # Add missing newline after header
+        f_out.write(lines[0] + "\n")
+
+        for line in lines[1:]:
+            if line.startswith(" \t"):
+                # Workaround for empty tokens
+                continue
+
+            line = line.strip()
+
+            # Add "real" document marker
+            if add_document_separator and line.startswith(document_separator):
+                f_out.write("-DOCSTART- O\n\n")
+
+            if original_dash_symbol in line:
+                line = line.replace(original_dash_symbol, replaced_dash_symbol)
+                line += "|Normalized"
+
+            f_out.write(line + "\n")
+
+            if eos_marker in line:
+                f_out.write("\n")
+
 
 if __name__ == "__main__":
     # Please make sure, that you've cleaned the dataset folder when using own preprocessing function
@@ -386,6 +419,13 @@ if __name__ == "__main__":
                                add_document_separator=True,
                                preproc_fn=prepare_newseye_fi_sv_corpus)
 
+    # Sonar only gets some basic normalization
+    sonar_de = NER_HIPE_2022(dataset_name="sonar",
+                            language="de",
+                            version="v2.0",
+                            add_document_separator=True,
+                            preproc_fn=prepare_sonar_corpus)
+
     # Number of sentences and documents should never change when doing de-hyphenation!
     # Check that here:
     assert len(hipe_2020_de.train) == 3470 + 2 + 103
@@ -403,3 +443,5 @@ if __name__ == "__main__":
     assert len(newseye_fi.dev) == 140 + 1 + 24
     assert len(newseye_sv.train) == 1063 + 1 + 21
     assert len(newseye_sv.dev) == 126 + 1 + 21
+
+    assert len(sonar_de.dev) == 816 + 10 + 10
