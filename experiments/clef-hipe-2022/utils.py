@@ -1,4 +1,10 @@
+from flair.data import Sentence
+from flair.embeddings import TransformerWordEmbeddings
+
 from pathlib import Path
+
+from typing import List
+
 
 def prepare_clef_2020_corpus(
     file_in: Path, file_out: Path, eos_marker: str, document_separator: str, add_document_separator: bool
@@ -372,6 +378,47 @@ def prepare_sonar_corpus(
 
             if eos_marker in line:
                 f_out.write("\n")
+
+
+class KBTransformerEmbeddings(TransformerWordEmbeddings):
+    def _expand_sentence_with_context(self, sentence):
+        if sentence.kb_context == ['']:
+            sentence.kb_context = " "
+        context_sentence = Sentence(sentence.kb_context[:self.context_length])
+
+        context_length = len(context_sentence)
+        expanded_sentence = Sentence([t.text for t in context_sentence.tokens + sentence.tokens], use_tokenizer=False)
+
+        return expanded_sentence, context_length
+
+    def _add_embeddings_internal(self, sentences: List[Sentence]):
+        expanded_sentences = []
+        context_offsets = []
+
+        if self.context_length > 0:
+            for sentence in sentences:
+                # create expanded sentence and remember context offsets
+                expanded_sentence, context_offset = self._expand_sentence_with_context(sentence)
+                expanded_sentences.append(expanded_sentence)
+                context_offsets.append(context_offset)
+        else:
+            expanded_sentences.extend(sentences)
+
+        self._add_embeddings_to_sentences(expanded_sentences)
+
+        # move embeddings from context back to original sentence (if using context)
+        if self.context_length > 0:
+            for original_sentence, expanded_sentence, context_offset in zip(
+                sentences, expanded_sentences, context_offsets
+            ):
+                if self.token_embedding:
+                    for token_idx, token in enumerate(original_sentence):
+                        token.set_embedding(
+                            self.name,
+                            expanded_sentence[token_idx + context_offset].get_embedding(self.name),
+                        )
+                if self.document_embedding:
+                    original_sentence.set_embedding(self.name, expanded_sentence.get_embedding(self.name))
 
 
 if __name__ == "__main__":
