@@ -252,3 +252,47 @@ The current baseline SOTA for the one-model approach is 85.69. The KB-NER approa
 is worse than the baseline model, and also needs more computing resources
 (GPU RAM, fine-tuning time). For this reason, we do not use the KB-NER approach for
 our final submission.
+
+The script `flair-fine-tuner-kb.py` can be used for fine-tuning models with the KB-NER
+approach. The corresponding configuration file is located under
+`./configs/ajmc/ajmc_hmbert_all_kb.json`.
+
+
+Technically, we did overload the `TransformerWordEmbeddings` instance from
+Flair to get fine-tuning working with left-contexts (coming from the KB).
+
+# Multistage Fine-Tuning
+
+Inspired by the [KB-NER](https://arxiv.org/abs/2203.00545) paper, we use a multistage
+fine-tuning approach for our final submission.
+
+In the first stage, we fine-tune one multi-lingual model over the training and
+development of all three languages (German, English and French). Then we select the
+best hyper-parameter configuration (combination of batch size, number of epochs and
+learning rate). This will result in 5 best models (5 because of the number of random
+seeds). Each of these best models are fine-tuned in the second stage:
+
+The second stage will fine-tune models for each language (instead of fine-tuning one
+model over all languages). In our preliminary results, this will heavily boost
+performance:
+
+| Seed | Stage 1 | Stage 2 - German | Stage 2 - English | Stage 2 - French
+| ---- | ------- | ---------------- | ----------------- | ----------------
+| 1    | 85.62   | 87.79            | 86.48             | 86.43
+| 2    | 85.93   | 86.59            | 86.51             | 87.03
+| 3    | 85.34   | 87.39            | 85.65             | 85.67
+| 4    | 86.15   | 87.32            | 85.68             | 86.99
+| 5    | 86.93   | 87.65            | 87.07             | 87.21
+| Avg. | 85.99   | 87.35            | 86.28             | 86.67
+
+Here's a performance comparison between single model, one model and multistage fine-tuning:
+
+| Language | Single Model | One Model | Multistage
+| -------- | ------------ | --------- | --------------
+| German   | 86.21        | 86.68     | 87.35 (+0.67%)
+| English  | 84.98        | 84.85     | 86.28 (+1.43%)
+| French   | 85.69        | 85.09     | 86.67 (+1.58%)
+
+Diff of multistage is compared against one model performance. Performance boost of
+multistage approach is ~1.23% (average) compared to one model approach. Thus, we use
+the multistage fine-tuning approach for our final submission.
