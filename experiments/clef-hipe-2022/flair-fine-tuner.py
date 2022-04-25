@@ -18,6 +18,8 @@ from flair import set_seed
 from flair.models import SequenceTagger
 from flair.trainers import ModelTrainer
 
+from utils import prepare_clef_2020_corpus
+
 def run_experiment(seed, batch_size, epoch, learning_rate, hipe_datasets, json_config):
     # Config values
     # Replace it with more Pythonic solutions later!
@@ -25,6 +27,8 @@ def run_experiment(seed, batch_size, epoch, learning_rate, hipe_datasets, json_c
     context_size = json_config["context_size"]
     layers = json_config["layers"] if "layers" in json_config else "-1"
     use_crf = json_config["use_crf"] if "use_crf" in json_config else False
+    additional_hipe_datasets = json_config["additional_hipe_datasets"] if "additional_hipe_datasets" in json_config else None
+    label_name_map = json_config["label_name_map"] if "label_name_map" in json_config else None
 
     # Set seed for reproducibility
     set_seed(seed)
@@ -35,7 +39,27 @@ def run_experiment(seed, batch_size, epoch, learning_rate, hipe_datasets, json_c
     for dataset in hipe_datasets:
         dataset_name, language = dataset.split("/")
         corpus_list.append(NER_HIPE_2022(dataset_name=dataset_name, language=language, add_document_separator=True))
-    
+
+    if additional_hipe_datasets and label_name_map:
+        # Special case: do not use Dev data from additional datasets
+        # This makes evaluation and comparison much more easier!
+
+        for dataset in additional_hipe_datasets:
+            dataset_name, language = dataset.split("/")
+
+            preproc_fn = None
+
+            if dataset_name == "hipe2020":
+                print("Using own HIPE-2020 Preprocessing function.")
+                print("Please make sure that Flair Datasets folder was cleaned before!")
+                preproc_fn = prepare_clef_2020_corpus
+
+            additional_corpus = NER_HIPE_2022(dataset_name=dataset_name, label_name_map=label_name_map,
+                                              language=language, add_document_separator=True,
+                                              preproc_fn=preproc_fn)
+            additional_corpus._dev = []
+            corpus_list.append(additional_corpus)
+
     if context_size == 0:
         context_size = False
 
