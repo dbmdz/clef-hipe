@@ -36,7 +36,7 @@ hash = []
 
 for index, line in enumerate(lines[2:]):
     if line.startswith("#"):
-        if line == '# language = de':
+        if line.startswith('# hipe2022:original_source'):
             hash.append('\n' + line)
         else:
             hash.append(line)
@@ -78,6 +78,7 @@ with open(pred_file, 'w') as p:
         elif line.startswith("#"):
             p.write(hash[hash_count]+ '\n')
             hash_count += 1
+
         else:
             p.write(sentences[sent_count] + '\n')
             sent_count += 1
