@@ -28,7 +28,7 @@ $ cd /mnt
 $ git clone https://github.com/huggingface/transformers.git
 $ cd transformers && git checkout 12428f0 && pip3 install -e . && cd ..
 $ git clone https://github.com/flairNLP/flair.git
-$ cd flair && git checkout 88dc52f && pip3 install -e . && cd ..
+$ cd flair && git checkout 08f14ff && pip3 install -e . && cd ..
 
 # Clone this repository
 $ git clone https://github.com/dbmdz/clef-hipe.git
