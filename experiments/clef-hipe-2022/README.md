@@ -236,3 +236,19 @@ Hyper-param search is restricted to different batch sizes (4 and 8).
 | ------------------ | ------------------------------------------------ | ------
 | `bs4-e200-lr0.1`   | `en-model-skipgram-300-minc0-ws5-maxn-0` (0.9G)  | 63.10
 | `bs4-e200-lr0.1`   | `en-model-skipgram-300-minc0-ws5-maxn-6` (2.1G)  | 76.76
+
+# KB-NER experiments
+
+We extract additional contexts for training and development instances using the
+[KB-NER](https://github.com/Alibaba-NLP/KB-NER) implementation and fine-tune a
+model for all three languages on the AJMC dataset:
+
+| Best configuration | Language Model | KB context size | Result
+| ------------------ | -------------- | --------------- | ------
+| `bs4-e10-lr3e-05`  | hmBERT         | 128             | 85.30
+| `bs4-e10-lr5e-05`  | hmBERT         | 256             | 85.07
+
+The current baseline SOTA for the one-model approach is 85.69. The KB-NER approach
+is worse than the baseline model, and also needs more computing resources
+(GPU RAM, fine-tuning time). For this reason, we do not use the KB-NER approach for
+our final submission.
