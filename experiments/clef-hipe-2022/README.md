@@ -320,3 +320,6 @@ parameters can be displayed with the `.print_model_card()` function:
 ```python
 tagger.print_model_card()
 ```
+
+Notice: in our pre-liminary experiments we used version 2.0 of the AJMC dataset. For our final submission we will use v2.1 and report back
+results whenever fine-tuning has finished.
