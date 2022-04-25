@@ -1,0 +1,10 @@
+{
+    "seeds": [1,2,3,4,5],
+    "batch_sizes": [4, 8],
+    "best_model": "/mnt/clef-hipe-shared-task/experiments/clef-hipe-2022/hipe2022-flert-fine-tune-ajmc/en-ajmc/de-ajmc/fr-dbmdz/bert-base-historic-multilingual-cased-bs4-wsFalse-e10-lr5e-05-layers-1-crfFalse-1/best-model.pt",
+    "context_size": 0,
+    "epochs": [5, 10],
+    "learning_rates": [3e-5, 5e-5],
+    "hipe_datasets": ["ajmc/fr"],
+    "cuda": "0"
+}
