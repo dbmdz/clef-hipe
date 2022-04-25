@@ -296,3 +296,27 @@ Here's a performance comparison between single model, one model and multistage f
 Diff of multistage is compared against one model performance. Performance boost of
 multistage approach is ~1.23% (average) compared to one model approach. Thus, we use
 the multistage fine-tuning approach for our final submission.
+
+We select the best-performing models within the best hyper-parameter configuration and
+upload the model to the Hugging Face Model Hub:
+
+| Language | Model Hub Link                                               | Flair identifier          | F1-Score | Configuration
+| -------- | ------------------------------------------------------------ | ------------------------- | -------- | -----------------------
+| German   | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-de) | `flair-hipe-2022-ajmc-de` | 88.29    | `bs8-e5-lr3e-05-seed2`
+| English  | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-en) | `flair-hipe-2022-ajmc-en` | 87.29    | `bs8-e10-lr3e-05-seed5`
+| French   | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-fr) | `flair-hipe-2022-ajmc-fr` | 88.06    | `bs8-e10-lr3e-05-seed4`
+
+The model can be loaded with:
+
+```python
+from flair.models import SequenceTagger
+
+tagger: SequenceTagger = SequenceTagger.load("dbmdz/flair-hipe-2022-ajmc-de")
+```
+
+This will automatically download the model from the Hugging Face Model Hub, so it can be used within Flair. Additionally, all fine-tuning
+parameters can be displayed with the `.print_model_card()` function:
+
+```python
+tagger.print_model_card()
+```
