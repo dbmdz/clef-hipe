@@ -368,8 +368,8 @@ We made the following observations:
 * Batch size of 16 is not really helpful
 * Learning rates of 1e-05 and 2e-05 are also not performing very well
 
-Additionally, we found out that the AJMC uses Fraktur `ſ` and our hmBERT has unfortunately never seen these character. Thus, the hmBERT tokenizer will
-replace all tokens that contain `ſ` with an `[UNK]` token, which is really bad for the NER model performance.
+Additionally, we found out that the AJMC uses Fraktur `ſ` and our hmBERT model has unfortunately never seen this character.
+Thus, the hmBERT tokenizer will replace all tokens that contain `ſ` with an `[UNK]` token, which is really bad for the NER model performance.
 
 We decided to write an own preprocessing function for AJMC dataset, that replaces all `ſ` with normal `s` characters and re-do the hyper-param search.
 But this time we use a slightly modified version and removed batch size 16 and learning rates 1e-05 and 2e-05 from our grid search, resulting in:
