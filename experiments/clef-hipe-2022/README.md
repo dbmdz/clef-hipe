@@ -345,8 +345,8 @@ For stage 1, we use the [following](configs/submission/ajmc/ajmc_hmbert_all_fina
 
 This fine-tunes 75 models in total. By using the `flair-log-parser.py` script we can find the best configuration for AJMC:
 
-| Configuration              | F1-Scores                                | Averaged F1-Score
-| -------------------------- | ---------------------------------------- | -----
+| Configuration      | F1-Scores                                | Averaged F1-Score
+| ------------------ | ---------------------------------------- | -----
 | `bs4-e10-lr5e-05`  | [0.8676, 0.8649, 0.8609, 0.8609, 0.8619] | 86.32
 | `bs4-e10-lr4e-05`  | [0.8523, 0.8703, 0.8607, 0.8631, 0.8659] | 86.25
 | `bs8-e10-lr5e-05`  | [0.8618, 0.8506, 0.8673, 0.8633, 0.8611] | 86.08
@@ -390,3 +390,4 @@ This time we use a slightly modified version and removed batch size `16` and lea
     "cuda": "0"
 }
 ```
+
