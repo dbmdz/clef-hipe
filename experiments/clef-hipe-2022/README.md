@@ -237,7 +237,7 @@ Hyper-param search is restricted to different batch sizes (4 and 8).
 | `bs4-e200-lr0.1`   | `en-model-skipgram-300-minc0-ws5-maxn-0` (0.9G)  | 63.10
 | `bs4-e200-lr0.1`   | `en-model-skipgram-300-minc0-ws5-maxn-6` (2.1G)  | 76.76
 
-# KB-NER experiments
+# Baseline experiments - KB-NER experiments
 
 We extract additional contexts for training and development instances using the
 [KB-NER](https://github.com/Alibaba-NLP/KB-NER) implementation and fine-tune a
@@ -261,7 +261,7 @@ approach. The corresponding configuration file is located under
 Technically, we did overload the `TransformerWordEmbeddings` instance from
 Flair to get fine-tuning working with left-contexts (coming from the KB).
 
-# Multistage Fine-Tuning
+# Baseline experiments - Multistage Fine-Tuning
 
 Inspired by the [KB-NER](https://arxiv.org/abs/2203.00545) paper, we use a multistage
 fine-tuning approach for our final submission.
@@ -323,3 +323,24 @@ tagger.print_model_card()
 
 Notice: in our pre-liminary experiments we used version 2.0 of the AJMC dataset. For our final submission we will use v2.1 and report back
 results whenever fine-tuning has finished.
+
+# Final submission
+
+For our final submission we use multistage fine-tuning as described in the previous section.
+
+For stage 1, we use the [following](configs/submission/ajmc/ajmc_hmbert_all_final.json) hyper-param search grid:
+
+```json
+{
+    "seeds": [1,2,3,4,5],
+    "batch_sizes": [4, 8, 16],
+    "hf_model": "dbmdz/bert-base-historic-multilingual-cased",
+    "context_size": 0,
+    "epochs": [10],
+    "learning_rates": [1e-5, 2e-5, 3e-5, 4e-5, 5e-5],
+    "hipe_datasets": ["ajmc/en", "ajmc/de", "ajmc/fr"],
+    "cuda": "0"
+}
+```
+
+This fine-tuned 75 models in total.
