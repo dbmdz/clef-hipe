@@ -18,7 +18,7 @@ from flair import set_seed
 from flair.models import SequenceTagger
 from flair.trainers import ModelTrainer
 
-from utils import prepare_clef_2020_corpus
+from utils import prepare_clef_2020_corpus, prepare_ajmc_corpus
 
 def run_experiment(seed, batch_size, epoch, learning_rate, hipe_datasets, json_config):
     # Config values
@@ -38,7 +38,13 @@ def run_experiment(seed, batch_size, epoch, learning_rate, hipe_datasets, json_c
     # Dataset-related
     for dataset in hipe_datasets:
         dataset_name, language = dataset.split("/")
-        corpus_list.append(NER_HIPE_2022(dataset_name=dataset_name, language=language, add_document_separator=True))
+
+        preproc_fn = None
+
+        if dataset_name == "ajmc":
+            preproc_fn = prepare_ajmc_corpus
+
+        corpus_list.append(NER_HIPE_2022(dataset_name=dataset_name, language=language, preproc_fn=preproc_fn, add_document_separator=True))
 
     if additional_hipe_datasets and label_name_map:
         # Special case: do not use Dev data from additional datasets
