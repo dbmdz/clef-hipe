@@ -363,6 +363,10 @@ This fine-tunes 75 models in total. By using the `flair-log-parser.py` script we
 | `wsFalse-bs8-e10-lr1e-05`  | [0.8309, 0.8248, 0.8233, 0.8279, 0.8334] | 82.81
 | `wsFalse-bs16-e10-lr1e-05` | [0.8091, 0.8299, 0.8162, 0.8195, 0.8120] | 81.73
 
+Visualization:
+
+![Preliminary One-Model Hyper-Param Results](figures/preliminary_one_model_hyper_param_search.png)
+
 We made the following observations:
 
 * Batch size of 16 is not really helpful
