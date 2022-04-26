@@ -3,18 +3,19 @@ from flair.models import SequenceTagger
 from flair.data import Sentence
 
 
-def get_tags_and_tokens(sent, tagger):
+def get_tags_and_tokens(original_flair_sentence: Sentence, preprocessed_flair_sentence: Sentence, tagger: SequenceTagger):
     tokens, tags = [], []
-    tagger.predict(sent, label_name="predicted")
+    tagger.predict(preprocessed_flair_sentence, label_name="predicted")
 
-    pred_spans = sent.get_spans("predicted")
+    pred_spans = preprocessed_flair_sentence.get_spans("predicted")
 
-    for token in sent.tokens:
+    for index, token in enumerate(preprocessed_flair_sentence.tokens):
         pred_tag = "O"
         for span in pred_spans:
             if token in span:
                 pred_tag = "B-" + span.tag if token == span[0] else "I-" + span.tag
-        tokens.append(token.text)
+        # We use the original token instead
+        tokens.append(original_flair_sentence[index].text)
         tags.append(pred_tag)
 
     return tokens, tags
@@ -49,13 +50,10 @@ for index, line in enumerate(lines[2:]):
             sentence.append(line.split('\t')[0])
             last_tag.append(line.split('\t')[-1])
 
-            # Fraktur fix:
-            original_sentence = ' '.join(sentence)
-            original_sentence = original_sentence.replace("ſ", "s")
-
             # coarse ner ner_model
-            sentence_flair = Sentence(original_sentence, use_tokenizer=False)
-            tokens, tags = get_tags_and_tokens(sentence_flair, ner_model)
+            original_flair_sentence = Sentence(' '.join(sentence), use_tokenizer=False)
+            preprocessed_flair_sentence = Sentence(' '.join(sentence).replace("ſ", "s"), use_tokenizer=False)
+            tokens, tags = get_tags_and_tokens(original_flair_sentence, preprocessed_flair_sentence, ner_model)
 
             for i in range(len(tokens)):
                 sentences.append(tokens[i] + '\t' + tags[i] + '\t_\t_\t_\t_\t_\t_\t' + last_tag[i])
