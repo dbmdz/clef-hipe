@@ -49,8 +49,12 @@ for index, line in enumerate(lines[2:]):
             sentence.append(line.split('\t')[0])
             last_tag.append(line.split('\t')[-1])
 
+            # Fraktur fix:
+            original_sentence = ' '.join(sentence)
+            original_sentence = original_sentence.replace("ſ", "s")
+
             # coarse ner ner_model
-            sentence_flair = Sentence(' '.join(sentence), use_tokenizer=False)
+            sentence_flair = Sentence(original_sentence, use_tokenizer=False)
             tokens, tags = get_tags_and_tokens(sentence_flair, ner_model)
 
             for i in range(len(tokens)):
