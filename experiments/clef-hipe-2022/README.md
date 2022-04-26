@@ -343,4 +343,48 @@ For stage 1, we use the [following](configs/submission/ajmc/ajmc_hmbert_all_fina
 }
 ```
 
-This fine-tunes 75 models in total.
+This fine-tunes 75 models in total. By using the `flair-log-parser.py` script we can find the best configuration for AJMC:
+
+Debug: defaultdict(<class 'list'>, {'wsFalse-bs8-e10-lr2e-05': , 'wsFalse-bs8-e10-lr3e-05': , 'wsFalse-bs4-e10-lr2e-05': , 'wsFalse-bs16-e10-lr3e-05': , 'wsFalse-bs8-e10-lr5e-05': , 'wsFalse-bs16-e10-lr2e-05': , 'wsFalse-bs16-e10-lr5e-05': , 'wsFalse-bs16-e10-lr4e-05': , 'wsFalse-bs4-e10-lr5e-05': , 'wsFalse-bs4-e10-lr1e-05': , 'wsFalse-bs8-e10-lr1e-05': , 'wsFalse-bs4-e10-lr3e-05': , 'wsFalse-bs16-e10-lr1e-05': , 'wsFalse-bs4-e10-lr4e-05': , 'wsFalse-bs8-e10-lr4e-05': })
+
+| Configuration              | F1-Scores                                | Averaged F1-Score
+| -------------------------- | ---------------------------------------- | -----
+| `wsFalse-bs4-e10-lr5e-05`  | [0.8676, 0.8649, 0.8609, 0.8609, 0.8619] | 86.32
+| `wsFalse-bs4-e10-lr4e-05`  | [0.8523, 0.8703, 0.8607, 0.8631, 0.8659] | 86.25
+| `wsFalse-bs8-e10-lr5e-05`  | [0.8618, 0.8506, 0.8673, 0.8633, 0.8611] | 86.08
+| `wsFalse-bs8-e10-lr4e-05`  | [0.8546, 0.8623, 0.8641, 0.8609, 0.8535] | 85.91
+| `wsFalse-bs4-e10-lr3e-05`  | [0.8589, 0.8633, 0.8551, 0.8525, 0.8617] | 85.83
+| `wsFalse-bs16-e10-lr5e-05` | [0.8574, 0.8525, 0.8539, 0.8593, 0.8581] | 85.62
+| `wsFalse-bs8-e10-lr3e-05`  | [0.8495, 0.8599, 0.8512, 0.8575, 0.8522] | 85.41
+| `wsFalse-bs16-e10-lr4e-05` | [0.8517, 0.8558, 0.8504, 0.8519, 0.8543] | 85.28
+| `wsFalse-bs4-e10-lr2e-05`  | [0.8585, 0.8523, 0.8575, 0.8513, 0.8427] | 85.25
+| `wsFalse-bs8-e10-lr2e-05`  | [0.8335, 0.8371, 0.8498, 0.8458, 0.8440] | 84.20
+| `wsFalse-bs16-e10-lr3e-05` | [0.8508, 0.8360, 0.8423, 0.8393, 0.8385] | 84.14
+| `wsFalse-bs16-e10-lr2e-05` | [0.8383, 0.8438, 0.8336, 0.8337, 0.8366] | 83.72
+| `wsFalse-bs4-e10-lr1e-05`  | [0.8351, 0.8347, 0.8313, 0.8319, 0.8423] | 83.51
+| `wsFalse-bs8-e10-lr1e-05`  | [0.8309, 0.8248, 0.8233, 0.8279, 0.8334] | 82.81
+| `wsFalse-bs16-e10-lr1e-05` | [0.8091, 0.8299, 0.8162, 0.8195, 0.8120] | 81.73
+
+We made the following observations:
+
+* Batch size of 16 is not really helpful
+* Learning rates of 1e-05 and 2e-05 are also not performing very well
+
+Additionally, we found out that the AJMC uses Fraktur `ſ` and our hmBERT has unfortunately never seen these character. Thus, the hmBERT tokenizer will
+replace all tokens that contain `ſ` with an `[UNK]` token, which is really bad for the NER model performance.
+
+We decided to write an own preprocessing function for AJMC dataset, that replaces all `ſ` with normal `s` characters and re-do the hyper-param search.
+But this time we use a slightly modified version and removed batch size 16 and learning rates 1e-05 and 2e-05 from our grid search, resulting in:
+
+```json
+{
+    "seeds": [1,2,3,4,5],
+    "batch_sizes": [4, 8],
+    "hf_model": "dbmdz/bert-base-historic-multilingual-cased",
+    "context_size": 0,
+    "epochs": [10],
+    "learning_rates": [3e-5, 4e-5, 5e-5],
+    "hipe_datasets": ["ajmc/en", "ajmc/de", "ajmc/fr"],
+    "cuda": "0"
+}
+```
