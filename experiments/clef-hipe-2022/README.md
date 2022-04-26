@@ -343,4 +343,4 @@ For stage 1, we use the [following](configs/submission/ajmc/ajmc_hmbert_all_fina
 }
 ```
 
-This fine-tuned 75 models in total.
+This fine-tunes 75 models in total.
