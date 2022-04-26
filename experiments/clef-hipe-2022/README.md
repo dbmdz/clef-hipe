@@ -345,8 +345,6 @@ For stage 1, we use the [following](configs/submission/ajmc/ajmc_hmbert_all_fina
 
 This fine-tunes 75 models in total. By using the `flair-log-parser.py` script we can find the best configuration for AJMC:
 
-Debug: defaultdict(<class 'list'>, {'wsFalse-bs8-e10-lr2e-05': , 'wsFalse-bs8-e10-lr3e-05': , 'wsFalse-bs4-e10-lr2e-05': , 'wsFalse-bs16-e10-lr3e-05': , 'wsFalse-bs8-e10-lr5e-05': , 'wsFalse-bs16-e10-lr2e-05': , 'wsFalse-bs16-e10-lr5e-05': , 'wsFalse-bs16-e10-lr4e-05': , 'wsFalse-bs4-e10-lr5e-05': , 'wsFalse-bs4-e10-lr1e-05': , 'wsFalse-bs8-e10-lr1e-05': , 'wsFalse-bs4-e10-lr3e-05': , 'wsFalse-bs16-e10-lr1e-05': , 'wsFalse-bs4-e10-lr4e-05': , 'wsFalse-bs8-e10-lr4e-05': })
-
 | Configuration              | F1-Scores                                | Averaged F1-Score
 | -------------------------- | ---------------------------------------- | -----
 | `wsFalse-bs4-e10-lr5e-05`  | [0.8676, 0.8649, 0.8609, 0.8609, 0.8619] | 86.32
