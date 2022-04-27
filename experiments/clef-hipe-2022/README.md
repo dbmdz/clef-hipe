@@ -490,6 +490,26 @@ The hyper-param search returns the following results for German:
 
 We use the best performing model (91.66) for our final submission.
 
+## Predictions
+
+In order to make predictions for our submission, the `flair-predictor.py` script can be used.
+
+The following (masked) official test data must be downloaded first:
+
+```bash
+wget https://github.com/hipe-eval/HIPE-2022-data/raw/main/data/v2.1/ajmc/de/HIPE-2022-v2.1-ajmc-test-allmasked-de.tsv
+wget https://github.com/hipe-eval/HIPE-2022-data/raw/main/data/v2.1/ajmc/en/HIPE-2022-v2.1-ajmc-test-allmasked-en.tsv
+wget https://github.com/hipe-eval/HIPE-2022-data/raw/main/data/v2.1/ajmc/fr/HIPE-2022-v2.1-ajmc-test-allmasked-fr.tsv
+```
+
+## hmBERT 64k
+
+System predictions can be made with the following commands:
+
+```bash
+python3 flair-predictor.py HIPE-2022-v2.1-ajmc-test-allmasked-de.tsv ajmc-de-NERCCoarse-2.tsv flair-hipe-2022-ajmc-de-64k
+```
+
 ## Final models
 
 We upload our final models to the Hugging Face Model Hub.
