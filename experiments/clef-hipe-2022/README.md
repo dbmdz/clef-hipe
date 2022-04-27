@@ -346,7 +346,7 @@ For stage 1, we use the [following](configs/submission/ajmc/ajmc_hmbert_all_fina
 This fine-tunes 75 models in total. By using the `flair-log-parser.py` script we can find the best configuration for AJMC:
 
 | Configuration      | F1-Scores                                | Averaged F1-Score
-| ------------------ | ---------------------------------------- | -----
+| ------------------ | ---------------------------------------- | -----------------
 | `bs4-e10-lr5e-05`  | [0.8676, 0.8649, 0.8609, 0.8609, 0.8619] | 86.32
 | `bs4-e10-lr4e-05`  | [0.8523, 0.8703, 0.8607, 0.8631, 0.8659] | 86.25
 | `bs8-e10-lr5e-05`  | [0.8618, 0.8506, 0.8673, 0.8633, 0.8611] | 86.08
@@ -391,3 +391,19 @@ This time we use a slightly modified version and removed batch size `16` and lea
 }
 ```
 
+This fine-tunes 30 models - the `flair-log-parser.py` outputs the following stats:
+
+| Configuration     | F1-Scores                                | Averaged F1-Score
+| ----------------- | ---------------------------------------- | -----------------
+| `bs4-e10-lr5e-05` | [0.8721, 0.8764, 0.8604, 0.8672, 0.8682] | 86.89
+| `bs8-e10-lr5e-05` | [0.8662, 0.8650, 0.8736, 0.8604, 0.8710] | 86.72
+| `bs4-e10-lr4e-05` | [0.8702, 0.8695, 0.8611, 0.8699, 0.8616] | 86.65
+| `bs8-e10-lr4e-05` | [0.8695, 0.8555, 0.8637, 0.8717, 0.8678] | 86.56
+| `bs4-e10-lr3e-05` | [0.8701, 0.8609, 0.8625, 0.8638, 0.8702] | 86.55
+| `bs8-e10-lr3e-05` | [0.8653, 0.8599, 0.8539, 0.8608, 0.8584] | 85.97
+
+The Fraktur Fix boosts model performance from 86.32 to 86.89.
+
+For Stage 2, we select the best performing model from the best configuration. Best configuration is `bs4-e10-lr5e-05` with the
+following results for different seeds: [0.8721, 0.8764, 0.8604, 0.8672, 0.8682]. We use the model with seed 2, because it achieves
+the highest F1-Score on development data: 87.64.
