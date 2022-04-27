@@ -328,6 +328,8 @@ results whenever fine-tuning has finished.
 
 For our final submission we use multistage fine-tuning as described in the previous section.
 
+## Stage 1 - hmBERT
+
 For stage 1, we use the [following](configs/submission/ajmc/ajmc_hmbert_all_final.json) hyper-param search grid:
 
 ```json
@@ -408,9 +410,7 @@ Visualization:
 
 ![Preliminary One-Model with Fraktur Fix Hyper-Param Results](figures/preliminary_one_model_fraktur_fix_hyper_param_search.png)
 
-For Stage 2, we select the best performing model from the best configuration. Best configuration is `bs4-e10-lr5e-05` with the
-following results for different seeds: [0.8721, 0.8764, 0.8604, 0.8672, 0.8682]. We use the model with seed 2, because it achieves
-the highest F1-Score on development data: 87.64.
+## Stage 1 - hmBERT 64k
 
 Additionally, we fine-tune a model on a hmBERT model, that was is using a larger vocab size (64k instead of 32k) using the following
 configuration:
@@ -445,4 +445,54 @@ Visualization:
 
 ![Preliminary One-Model (64k) with Fraktur Fix Hyper-Param Results](figures/preliminary_one_model_64k_fraktur_fix_hyper_param_search.png)
 
+## Stage 2 - hmBERT
+
+For Stage 2, we select the best performing model from the best configuration. Best configuration is `bs4-e10-lr5e-05` with the
+following results for different seeds: [0.8721, 0.8764, 0.8604, 0.8672, 0.8682]. We use the model with seed 2, because it achieves
+the highest F1-Score on development data: 87.64.
+
+### German
+
+## Stage 2 - hmBERT 64k
+
 We also perform a stage 2 fine-tuning using the best configuration `bs8-e10-lr3e-05` with the best model (seed 3) that achieves 87.02 on development data.
+
+### German
+
+For German we use the following configuration:
+
+```json
+{
+    "seeds": [1,2,3,4,5],
+    "batch_sizes": [4, 8],
+    "best_model": "hipe2022-flert-fine-tune-ajmc/en-ajmc/de-ajmc/fr-dbmdz/bert-base-historic-multilingual-64k-td-cased-bs8-wsFalse-e10-lr3e-05-layers-1-crfFalse-3/best-model.pt",
+    "context_size": 0,
+    "epochs": [5, 10],
+    "learning_rates": [3e-5, 5e-5],
+    "hipe_datasets": ["ajmc/de"],
+    "cuda": "0"
+}
+```
+
+The hyper-param search returns the following results for German:
+
+| Configuration     | F1-Scores                                | Averaged F1-Score
+| ----------------- | ---------------------------------------- | -----------------
+| `bs8-e10-lr3e-05` | [0.9119, 0.9166, 0.8964, 0.8956, 0.9071] | 90.55
+| `bs4-e10-lr3e-05` | [0.9078, 0.9007, 0.9084, 0.8972, 0.8966] | 90.21
+| `bs8-e10-lr5e-05` | [0.8977, 0.9021, 0.9064, 0.8953, 0.8984] | 90.0
+| `bs8-e5-lr5e-05`  | [0.9025, 0.8889, 0.8983, 0.9005, 0.8996] | 89.8
+| `bs8-e5-lr3e-05`  | [0.8924, 0.8897, 0.8964, 0.8986, 0.8953] | 89.45
+| `bs4-e5-lr5e-05`  | [0.9001, 0.9001, 0.8881, 0.8918, 0.8921] | 89.44
+| `bs4-e5-lr3e-05`  | [0.8983, 0.8929, 0.8894, 0.8000, 0.8972] | 89.16
+| `bs4-e10-lr5e-05` | [0.8961, 0.8937, 0.8794, 0.8935, 0.8935] | 89.12
+
+We use the best performing model (91.66) for our final submission.
+
+## Final models
+
+We upload our final models to the Hugging Face Model Hub.
+
+| Language      | Configuration       | F1-Score (Development) | Backbone LM                  | Model Hub Link
+| ------------- | ------------------- | ---------------------- | ---------------------------- | ----------------------------------------------------------------
+| German (AJMC) | `bs8-e10-lr3e-05#2` | 91.66                  | hmBERT (64k, token dropping) | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-de-64k)
