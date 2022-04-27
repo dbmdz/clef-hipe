@@ -18,6 +18,8 @@ from flair import set_seed
 from flair.models import SequenceTagger
 from flair.trainers import ModelTrainer
 
+from utils import prepare_ajmc_corpus
+
 def run_experiment(seed, batch_size, epoch, learning_rate, hipe_datasets, json_config):
     # Config values
     # Replace it with more Pythonic solutions later!
@@ -34,7 +36,12 @@ def run_experiment(seed, batch_size, epoch, learning_rate, hipe_datasets, json_c
     # Dataset-related
     for dataset in hipe_datasets:
         dataset_name, language = dataset.split("/")
-        corpus_list.append(NER_HIPE_2022(dataset_name=dataset_name, language=language, add_document_separator=True))
+        preproc_fn = None
+
+        if dataset_name == "ajmc":
+            preproc_fn = prepare_ajmc_corpus
+
+        corpus_list.append(NER_HIPE_2022(dataset_name=dataset_name, language=language, preproc_fn=preproc_fn, add_document_separator=True))
     
     if context_size == 0:
         context_size = False
