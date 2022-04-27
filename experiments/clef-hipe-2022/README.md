@@ -449,13 +449,14 @@ Visualization:
 
 For Stage 2, we select the best performing model from the best configuration. Best configuration is `bs4-e10-lr5e-05` with the
 following results for different seeds: [0.8721, 0.8764, 0.8604, 0.8672, 0.8682]. We use the model with seed 2, because it achieves
-the highest F1-Score on development data: 87.64.
+the highest F1-Score on development data: 87.64 from stage 1.
 
 ### German
 
 ## Stage 2 - hmBERT 64k
 
-We also perform a stage 2 fine-tuning using the best configuration `bs8-e10-lr3e-05` with the best model (seed 3) that achieves 87.02 on development data.
+We also perform a stage 2 fine-tuning using the best configuration `bs8-e10-lr3e-05` with the best model (seed 3) that achieves 87.02 on development data
+from stage 1.
 
 ### German
 
