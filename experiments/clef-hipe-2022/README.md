@@ -441,4 +441,8 @@ The following results can be achieved:
 
 The 64k model is slightly worse than 32k model: 86.69 vs. 86.89.
 
+Visualization:
+
+![Preliminary One-Model (64k) with Fraktur Fix Hyper-Param Results](figures/preliminary_one_model_64k_fraktur_fix_hyper_param_search.png)
+
 We also perform a stage 2 fine-tuning using the best configuration `bs8-e10-lr3e-05` with the best model (seed 3) that achieves 87.02 on development data.
