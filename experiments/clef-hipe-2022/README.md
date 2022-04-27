@@ -404,6 +404,10 @@ This fine-tunes 30 models - the `flair-log-parser.py` outputs the following stat
 
 The Fraktur Fix boosts model performance from 86.32 to 86.89.
 
+Visualization:
+
+![Preliminary One-Model with Fraktur Fix Hyper-Param Results](figures/preliminary_one_model_fraktur_fix_hyper_param_search.png)
+
 For Stage 2, we select the best performing model from the best configuration. Best configuration is `bs4-e10-lr5e-05` with the
 following results for different seeds: [0.8721, 0.8764, 0.8604, 0.8672, 0.8682]. We use the model with seed 2, because it achieves
 the highest F1-Score on development data: 87.64.
