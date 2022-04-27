@@ -453,6 +453,36 @@ the highest F1-Score on development data: 87.64 from stage 1.
 
 ### German
 
+For German we use the following configuration:
+
+```json
+{
+    "seeds": [1,2,3,4,5],
+    "batch_sizes": [4, 8],
+    "best_model": "hipe2022-flert-fine-tune-ajmc/en-ajmc/de-ajmc/fr-dbmdz/bert-base-historic-multilingual-cased-bs4-wsFalse-e10-lr5e-05-layers-1-crfFalse-4/best-model.pt",
+    "context_size": 0,
+    "epochs": [5, 10],
+    "learning_rates": [3e-5, 5e-5],
+    "hipe_datasets": ["ajmc/de"],
+    "cuda": "0"
+}
+```
+
+Then the hyper-param search returns the following results for German:
+
+| Configuration     | F1-Scores                                | Averaged F1-Score
+| ----------------- | ---------------------------------------- | -----------------
+| `bs8-e5-lr3e-05`  | [0.8960, 0.8916, 0.9147, 0.8889, 0.8976] | 89.78
+| `bs4-e10-lr5e-05` | [0.8883, 0.9005, 0.8962, 0.8983, 0.8948] | 89.56
+| `bs8-e10-lr3e-05` | [0.8962, 0.8935, 0.8984, 0.8900, 0.8983] | 89.53
+| `bs8-e5-lr5e-05`  | [0.8798, 0.8961, 0.8943, 0.9034, 0.8991] | 89.45
+| `bs8-e10-lr5e-05` | [0.9027, 0.8881, 0.8935, 0.8945, 0.8862] | 89.30
+| `bs4-e10-lr3e-05` | [0.8736, 0.8900, 0.8956, 0.8892, 0.8886] | 88.74
+| `bs4-e5-lr5e-05`  | [0.8889, 0.8774, 0.8927, 0.8865, 0.8908] | 88.73
+| `bs4-e5-lr3e-05`  | [0.8864, 0.8940, 0.8848, 0.8824, 0.8883] | 88.72
+
+We use the best performing model (91.47) for our final submission.
+
 ## Stage 2 - hmBERT 64k
 
 We also perform a stage 2 fine-tuning using the best configuration `bs8-e10-lr3e-05` with the best model (seed 3) that achieves 87.02 on development data
@@ -481,8 +511,8 @@ The hyper-param search returns the following results for German:
 | ----------------- | ---------------------------------------- | -----------------
 | `bs8-e10-lr3e-05` | [0.9119, 0.9166, 0.8964, 0.8956, 0.9071] | 90.55
 | `bs4-e10-lr3e-05` | [0.9078, 0.9007, 0.9084, 0.8972, 0.8966] | 90.21
-| `bs8-e10-lr5e-05` | [0.8977, 0.9021, 0.9064, 0.8953, 0.8984] | 90.0
-| `bs8-e5-lr5e-05`  | [0.9025, 0.8889, 0.8983, 0.9005, 0.8996] | 89.8
+| `bs8-e10-lr5e-05` | [0.8977, 0.9021, 0.9064, 0.8953, 0.8984] | 90.00
+| `bs8-e5-lr5e-05`  | [0.9025, 0.8889, 0.8983, 0.9005, 0.8996] | 89.80
 | `bs8-e5-lr3e-05`  | [0.8924, 0.8897, 0.8964, 0.8986, 0.8953] | 89.45
 | `bs4-e5-lr5e-05`  | [0.9001, 0.9001, 0.8881, 0.8918, 0.8921] | 89.44
 | `bs4-e5-lr3e-05`  | [0.8983, 0.8929, 0.8894, 0.8000, 0.8972] | 89.16
@@ -513,15 +543,47 @@ The hyper-param search returns the following results for English:
 | ----------------- | ---------------------------------------- | -----------------
 | `bs8-e10-lr3e-05` | [0.8692, 0.8804, 0.8722, 0.8711, 0.8660] | 87.18
 | `bs8-e5-lr3e-05`  | [0.8759, 0.8619, 0.8769, 0.8741, 0.8633] | 87.04
-| `bs4-e10-lr3e-05` | [0.8759, 0.8689, 0.8627, 0.8752, 0.8671] | 87.0
+| `bs4-e10-lr3e-05` | [0.8759, 0.8689, 0.8627, 0.8752, 0.8671] | 87.00
 | `bs4-e5-lr5e-05`  | [0.8678, 0.8643, 0.8616, 0.8783, 0.8723] | 86.89
 | `bs4-e5-lr3e-05`  | [0.8702, 0.8698, 0.8653, 0.8854, 0.8507] | 86.83
 | `bs8-e10-lr5e-05` | [0.8616, 0.8857, 0.8660, 0.8489, 0.8613] | 86.47
 | `bs8-e5-lr5e-05`  | [0.8627, 0.8551, 0.8667, 0.8698, 0.8643] | 86.37
-| `bs4-e10-lr5e-05` | [0.7746, 0.8681, 0.8565, 0.8785, 0.8623] | 84.8
+| `bs4-e10-lr5e-05` | [0.7746, 0.8681, 0.8565, 0.8785, 0.8623] | 84.80
 
 
 We use the best performing model (88.04) for our final submission.
+
+### French
+
+For French we use the following configuration:
+
+```json
+{
+    "seeds": [1,2,3,4,5],
+    "batch_sizes": [4, 8],
+    "best_model": "hipe2022-flert-fine-tune-ajmc/en-ajmc/de-ajmc/fr-dbmdz/bert-base-historic-multilingual-64k-td-cased-bs8-wsFalse-e10-lr3e-05-layers-1-crfFalse-3/best-model.pt",
+    "context_size": 0,
+    "epochs": [5, 10],
+    "learning_rates": [3e-5, 5e-5],
+    "hipe_datasets": ["ajmc/fr"],
+    "cuda": "0"
+}
+```
+
+The hyper-param search returns the following results for English:
+
+| Configuration     | F1-Scores                                | Averaged F1-Score
+| ----------------- | ---------------------------------------- | -----------------
+| `bs4-e10-lr5e-05` | [0.8539, 0.8524, 0.8539, 0.8360, 0.8529] | 84.98
+| `bs8-e10-lr3e-05` | [0.8407, 0.8335, 0.8579, 0.8618, 0.8450] | 84.78
+| `bs4-e5-lr5e-05`  | [0.8310, 0.8617, 0.8269, 0.8475, 0.8636] | 84.61
+| `bs8-e10-lr5e-05` | [0.8468, 0.8243, 0.8489, 0.8539, 0.8557] | 84.59
+| `bs4-e10-lr3e-05` | [0.8338, 0.8532, 0.8471, 0.8428, 0.8511] | 84.56
+| `bs8-e5-lr3e-05`  | [0.8429, 0.8600, 0.8394, 0.8471, 0.8331] | 84.45
+| `bs8-e5-lr5e-05`  | [0.8298, 0.8371, 0.8426, 0.8483, 0.8486] | 84.13
+| `bs4-e5-lr3e-05`  | [0.8210, 0.8475, 0.8290, 0.8407, 0.8323] | 83.41
+
+We use the best performing model (85.39) for our final submission.
 
 ## Predictions
 
@@ -542,6 +604,7 @@ System predictions can be made with the following commands:
 ```bash
 python3 flair-predictor.py HIPE-2022-v2.1-ajmc-test-allmasked-de.tsv ajmc-de-NERCCoarse-2.tsv flair-hipe-2022-ajmc-de-64k
 python3 flair-predictor.py HIPE-2022-v2.1-ajmc-test-allmasked-en.tsv ajmc-en-NERCCoarse-2.tsv flair-hipe-2022-ajmc-en-64k
+python3 flair-predictor.py HIPE-2022-v2.1-ajmc-test-allmasked-fr.tsv ajmc-fr-NERCCoarse-2.tsv flair-hipe-2022-ajmc-fr-64k
 ```
 
 ## Final models
@@ -552,3 +615,4 @@ We upload our final models to the Hugging Face Model Hub.
 | -------------- | ------------------- | ---------------------- | ---------------------------- | ----------------------------------------------------------------
 | German (AJMC)  | `bs8-e10-lr3e-05#2` | 91.66                  | hmBERT (64k, token dropping) | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-de-64k)
 | English (AJMC) | `bs8-e10-lr3e-05#2` | 88.04                  | hmBERT (64k, token dropping) | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-en-64k)
+| French (AJMC)  | `bs4-e10-lr5e-05#1` | 85.39                  | hmBERT (64k, token dropping) | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-fr-64k)
