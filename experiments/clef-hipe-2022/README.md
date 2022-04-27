@@ -407,3 +407,34 @@ The Fraktur Fix boosts model performance from 86.32 to 86.89.
 For Stage 2, we select the best performing model from the best configuration. Best configuration is `bs4-e10-lr5e-05` with the
 following results for different seeds: [0.8721, 0.8764, 0.8604, 0.8672, 0.8682]. We use the model with seed 2, because it achieves
 the highest F1-Score on development data: 87.64.
+
+Additionally, we fine-tune a model on a hmBERT model, that was is using a larger vocab size (64k instead of 32k) using the following
+configuration:
+
+```json
+{
+    "seeds": [1,2,3,4,5],
+    "batch_sizes": [4, 8],
+    "hf_model": "dbmdz/bert-base-historic-multilingual-64k-td-cased",
+    "context_size": 0,
+    "epochs": [10],
+    "learning_rates": [3e-5, 4e-5, 5e-5],
+    "hipe_datasets": ["ajmc/en", "ajmc/de", "ajmc/fr"],
+    "cuda": "0"
+}
+```
+
+The following results can be achieved:
+
+| Configuration     | F1-Scores                                | Averaged F1-Score
+| ----------------- | ---------------------------------------- | -----------------
+| `bs8-e10-lr3e-05` | [0.8688, 0.8663, 0.8702, 0.8661, 0.8631] | 86.69
+| `bs4-e10-lr3e-05` | [0.8595, 0.8612, 0.8599, 0.8710, 0.8751] | 86.53
+| `bs8-e10-lr4e-05` | [0.8727, 0.8699, 0.8610, 0.8585, 0.8643] | 86.53
+| `bs8-e10-lr5e-05` | [0.8712, 0.8605, 0.8746, 0.8526, 0.8665] | 86.51
+| `bs4-e10-lr4e-05` | [0.8401, 0.8653, 0.8714, 0.8677, 0.8305] | 85.50
+| `bs4-e10-lr5e-05` | [0.8730, 0.8535, 0.8565, 0.8005, 0.8785] | 85.24
+
+The 64k model is slightly worse than 32k model: 86.69 vs. 86.89.
+
+We also perform a stage 2 fine-tuning using the best configuration `bs8-e10-lr3e-05` with the best model (seed 3) that achieves 87.02 on development data.
