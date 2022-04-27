@@ -490,6 +490,39 @@ The hyper-param search returns the following results for German:
 
 We use the best performing model (91.66) for our final submission.
 
+### English
+
+For English we use the following configuration:
+
+```json
+{
+    "seeds": [1,2,3,4,5],
+    "batch_sizes": [4, 8],
+    "best_model": "hipe2022-flert-fine-tune-ajmc/en-ajmc/de-ajmc/fr-dbmdz/bert-base-historic-multilingual-64k-td-cased-bs8-wsFalse-e10-lr3e-05-layers-1-crfFalse-3/best-model.pt",
+    "context_size": 0,
+    "epochs": [5, 10],
+    "learning_rates": [3e-5, 5e-5],
+    "hipe_datasets": ["ajmc/en"],
+    "cuda": "0"
+}
+```
+
+The hyper-param search returns the following results for English:
+
+| Configuration     | F1-Scores                                | Averaged F1-Score
+| ----------------- | ---------------------------------------- | -----------------
+| `bs8-e10-lr3e-05` | [0.8692, 0.8804, 0.8722, 0.8711, 0.8660] | 87.18
+| `bs8-e5-lr3e-05`  | [0.8759, 0.8619, 0.8769, 0.8741, 0.8633] | 87.04
+| `bs4-e10-lr3e-05` | [0.8759, 0.8689, 0.8627, 0.8752, 0.8671] | 87.0
+| `bs4-e5-lr5e-05`  | [0.8678, 0.8643, 0.8616, 0.8783, 0.8723] | 86.89
+| `bs4-e5-lr3e-05`  | [0.8702, 0.8698, 0.8653, 0.8854, 0.8507] | 86.83
+| `bs8-e10-lr5e-05` | [0.8616, 0.8857, 0.8660, 0.8489, 0.8613] | 86.47
+| `bs8-e5-lr5e-05`  | [0.8627, 0.8551, 0.8667, 0.8698, 0.8643] | 86.37
+| `bs4-e10-lr5e-05` | [0.7746, 0.8681, 0.8565, 0.8785, 0.8623] | 84.8
+
+
+We use the best performing model (88.04) for our final submission.
+
 ## Predictions
 
 In order to make predictions for our submission, the `flair-predictor.py` script can be used.
@@ -508,12 +541,14 @@ System predictions can be made with the following commands:
 
 ```bash
 python3 flair-predictor.py HIPE-2022-v2.1-ajmc-test-allmasked-de.tsv ajmc-de-NERCCoarse-2.tsv flair-hipe-2022-ajmc-de-64k
+python3 flair-predictor.py HIPE-2022-v2.1-ajmc-test-allmasked-en.tsv ajmc-en-NERCCoarse-2.tsv flair-hipe-2022-ajmc-en-64k
 ```
 
 ## Final models
 
 We upload our final models to the Hugging Face Model Hub.
 
-| Language      | Configuration       | F1-Score (Development) | Backbone LM                  | Model Hub Link
-| ------------- | ------------------- | ---------------------- | ---------------------------- | ----------------------------------------------------------------
-| German (AJMC) | `bs8-e10-lr3e-05#2` | 91.66                  | hmBERT (64k, token dropping) | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-de-64k)
+| Language       | Configuration       | F1-Score (Development) | Backbone LM                  | Model Hub Link
+| -------------- | ------------------- | ---------------------- | ---------------------------- | ----------------------------------------------------------------
+| German (AJMC)  | `bs8-e10-lr3e-05#2` | 91.66                  | hmBERT (64k, token dropping) | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-de-64k)
+| English (AJMC) | `bs8-e10-lr3e-05#2` | 88.04                  | hmBERT (64k, token dropping) | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-en-64k)
