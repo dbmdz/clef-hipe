@@ -515,6 +515,38 @@ Then the hyper-param search returns the following results for English:
 
 We use the best performing model (88.78) for our final submission.
 
+### French
+
+For French we use the following configuration:
+
+```json
+{
+    "seeds": [1,2,3,4,5],
+    "batch_sizes": [4, 8],
+    "best_model": "hipe2022-flert-fine-tune-ajmc/en-ajmc/de-ajmc/fr-dbmdz/bert-base-historic-multilingual-cased-bs4-wsFalse-e10-lr5e-05-layers-1-crfFalse-4/best-model.pt",
+    "context_size": 0,
+    "epochs": [5, 10],
+    "learning_rates": [3e-5, 5e-5],
+    "hipe_datasets": ["ajmc/fr"],
+    "cuda": "0"
+}
+```
+
+Then the hyper-param search returns the following results for English:
+
+| Configuration     | F1-Scores                                | Averaged F1-Score
+| ----------------- | ---------------------------------------- | -----------------
+| `bs4-e10-lr3e-05` | [0.8557, 0.8547, 0.8607, 0.8619, 0.8618] | 85.90
+| `bs8-e10-lr5e-05` | [0.8589, 0.8496, 0.8621, 0.8540, 0.8687] | 85.87
+| `bs8-e10-lr3e-05` | [0.8611, 0.8586, 0.8557, 0.8525, 0.8557] | 85.67
+| `bs4-e10-lr5e-05` | [0.8636, 0.8511, 0.8621, 0.8575, 0.8479] | 85.64
+| `bs8-e5-lr5e-05`  | [0.8615, 0.8547, 0.8557, 0.8465, 0.8472] | 85.31
+| `bs4-e5-lr5e-05`  | [0.8532, 0.8407, 0.8483, 0.8561, 0.8561] | 85.09
+| `bs4-e5-lr3e-05`  | [0.8557, 0.8519, 0.8494, 0.8442, 0.8511] | 85.05
+| `bs8-e5-lr3e-05`  | [0.8512, 0.8480, 0.8389, 0.8522, 0.8464] | 84.73
+
+We use the best performing model (86.19) for our final submission.
+
 ## Stage 2 - hmBERT 64k
 
 We also perform a stage 2 fine-tuning using the best configuration `bs8-e10-lr3e-05` with the best model (seed 3) that achieves 87.02 on development data
