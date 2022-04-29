@@ -18,13 +18,21 @@ from flair import set_seed
 from flair.models import SequenceTagger
 from flair.trainers import ModelTrainer
 
+from utils import prepare_ajmc_corpus
+
 def run_evaluator(model_name: str, dataset_names: str):
     corpus_list = [] 
 
     # Dataset-related
     for dataset in dataset_names.split((",")):
         dataset_name, language = dataset.split("/")
-        corpus_list.append(NER_HIPE_2022(dataset_name=dataset_name, language=language, add_document_separator=True))
+
+        preproc_fn = None
+
+        if dataset_name == "ajmc":
+            preproc_fn = prepare_ajmc_corpus
+
+        corpus_list.append(NER_HIPE_2022(dataset_name=dataset_name, language=language, preproc_fn=preproc_fn, add_document_separator=True))
     
 
     corpora: MultiCorpus = MultiCorpus(corpora=corpus_list, sample_missing_splits=False)
