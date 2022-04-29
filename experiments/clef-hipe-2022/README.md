@@ -661,22 +661,56 @@ wget https://github.com/hipe-eval/HIPE-2022-data/raw/main/data/v2.1/ajmc/en/HIPE
 wget https://github.com/hipe-eval/HIPE-2022-data/raw/main/data/v2.1/ajmc/fr/HIPE-2022-v2.1-ajmc-test-allmasked-fr.tsv
 ```
 
-## hmBERT 64k
+### hmBERT
 
 System predictions can be made with the following commands:
 
 ```bash
-python3 flair-predictor.py HIPE-2022-v2.1-ajmc-test-allmasked-de.tsv ajmc-de-NERCCoarse-2.tsv flair-hipe-2022-ajmc-de-64k
-python3 flair-predictor.py HIPE-2022-v2.1-ajmc-test-allmasked-en.tsv ajmc-en-NERCCoarse-2.tsv flair-hipe-2022-ajmc-en-64k
-python3 flair-predictor.py HIPE-2022-v2.1-ajmc-test-allmasked-fr.tsv ajmc-fr-NERCCoarse-2.tsv flair-hipe-2022-ajmc-fr-64k
+python3 flair-predictor.py HIPE-2022-v2.1-ajmc-test-allmasked-de.tsv ./system_outputs/ajmc-de-NERCCoarse-pre_1.tsv flair-hipe-2022-ajmc-de
+python3 flair-predictor.py HIPE-2022-v2.1-ajmc-test-allmasked-en.tsv ./system_outputs/ajmc-en-NERCCoarse-pre_1.tsv flair-hipe-2022-ajmc-en
+python3 flair-predictor.py HIPE-2022-v2.1-ajmc-test-allmasked-fr.tsv ./system_outputs/ajmc-fr-NERCCoarse-pre_1.tsv flair-hipe-2022-ajmc-fr
+```
+
+### hmBERT 64k
+
+System predictions can be made with the following commands:
+
+```bash
+python3 flair-predictor.py HIPE-2022-v2.1-ajmc-test-allmasked-de.tsv ./system_outputs/ajmc-de-NERCCoarse-pre_2.tsv flair-hipe-2022-ajmc-de-64k
+python3 flair-predictor.py HIPE-2022-v2.1-ajmc-test-allmasked-en.tsv ./system_outputs/ajmc-en-NERCCoarse-pre_2.tsv flair-hipe-2022-ajmc-en-64k
+python3 flair-predictor.py HIPE-2022-v2.1-ajmc-test-allmasked-fr.tsv ./system_outputs/ajmc-fr-NERCCoarse-pre_2.tsv flair-hipe-2022-ajmc-fr-64k
+```
+
+### Post-processing
+
+We automatically correct minor tagging issue with the `postprocess.py` script:
+
+```bash
+python3 postprocess.py ./system_outputs/ajmc-de-NERCCoarse-pre_1.tsv ./system_outputs/ajmc-de-NERCCoarse-post_1.tsv
+python3 postprocess.py ./system_outputs/ajmc-en-NERCCoarse-pre_1.tsv ./system_outputs/ajmc-en-NERCCoarse-post_1.tsv
+python3 postprocess.py ./system_outputs/ajmc-fr-NERCCoarse-pre_1.tsv ./system_outputs/ajmc-fr-NERCCoarse-post_1.tsv
+
+python3 postprocess.py ./system_outputs/ajmc-de-NERCCoarse-pre_2.tsv ./system_outputs/ajmc-de-NERCCoarse-post_2.tsv
+python3 postprocess.py ./system_outputs/ajmc-en-NERCCoarse-pre_2.tsv ./system_outputs/ajmc-en-NERCCoarse-post_2.tsv
+python3 postprocess.py ./system_outputs/ajmc-fr-NERCCoarse-pre_2.tsv ./system_outputs/ajmc-fr-NERCCoarse-post_2.tsv
 ```
 
 ## Final models
 
-We upload our final models to the Hugging Face Model Hub.
+We release the multi-lingual models that were fine-tuned in stage 1, incl. breakdown analysis for all three languages:
+
+| Configuration       | F1-Score (All, Development) | F1-Score (German, Development) | F1-Score (English, Development) | F1-Score (French, Development) | Backbone LM                  | Model Hub Link
+| ------------------- | --------------------------- | ------------------------------ | ------------------------------- | ------------------------------ | ---------------------------- | -------------------------------------------------------------
+| `bs4-e10-lr5e-05#4` | 87.64                       | 89.26                          | 88.78                           | 84.80                          | hmBERT (32k)                 | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-all)
+| `bs8-e10-lr3e-05#3` | 87.02                       | 88.89                          | 86.63                           | 85.50                          | hmBERT (64k, token dropping) | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-all-64k)
+
+We then release our final models on the Hugging Face Model Hub:
 
 | Language       | Configuration       | F1-Score (Development) | Backbone LM                  | Model Hub Link
 | -------------- | ------------------- | ---------------------- | ---------------------------- | ----------------------------------------------------------------
+| German (AJMC)  | `bs8-e5-lr3e-05#3`  | 91.47                  | hmBERT (32k)                 | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-de)
 | German (AJMC)  | `bs8-e10-lr3e-05#2` | 91.66                  | hmBERT (64k, token dropping) | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-de-64k)
+| English (AJMC) | `bs4-e10-lr3e-05#3` | 88.78                  | hmBERT (32k)                 | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-en)
 | English (AJMC) | `bs8-e10-lr3e-05#2` | 88.04                  | hmBERT (64k, token dropping) | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-en-64k)
+| French (AJMC)  | `bs4-e10-lr3e-05#4` | 86.19                  | hmBERT (32k)                 | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-fr)
 | French (AJMC)  | `bs4-e10-lr5e-05#1` | 85.39                  | hmBERT (64k, token dropping) | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-fr-64k)
