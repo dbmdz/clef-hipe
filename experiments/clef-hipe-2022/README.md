@@ -695,6 +695,8 @@ python3 postprocess.py ./system_outputs/ajmc-en-NERCCoarse-pre_2.tsv ./system_ou
 python3 postprocess.py ./system_outputs/ajmc-fr-NERCCoarse-pre_2.tsv ./system_outputs/ajmc-fr-NERCCoarse-post_2.tsv
 ```
 
+We use the `*-post_[1-2].tsv` as our final submissions.
+
 ## Final models
 
 We release the multi-lingual models that were fine-tuned in stage 1, incl. breakdown analysis for all three languages:
