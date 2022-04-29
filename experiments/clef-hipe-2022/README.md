@@ -695,7 +695,19 @@ python3 postprocess.py ./system_outputs/ajmc-en-NERCCoarse-pre_2.tsv ./system_ou
 python3 postprocess.py ./system_outputs/ajmc-fr-NERCCoarse-pre_2.tsv ./system_outputs/ajmc-fr-NERCCoarse-post_2.tsv
 ```
 
-We use the `*-post_[1-2].tsv` as our final submissions.
+### Final System Output Submission
+
+We use the `*-post_[1-2].tsv` as our final submissions. To comply with the official HIPE-2022 naming convention, we use the following mapping
+for our final submission:
+
+| Original Name                   | Submission Name
+| ------------------------------- | ---------------
+| `ajmc-de-NERCCoarse-post_1.tsv` | `CISTeria_bundle4_ajmc_de_1.tsv`
+| `ajmc-de-NERCCoarse-post_2.tsv` | `CISTeria_bundle4_ajmc_de_2.tsv`
+| `ajmc-en-NERCCoarse-post_1.tsv` | `CISTeria_bundle4_ajmc_en_1.tsv`
+| `ajmc-en-NERCCoarse-post_2.tsv` | `CISTeria_bundle4_ajmc_en_2.tsv`
+| `ajmc-fr-NERCCoarse-post_1.tsv` | `CISTeria_bundle4_ajmc_fr_1.tsv`
+| `ajmc-fr-NERCCoarse-post_2.tsv` | `CISTeria_bundle4_ajmc_fr_2.tsv`
 
 ## Final models
 
