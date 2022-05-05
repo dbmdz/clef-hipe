@@ -740,5 +740,8 @@ For baseline we use our 12 layer hmBERT Base model.
 
 | Backbone LM                  | Configuration       | F1-Score (All, Development) | F1-Score (German, Development) | F1-Score (English, Development) | F1-Score (French, Development) | Model Hub Link
 | ---------------------------- | ------------------- | --------------------------- | ------------------------------ | ------------------------------- | ------------------------------ | -----------------------------------------------------------------
-| hmBERT (32k)                 | `bs4-e10-lr5e-05#4` | 87.64                       | 89.26                          | 88.78                           | 84.80                          | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-all)
-| hmBERT Medium (32k)          | `bs4-e10-lr5e-05#2` | 85.74                       | 88.19                          | 84.43                           | 84.62                          | t.b.a.
+| hmBERT Base                  | `bs4-e10-lr5e-05#4` | 87.64                       | 89.26                          | 88.78                           | 84.80                          | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-all)
+| hmBERT Medium                | `bs4-e10-lr5e-05#2` | 85.74                       | 88.19                          | 84.43                           | 84.62                          | n.a.
+| hmBERT Small                 | n.a.                | n.a.                        | n.a.                           | n.a.                            | n.a.                           | n.a.
+| hmBERT Mini                  | n.a.                | n.a.                        | n.a.                           | n.a.                            | n.a.                           | n.a.
+| hmBERT Tiny                  | n.a.                | n.a.                        | n.a.                           | n.a.                            | n.a.                           | n.a.
