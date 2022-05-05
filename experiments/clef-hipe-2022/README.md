@@ -717,9 +717,6 @@ We release the multi-lingual models that were fine-tuned in stage 1, incl. break
 | ---------------------------- | ------------------- | --------------------------- | ------------------------------ | ------------------------------- | ------------------------------ | -----------------------------------------------------------------
 | hmBERT (32k)                 | `bs4-e10-lr5e-05#4` | 87.64                       | 89.26                          | 88.78                           | 84.80                          | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-all)
 | hmBERT (64k, token dropping) | `bs8-e10-lr3e-05#3` | 87.02                       | 88.89                          | 86.63                           | 85.50                          | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-all-64k)
-| hmBERT Medium (32k)‡         | `bs4-e10-lr5e-05#2` | 85.74                       | 88.19                          | 84.43                           | 84.62                          | t.b.a.
-
-‡ denotes models that are trained after official submission deadline.
 
 We then release our final models on the Hugging Face Model Hub:
 
@@ -731,3 +728,17 @@ We then release our final models on the Hugging Face Model Hub:
 | English (AJMC) | `bs8-e10-lr3e-05#2` | 88.04                  | hmBERT (64k, token dropping) | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-en-64k)
 | French (AJMC)  | `bs4-e10-lr3e-05#4` | 86.19                  | hmBERT (32k)                 | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-fr)
 | French (AJMC)  | `bs4-e10-lr5e-05#1` | 85.39                  | hmBERT (64k, token dropping) | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-fr-64k)
+
+# Post-submission Models
+
+We are constantly improving our NER models and this section covers all experiments that we performed after the official submission deadline of HIPE-2022.
+
+The following table shows multi-lingual models that were fine-tuned in stage 1, incl. breakdown analysis for all three languages. For this ablation, we use
+different hmBERT models with different model sizes, originally introduced [here](https://github.com/dbmdz/clef-hipe/blob/main/hlms.md#smaller-multilingual-models).
+
+For baseline we use our 12 layer hmBERT Base model.
+
+| Backbone LM                  | Configuration       | F1-Score (All, Development) | F1-Score (German, Development) | F1-Score (English, Development) | F1-Score (French, Development) | Model Hub Link
+| ---------------------------- | ------------------- | --------------------------- | ------------------------------ | ------------------------------- | ------------------------------ | -----------------------------------------------------------------
+| hmBERT (32k)                 | `bs4-e10-lr5e-05#4` | 87.64                       | 89.26                          | 88.78                           | 84.80                          | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-all)
+| hmBERT Medium (32k)          | `bs4-e10-lr5e-05#2` | 85.74                       | 88.19                          | 84.43                           | 84.62                          | t.b.a.
