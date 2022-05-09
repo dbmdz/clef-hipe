@@ -742,6 +742,6 @@ For baseline we use our 12 layer hmBERT Base model.
 | ---------------------------- | ------------------- | --------------------------- | ------------------------------ | ------------------------------- | ------------------------------ | -----------------------------------------------------------------
 | hmBERT Base                  | `bs4-e10-lr5e-05#4` | 87.64                       | 89.26                          | 88.78                           | 84.80                          | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-all)
 | hmBERT Medium                | `bs4-e10-lr5e-05#2` | 85.74                       | 88.19                          | 84.43                           | 84.62                          | n.a.
-| hmBERT Small                 | n.a.                | n.a.                        | n.a.                           | n.a.                            | n.a.                           | n.a.
-| hmBERT Mini                  | n.a.                | n.a.                        | n.a.                           | n.a.                            | n.a.                           | n.a.
-| hmBERT Tiny                  | n.a.                | n.a.                        | n.a.                           | n.a.                            | n.a.                           | n.a.
+| hmBERT Small                 | `bs4-e10-lr5e-05#3` | 84.30                       | 86.34                          | 82.26                           | 84.39                          | n.a.
+| hmBERT Mini                  | `bs4-e10-lr5e-05#1` | 81.52                       | 84.17                          | 79.34                           | 81.09                          | n.a.
+| hmBERT Tiny                  | `bs4-e10-lr5e-05#1` | 70.88                       | 74.94                          | 67.28                           | 70.56                          | n.a.
