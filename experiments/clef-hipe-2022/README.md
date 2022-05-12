@@ -709,6 +709,95 @@ for our final submission:
 | `ajmc-fr-NERCCoarse-post_1.tsv` | `HISTeria_bundle4_ajmc_fr_1.tsv`
 | `ajmc-fr-NERCCoarse-post_2.tsv` | `HISTeria_bundle4_ajmc_fr_2.tsv`
 
+## Predictions and Evaluation on Development Data
+
+In the following section we describe how to perform predictions and an evaluation with the official [HIPE-Scorer](https://github.com/hipe-eval/HIPE-scorer) on the development data.
+
+In the first step, we download the latest v2.1 development data for all AJMC datasets via:
+
+```bash
+wget https://github.com/hipe-eval/HIPE-2022-data/raw/main/data/v2.1/ajmc/de/HIPE-2022-v2.1-ajmc-dev-de.tsv
+wget https://github.com/hipe-eval/HIPE-2022-data/raw/main/data/v2.1/ajmc/en/HIPE-2022-v2.1-ajmc-dev-en.tsv
+wget https://github.com/hipe-eval/HIPE-2022-data/raw/main/data/v2.1/ajmc/fr/HIPE-2022-v2.1-ajmc-dev-fr.tsv
+```
+
+Then we use our prediction script to generate system outputs for the development data (using our two hmBERT models):
+
+```bash
+mkdir dev_system_outputs
+
+# hmBERT 32k
+python3 flair-predictor.py HIPE-2022-v2.1-ajmc-dev-de.tsv ./dev_system_outputs/ajmc-de-NERCCoarse-pre_1.tsv flair-hipe-2022-ajmc-de
+python3 flair-predictor.py HIPE-2022-v2.1-ajmc-dev-en.tsv ./dev_system_outputs/ajmc-en-NERCCoarse-pre_1.tsv flair-hipe-2022-ajmc-en
+python3 flair-predictor.py HIPE-2022-v2.1-ajmc-dev-fr.tsv ./dev_system_outputs/ajmc-fr-NERCCoarse-pre_1.tsv flair-hipe-2022-ajmc-fr
+
+# hmBERT 64k, token dropping
+python3 flair-predictor.py HIPE-2022-v2.1-ajmc-dev-de.tsv ./dev_system_outputs/ajmc-de-NERCCoarse-pre_2.tsv flair-hipe-2022-ajmc-de-64k
+python3 flair-predictor.py HIPE-2022-v2.1-ajmc-dev-en.tsv ./dev_system_outputs/ajmc-en-NERCCoarse-pre_2.tsv flair-hipe-2022-ajmc-en-64k
+python3 flair-predictor.py HIPE-2022-v2.1-ajmc-dev-fr.tsv ./dev_system_outputs/ajmc-fr-NERCCoarse-pre_2.tsv flair-hipe-2022-ajmc-fr-64k
+```
+
+In the next step we use our post-processing script to generate the final system outputs:
+
+```bash
+# hmBERT 32k
+python3 postprocess.py ./dev_system_outputs/ajmc-de-NERCCoarse-pre_1.tsv ./dev_system_outputs/ajmc-de-NERCCoarse-post_1.tsv
+python3 postprocess.py ./dev_system_outputs/ajmc-en-NERCCoarse-pre_1.tsv ./dev_system_outputs/ajmc-en-NERCCoarse-post_1.tsv
+python3 postprocess.py ./dev_system_outputs/ajmc-fr-NERCCoarse-pre_1.tsv ./dev_system_outputs/ajmc-fr-NERCCoarse-post_1.tsv
+
+# hmBERT 64k, token dropping
+python3 postprocess.py ./dev_system_outputs/ajmc-de-NERCCoarse-pre_2.tsv ./dev_system_outputs/ajmc-de-NERCCoarse-post_2.tsv
+python3 postprocess.py ./dev_system_outputs/ajmc-en-NERCCoarse-pre_2.tsv ./dev_system_outputs/ajmc-en-NERCCoarse-post_2.tsv
+python3 postprocess.py ./dev_system_outputs/ajmc-fr-NERCCoarse-pre_2.tsv ./dev_system_outputs/ajmc-fr-NERCCoarse-post_2.tsv
+```
+
+Clone the official HIPE-Scorer via:
+
+```bash
+git clone https://github.com/hipe-eval/HIPE-scorer.git
+cd HIPE-scorer
+```
+
+The following commands will call the HIPE-scorer to get perform evaluation:
+
+```bash
+# German Runs
+python3 clef_evaluation.py --hipe_edition hipe-2022 --pred ../dev_system_outputs/ajmc-de-NERCCoarse-post_1.tsv \
+                           --ref ../HIPE-2022-v2.1-ajmc-dev-de.tsv --task nerc_coarse --skip-check --log scorer_logs.txt
+python3 clef_evaluation.py --hipe_edition hipe-2022 --pred ../dev_system_outputs/ajmc-de-NERCCoarse-post_2.tsv \
+                           --ref ../HIPE-2022-v2.1-ajmc-dev-de.tsv --task nerc_coarse --skip-check --log scorer_logs.txt
+
+# English Runs
+python3 clef_evaluation.py --hipe_edition hipe-2022 --pred ../dev_system_outputs/ajmc-en-NERCCoarse-post_1.tsv \
+                           --ref ../HIPE-2022-v2.1-ajmc-dev-en.tsv --task nerc_coarse --skip-check --log scorer_logs.txt
+python3 clef_evaluation.py --hipe_edition hipe-2022 --pred ../dev_system_outputs/ajmc-en-NERCCoarse-post_2.tsv \
+                           --ref ../HIPE-2022-v2.1-ajmc-dev-en.tsv --task nerc_coarse --skip-check --log scorer_logs.txt
+
+# French Runs
+python3 clef_evaluation.py --hipe_edition hipe-2022 --pred ../dev_system_outputs/ajmc-fr-NERCCoarse-post_1.tsv \
+                           --ref ../HIPE-2022-v2.1-ajmc-dev-fr.tsv --task nerc_coarse --skip-check --log scorer_logs.txt
+python3 clef_evaluation.py --hipe_edition hipe-2022 --pred ../dev_system_outputs/ajmc-fr-NERCCoarse-post_2.tsv \
+                           --ref ../HIPE-2022-v2.1-ajmc-dev-fr.tsv --task nerc_coarse --skip-check --log scorer_logs.txt
+```
+
+The following table shows the results with the official HIPE-Scorer script for Micro F1-Scores (Strict and Fuzzy) including
+document-level scores:
+
+| Submission  | F1-Strict / Doc-Level | F1-Fuzzy / Doc-Level
+| ----------- | --------------------- | ---------------------
+| German - 1  | 91.50 / 90.90         | **94.20** / **94.00**
+| German - 2  | **92.00** / **92.00** | 93.90 / 93.90
+
+| Submission  | F1-Strict / Doc-Level | F1-Fuzzy / Doc-Level
+| ----------- | --------------------- | ---------------------
+| English - 1 | **89.10** / **84.80** | 92.90 / 87.70
+| English - 2 | 88.00 / 82.80         | **93.80** / **88.10**
+
+| Submission  | F1-Strict / Doc-Level | F1-Fuzzy / Doc-Level
+| ----------- | --------------------- | ---------------------
+| French - 1  | **86.80** / **88.00** | **93.10** / 93.70
+| French - 2  | 85.90 / 87.40         | 93.00 / **93.80**
+
 ## Final models
 
 We release the multi-lingual models that were fine-tuned in stage 1, incl. breakdown analysis for all three languages:
