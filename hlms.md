@@ -1,5 +1,12 @@
 # Historic Language Models (HLMs)
 
+We have released various BERT-based language models for the historic domain.
+
+This includes monolingual models as well as multilingual models for German, French, English, Swedish and Finnish.
+
+Our released multilingual language models - so called hmBERT - are described in our
+["hmBERT: Historical Multilingual Language Models for Named Entity Recognition"](https://arxiv.org/abs/2205.15575) paper.
+
 ## Languages
 
 Our Historic Language Models Zoo contains support for the following languages - incl. their training data source:
@@ -12,18 +19,16 @@ Our Historic Language Models Zoo contains support for the following languages - 
 | Finnish  | [Europeana](http://www.europeana-newspapers.eu/)       | 1.2GB
 | Swedish  | [Europeana](http://www.europeana-newspapers.eu/)       | 1.1GB
 
-## Models
+## hmBERT: Historical Multilingual Language Models for Named Entity Recognition
 
-At the moment, the following models are available on the model hub:
+In the [hmBERT paper](https://arxiv.org/abs/2205.15575), we release two different multilingual language models for the historic domain:
 
 | Model identifier                              | Model Hub link
-| --------------------------------------------- | --------------------------------------------------------------------------
-| `dbmdz/bert-base-historic-multilingual-cased` | [here](https://huggingface.co/dbmdz/bert-base-historic-multilingual-cased)
-| `dbmdz/bert-base-historic-english-cased`      | [here](https://huggingface.co/dbmdz/bert-base-historic-english-cased)
-| `dbmdz/bert-base-finnish-europeana-cased`     | [here](https://huggingface.co/dbmdz/bert-base-finnish-europeana-cased)
-| `dbmdz/bert-base-swedish-europeana-cased`     | [here](https://huggingface.co/dbmdz/bert-base-swedish-europeana-cased)
+| --------------------------------------------- | ----------------------------------------------------------------------------------------
+| `dbmdz/bert-base-historic-multilingual-cased`        | [here](https://huggingface.co/dbmdz/bert-base-historic-multilingual-cased)
+| `dbmdz/bert-base-historic-multilingual-64k-td-cased` | [here](https://huggingface.co/dbmdz/bert-base-historic-multilingual-64k-td-cased)
 
-We also released smaller models for the multilingual model:
+We have also released smaller models for the multilingual model:
 
 | Model identifier | Model Hub link
 | ----------------------------------------------- | ---------------------------------------------------------------------------
@@ -31,6 +36,16 @@ We also released smaller models for the multilingual model:
 | `dbmdz/bert-mini-historic-multilingual-cased`   | [here](https://huggingface.co/dbmdz/bert-mini-historic-multilingual-cased)
 | `dbmdz/bert-small-historic-multilingual-cased`  | [here](https://huggingface.co/dbmdz/bert-small-historic-multilingual-cased)
 | `dbmdz/bert-medium-historic-multilingual-cased` | [here](https://huggingface.co/dbmdz/bert-base-historic-multilingual-cased)
+
+## Monolingual Language Models
+
+Additionally, we release monolingual language models for English, Finnish and Swedish:
+
+| Model identifier | Model Hub link
+| ------------------------------------------| ----------------------------------------------------------------------
+| `dbmdz/bert-base-historic-english-cased`  | [here](https://huggingface.co/dbmdz/bert-base-historic-english-cased)
+| `dbmdz/bert-base-finnish-europeana-cased` | [here](https://huggingface.co/dbmdz/bert-base-finnish-europeana-cased)
+| `dbmdz/bert-base-swedish-europeana-cased` | [here](https://huggingface.co/dbmdz/bert-base-swedish-europeana-cased)
 
 **Notice**: We have released language models for Historic German and French trained on more noisier data earlier - see
 [this repo](https://github.com/stefan-it/europeana-bert) for more information:
