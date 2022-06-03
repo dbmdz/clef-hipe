@@ -818,6 +818,25 @@ We then release our final models on the Hugging Face Model Hub:
 | French (AJMC)  | `bs4-e10-lr3e-05#4` | 86.19                  | hmBERT (32k)                 | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-fr)
 | French (AJMC)  | `bs4-e10-lr5e-05#1` | 85.39                  | hmBERT (64k, token dropping) | [here](https://huggingface.co/dbmdz/flair-hipe-2022-ajmc-fr-64k)
 
+### Results
+
+The following table shows the preliminary results for our submissions on the official test data:
+
+| Submission  | F1-Strict / Doc-Level | F1-Fuzzy / Doc-Level
+| ----------- | --------------------- | ---------------------
+| German - 1  | **91.30** / **90.70** | 93.70 / 93.20
+| German - 2  | 91.20 / 90.60         | **94.50** / **94.20**
+
+| Submission  | F1-Strict / Doc-Level | F1-Fuzzy / Doc-Level
+| ----------- | --------------------- | ---------------------
+| English - 1 | 81.90 / 82.60         | 89.90 / 88.50
+| English - 2 | **85.40** / **83.00** | **91.00** / **88.80**
+
+| Submission  | F1-Strict / Doc-Level | F1-Fuzzy / Doc-Level
+| ----------- | --------------------- | ---------------------
+| French - 1  | 83.30 / **84.90**     | **88.80** / **89.40**
+| French - 2  | **84.20** / 84.80     | 88.00 / 88.30
+
 # Post-submission Models
 
 We are constantly improving our NER models and this section covers all experiments that we performed after the official submission deadline of HIPE-2022.
