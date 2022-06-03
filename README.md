@@ -20,13 +20,19 @@ As we heavily use Flair and Transformers for our experiments, you should find th
 * `flair-embeddings`: includes scripts for the experiments with different Flair embeddings
 * `stacked`: combines word, Flair and Transformer-based embeddings
 
-# Historic Language Models (Multilingual and monolingual)
+# hmBERT: Historical Multilingual Language Models for Named Entity Recognition
 
-For the upcoming [CLEF-HIPE 2022](https://hipe-eval.github.io/HIPE-2022/tasks) we provide several
-multilingual and monolingual Historic Language Models. Please refer to the documentation [here](hlms.md).
+For [CLEF-HIPE 2022](https://hipe-eval.github.io/HIPE-2022/tasks) we have released multilingual language models: hmBERT.
+A detailed description of our final system can be found [here](experiments/clef-hipe-2022/README.md). Additional information
+about our released language models for the historic domain is also available [here](hlms.md).
+
+All experiments, released language models and fine-tuned NER models are described in our new
+["hmBERT: Historical Multilingual Language Models for Named Entity Recognition"](https://arxiv.org/abs/2205.15575) paper.
 
 # Changelog
 
+* 03.06.2022: Preprint of our HIPE-2022 system overview paper is available:
+              ["hmBERT: Historical Multilingual Language Models for Named Entity Recognition"](https://arxiv.org/abs/2205.15575)
 * 22.03.2022: Initial version for our HIPE-2022 submission [here](experiments/clef-hipe-2022/README.md).
 * 06.12.2021: Release of smaller multilingual Historic Language Models (ranging from 2-8 layers) - more information [here](hlms.md).
 * 18.11.2021: Release of first multilingual and monolingual Historic Language Models - more information [here](hlms.md).
