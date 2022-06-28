@@ -67,3 +67,8 @@ You can use the following BibTeX entry for citation:
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
+
+# Acknowledgements
+
+Research supported with Cloud TPUs from Google's TPU Research Cloud (TRC).
+Many Thanks for providing access to the TPUs ❤️
