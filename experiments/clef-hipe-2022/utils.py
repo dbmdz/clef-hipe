@@ -295,11 +295,11 @@ def prepare_newseye_fi_sv_corpus(
         prev_prev_line_splitted[0] += suffix
 
         prev_line_splitted = lines[index - 1].split("\t")
-        prev_line_splitted[0] = "#" + prev_line_splitted[0]
+        prev_line_splitted[0] = "# " + prev_line_splitted[0]
         prev_line_splitted[-1] += "|Commented"
 
         current_line_splitted = line.split("\t")
-        current_line_splitted[0] = "#" + current_line_splitted[0]
+        current_line_splitted[0] = "# " + current_line_splitted[0]
         current_line_splitted[-1] += "|Commented"
 
         # Add some meta information about suffix length
@@ -320,7 +320,7 @@ def prepare_newseye_fi_sv_corpus(
 
         # oh noooo
         current_line_splitted = line.split("\t")
-        current_line_splitted[0] = "#" + current_line_splitted[0]
+        current_line_splitted[0] = "# " + current_line_splitted[0]
 
         current_line_splitted[-1] += "|Commented"
 
