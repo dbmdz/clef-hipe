@@ -6,6 +6,7 @@ This repository contains code and models to solve the [HIPE](https://impresso.gi
 It also includes code and models from the following papers:
 
 * [Triple E - Effective Ensembling of Embeddings and Language Models for NER of Historical German](http://ceur-ws.org/Vol-2696/paper_173.pdf)
+* [hmBERT: Historical Multilingual Language Models for Named Entity Recognition](http://ceur-ws.org/Vol-3180/paper-87.pdf)
 
 We are heavily working on better models for historic texts, so please star or watch this repository!
 
