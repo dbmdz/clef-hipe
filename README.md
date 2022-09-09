@@ -44,7 +44,7 @@ All experiments, released language models and fine-tuned NER models are describe
 
 # Citation
 
-You can use the following BibTeX entry for citation:
+You can use the following BibTeX entry for our HIPE-2020 submission:
 
 ```bibtex
 @inproceedings{DBLP:conf/clef/SchweterM20,
@@ -65,6 +65,34 @@ You can use the following BibTeX entry for citation:
   url       = {http://ceur-ws.org/Vol-2696/paper\_173.pdf},
   timestamp = {Tue, 27 Oct 2020 17:12:48 +0100},
   biburl    = {https://dblp.org/rec/conf/clef/SchweterM20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
+And the following BiBTeX entry for our latest HIPE-2022 submission:
+
+```bibtex
+@inproceedings{DBLP:conf/clef/SchweterMSC22,
+  author    = {Stefan Schweter and
+               Luisa M{\"{a}}rz and
+               Katharina Schmid and
+               Erion {\c{C}}ano},
+  editor    = {Guglielmo Faggioli and
+               Nicola Ferro and
+               Allan Hanbury and
+               Martin Potthast},
+  title     = {hmBERT: Historical Multilingual Language Models for Named Entity Recognition},
+  booktitle = {Proceedings of the Working Notes of {CLEF} 2022 - Conference and Labs
+               of the Evaluation Forum, Bologna, Italy, September 5th - to - 8th,
+               2022},
+  series    = {{CEUR} Workshop Proceedings},
+  volume    = {3180},
+  pages     = {1109--1129},
+  publisher = {CEUR-WS.org},
+  year      = {2022},
+  url       = {http://ceur-ws.org/Vol-3180/paper-87.pdf},
+  timestamp = {Wed, 10 Aug 2022 16:26:45 +0200},
+  biburl    = {https://dblp.org/rec/conf/clef/SchweterMSC22.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
