@@ -1,6 +1,8 @@
 # HIPE-2022
 
-This readme contains the documentation for our HIPE-2022 submission. Stay tuned!
+This readme contains the documentation for our HIPE-2022 submission.
+
+See our presentation slides at HIPE-2022 workshop [here](https://github.com/dbmdz/clef-hipe/raw/main/experiments/clef-hipe-2022/Pr%C3%A4sentationHISTeria.pdf).
 
 # Setup
 

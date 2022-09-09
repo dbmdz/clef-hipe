@@ -31,6 +31,7 @@ All experiments, released language models and fine-tuned NER models are describe
 
 # Changelog
 
+* 09.09.2022: Presentation slides of our HIPE-2022 submission can be found [here](https://github.com/dbmdz/clef-hipe/raw/main/experiments/clef-hipe-2022/Pr%C3%A4sentationHISTeria.pdf).
 * 03.06.2022: Preprint of our HIPE-2022 system overview paper is available:
               ["hmBERT: Historical Multilingual Language Models for Named Entity Recognition"](https://arxiv.org/abs/2205.15575)
 * 22.03.2022: Initial version for our HIPE-2022 submission [here](experiments/clef-hipe-2022/README.md).
